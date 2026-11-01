@@ -156708,6 +156708,13 @@
       "transcript": "Mẫu số : 01GTKT0/001",
       "reviewed_at": "2026-11-01T19:13:17.426Z",
       "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ef4d6f76ea2e24223598",
+      "status": "verified",
+      "transcript": "Địa chỉ : 261-263 Khánh Hội, P5, Q4, TP HCM, VN",
+      "reviewed_at": "2026-11-01T19:23:37.973Z",
+      "confirmation_method": "manual_visual_review"
     }
   ]
 }

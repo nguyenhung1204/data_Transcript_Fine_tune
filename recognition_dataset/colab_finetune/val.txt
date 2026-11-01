@@ -1298,3 +1298,4 @@ crops/HD_003/5a81db14fe41e13c1432.png	Mã nhận hóa đơn: 4427393900446845
 crops/HD_004/31f9293dc49d08d607e3.png	CÔNG TY CP BÁN LẺ KỸ THUẬT SỐ FPT
 crops/HD_004/3e96dcf316e0641eb491.png	HÓA ĐƠN
 crops/HD_004/08275b091a9411d55757.png	Mẫu số : 01GTKT0/001
+crops/HD_004/ef4d6f76ea2e24223598.png	Địa chỉ : 261-263 Khánh Hội, P5, Q4, TP HCM, VN
