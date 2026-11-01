@@ -1256,3 +1256,42 @@ crops/HD_003/d631859ae1cd16d85b02.png	Mã số thuế: 0311609355-001
 crops/HD_003/af1ab788c83e31b351e7.png	(Bản thể hiện của hóa đơn điện tử)
 crops/HD_003/b8c2968631d8e1122338.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)
 crops/HD_003/61092a70ea1b7b7df119.png	Tài khoản : 09120912005 tại Ngân hàng TMCP Tiên
+crops/HD_003/b678c0e0ff0f6f1c2d3b.png	Phong (TPbank) - CN Hoàn Kiếm
+crops/HD_003/b275eb4d0750f552495e.png	Tên người mua hàng: đào anh tuấn
+crops/HD_003/c9f6035fc5adb1668afe.png	Tên đơn vị mua hàng:
+crops/HD_003/52298e821a85dc1eee68.png	Địa chỉ: HCM
+crops/HD_003/e4c5ec2220a61b466d17.png	Mã số thuế:
+crops/HD_003/d54c86ec9885b2a28118.png	Kho xuất: THA 217 Quang Trung
+crops/HD_003/9d2d0895adf07413ff56.png	Đồng tiền thanh toán: VND
+crops/HD_003/a7803f1ef52cf64d80a9.png	Hình thức thanh toán : TM/CK
+crops/HD_003/523d457b14e530bb3cf7.png	Số
+crops/HD_003/7439d825c0e3df8b9130.png	Thuế suất
+crops/HD_003/600ae5ca04c7c4903f3f.png	Đơn vị
+crops/HD_003/0dc8a4851fd823b29baa.png	Đơn giá
+crops/HD_003/718ffd029b25136ed5b3.png	Thành tiền
+crops/HD_003/e53e6c37f67ae397e399.png	Tên hàng hóa, dịch vụ
+crops/HD_003/f8a0ec293c4ec3bc28c7.png	lượng
+crops/HD_003/67afb6568c48dad84a43.png	iPhone 14 Pro Max 256GB Đen; Số
+crops/HD_003/e86e262463adaccddc55.png	Chiếc
+crops/HD_003/916ef4791c557418067b.png	serial:352680947735273; Hạn bảo hành:
+crops/HD_003/4016f7ba115b86dac4e6.png	Apple - Giảm đến 30% hệ sinh thái Apple (Hạn
+crops/HD_003/baedb1e387fd02a9b0e3.png	Chiếc
+crops/HD_003/3a190ffd3cb18183e4be.png	sử dụng 30 ngày)
+crops/HD_003/fbdc13d7d0852ac97cf7.png	Tặng phiếu mua hàng 500.000đ mua đơn hàng
+crops/HD_003/b5a30c544b2be01df16c.png	Robot hút bụi/ máy lọc nước trên 5,000,000đ
+crops/HD_003/f8fd4ba4b0d5e9a6ac2f.png	Dịch vụ - Mobifone - Tặng phiếu mua hàng
+crops/HD_003/925a402d95be71830112.png	Tổng cộng
+crops/HD_003/eca3dcac4386bb9655ed.png	Shop.com.vn
+crops/HD_003/786dc2eb24e96a900e6b.png	Thuế suất
+crops/HD_003/c391cad72454395dae76.png	Cộng tiền hàng
+crops/HD_003/4289214d807a1ab01849.png	/
+crops/HD_003/3b0f8a8b05dc9f19c110.png	Tiền thuế GTGT
+crops/HD_003/4209b4096f4ba49210b6.png	Tổng cộng tiền thanh toán
+crops/HD_003/ce51079d8551fe4e5bfb.png	Số tiền bằng chữ : Hai mươi chín triệu ba trăm năm mươi nghìn đồng.
+crops/HD_003/3a8def6dcdb21f4184c9.png	Tích điểm
+crops/HD_003/e0e73273e62eb8608876.png	Tiêu điểm
+crops/HD_003/41b015be1da76e05455b.png	(Chữ ký số (nếu có))
+crops/HD_003/df260cc15f4dbcb81a72.png	(Chữ ký điện tử, chữ ký số)
+crops/HD_003/a10dcecaf50df7106b71.png	Ký bởi: Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ
+crops/HD_003/b16027327e9b3247b444.png	Thuật Số FPT Tại Hà Nội
+crops/HD_003/5a81db14fe41e13c1432.png	Mã nhận hóa đơn: 4427393900446845

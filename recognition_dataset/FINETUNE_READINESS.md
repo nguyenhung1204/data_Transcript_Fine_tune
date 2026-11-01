@@ -1,19 +1,26 @@
-# Fine-tune readiness (snapshot 2026-11-02)
+# Fine-tune readiness snapshot — 2026-11-02
 
-## Dataset
+## Current Colab export
 
-`colab_finetune/` contains PaddleOCR Recognition `train.txt`, `val.txt`, and `test.txt`, plus `dataset_manifest.csv` and `dataset_summary.json`. It was generated from the latest `automatic_review/manual_review_progress.json` and `automatic_review/automatic_review_manifest.csv`.
+`colab_finetune/` was regenerated from the latest `automatic_review/manual_review_progress.json` and `automatic_review/automatic_review_manifest.csv`.
 
-- 7,292 crops have progress status `verified`: 4,370 train, 1,258 validation, 1,664 test.
-- These labeled crops come from 104/36/31 invoices by split; invoice grouping is preserved. Other invoices may have no verified crop yet.
-- 396 labels have a manual review audit record or original labeler confirmation. The remaining 6,896 are automatic PDF-text/OCR confirmations or otherwise not traceable to a manual review in the current audit files. The auto-confirm history indicates no independent second OCR was available. Treat these as weak labels, not human ground truth.
-- The test set is not a fully independent human-verified benchmark. Report manual-audit and automatic-confirmation subsets separately where possible. Some invoices overlap prior OCR evaluation work.
-- The exported labels meet the current 90-character cap and reference existing tracked crop images; images are not duplicated in the export folder.
+- Exported: **7,358** crops — train **4,370**, validation **1,297**, test **1,691**.
+- Exported crops come from 104/36/31 invoices respectively. Split is inherited from the invoice-level manifest; no invoice leakage was detected.
+- Progress file currently records 7,358 `verified`, 111 `rejected`, and 20 `needs_review` annotations. The remaining manifest crops do not yet have a review decision.
+- Provenance in the export: **396** crops have a manual-review audit record or original labeler confirmation; **6,962** are automatic PDF/OCR confirmations or cannot be traced to manual review. The automatic confirmations did not have independent OCR2 evidence. Treat these as weak labels, not human ground truth.
+- The test invoices/crops have been used in earlier OCR work. Results are diagnostic, not an independent benchmark. Report human-audited and weak-label subsets separately when possible.
+- All exported transcripts pass the current 90-character limit and reference existing crop images. The exporter validates blank/oversized labels, image paths, and split consistency.
 
-## Model artifacts
+To refresh after review changes, run from repository root:
 
-The repository does not contain a verified fine-tune checkpoint. Before training, identify and verify the Recognition model configuration, matching character dictionary, PaddleOCR/PaddlePaddle version, and base pretrained checkpoint. Do not infer compatibility from a filename or use an unrelated checkpoint. The dictionary candidate is `model_assets/ppocrv6_dict.txt`; verify it matches the selected base model.
+```powershell
+py recognition_dataset/export_colab_dataset.py
+```
 
-No fine-tuning has been run by creating this dataset export. It only prepares the current labels for a Colab experiment. Recognition training improves reading text inside a crop; it does not train invoice layout detection or field assignment.
+Then verify `colab_finetune/dataset_summary.json` and commit the progress JSON and refreshed export together. In Colab, clone the latest repository and resolve image paths relative to `recognition_dataset/` as described in `colab_finetune/README.md`.
 
-Regenerate the export after changes with `python recognition_dataset/export_colab_dataset.py`. See `colab_finetune/README.md` for Colab loading instructions.
+## Model readiness
+
+The repository does not contain a verified trained checkpoint. Before training, confirm the exact PaddleOCR Recognition config, base checkpoint, character dictionary, and compatible PaddleOCR/PaddlePaddle versions. `model_assets/ppocrv6_dict.txt` is a candidate only; do not infer compatibility from its filename.
+
+Recognition fine-tuning teaches the model to read text inside supplied crops. It does not train page text detection, invoice layout understanding, or field assignment. Do not report a fine-tune as successful until Colab training completes and the baseline and tuned models are evaluated on the same held-out crops with the same inference procedure.

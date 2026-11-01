@@ -1,45 +1,39 @@
 # PaddleOCR invoice transcript review dataset
 
-Repository chia sẻ bộ crop nhận dạng chữ PaddleOCR và công cụ để nhóm rà transcript theo từng hóa đơn.
+Repository chia sẻ bộ crop nhận dạng chữ PaddleOCR, công cụ rà transcript và dữ liệu chuẩn bị cho thử nghiệm fine-tune trên Google Colab.
 
-> **Lưu ý về quyền riêng tư:** repository này hiện ở chế độ công khai. Gói có kèm 208 PDF hóa đơn, ảnh trang render, crop và dữ liệu nhận dạng; mọi người đều có thể tải và xem nội dung trong các hóa đơn.
+> **Quyền riêng tư:** repository này công khai. Repository có 208 PDF hóa đơn, ảnh trang render, crop và transcript; nội dung có thể được bất kỳ ai tải xuống. Chỉ dùng các tài liệu này khi bạn có quyền chia sẻ.
 
-## Trạng thái dữ liệu hiện tại
+## Trạng thái dữ liệu mới nhất
 
-- 208 PDF hóa đơn đã được sao chép vào `recognition_dataset/source_300_invoices/pdfs/`; checksum SHA-256 khớp manifest nguồn.
-- Có 17.959 crop OCR đang chờ người kiểm tra và 2 crop đã xác nhận.
-- Transcript OCR chỉ là gợi ý. Không dùng crop `needs_review` làm nhãn chuẩn hoặc đưa vào train.
-- Chia theo hóa đơn: 126 train, 41 validation, 41 test; các crop của cùng hóa đơn giữ cùng split.
-- Bộ hiện **chưa đủ điều kiện fine-tune có giám sát**. Xem `recognition_dataset/FINETUNE_READINESS.md`.
+- 208 PDF nguồn đã được sao chép vào `recognition_dataset/source_300_invoices/pdfs/`; checksum khớp manifest.
+- Có 17.961 crop trong manifest. Tiến độ rà hiện ghi 7.358 nhãn `verified`, 111 `rejected`, 20 `needs_review`; các crop còn lại chưa có quyết định rà.
+- Bộ Colab được làm mới từ tiến độ hiện tại: 4.370 train, 1.297 validation, 1.691 test. Các split kế thừa manifest cấp hóa đơn; 104/36/31 hóa đơn có crop được xuất trong từng split.
+- Trong 7.358 nhãn export, 396 có bằng chứng audit rà trực quan hoặc xác nhận ban đầu từ công cụ gán nhãn; 6.962 là xác nhận tự động theo PDF/OCR hoặc chưa truy nguyên được thành rà tay. Đây là bộ thử nghiệm có nhãn yếu, không được gọi toàn bộ là ground truth đã được người kiểm tra.
+- Tập test đã từng được dùng trong các lần đánh giá trước; xem đây là kết quả chẩn đoán, không phải benchmark độc lập.
+- Danh sách và manifest Colab: `recognition_dataset/colab_finetune/`. Ảnh crop được tham chiếu từ các thư mục đã có trong repository.
 
-## Cách mở web rà nhãn trên Windows
+## Dùng dữ liệu trong Google Colab
 
-Cài Python 3 là đủ để mở công cụ rà nhãn; bước xem/copy PDF không cần PaddleOCR, Node.js hay Docker.
+Clone repository mới nhất trong Colab rồi đặt data root là thư mục `recognition_dataset`:
+
+```bash
+git clone --depth 1 https://github.com/nguyenhung1204/data_Transcript_Fine_tune.git
+```
+
+Đọc `recognition_dataset/colab_finetune/README.md` để nạp `train.txt`, `val.txt`, `test.txt` và ảnh crop. Chỉ dùng `train.txt` để cập nhật trọng số; dùng validation để chọn checkpoint; chỉ dùng test để đánh giá cuối và ghi rõ giới hạn của nhãn yếu/tái sử dụng.
+
+Trước khi train, cần xác minh phiên bản PaddleOCR/PaddlePaddle, cấu hình Recognition, checkpoint nền và từ điển ký tự tương thích. Repository này chuẩn bị dữ liệu, không chứa checkpoint fine-tune đã xác minh. Xem `recognition_dataset/FINETUNE_READINESS.md`.
+
+## Chạy công cụ rà nhãn trên Windows
+
+Cần Python 3; không cần Node.js, Docker hoặc PaddleOCR để xem/copy chữ PDF:
 
 ```powershell
 cd .\recognition_dataset
 py -m http.server 8767 --bind 127.0.0.1
 ```
 
-Giữ cửa sổ PowerShell mở rồi truy cập:
+Mở `http://127.0.0.1:8767/review/review_queue.html`. Tiến độ trên trình duyệt được lưu cục bộ; sau khi nhập tiến độ mới, chạy `python recognition_dataset/export_colab_dataset.py` từ thư mục gốc để cập nhật danh sách train/val/test và manifest trước khi push.
 
-`http://127.0.0.1:8767/review/review_queue.html`
-
-Chọn **PDF gốc · copy chữ**, bôi đen chữ trên PDF, nhấn `Ctrl+C`, rồi dán vào ô transcript bằng `Ctrl+V`. Nếu PDF là scan ảnh và không chọn được chữ, dùng OCR gợi ý, phóng ảnh trang để so lại; không tự đoán chữ mờ.
-
-## Lưu và gửi tiến độ rà nhãn
-
-Trang web tự lưu tiến độ trong trình duyệt trên máy đang rà. Dữ liệu đó chưa tự đồng bộ lên GitHub. Hãy bấm **Tải tiến độ JSON** để tải file sao lưu định kỳ. Khi hoàn thành phần việc, gửi file JSON cho người tổng hợp hoặc đặt file ở `recognition_dataset/review/annotations.json`, commit và push lên nhánh của bạn.
-
-Đừng ghi đè tiến độ của người khác. Nếu nhiều người cùng rà, mỗi người giữ JSON riêng; người tổng hợp sẽ gộp theo `crop_id` trước khi cập nhật manifest và export.
-
-## Thành phần chính
-
-- `recognition_dataset/review/review_queue.html`: công cụ rà crop cạnh PDF gốc.
-- `recognition_dataset/crop_manifest.csv`: transcript gợi ý, trạng thái, tọa độ và nguồn của từng crop.
-- `recognition_dataset/invoice_split_manifest.csv`: split ở cấp hóa đơn.
-- `recognition_dataset/source_300_invoices/pdfs/`: các PDF gốc đã đóng gói.
-- `recognition_dataset/rendered_pages/`, `crops/`: ảnh trang và crop tương ứng.
-- `recognition_dataset/exports/verified_recognition_dataset.zip`: ZIP chỉ gồm các crop đã xác nhận hiện có; chưa đủ để fine-tune.
-
-Các bước huấn luyện chưa được chạy. Cấu hình PaddleOCR và checkpoint huấn luyện nền cần được xác minh riêng trước khi fine-tune; xem `FINETUNE_READINESS.md`.
+Không ghi đè tiến độ của người khác. Khi nhiều người cùng rà, mỗi người cần gửi bản JSON riêng để gộp theo `crop_id`.

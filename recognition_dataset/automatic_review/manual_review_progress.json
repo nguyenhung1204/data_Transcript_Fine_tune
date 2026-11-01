@@ -152844,7 +152844,7 @@
       "crop_id": "43a9fa31ba81dac9da1d",
       "status": "needs_review",
       "transcript": "Địa chỉ (Address): Tầng 5, Tháp 1, Tòa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành Phố Hà Nội, Việt Nam",
-      "reviewed_at": "2026-11-01T16:25:30.552Z"
+      "reviewed_at": "2026-11-01T19:02:53.902Z"
     },
     {
       "crop_id": "344555345c51853b43d7",
@@ -153046,7 +153046,7 @@
       "crop_id": "3b30340318e45301d11c",
       "status": "needs_review",
       "transcript": "Số tiền viết bằng chữ (Total amount in words): Mười chín triệu không trăm bốn mươi bảy nghìn đồng",
-      "reviewed_at": "2026-11-01T16:25:33.206Z"
+      "reviewed_at": "2026-11-01T19:02:55.841Z"
     },
     {
       "crop_id": "4ea7c7c8a14646e33783",
@@ -153157,7 +153157,7 @@
       "crop_id": "24878c091de917431beb",
       "status": "needs_review",
       "transcript": "Địa chỉ (Address): Tầng 5, Tháp 1, Tòa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành Phố Hà Nội, Việt Nam",
-      "reviewed_at": "2026-11-01T16:25:34.733Z"
+      "reviewed_at": "2026-11-01T19:02:57.430Z"
     },
     {
       "crop_id": "601dc6fe786897ca65c4",
@@ -153324,7 +153324,7 @@
       "crop_id": "c9f70ab25e73e5fcfc96",
       "status": "needs_review",
       "transcript": "S tin vit bng ch (Total amount in words): Hai mươi chín triu không trăm chín muơi nghìn đồng",
-      "reviewed_at": "2026-11-01T16:25:36.033Z"
+      "reviewed_at": "2026-11-01T19:02:59.826Z"
     },
     {
       "crop_id": "c4a1695014d1f59e929b",
@@ -153680,7 +153680,7 @@
       "crop_id": "7395c04c230783bf0cc7",
       "status": "needs_review",
       "transcript": "Giải pháp hóa đơn điện tử an toàn được cung cấp bởi MIFI - Một sản phẩm của Công ty Cổ phần Mắt Bão - MST 0302712571",
-      "reviewed_at": "2026-11-01T16:25:40.251Z"
+      "reviewed_at": "2026-11-01T19:03:00.999Z"
     },
     {
       "crop_id": "129be62c6eb76f533e26",
@@ -156212,6 +156212,480 @@
       "status": "verified",
       "transcript": "Tài khoản : 09120912005 tại Ngân hàng TMCP Tiên",
       "reviewed_at": "2026-11-01T16:52:24.979Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b678c0e0ff0f6f1c2d3b",
+      "status": "verified",
+      "transcript": "Phong (TPbank) - CN Hoàn Kiếm",
+      "reviewed_at": "2026-11-01T18:44:54.873Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b275eb4d0750f552495e",
+      "status": "verified",
+      "transcript": "Tên người mua hàng: đào anh tuấn",
+      "reviewed_at": "2026-11-01T18:44:58.015Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c9f6035fc5adb1668afe",
+      "status": "verified",
+      "transcript": "Tên đơn vị mua hàng:",
+      "reviewed_at": "2026-11-01T18:45:10.721Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "52298e821a85dc1eee68",
+      "status": "verified",
+      "transcript": "Địa chỉ: HCM",
+      "reviewed_at": "2026-11-01T18:45:14.037Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e4c5ec2220a61b466d17",
+      "status": "verified",
+      "transcript": "Mã số thuế:",
+      "reviewed_at": "2026-11-01T18:45:16.563Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d54c86ec9885b2a28118",
+      "status": "verified",
+      "transcript": "Kho xuất: THA 217 Quang Trung",
+      "reviewed_at": "2026-11-01T18:45:22.390Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9d2d0895adf07413ff56",
+      "status": "verified",
+      "transcript": "Đồng tiền thanh toán: VND",
+      "reviewed_at": "2026-11-01T18:45:37.245Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a7803f1ef52cf64d80a9",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán : TM/CK",
+      "reviewed_at": "2026-11-01T18:45:41.958Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "523d457b14e530bb3cf7",
+      "status": "verified",
+      "transcript": "Số",
+      "reviewed_at": "2026-11-01T18:45:45.756Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7439d825c0e3df8b9130",
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "reviewed_at": "2026-11-01T18:45:48.943Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "600ae5ca04c7c4903f3f",
+      "status": "verified",
+      "transcript": "Đơn vị",
+      "reviewed_at": "2026-11-01T18:45:51.665Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0dc8a4851fd823b29baa",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-01T18:45:55.034Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "718ffd029b25136ed5b3",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-01T18:45:57.709Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e53e6c37f67ae397e399",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-01T18:46:02.529Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f8a0ec293c4ec3bc28c7",
+      "status": "verified",
+      "transcript": "lượng",
+      "reviewed_at": "2026-11-01T18:47:01.035Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "67afb6568c48dad84a43",
+      "status": "verified",
+      "transcript": "iPhone 14 Pro Max 256GB Đen; Số",
+      "reviewed_at": "2026-11-01T18:47:04.085Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e86e262463adaccddc55",
+      "status": "verified",
+      "transcript": "Chiếc",
+      "reviewed_at": "2026-11-01T18:47:07.531Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "916ef4791c557418067b",
+      "status": "verified",
+      "transcript": "serial:352680947735273; Hạn bảo hành:",
+      "reviewed_at": "2026-11-01T18:47:11.103Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4016f7ba115b86dac4e6",
+      "status": "verified",
+      "transcript": "Apple - Giảm đến 30% hệ sinh thái Apple (Hạn",
+      "reviewed_at": "2026-11-01T18:47:15.080Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "baedb1e387fd02a9b0e3",
+      "status": "verified",
+      "transcript": "Chiếc",
+      "reviewed_at": "2026-11-01T18:47:18.547Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3a190ffd3cb18183e4be",
+      "status": "verified",
+      "transcript": "sử dụng 30 ngày)",
+      "reviewed_at": "2026-11-01T18:47:21.230Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fbdc13d7d0852ac97cf7",
+      "status": "verified",
+      "transcript": "Tặng phiếu mua hàng 500.000đ mua đơn hàng",
+      "reviewed_at": "2026-11-01T18:47:23.777Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b5a30c544b2be01df16c",
+      "status": "verified",
+      "transcript": "Robot hút bụi/ máy lọc nước trên 5,000,000đ",
+      "reviewed_at": "2026-11-01T18:47:28.679Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f8fd4ba4b0d5e9a6ac2f",
+      "status": "verified",
+      "transcript": "Dịch vụ - Mobifone - Tặng phiếu mua hàng",
+      "reviewed_at": "2026-11-01T18:47:31.709Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "925a402d95be71830112",
+      "status": "verified",
+      "transcript": "Tổng cộng",
+      "reviewed_at": "2026-11-01T18:47:37.257Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8f5b7d4b05f67555d9a0",
+      "status": "verified",
+      "transcript": "Ký hiệu(Series): 2C25TAA",
+      "reviewed_at": "2026-11-01T18:52:20.890Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ef8656db255048217ef8",
+      "status": "verified",
+      "transcript": "Số (Invoice No): 57",
+      "reviewed_at": "2026-11-01T18:52:25.228Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b3f4247742f454cbb4f0",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: 0037380A9EA2424C2B8A597D95CB5F84D7",
+      "reviewed_at": "2026-11-01T18:52:29.175Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e4896c545e3beacc3f53",
+      "status": "verified",
+      "transcript": "Tên đơn vị bán hàng (ComName):",
+      "reviewed_at": "2026-11-01T18:52:32.799Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a9d40c67d935ab04e035",
+      "status": "verified",
+      "transcript": "SHOP HOA TƯƠI VY THANH",
+      "reviewed_at": "2026-11-01T19:00:08.374Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0bea26c81616d5f4ac23",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code):",
+      "reviewed_at": "2026-11-01T19:00:12.607Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "759ab3dffebd30fbedf6",
+      "status": "verified",
+      "transcript": "Số 258 Trần Hưng Đạo, Khóm 2, Phường 1, Thị Xã Vĩnh Châu, Sóc Trăng",
+      "reviewed_at": "2026-11-01T19:00:41.823Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "84e7feadb50c0d643464",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address):",
+      "reviewed_at": "2026-11-01T19:00:45.205Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b435b0f6a9b6a5aececb",
+      "status": "verified",
+      "transcript": "Số điện thoại (Tel):",
+      "reviewed_at": "2026-11-01T19:00:48.092Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b45589517e7a5aba9345",
+      "status": "verified",
+      "transcript": "Số tài khoản (BankNo):",
+      "reviewed_at": "2026-11-01T19:01:00.989Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "74c28e5fad82e6b3ffac",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-01T19:01:03.672Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "515edecd3c01bcda2167",
+      "status": "verified",
+      "transcript": "Tên đơn vị mua hàng(CusName):",
+      "reviewed_at": "2026-11-01T19:01:06.723Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ca904f43d3f473e7ad3d",
+      "status": "verified",
+      "transcript": "GROBEST VN",
+      "reviewed_at": "2026-11-01T19:01:14.505Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "22b0c40c18ac53601311",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code):",
+      "reviewed_at": "2026-11-01T19:01:18.451Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c256bf176b7d560d6c6b",
+      "status": "verified",
+      "transcript": "SỐ 9, ĐƯỜNG 3A, KCN BIÊN HOÀ 2, P.LONG BÌNH TÂN, TP.BIÊN HOÀ, T.ĐỒNG NAI,",
+      "reviewed_at": "2026-11-01T19:01:25.000Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "68e9865c807eaba7bce6",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address):",
+      "reviewed_at": "2026-11-01T19:01:27.788Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9f93cf9cb67eef8f43d2",
+      "status": "verified",
+      "transcript": "VIỆT NAM",
+      "reviewed_at": "2026-11-01T19:01:30.879Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c6fffee6ed8102439e5b",
+      "status": "verified",
+      "transcript": "Số tài khoản(AC No):",
+      "reviewed_at": "2026-11-01T19:01:35.396Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ba149956b25711c0346f",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "reviewed_at": "2026-11-01T19:01:39.219Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3bca2cb79390bf1ee036",
+      "status": "verified",
+      "transcript": "Số lượng",
+      "reviewed_at": "2026-11-01T19:01:44.036Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3071efd8eda1c578c3f3",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-01T19:02:28.423Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d7e41a74c199d3d78c4e",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-01T19:02:31.595Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e800b842cc56e8c7433d",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-01T19:02:35.301Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e1bca0d8e2fc231d8988",
+      "status": "verified",
+      "transcript": "Đơn vị tính",
+      "reviewed_at": "2026-11-01T19:02:37.993Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bd798bdeb67477802c17",
+      "status": "verified",
+      "transcript": "Lẳng hoa",
+      "reviewed_at": "2026-11-01T19:02:41.166Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b499a5620ab16a7dd6d6",
+      "status": "verified",
+      "transcript": "Lẳng",
+      "reviewed_at": "2026-11-01T19:02:44.647Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "86bd6069ae40d7586174",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán (Total Amount):",
+      "reviewed_at": "2026-11-01T19:02:47.362Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "17a8db618dd64a3a6445",
+      "status": "needs_review",
+      "transcript": "Đã gim 6.000 đng tưong ng 20% mc t l % đ tính thu giá tr gia tăng theo Ngh quyt s 174/2024/QH15",
+      "reviewed_at": "2026-11-01T19:02:50.849Z"
+    },
+    {
+      "crop_id": "eca3dcac4386bb9655ed",
+      "status": "verified",
+      "transcript": "Shop.com.vn",
+      "reviewed_at": "2026-11-01T19:03:07.262Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "786dc2eb24e96a900e6b",
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "reviewed_at": "2026-11-01T19:03:10.374Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c391cad72454395dae76",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng",
+      "reviewed_at": "2026-11-01T19:03:13.569Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4289214d807a1ab01849",
+      "status": "verified",
+      "transcript": "/",
+      "reviewed_at": "2026-11-01T19:03:18.328Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3b0f8a8b05dc9f19c110",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT",
+      "reviewed_at": "2026-11-01T19:03:21.148Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4209b4096f4ba49210b6",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán",
+      "reviewed_at": "2026-11-01T19:03:23.741Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ce51079d8551fe4e5bfb",
+      "status": "verified",
+      "transcript": "Số tiền bằng chữ : Hai mươi chín triệu ba trăm năm mươi nghìn đồng.",
+      "reviewed_at": "2026-11-01T19:03:26.095Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3a8def6dcdb21f4184c9",
+      "status": "verified",
+      "transcript": "Tích điểm",
+      "reviewed_at": "2026-11-01T19:03:29.936Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e0e73273e62eb8608876",
+      "status": "verified",
+      "transcript": "Tiêu điểm",
+      "reviewed_at": "2026-11-01T19:03:33.064Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "41b015be1da76e05455b",
+      "status": "verified",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-01T19:03:35.755Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "df260cc15f4dbcb81a72",
+      "status": "verified",
+      "transcript": "(Chữ ký điện tử, chữ ký số)",
+      "reviewed_at": "2026-11-01T19:03:38.680Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a10dcecaf50df7106b71",
+      "status": "verified",
+      "transcript": "Ký bởi: Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ",
+      "reviewed_at": "2026-11-01T19:03:56.716Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b16027327e9b3247b444",
+      "status": "verified",
+      "transcript": "Thuật Số FPT Tại Hà Nội",
+      "reviewed_at": "2026-11-01T19:03:59.257Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "61269e2cf02c5220f915",
+      "status": "needs_review",
+      "transcript": "Quý Khách vui lòng truy cp trang: http://hddt.fptshop.com.vn đ kim tra li thông tin hóa đon",
+      "reviewed_at": "2026-11-01T19:04:02.279Z"
+    },
+    {
+      "crop_id": "5a81db14fe41e13c1432",
+      "status": "verified",
+      "transcript": "Mã nhận hóa đơn: 4427393900446845",
+      "reviewed_at": "2026-11-01T19:04:05.287Z",
       "confirmation_method": "manual_visual_review"
     }
   ]

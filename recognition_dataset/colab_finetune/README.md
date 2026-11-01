@@ -13,6 +13,6 @@ Before training, verify the model config, base checkpoint, and character diction
 
 ## Label quality caveat
 
-The progress status `verified` includes automatic PDF-text/OCR agreement confirmations. It does not mean that every transcript was manually inspected. `dataset_manifest.csv` records the available evidence per crop; 396 entries have manual audit evidence and 6,896 do not. Treat this export as a pilot/weakly supervised dataset. Do not present test results on these labels as independent human-ground-truth accuracy.
+The progress status `verified` includes automatic PDF-text/OCR agreement confirmations. It does not mean that every transcript was manually inspected. `dataset_manifest.csv` records the available evidence per crop; the current export has 396 entries with manual audit evidence and 6,962 that are automatic confirmations or not traceable to manual review. Treat this export as a pilot/weakly supervised dataset. Do not present test results on these labels as independent human-ground-truth accuracy.
 
 To rebuild after label changes, run `python recognition_dataset/export_colab_dataset.py` from the repository root.

@@ -1662,3 +1662,30 @@ crops/HD_032/fe0b2fd4685e4ec84efe.png	NGHỆ KỸ THUẬT D2TECH
 crops/HD_032/18b5f9df683c8ed7e21b.png	(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)
 crops/HD_032/484f64a1eb56a0464f5b.png	Đơn vị cung cấp dịch vụ hóa đơn điện tử: CÔNG TY CỔ PHẦN CYBERLOTUS, MST: 0105232093
 crops/WEB_028/65175d3bc410a3825e68.png	HÓA ĐƠN BÁN HÀNG
+crops/WEB_028/8f5b7d4b05f67555d9a0.png	Ký hiệu(Series): 2C25TAA
+crops/WEB_028/ef8656db255048217ef8.png	Số (Invoice No): 57
+crops/WEB_028/b3f4247742f454cbb4f0.png	Mã của cơ quan thuế: 0037380A9EA2424C2B8A597D95CB5F84D7
+crops/WEB_028/e4896c545e3beacc3f53.png	Tên đơn vị bán hàng (ComName):
+crops/WEB_028/a9d40c67d935ab04e035.png	SHOP HOA TƯƠI VY THANH
+crops/WEB_028/0bea26c81616d5f4ac23.png	Mã số thuế (Tax code):
+crops/WEB_028/759ab3dffebd30fbedf6.png	Số 258 Trần Hưng Đạo, Khóm 2, Phường 1, Thị Xã Vĩnh Châu, Sóc Trăng
+crops/WEB_028/84e7feadb50c0d643464.png	Địa chỉ (Address):
+crops/WEB_028/b435b0f6a9b6a5aececb.png	Số điện thoại (Tel):
+crops/WEB_028/b45589517e7a5aba9345.png	Số tài khoản (BankNo):
+crops/WEB_028/74c28e5fad82e6b3ffac.png	Họ tên người mua hàng (Buyer):
+crops/WEB_028/515edecd3c01bcda2167.png	Tên đơn vị mua hàng(CusName):
+crops/WEB_028/ca904f43d3f473e7ad3d.png	GROBEST VN
+crops/WEB_028/22b0c40c18ac53601311.png	Mã số thuế (Tax code):
+crops/WEB_028/c256bf176b7d560d6c6b.png	SỐ 9, ĐƯỜNG 3A, KCN BIÊN HOÀ 2, P.LONG BÌNH TÂN, TP.BIÊN HOÀ, T.ĐỒNG NAI,
+crops/WEB_028/68e9865c807eaba7bce6.png	Địa chỉ (Address):
+crops/WEB_028/9f93cf9cb67eef8f43d2.png	VIỆT NAM
+crops/WEB_028/c6fffee6ed8102439e5b.png	Số tài khoản(AC No):
+crops/WEB_028/ba149956b25711c0346f.png	Hình thức thanh toán (Payment method): TM/CK
+crops/WEB_028/3bca2cb79390bf1ee036.png	Số lượng
+crops/WEB_028/3071efd8eda1c578c3f3.png	Thành tiền
+crops/WEB_028/d7e41a74c199d3d78c4e.png	Đơn giá
+crops/WEB_028/e800b842cc56e8c7433d.png	Tên hàng hóa, dịch vụ
+crops/WEB_028/e1bca0d8e2fc231d8988.png	Đơn vị tính
+crops/WEB_028/bd798bdeb67477802c17.png	Lẳng hoa
+crops/WEB_028/b499a5620ab16a7dd6d6.png	Lẳng
+crops/WEB_028/86bd6069ae40d7586174.png	Tổng tiền thanh toán (Total Amount):
