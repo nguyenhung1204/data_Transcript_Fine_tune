@@ -156687,6 +156687,27 @@
       "transcript": "Mã nhận hóa đơn: 4427393900446845",
       "reviewed_at": "2026-11-01T19:04:05.287Z",
       "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "31f9293dc49d08d607e3",
+      "status": "verified",
+      "transcript": "CÔNG TY CP BÁN LẺ KỸ THUẬT SỐ FPT",
+      "reviewed_at": "2026-11-01T19:13:11.930Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3e96dcf316e0641eb491",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN",
+      "reviewed_at": "2026-11-01T19:13:14.568Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "08275b091a9411d55757",
+      "status": "verified",
+      "transcript": "Mẫu số : 01GTKT0/001",
+      "reviewed_at": "2026-11-01T19:13:17.426Z",
+      "confirmation_method": "manual_visual_review"
     }
   ]
 }

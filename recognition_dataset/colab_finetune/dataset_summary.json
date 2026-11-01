@@ -1,10 +1,10 @@
 {
   "generated_from": "automatic_review/manual_review_progress.json + automatic_review/automatic_review_manifest.csv",
-  "source_progress_sha256": "3b333af49d5355921d9e945eb7b21e4f3da0ad63c98b998e426a802f4f7275b6",
+  "source_progress_sha256": "f76b3c013b655629eb0167237ce4ebd4564d3435986710c1e4cbb7f9773612da",
   "source_manifest_sha256": "9517392c8594ddae57e2fbccdb044c80ba1673476a1a4f17265cc52b08166672",
-  "verified_annotations": 7358,
+  "verified_annotations": 7361,
   "split_crop_counts": {
-    "val": 1297,
+    "val": 1300,
     "train": 4370,
     "test": 1691
   },
@@ -15,7 +15,7 @@
   },
   "provenance_counts": {
     "human_review_evidence": 396,
-    "automatic_pdf_ocr_confirmation_or_untraced_verified": 6962
+    "automatic_pdf_ocr_confirmation_or_untraced_verified": 6965
   },
   "rejected": 111,
   "needs_review": 20,

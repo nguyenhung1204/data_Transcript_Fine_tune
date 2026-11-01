@@ -1295,3 +1295,6 @@ crops/HD_003/df260cc15f4dbcb81a72.png	(Chữ ký điện tử, chữ ký số)
 crops/HD_003/a10dcecaf50df7106b71.png	Ký bởi: Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ
 crops/HD_003/b16027327e9b3247b444.png	Thuật Số FPT Tại Hà Nội
 crops/HD_003/5a81db14fe41e13c1432.png	Mã nhận hóa đơn: 4427393900446845
+crops/HD_004/31f9293dc49d08d607e3.png	CÔNG TY CP BÁN LẺ KỸ THUẬT SỐ FPT
+crops/HD_004/3e96dcf316e0641eb491.png	HÓA ĐƠN
+crops/HD_004/08275b091a9411d55757.png	Mẫu số : 01GTKT0/001
