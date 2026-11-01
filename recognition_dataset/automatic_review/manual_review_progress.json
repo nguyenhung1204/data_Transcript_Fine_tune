@@ -156129,6 +156129,90 @@
       "transcript": "HÓA ĐƠN BÁN HÀNG",
       "reviewed_at": "2026-11-01T16:37:10.106Z",
       "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bd0121c9d7666173b62e",
+      "status": "verified",
+      "transcript": "Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT Tại Hà Nội",
+      "reviewed_at": "2026-11-01T16:51:51.817Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2ed6b2ccde3eb4ccef9e",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN",
+      "reviewed_at": "2026-11-01T16:51:55.516Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bffb3b9331c72674cbbe",
+      "status": "verified",
+      "transcript": "Địa chỉ: Tòa nhà FPT Cầu Giấy, Số 17 Phố Duy Tân,",
+      "reviewed_at": "2026-11-01T16:51:58.471Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7a0f6b022ce710a6d203",
+      "status": "verified",
+      "transcript": "Ký hiệu : 1K23THN",
+      "reviewed_at": "2026-11-01T16:52:01.643Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "94d4481c16ef812dc60c",
+      "status": "verified",
+      "transcript": "Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP Hà Nội,",
+      "reviewed_at": "2026-11-01T16:52:04.138Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f34e0ba15217cd99001c",
+      "status": "verified",
+      "transcript": "Số : 00446845",
+      "reviewed_at": "2026-11-01T16:52:08.538Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "07775fa5983a866f94b1",
+      "status": "verified",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-01T16:52:10.778Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "29bd6cf2d3fdb075e7ce",
+      "status": "verified",
+      "transcript": "Việt Nam",
+      "reviewed_at": "2026-11-01T16:52:13.755Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d631859ae1cd16d85b02",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0311609355-001",
+      "reviewed_at": "2026-11-01T16:52:17.069Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "af1ab788c83e31b351e7",
+      "status": "verified",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "reviewed_at": "2026-11-01T16:52:20.799Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b8c2968631d8e1122338",
+      "status": "verified",
+      "transcript": "Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)",
+      "reviewed_at": "2026-11-01T16:52:22.806Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "61092a70ea1b7b7df119",
+      "status": "verified",
+      "transcript": "Tài khoản : 09120912005 tại Ngân hàng TMCP Tiên",
+      "reviewed_at": "2026-11-01T16:52:24.979Z",
+      "confirmation_method": "manual_visual_review"
     }
   ]
 }
