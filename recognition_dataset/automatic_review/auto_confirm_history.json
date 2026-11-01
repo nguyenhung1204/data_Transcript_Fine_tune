@@ -1,0 +1,9 @@
+[
+  {
+    "applied_at_utc": "2026-11-01T09:50:47.922507+00:00",
+    "applied": 6767,
+    "policy_version": "pdf_ocr_agreement_v1",
+    "preview_token": "5d7766141e48d2e5d2f3a110252644130714a16bff6f3dcd6b63f894efe7e490",
+    "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_20261101_165047_922507.json"
+  }
+]

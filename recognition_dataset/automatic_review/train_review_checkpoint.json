@@ -1,0 +1,24 @@
+{
+  "updated_at_utc": "2026-11-01T14:17:08.393442+00:00",
+  "scope": "train only",
+  "manifest_train_crops": 11124,
+  "train_status_counts": {
+    "verified": 4357,
+    "needs_review": 6755,
+    "rejected": 12
+  },
+  "train_method_counts": {
+    "pdf_ocr_agreement_v1": 3962,
+    "manual_visual_review": 397,
+    "": 8,
+    "manual_rejected": 6
+  },
+  "last_batch_crop_ids": [
+    "0d6b22c8bdf380a1b984",
+    "02b35adf2176b35aee17",
+    "4bdc35d3789438facb45",
+    "c7ebc71fcb2b0a8d0415"
+  ],
+  "last_batch_visually_reviewed": 4,
+  "next_action": "Rà tiếp crop train chưa được con người đối chiếu; val/test không sửa."
+}

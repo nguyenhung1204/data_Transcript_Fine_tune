@@ -1,0 +1,761 @@
+{
+  "version": 1,
+  "annotations": [
+    {
+      "crop_id": "manual_da1757bb61c14a27a355ffa595915570",
+      "status": "verified",
+      "transcript": "CHUỘT KHÔNG DÂY",
+      "reviewed_at": ""
+    },
+    {
+      "crop_id": "manual_f067f9820d91464d9036d8d410eb2d93",
+      "status": "verified",
+      "transcript": "0106927933",
+      "reviewed_at": ""
+    },
+    {
+      "crop_id": "c72f4e9b246291567f6e",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-01T08:50:43.914Z"
+    },
+    {
+      "crop_id": "35125095850f29dd09d9",
+      "status": "verified",
+      "transcript": "cellphoneS",
+      "reviewed_at": "2026-11-01T08:50:54.349Z"
+    },
+    {
+      "crop_id": "9879b05c24150ac0ac9b",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial): 1C22THT",
+      "reviewed_at": "2026-11-01T08:51:00.597Z"
+    },
+    {
+      "crop_id": "a8cf7cb2c7c8945c46d6",
+      "status": "verified",
+      "transcript": "VAT INVOICE",
+      "reviewed_at": "2026-11-01T08:51:02.529Z"
+    },
+    {
+      "crop_id": "ecfd715712c3d67b372e",
+      "status": "verified",
+      "transcript": "Số (No.): 506572",
+      "reviewed_at": "2026-11-01T08:55:33.665Z"
+    },
+    {
+      "crop_id": "4c0ded7e62bf68369d70",
+      "status": "verified",
+      "transcript": "Ngày(Date) 09 tháng(month) 10 năm(year) 2022",
+      "reviewed_at": "2026-11-01T08:55:38.921Z"
+    },
+    {
+      "crop_id": "309503b7a6583abe88da",
+      "status": "verified",
+      "transcript": "Mã của CQT: 00143BEF09567E478996F844F7F53047E9",
+      "reviewed_at": "2026-11-01T08:55:43.087Z"
+    },
+    {
+      "crop_id": "c99b877c4c82e2d071de",
+      "status": "verified",
+      "transcript": "Công ty TNHH Thương Mại Tổng hợp HTV:Đơn vị bán hàng (Seller)",
+      "reviewed_at": "2026-11-01T08:55:53.243Z"
+    },
+    {
+      "crop_id": "0de8f78a03adfe18d185",
+      "status": "verified",
+      "transcript": "Mã số thuế (VAT code): 0108075931",
+      "reviewed_at": "2026-11-01T08:56:20.811Z"
+    },
+    {
+      "crop_id": "3769a862071f2b3f0613",
+      "status": "verified",
+      "transcript": ":Số 543 Đường Nguyễn Trãi - Phường Thanh Xuân Nam - Quận Thanh Xuân - TP Hà Nội - Việt",
+      "reviewed_at": "2026-11-01T08:56:36.728Z"
+    },
+    {
+      "crop_id": "0300b6199c5b76b1c70f",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address)",
+      "reviewed_at": "2026-11-01T08:56:39.436Z"
+    },
+    {
+      "crop_id": "d846b428a0264b07a5dc",
+      "status": "verified",
+      "transcript": "Nam",
+      "reviewed_at": "2026-11-01T08:56:41.292Z"
+    },
+    {
+      "crop_id": "92cd2cbe5e4ed13273ab",
+      "status": "verified",
+      "transcript": "Công ty TNHH Phát triển công nghệ Thái Sơn - MST: 0101300842 - www.einvoice.vn)",
+      "reviewed_at": "2026-11-01T08:56:47.299Z"
+    },
+    {
+      "crop_id": "2a68536a84ed55558b3a",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel)",
+      "reviewed_at": "2026-11-01T08:56:49.953Z"
+    },
+    {
+      "crop_id": "65e87cdecffe0f5129f8",
+      "status": "verified",
+      "transcript": ":0967645164",
+      "reviewed_at": "2026-11-01T08:56:59.463Z"
+    },
+    {
+      "crop_id": "013ea68558c22cf611ea",
+      "status": "verified",
+      "transcript": "Số tài khoản (A/C No.)",
+      "reviewed_at": "2026-11-01T08:57:03.290Z"
+    },
+    {
+      "crop_id": "11ffdcfbe0e154f77ddb",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-01T08:57:11.063Z"
+    },
+    {
+      "crop_id": "30027770f95dd4d81c37",
+      "status": "verified",
+      "transcript": "Tên đơn vị (Company's name) : CÔNG TY CỔ PHẦN NGÂN ĐỨC",
+      "reviewed_at": "2026-11-01T09:10:43.647Z"
+    },
+    {
+      "crop_id": "0302cc45d64e948f61eb",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code)",
+      "reviewed_at": "2026-11-01T09:10:48.480Z"
+    },
+    {
+      "crop_id": "7ba13fb9e43540f56085",
+      "status": "verified",
+      "transcript": ": 5000863573",
+      "reviewed_at": "2026-11-01T09:10:54.579Z"
+    },
+    {
+      "crop_id": "29d89c90bbde2a0b324a",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán  (Payment method): TM, CK",
+      "reviewed_at": "2026-11-01T09:11:00.088Z"
+    },
+    {
+      "crop_id": "807eedbe489895dee2b5",
+      "status": "verified",
+      "transcript": ": Tổ 4, Thị Trấn Na Hang, Huyện Na Hang, Tỉnh Tuyên Quang, Việt Nam",
+      "reviewed_at": "2026-11-01T09:11:06.435Z"
+    },
+    {
+      "crop_id": "4071cd6560f524a6ef81",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address)",
+      "reviewed_at": "2026-11-01T09:11:10.479Z"
+    },
+    {
+      "crop_id": "8b6005decb39ad116c96",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-01T09:11:13.865Z"
+    },
+    {
+      "crop_id": "23d9fd71f97cf4482a62",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-01T09:11:16.426Z"
+    },
+    {
+      "crop_id": "1e5f1361ff24e21287b0",
+      "status": "verified",
+      "transcript": "TS",
+      "reviewed_at": "2026-11-01T09:11:18.027Z"
+    },
+    {
+      "crop_id": "6a990c81a1a168457645",
+      "status": "verified",
+      "transcript": "(Chưa thuế",
+      "reviewed_at": "2026-11-01T09:11:21.095Z"
+    },
+    {
+      "crop_id": "b8014cc4cbee983888a4",
+      "status": "verified",
+      "transcript": "Đơn vị",
+      "reviewed_at": "2026-11-01T09:11:22.666Z"
+    },
+    {
+      "crop_id": "0abd39716ca23e3c7838",
+      "status": "verified",
+      "transcript": "Số lượng",
+      "reviewed_at": "2026-11-01T09:11:24.162Z"
+    },
+    {
+      "crop_id": "9c82707800840e5df368",
+      "status": "verified",
+      "transcript": "Tiền thuế",
+      "reviewed_at": "2026-11-01T09:11:27.711Z"
+    },
+    {
+      "crop_id": "4e6a04a16d271bd2861c",
+      "status": "verified",
+      "transcript": "(Gồm thuế",
+      "reviewed_at": "2026-11-01T09:11:29.253Z"
+    },
+    {
+      "crop_id": "865e8d5d5313ac2d6275",
+      "status": "verified",
+      "transcript": "GTGT",
+      "reviewed_at": "2026-11-01T09:11:31.454Z"
+    },
+    {
+      "crop_id": "c3e36321f1560136f9f9",
+      "status": "verified",
+      "transcript": "STT",
+      "reviewed_at": "2026-11-01T09:11:35.282Z"
+    },
+    {
+      "crop_id": "0b2421ae4a5316b0f9d3",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-01T09:11:38.154Z"
+    },
+    {
+      "crop_id": "444929b45894fa1ef3fb",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-01T09:11:40.145Z"
+    },
+    {
+      "crop_id": "0dc9f36e7d288ebaeec4",
+      "status": "verified",
+      "transcript": "GTGT)",
+      "reviewed_at": "2026-11-01T09:11:42.193Z"
+    },
+    {
+      "crop_id": "a35e1f288d89756bcde9",
+      "status": "verified",
+      "transcript": "tính",
+      "reviewed_at": "2026-11-01T09:11:44.838Z"
+    },
+    {
+      "crop_id": "e6209bea18d13f6efa1e",
+      "status": "verified",
+      "transcript": "(VAT",
+      "reviewed_at": "2026-11-01T09:11:46.709Z"
+    },
+    {
+      "crop_id": "d6f46ab55d1c4a238607",
+      "status": "verified",
+      "transcript": "(VAT)",
+      "reviewed_at": "2026-11-01T09:11:48.371Z"
+    },
+    {
+      "crop_id": "8424579e119dccf8701d",
+      "status": "verified",
+      "transcript": "(No.)",
+      "reviewed_at": "2026-11-01T09:11:49.974Z"
+    },
+    {
+      "crop_id": "1a56f29feca5d64aefdf",
+      "status": "verified",
+      "transcript": "GTGT)",
+      "reviewed_at": "2026-11-01T09:11:51.512Z"
+    },
+    {
+      "crop_id": "acc6453030afdb2d64d7",
+      "status": "verified",
+      "transcript": "(Quantity)",
+      "reviewed_at": "2026-11-01T09:11:53.467Z"
+    },
+    {
+      "crop_id": "49f6de566185cbd3ff2c",
+      "status": "verified",
+      "transcript": "(Unit price)",
+      "reviewed_at": "2026-11-01T09:11:54.882Z"
+    },
+    {
+      "crop_id": "db456c05c057eb31f461",
+      "status": "verified",
+      "transcript": "(Description)",
+      "reviewed_at": "2026-11-01T09:11:55.505Z"
+    },
+    {
+      "crop_id": "6c61b6ca69e481eac123",
+      "status": "verified",
+      "transcript": "(Unit)",
+      "reviewed_at": "2026-11-01T09:11:56.054Z"
+    },
+    {
+      "crop_id": "2e49fdca79ab19b99cfe",
+      "status": "verified",
+      "transcript": "(Amount not",
+      "reviewed_at": "2026-11-01T09:11:57.821Z"
+    },
+    {
+      "crop_id": "bf2ddf4811709e36c34d",
+      "status": "verified",
+      "transcript": "rate)",
+      "reviewed_at": "2026-11-01T09:11:59.115Z"
+    },
+    {
+      "crop_id": "23f547f1fa9323efaa63",
+      "status": "verified",
+      "transcript": "(Amount)",
+      "reviewed_at": "2026-11-01T09:11:59.633Z"
+    },
+    {
+      "crop_id": "9072c4b90f4e99c177c0",
+      "status": "verified",
+      "transcript": "VAT)",
+      "reviewed_at": "2026-11-01T09:12:00.211Z"
+    },
+    {
+      "crop_id": "9ee352b49b7e22fd3994",
+      "status": "verified",
+      "transcript": "CHUÔT KHÔNG DÂY",
+      "reviewed_at": "2026-11-01T09:12:05.819Z"
+    },
+    {
+      "crop_id": "2cf8b9339133ccb2670b",
+      "status": "verified",
+      "transcript": "Cái",
+      "reviewed_at": "2026-11-01T09:12:07.218Z"
+    },
+    {
+      "crop_id": "93219f871c1ca9d40722",
+      "status": "verified",
+      "transcript": "30.000",
+      "reviewed_at": "2026-11-01T09:12:08.423Z"
+    },
+    {
+      "crop_id": "11c8626e2559b1d0d77a",
+      "status": "verified",
+      "transcript": "10%",
+      "reviewed_at": "2026-11-01T09:12:10.009Z"
+    },
+    {
+      "crop_id": "55971d1252b735686e8c",
+      "status": "verified",
+      "transcript": "300.000",
+      "reviewed_at": "2026-11-01T09:12:11.594Z"
+    },
+    {
+      "crop_id": "c9c1c276a29674bd88a2",
+      "status": "verified",
+      "transcript": "300.000",
+      "reviewed_at": "2026-11-01T09:12:12.413Z"
+    },
+    {
+      "crop_id": "4ee1e018d0fd3d9b48c7",
+      "status": "verified",
+      "transcript": "330.000",
+      "reviewed_at": "2026-11-01T09:12:14.143Z"
+    },
+    {
+      "crop_id": "bae0537e61fe02b02afb",
+      "status": "verified",
+      "transcript": "LOGITECH M331 ĐEN- IMEI:",
+      "reviewed_at": "2026-11-01T09:12:17.149Z"
+    },
+    {
+      "crop_id": "c6fa7109ae5569b62e0d",
+      "status": "verified",
+      "transcript": "1",
+      "reviewed_at": "2026-11-01T09:12:18.195Z"
+    },
+    {
+      "crop_id": "6f11fb234662f818200e",
+      "status": "verified",
+      "transcript": "MA.260.B",
+      "reviewed_at": "2026-11-01T09:12:18.916Z"
+    },
+    {
+      "crop_id": "aa9638f22f8c39ea5927",
+      "status": "verified",
+      "transcript": "TAINGHE KHÔNG DÂY",
+      "reviewed_at": "2026-11-01T09:12:20.623Z"
+    },
+    {
+      "crop_id": "cc14679010f7d2b238b1",
+      "status": "verified",
+      "transcript": "40.909",
+      "reviewed_at": "2026-11-01T09:12:21.661Z"
+    },
+    {
+      "crop_id": "eb40b09934c0653d7266",
+      "status": "verified",
+      "transcript": "Cái",
+      "reviewed_at": "2026-11-01T09:12:26.089Z"
+    },
+    {
+      "crop_id": "ea31ed7de4317a7163f1",
+      "status": "verified",
+      "transcript": "10%",
+      "reviewed_at": "2026-11-01T09:12:29.832Z"
+    },
+    {
+      "crop_id": "53ba2d1a637ba1762385",
+      "status": "verified",
+      "transcript": "2",
+      "reviewed_at": "2026-11-01T09:12:31.449Z"
+    },
+    {
+      "crop_id": "d77451c3841fd0997d84",
+      "status": "verified",
+      "transcript": "409.091",
+      "reviewed_at": "2026-11-01T09:12:33.456Z"
+    },
+    {
+      "crop_id": "28e89fae5bad68f6ed5f",
+      "status": "verified",
+      "transcript": "409.091",
+      "reviewed_at": "2026-11-01T09:12:34.908Z"
+    },
+    {
+      "crop_id": "1aebe1dd896e9b040ca2",
+      "status": "verified",
+      "transcript": "450.000",
+      "reviewed_at": "2026-11-01T09:12:36.878Z"
+    },
+    {
+      "crop_id": "8dec270766a8b3181856",
+      "status": "verified",
+      "transcript": "XIAOMI REDMI BUDS 3 LITE",
+      "reviewed_at": "2026-11-01T09:12:39.080Z"
+    },
+    {
+      "crop_id": "8efce7d5bbed580912e4",
+      "status": "verified",
+      "transcript": "TRẮNG- IMEI: TN.BT.13.W",
+      "reviewed_at": "2026-11-01T09:12:43.779Z"
+    },
+    {
+      "crop_id": "5f15ccc454e74ff4b697",
+      "status": "rejected",
+      "transcript": "e,\nc\ni\no\nv\nn\nI\nE\nm\nề\nm\nn\nầ\nh\np\ni\nở\nb\nt\nấ\nu\nX\n(",
+      "reviewed_at": "2026-11-01T09:12:56.146Z"
+    },
+    {
+      "crop_id": "d33f2a023690aadcaf46",
+      "status": "verified",
+      "transcript": "709.091",
+      "reviewed_at": "2026-11-01T09:13:03.443Z"
+    },
+    {
+      "crop_id": "955fc7474afcdb30317c",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng  (Total amount):",
+      "reviewed_at": "2026-11-01T09:13:06.235Z"
+    },
+    {
+      "crop_id": "3dec7d009fd3647a839f",
+      "status": "verified",
+      "transcript": "70.909",
+      "reviewed_at": "2026-11-01T09:13:08.228Z"
+    },
+    {
+      "crop_id": "765653bb5f8a7f842620",
+      "status": "verified",
+      "transcript": "780.000",
+      "reviewed_at": "2026-11-01T09:13:09.979Z"
+    },
+    {
+      "crop_id": "963c996c1c0137c9d7be",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ  (Amount in words): Bảy trăm tám mươi nghìn đồng",
+      "reviewed_at": "2026-11-01T09:13:14.686Z"
+    },
+    {
+      "crop_id": "a97715c49c83bfa9eebf",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-01T09:13:16.603Z"
+    },
+    {
+      "crop_id": "1c3f57421bfaeeef416f",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)",
+      "reviewed_at": "2026-11-01T09:13:18.235Z"
+    },
+    {
+      "crop_id": "d128a657f863fa8fccc7",
+      "status": "verified",
+      "transcript": "Ký, đóng dấu, ghi rõ họ tên",
+      "reviewed_at": "2026-11-01T09:13:20.055Z"
+    },
+    {
+      "crop_id": "cc3e4d14d1510279b432",
+      "status": "verified",
+      "transcript": "Ký, ghi rõ họ tên",
+      "reviewed_at": "2026-11-01T09:13:21.445Z"
+    },
+    {
+      "crop_id": "9df9e9f56a33e2af7845",
+      "status": "verified",
+      "transcript": "(Sign & full name)",
+      "reviewed_at": "2026-11-01T09:13:22.979Z"
+    },
+    {
+      "crop_id": "bd0d4aed07a123752e7c",
+      "status": "verified",
+      "transcript": "(Sign, stamp & full name)",
+      "reviewed_at": "2026-11-01T09:13:24.685Z"
+    },
+    {
+      "crop_id": "c90a8ab58ea4a04fe3ce",
+      "status": "verified",
+      "transcript": "Signature Valid",
+      "reviewed_at": "2026-11-01T09:13:26.354Z"
+    },
+    {
+      "crop_id": "a3f2d01fe58fef424e36",
+      "status": "verified",
+      "transcript": "Ký bởi: Công ty TNHH Thương Mại Tổng hợp HTV",
+      "reviewed_at": "2026-11-01T09:13:28.880Z"
+    },
+    {
+      "crop_id": "b0bf7a79e142df4af321",
+      "status": "verified",
+      "transcript": "Ký ngày: 09/10/2022",
+      "reviewed_at": "2026-11-01T09:13:30.654Z"
+    },
+    {
+      "crop_id": "a05de9fe3e47e4002de4",
+      "status": "rejected",
+      "transcript": "Quý khách hàng vui lòng tra cứu hóa đơn điện tử tại website: https://hddt.cellphones.com.vn/ Mã tra cứu: 45BLGR0TZ",
+      "reviewed_at": "2026-11-01T09:14:03.361Z"
+    },
+    {
+      "crop_id": "1f3cf7239fe19e8ad4d1",
+      "status": "verified",
+      "transcript": "(Please check e-Invoice at the website: https://hddt.cellphones.com.vn/)",
+      "reviewed_at": "2026-11-01T09:14:08.074Z"
+    },
+    {
+      "crop_id": "e65a890f3d1b47c081db",
+      "status": "verified",
+      "transcript": "(Code: 45BLGR0TZ)",
+      "reviewed_at": "2026-11-01T09:14:11.736Z"
+    },
+    {
+      "crop_id": "af2095d0063f824e3c50",
+      "status": "verified",
+      "transcript": "Trang 1/1",
+      "reviewed_at": "2026-11-01T09:14:13.410Z"
+    },
+    {
+      "crop_id": "0590b05971e1afdf14dc",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN",
+      "reviewed_at": "2026-11-01T09:14:15.072Z"
+    },
+    {
+      "crop_id": "5f7c8db7d996d508f469",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial): 1C22TTD",
+      "reviewed_at": "2026-11-01T09:14:18.433Z"
+    },
+    {
+      "crop_id": "044a46ce7a49d204c102",
+      "status": "verified",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-01T09:14:34.633Z"
+    },
+    {
+      "crop_id": "ef60862ccae4e66d5255",
+      "status": "verified",
+      "transcript": "Số (No):",
+      "reviewed_at": "2026-11-01T09:14:38.056Z"
+    },
+    {
+      "crop_id": "71a0b262d4e9aedde4c9",
+      "status": "verified",
+      "transcript": "1478",
+      "reviewed_at": "2026-11-01T09:14:39.326Z"
+    },
+    {
+      "crop_id": "c12cd8d569133798cc6d",
+      "status": "verified",
+      "transcript": "Thanh Dat Apple",
+      "reviewed_at": "2026-11-01T09:14:43.070Z"
+    },
+    {
+      "crop_id": "41350c17e79e6a0014e8",
+      "status": "verified",
+      "transcript": "(VAT INVOICE)",
+      "reviewed_at": "2026-11-01T09:14:44.386Z"
+    },
+    {
+      "crop_id": "65ae115b4969dede602a",
+      "status": "verified",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "reviewed_at": "2026-11-01T09:14:48.814Z"
+    },
+    {
+      "crop_id": "17274111e5d61d4a2b14",
+      "status": "verified",
+      "transcript": "TRADING AND SERVICES",
+      "reviewed_at": "2026-11-01T09:14:52.184Z"
+    },
+    {
+      "crop_id": "e2879603f54102ed7cc6",
+      "status": "verified",
+      "transcript": "Ngày (date) 21 tháng (month) 11 năm (year) 2022",
+      "reviewed_at": "2026-11-01T09:15:01.527Z"
+    },
+    {
+      "crop_id": "3ec4eda13e0047d6d3c4",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: 00008C225A655F44C085FEA67E7A8C0C68",
+      "reviewed_at": "2026-11-01T09:15:10.513Z"
+    },
+    {
+      "crop_id": "ed7a9b2866da9078f585",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TIN HỌC ĐIỆN TỬ THÀNH ĐẠT",
+      "reviewed_at": "2026-11-01T09:15:13.789Z"
+    },
+    {
+      "crop_id": "9b986197dde63d0deabf",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0106927933",
+      "reviewed_at": "2026-11-01T09:15:15.721Z"
+    },
+    {
+      "crop_id": "388b1ad4696a060e0c36",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel): 0981046626",
+      "reviewed_at": "2026-11-01T09:17:16.901Z"
+    },
+    {
+      "crop_id": "b04804901f46dc864fe8",
+      "status": "verified",
+      "transcript": "Email: laptopthanhdatjsc@gmail.com",
+      "reviewed_at": "2026-11-01T09:17:18.734Z"
+    },
+    {
+      "crop_id": "cbc914226535500325ac",
+      "status": "verified",
+      "transcript": "Số tài khoản (A/C number):071 1000242512",
+      "reviewed_at": "2026-11-01T09:17:20.170Z"
+    },
+    {
+      "crop_id": "1524d3284f74fd80e150",
+      "status": "verified",
+      "transcript": "Ngân hàng VCB - Chi Nhánh Thanh Xuân Hà Nội",
+      "reviewed_at": "2026-11-01T09:17:21.854Z"
+    },
+    {
+      "crop_id": "604ab067c60a83c70050",
+      "status": "verified",
+      "transcript": "Họ và tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-01T09:17:25.065Z"
+    },
+    {
+      "crop_id": "b7bdb36eb5e08553cc15",
+      "status": "verified",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH TIN HỌC VÀ THƯƠNG MẠI HẢI HÀ",
+      "reviewed_at": "2026-11-01T09:17:26.756Z"
+    },
+    {
+      "crop_id": "8722d3872eea050200b2",
+      "status": "needs_review",
+      "transcript": "Đa chi (Address): Thôn Cát Đng, Th Trn Kim Bài, Huyn Thanh Oai, Thành ph Hà Ni, Vit Nam",
+      "reviewed_at": "2026-11-01T09:19:41.786Z"
+    },
+    {
+      "crop_id": "39ba02ce41b2fd6be53f",
+      "status": "needs_review",
+      "transcript": "Đa chi (Address): S nhà 75 ph Nguyn Th Minh Khai, t 8, Phưòng B Xuyên, Thành ph Thái Bình, Tinh Thái Bình, Vit",
+      "reviewed_at": "2026-11-01T09:19:43.823Z"
+    },
+    {
+      "crop_id": "2484e5c07936a30e0f19",
+      "status": "verified",
+      "transcript": "Nam",
+      "reviewed_at": "2026-11-01T09:19:47.000Z"
+    },
+    {
+      "crop_id": "b2f6cddbb69367469ad8",
+      "status": "verified",
+      "transcript": "Số tài khoản (A/C number):",
+      "reviewed_at": "2026-11-01T09:19:50.158Z"
+    },
+    {
+      "crop_id": "8fab024562b76cad4c67",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 1000334357",
+      "reviewed_at": "2026-11-01T09:19:53.708Z"
+    },
+    {
+      "crop_id": "1c4aa6f8a37304dab89f",
+      "status": "verified",
+      "transcript": "TM/CK",
+      "reviewed_at": "2026-11-01T09:19:55.090Z"
+    },
+    {
+      "crop_id": "3d7cae90d0d4cc3755d1",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method):",
+      "reviewed_at": "2026-11-01T09:19:56.360Z"
+    },
+    {
+      "crop_id": "ad756a28d697c7655da1",
+      "status": "verified",
+      "transcript": "Số lượng",
+      "reviewed_at": "2026-11-01T09:19:59.277Z"
+    },
+    {
+      "crop_id": "cdd4fc88279edd0cd24b",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-01T09:20:01.691Z"
+    },
+    {
+      "crop_id": "12e4ebd38a060349c8ae",
+      "status": "verified",
+      "transcript": "STT",
+      "reviewed_at": "2026-11-01T09:20:03.367Z"
+    },
+    {
+      "crop_id": "ec04ac68320b52a006a4",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "reviewed_at": "2026-11-01T09:20:05.487Z"
+    },
+    {
+      "crop_id": "787e935cf07d3abe51e3",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-01T09:20:07.810Z"
+    },
+    {
+      "crop_id": "e806360da6a0bee99ced",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-01T09:20:10.329Z"
+    },
+    {
+      "crop_id": "6776c3ffc707daf45dfe",
+      "status": "verified",
+      "transcript": "(No.)",
+      "reviewed_at": "2026-11-01T09:20:13.065Z"
+    },
+    {
+      "crop_id": "e43be45453c5f2014b57",
+      "status": "verified",
+      "transcript": "(Unit)",
+      "reviewed_at": "2026-11-01T09:20:14.599Z"
+    },
+    {
+      "crop_id": "e855319a52bbc07213cd",
+      "status": "verified",
+      "transcript": "(Amount)",
+      "reviewed_at": "2026-11-01T09:20:16.463Z"
+    },
+    {
+      "crop_id": "5dfb7c1594f401e45379",
+      "status": "verified",
+      "transcript": "(Quantity)",
+      "reviewed_at": "2026-11-01T09:20:18.328Z"
+    }
+  ]
+}

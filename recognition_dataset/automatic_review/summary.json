@@ -1,0 +1,34 @@
+{
+  "generated_utc": "2026-11-01T09:07:40.204853+00:00",
+  "source_manifest": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crop_manifest.csv",
+  "source_pdf_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\source_300_invoices\\pdfs",
+  "crop_manifest_rows": 17961,
+  "source_documents": 208,
+  "dpi": 300,
+  "ocr1_source": "raw_ocr_text (fallback: transcript) from the existing crop manifest",
+  "ocr2_status": "unavailable_or_not_configured; no independent engine inference run",
+  "pdf_text_extraction": "pypdfium2 embedded glyphs selected by crop coordinates and ordered by visual geometry",
+  "status_counts": {
+    "human_verified_preserved": 2,
+    "needs_review": 17959
+  },
+  "split_crop_counts": {
+    "val": 3160,
+    "train": 11124,
+    "test": 3677
+  },
+  "pdf_text_found_count": 14656,
+  "pdf_text_matches_ocr1_count": 6803,
+  "geometry_invalid_count": 0,
+  "multi_line_pdf_crop_count": 90,
+  "machine_consensus_count": 0,
+  "reason_counts": {
+    "independent_ocr2_unavailable": 17959,
+    "pdf_text_and_ocr1_disagree": 7853,
+    "pdf_text_layer_empty_or_crop_has_no_text": 3305,
+    "pdf_crop_contains_multiple_text_lines": 90
+  },
+  "verified_zip_created": false,
+  "test_candidates_exported_separately": true,
+  "packages_not_installed": true
+}

@@ -1,0 +1,345 @@
+[
+  {
+    "invoice_id": "WEB_176",
+    "filename": "WEB_176.pdf",
+    "split": "test",
+    "reason": "Hóa đơn scan quá mờ, chữ khó đọc để tạo transcript đáng tin cậy.",
+    "excluded_at_utc": "2026-11-01T12:41:41.147505+00:00",
+    "crop_count": 66,
+    "crop_ids": [
+      "e8a47675582d6456b708",
+      "ebd9d3bf6acc36f5e011",
+      "cf00ffca9fa4513eae05",
+      "52fdd0d8971151f9681c",
+      "3952d918c381bf038dfa",
+      "f65813b12a41ad00b74c",
+      "a25a0f56f6d73828690e",
+      "3a33259c907f9fa67d77",
+      "22ed44e63c89439c6cc7",
+      "cbbbfabb97746ffa4a3e",
+      "f6137a47e7a38244ee45",
+      "5c0c7bfbe33dce6b3fa3",
+      "5bf931acc18e322718bc",
+      "f41407b2e3c71134dab4",
+      "822e58a4af16c9a61429",
+      "3460fcf9f9a46f781bf1",
+      "f8ed3ba309820ace2606",
+      "541cd9ec99c1a153181a",
+      "9e0e22f9d6c384647617",
+      "2936d4901168374dc084",
+      "1ef6b36a05b04d412aa3",
+      "f2852681b8789ba61547",
+      "2dba1a6882926999b446",
+      "f005d1d31f018c5eeb3a",
+      "49c1dc042f76e7bf2eb0",
+      "7f0c0f27b4312ccbe41c",
+      "a8c3d459132d50116366",
+      "cfad2ddbaa05ba179604",
+      "bebc6f79719ce3acedce",
+      "3ef20b4c3b99e340bf84",
+      "c0214ddcd84974761e58",
+      "2c68c7d9a5ac4c76b9e5",
+      "e604df4fb54e9a1861e5",
+      "787fb6d2c76ef2319573",
+      "5584756f2874efd466e9",
+      "c2802501ae21e935edcf",
+      "fd02412e7d606dc291fe",
+      "be2da0a04b657a1e04c4",
+      "f9d7abfb82f2b15ab344",
+      "fd12e22392c6d818726e",
+      "71a9fee1a93ed6325576",
+      "e03c9e7d55323620eabd",
+      "18c920dff441b14c6785",
+      "9773866355cd3d98da96",
+      "04a919b3dae9bd18fa0a",
+      "2b970ac2aef2598114f9",
+      "c45d1c372d5d98fe5444",
+      "e39391f451fd4bd891e4",
+      "0ec77d25b2b749e4e343",
+      "fae8e89edc079eb97dc7",
+      "5c6f42095078334b3e1d",
+      "2b0528f5a14f383fd2ea",
+      "d3d48cdb4867b227507c",
+      "9fdee862c2f2d3085097",
+      "249c27a3fcc8c1f5b9c7",
+      "ea96b69a51be44548861",
+      "29e2fcd03dd35bb68b65",
+      "ba1dc5645e50a287000f",
+      "d51b7b607d72714b9e3b",
+      "7816829a8f04ab1bd2fb",
+      "866049535806053d1180",
+      "27335e7d1825de42912d",
+      "49f984f6b0288f827bc6",
+      "6e7b27d991a7ad3b59e3",
+      "47248ddb1cb0c87afed5",
+      "f21cce02857adc256c0a"
+    ],
+    "previous_states": {
+      "e8a47675582d6456b708": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "ebd9d3bf6acc36f5e011": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "cf00ffca9fa4513eae05": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "52fdd0d8971151f9681c": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "3952d918c381bf038dfa": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f65813b12a41ad00b74c": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "a25a0f56f6d73828690e": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "3a33259c907f9fa67d77": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "22ed44e63c89439c6cc7": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "cbbbfabb97746ffa4a3e": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f6137a47e7a38244ee45": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "5c0c7bfbe33dce6b3fa3": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "5bf931acc18e322718bc": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f41407b2e3c71134dab4": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "822e58a4af16c9a61429": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "3460fcf9f9a46f781bf1": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f8ed3ba309820ace2606": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "541cd9ec99c1a153181a": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "9e0e22f9d6c384647617": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "2936d4901168374dc084": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "1ef6b36a05b04d412aa3": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f2852681b8789ba61547": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "2dba1a6882926999b446": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f005d1d31f018c5eeb3a": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "49c1dc042f76e7bf2eb0": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "7f0c0f27b4312ccbe41c": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "a8c3d459132d50116366": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "cfad2ddbaa05ba179604": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "bebc6f79719ce3acedce": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "3ef20b4c3b99e340bf84": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "c0214ddcd84974761e58": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "2c68c7d9a5ac4c76b9e5": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "e604df4fb54e9a1861e5": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "787fb6d2c76ef2319573": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "5584756f2874efd466e9": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "c2802501ae21e935edcf": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "fd02412e7d606dc291fe": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "be2da0a04b657a1e04c4": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f9d7abfb82f2b15ab344": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "fd12e22392c6d818726e": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "71a9fee1a93ed6325576": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "e03c9e7d55323620eabd": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "18c920dff441b14c6785": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "9773866355cd3d98da96": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "04a919b3dae9bd18fa0a": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "2b970ac2aef2598114f9": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "c45d1c372d5d98fe5444": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "e39391f451fd4bd891e4": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "0ec77d25b2b749e4e343": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "fae8e89edc079eb97dc7": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "5c6f42095078334b3e1d": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "2b0528f5a14f383fd2ea": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "d3d48cdb4867b227507c": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "9fdee862c2f2d3085097": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "249c27a3fcc8c1f5b9c7": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "ea96b69a51be44548861": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "29e2fcd03dd35bb68b65": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "ba1dc5645e50a287000f": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "d51b7b607d72714b9e3b": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "7816829a8f04ab1bd2fb": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "866049535806053d1180": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "27335e7d1825de42912d": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "49f984f6b0288f827bc6": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "6e7b27d991a7ad3b59e3": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "47248ddb1cb0c87afed5": {
+        "status": "needs_review",
+        "transcript": ""
+      },
+      "f21cce02857adc256c0a": {
+        "status": "needs_review",
+        "transcript": ""
+      }
+    },
+    "backup_file": "manual_review_progress.backup_exclude_WEB_176_20261101_194141.json"
+  }
+]
