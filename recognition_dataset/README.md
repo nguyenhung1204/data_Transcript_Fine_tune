@@ -11,3 +11,10 @@ To rebuild the verified dataset, save the downloaded file as `review/annotations
 ```
 
 Existing OCR checkpoints are reused, so OCR inference is not repeated. The ZIP contains only human-confirmed crops. This folder prepares data; it does not train a model.
+
+
+## Bộ dữ liệu Colab fine-tune
+
+- Danh sách PaddleOCR Recognition và manifest: `recognition_dataset/colab_finetune/`.
+- Chạy lại bộ xuất sau khi cập nhật nhãn: `python recognition_dataset/export_colab_dataset.py`.
+- Ảnh crop được tham chiếu từ `recognition_dataset/crops/` và `recognition_dataset/verified/images/`; không nhân đôi ảnh trong thư mục export. Hướng dẫn nạp vào Colab ở `recognition_dataset/colab_finetune/README.md`.

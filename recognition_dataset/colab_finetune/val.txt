@@ -1,0 +1,1258 @@
+verified/images/val/manual_da1757bb61c14a27a355ffa595915570.png	CHUỘT KHÔNG DÂY
+crops/HD_001/c72f4e9b246291567f6e.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/HD_001/35125095850f29dd09d9.png	cellphoneS
+crops/HD_001/9879b05c24150ac0ac9b.png	Ký hiệu (Serial): 1C22THT
+crops/HD_001/a8cf7cb2c7c8945c46d6.png	VAT INVOICE
+crops/HD_001/ecfd715712c3d67b372e.png	Số (No.): 506572
+crops/HD_001/4c0ded7e62bf68369d70.png	Ngày(Date) 09 tháng(month) 10 năm(year) 2022
+crops/HD_001/309503b7a6583abe88da.png	Mã của CQT: 00143BEF09567E478996F844F7F53047E9
+crops/HD_001/c99b877c4c82e2d071de.png	Công ty TNHH Thương Mại Tổng hợp HTV:Đơn vị bán hàng (Seller)
+crops/HD_001/0de8f78a03adfe18d185.png	Mã số thuế (VAT code): 0108075931
+crops/HD_001/3769a862071f2b3f0613.png	:Số 543 Đường Nguyễn Trãi - Phường Thanh Xuân Nam - Quận Thanh Xuân - TP Hà Nội - Việt
+crops/HD_001/0300b6199c5b76b1c70f.png	Địa chỉ (Address)
+crops/HD_001/d846b428a0264b07a5dc.png	Nam
+crops/HD_001/2a68536a84ed55558b3a.png	Điện thoại (Tel)
+crops/HD_001/65e87cdecffe0f5129f8.png	:0967645164
+crops/HD_001/013ea68558c22cf611ea.png	Số tài khoản (A/C No.)
+crops/HD_001/11ffdcfbe0e154f77ddb.png	Họ tên người mua hàng (Buyer):
+crops/HD_001/30027770f95dd4d81c37.png	Tên đơn vị (Company's name) : CÔNG TY CỔ PHẦN NGÂN ĐỨC
+crops/HD_001/0302cc45d64e948f61eb.png	Mã số thuế (Tax code)
+crops/HD_001/7ba13fb9e43540f56085.png	: 5000863573
+crops/HD_001/29d89c90bbde2a0b324a.png	Hình thức thanh toán  (Payment method): TM, CK
+crops/HD_001/807eedbe489895dee2b5.png	: Tổ 4, Thị Trấn Na Hang, Huyện Na Hang, Tỉnh Tuyên Quang, Việt Nam
+crops/HD_001/4071cd6560f524a6ef81.png	Địa chỉ (Address)
+crops/HD_001/8b6005decb39ad116c96.png	Thành tiền
+crops/HD_001/23d9fd71f97cf4482a62.png	Thành tiền
+crops/HD_001/1e5f1361ff24e21287b0.png	TS
+crops/HD_001/6a990c81a1a168457645.png	(Chưa thuế
+crops/HD_001/b8014cc4cbee983888a4.png	Đơn vị
+crops/HD_001/0abd39716ca23e3c7838.png	Số lượng
+crops/HD_001/9c82707800840e5df368.png	Tiền thuế
+crops/HD_001/4e6a04a16d271bd2861c.png	(Gồm thuế
+crops/HD_001/865e8d5d5313ac2d6275.png	GTGT
+crops/HD_001/c3e36321f1560136f9f9.png	STT
+crops/HD_001/0b2421ae4a5316b0f9d3.png	Đơn giá
+crops/HD_001/444929b45894fa1ef3fb.png	Tên hàng hóa, dịch vụ
+crops/HD_001/0dc9f36e7d288ebaeec4.png	GTGT)
+crops/HD_001/a35e1f288d89756bcde9.png	tính
+crops/HD_001/e6209bea18d13f6efa1e.png	(VAT
+crops/HD_001/d6f46ab55d1c4a238607.png	(VAT)
+crops/HD_001/8424579e119dccf8701d.png	(No.)
+crops/HD_001/1a56f29feca5d64aefdf.png	GTGT)
+crops/HD_001/acc6453030afdb2d64d7.png	(Quantity)
+crops/HD_001/49f6de566185cbd3ff2c.png	(Unit price)
+crops/HD_001/db456c05c057eb31f461.png	(Description)
+crops/HD_001/6c61b6ca69e481eac123.png	(Unit)
+crops/HD_001/2e49fdca79ab19b99cfe.png	(Amount not
+crops/HD_001/bf2ddf4811709e36c34d.png	rate)
+crops/HD_001/23f547f1fa9323efaa63.png	(Amount)
+crops/HD_001/9072c4b90f4e99c177c0.png	VAT)
+crops/HD_001/9ee352b49b7e22fd3994.png	CHUÔT KHÔNG DÂY
+crops/HD_001/2cf8b9339133ccb2670b.png	Cái
+crops/HD_001/93219f871c1ca9d40722.png	30.000
+crops/HD_001/11c8626e2559b1d0d77a.png	10%
+crops/HD_001/55971d1252b735686e8c.png	300.000
+crops/HD_001/c9c1c276a29674bd88a2.png	300.000
+crops/HD_001/4ee1e018d0fd3d9b48c7.png	330.000
+crops/HD_001/bae0537e61fe02b02afb.png	LOGITECH M331 ĐEN- IMEI:
+crops/HD_001/c6fa7109ae5569b62e0d.png	1
+crops/HD_001/6f11fb234662f818200e.png	MA.260.B
+crops/HD_001/aa9638f22f8c39ea5927.png	TAINGHE KHÔNG DÂY
+crops/HD_001/cc14679010f7d2b238b1.png	40.909
+crops/HD_001/eb40b09934c0653d7266.png	Cái
+crops/HD_001/ea31ed7de4317a7163f1.png	10%
+crops/HD_001/53ba2d1a637ba1762385.png	2
+crops/HD_001/d77451c3841fd0997d84.png	409.091
+crops/HD_001/28e89fae5bad68f6ed5f.png	409.091
+crops/HD_001/1aebe1dd896e9b040ca2.png	450.000
+crops/HD_001/8dec270766a8b3181856.png	XIAOMI REDMI BUDS 3 LITE
+crops/HD_001/8efce7d5bbed580912e4.png	TRẮNG- IMEI: TN.BT.13.W
+crops/HD_001/d33f2a023690aadcaf46.png	709.091
+crops/HD_001/955fc7474afcdb30317c.png	Cộng tiền hàng  (Total amount):
+crops/HD_001/3dec7d009fd3647a839f.png	70.909
+crops/HD_001/765653bb5f8a7f842620.png	780.000
+crops/HD_001/963c996c1c0137c9d7be.png	Số tiền viết bằng chữ  (Amount in words): Bảy trăm tám mươi nghìn đồng
+crops/HD_001/a97715c49c83bfa9eebf.png	Người mua hàng (Buyer)
+crops/HD_001/1c3f57421bfaeeef416f.png	Người bán hàng (Seller)
+crops/HD_001/d128a657f863fa8fccc7.png	Ký, đóng dấu, ghi rõ họ tên
+crops/HD_001/cc3e4d14d1510279b432.png	Ký, ghi rõ họ tên
+crops/HD_001/9df9e9f56a33e2af7845.png	(Sign & full name)
+crops/HD_001/bd0d4aed07a123752e7c.png	(Sign, stamp & full name)
+crops/HD_001/c90a8ab58ea4a04fe3ce.png	Signature Valid
+crops/HD_001/a3f2d01fe58fef424e36.png	Ký bởi: Công ty TNHH Thương Mại Tổng hợp HTV
+crops/HD_001/b0bf7a79e142df4af321.png	Ký ngày: 09/10/2022
+crops/HD_001/1f3cf7239fe19e8ad4d1.png	(Please check e-Invoice at the website: https://hddt.cellphones.com.vn/)
+crops/HD_001/e65a890f3d1b47c081db.png	(Code: 45BLGR0TZ)
+crops/HD_001/af2095d0063f824e3c50.png	Trang 1/1
+crops/HD_003/5cdc21aaa7691a5a15b2.png	Ngày 16 tháng 4 năm 2023
+crops/HD_003/c6e66af294ab399636f1.png	STT
+crops/HD_003/6e30c472235f9a484232.png	(%)
+crops/HD_003/846e34e3fea3cc324164.png	3
+crops/HD_003/b6b4c9e285f3eff260c7.png	5
+crops/HD_003/b072bc94c07674999fe1.png	2
+crops/HD_003/4b9e54dc1ad8d922ad08.png	7=5x6
+crops/HD_003/d9119d9435114aebf969.png	4
+crops/HD_003/ca739b75dc95c0d366fe.png	6
+crops/HD_003/1942355774a63f8d3986.png	1
+crops/HD_003/48f095cc5f813542097e.png	10%
+crops/HD_003/9e3efa297e31c5b743ef.png	26,681,818.18
+crops/HD_003/c2212e82a705b5a1e66a.png	26,681,818.18
+crops/HD_003/45d3076bde840f151bc5.png	1
+crops/HD_003/13665b1ac9495813aa6c.png	1
+crops/HD_003/46954020ead3859b234b.png	15/04/2024
+crops/HD_003/86054dd13ee8180d822c.png	2
+crops/HD_003/ec6ddf2b75e534bbd63b.png	1
+crops/HD_003/71ea7b035854591d1eda.png	Cái
+crops/HD_003/1a9755060aa807ed3b2f.png	3
+crops/HD_003/81f20250987e742ae5dd.png	1
+crops/HD_003/71d36e3cc1986995a0b1.png	Cái
+crops/HD_003/317a7410629cefe60c86.png	4
+crops/HD_003/d2902f7a966940c7fd6f.png	1
+crops/HD_003/5a0af1ab852700721ca7.png	121,000đ mua Super Data 1T
+crops/HD_003/0d21186f54547e4e450a.png	5%
+crops/HD_003/50e89a333b92a6534727.png	8%
+crops/HD_003/6ce370c88d831b5a771d.png	10%
+crops/HD_003/9b1895533b2712bf3d7c.png	KCT
+crops/HD_003/211752717d2557495e60.png	0%
+crops/HD_003/62ca6156eb2dceef677c.png	26,681,818
+crops/HD_003/80ec012b2374e5e96bdc.png	26,681,818
+crops/HD_003/62f77b95991feedb6435.png	2,668,182
+crops/HD_003/363ae79fc3e5ac531241.png	2,668,182
+crops/HD_003/1a252bfa337f2d59419a.png	29,350,000
+crops/HD_003/5baedf916f427866573b.png	29,350,000
+crops/HD_003/c327cf19e285418ff40f.png	Bên bán
+crops/HD_003/548a3f6cf052a201731c.png	Bên mua
+crops/HD_003/922dc0b3da5e038457c9.png	Signature Valid
+crops/HD_003/9de5e15903a5bd4b08b7.png	Ký ngày: 16/04/2023
+crops/HD_004/470d89ae0e91d7182ab3.png	Ngày : 03/04/2021
+crops/HD_004/3974abc148dc934243ce.png	(Agribank) - CN 4 HCM
+crops/HD_004/14cf13807ea6d1bfc33d.png	Tên khách hàng : ANH HÙNG
+crops/HD_004/f50cf16c1faa87b4da3a.png	STT
+crops/HD_004/60416dd4f69c90941cd4.png	(%)
+crops/HD_004/6534248eccff64543dc0.png	tính
+crops/HD_004/5d9d103efbbc52e55dde.png	(1)
+crops/HD_004/002455a232a815780434.png	(3)
+crops/HD_004/b0fbd4c8290b24568f52.png	(4)
+crops/HD_004/665c3b9a9097d8facb02.png	(5)
+crops/HD_004/891ace63f6db40fa548a.png	(2)
+crops/HD_004/d84cb57d903ed40426f9.png	(7=5x6)
+crops/HD_004/21e7c1acaad07c8d4b37.png	(6)
+crops/HD_004/de798fc193fbc999c3e4.png	10
+crops/HD_004/a85fa490ed7b94019d09.png	16,354,545.00
+crops/HD_004/29e4860774cf6cf13342.png	16,354,545.00
+crops/HD_004/69ac6aeaffabfcefc13d.png	0.00
+crops/HD_004/09dd43570c03bc37a0b6.png	0.00
+crops/HD_004/2c12e04eb9d8ce30acb3.png	0
+crops/HD_004/b1df23d19d63b959885c.png	2
+crops/HD_004/9c6e24ea185910211a72.png	16,354,545
+crops/HD_004/277d094f461eebbdefcc.png	16,354,545
+crops/HD_004/079ec21d18fb7e8ee4d4.png	1,635,455
+crops/HD_004/53a70e07b9b3f87b0856.png	1,635,455
+crops/HD_004/f7077086e5d4131c94e8.png	17,990,000
+crops/HD_004/ec8323e609889488af8a.png	17,990,000
+crops/HD_004/077a3ca574218b026ae3.png	Bên bán
+crops/HD_004/f1e47e2f60c30a05b124.png	Bên mua
+crops/HD_004/d7ea9696798d87d0f960.png	Signature Valid
+crops/HD_004/b12e4bbed21acc79c286.png	Ký ngày: 03/04/2021
+crops/HD_005/df18f4ae780abd77393e.png	Ngày : 27/11/2020
+crops/HD_005/09434da43404468c9451.png	(Agribank) - CN 4 HCM
+crops/HD_005/ddcfad86c578be38ed14.png	STT
+crops/HD_005/8eab74e4cbb36de4e954.png	(%)
+crops/HD_005/ef9f5163220532aba1de.png	tính
+crops/HD_005/d5daa6119c02ee197ad1.png	(1)
+crops/HD_005/b36e5b31739d26d06e0f.png	(3)
+crops/HD_005/4ea712e925e7538235f6.png	(4)
+crops/HD_005/618362ba4562db312aab.png	(5)
+crops/HD_005/096d6e0b6162a3f6741b.png	(2)
+crops/HD_005/cb59cccb3f3763022dc3.png	(6)
+crops/HD_005/3ccb4bc228e925acfa8c.png	(7=5x6)
+crops/HD_005/bda4dc35bcdbaf587b8d.png	MGDE3VN/A
+crops/HD_005/cd8c2c1b0ff06918201a.png	10
+crops/HD_005/68cebb5af65ae7cc4a2a.png	32,718,182
+crops/HD_005/60cb8ab09a02cb07746e.png	32,718,182
+crops/HD_005/fc0a291932b177d9bf9b.png	0
+crops/HD_005/6f25e0559145c39a2b2d.png	0
+crops/HD_005/dd7c01bab81484b3cc05.png	0
+crops/HD_005/47108852797803a2c59e.png	2
+crops/HD_005/dc0a4bc15dcb5525c91d.png	0
+crops/HD_005/8829d7273326debe8234.png	3
+crops/HD_005/ffd79bd55c9a9a52a07e.png	0
+crops/HD_005/c3c30c5b0973f3508f8b.png	0
+crops/HD_005/cf43bec6435026f07103.png	mua Apple Watch S6/SE (HSD 7 ngày)
+crops/HD_005/336420adc1ac372be39c.png	32,718,182
+crops/HD_005/81d26ba689e7f3a946bc.png	0
+crops/HD_005/3ed8c8ca67dcf53545c9.png	0
+crops/HD_005/c4c7f9bea80ce3f17983.png	32,718,182
+crops/HD_005/5101fbd25c609820267a.png	3,271,818
+crops/HD_005/169f87c3cc1f343fd11c.png	3,271,818
+crops/HD_005/df07752c527ffa4a1087.png	0
+crops/HD_005/427070c8fa2a8b7c03dd.png	0
+crops/HD_005/d34b8ba76d8472259a62.png	35,990,000
+crops/HD_005/42e4edaa6dbcaf85d165.png	0
+crops/HD_005/3d04eeba069258711c1f.png	0
+crops/HD_005/52dead8e79c9c7bedf98.png	35,990,000
+crops/HD_005/f2fa85c789c662753742.png	Bên bán
+crops/HD_005/8dd782e7cb161a78d81b.png	Bên mua
+crops/HD_005/268526268185f600b975.png	Signature Valid
+crops/HD_005/b9bd5ab75879b9e3a681.png	Ký ngày: 27/11/2020
+crops/HD_008/d4ae7afb1fb0d9ba443f.png	Ngày 7 tháng 3 năm 2022
+crops/HD_008/e127ee1a4e29c70c00c4.png	STT
+crops/HD_008/6f8059cfe23034869e6e.png	(%)
+crops/HD_008/92259fb2fa61f6ba37a9.png	7=5x6
+crops/HD_008/4e3440fe30b501a97743.png	5
+crops/HD_008/7eeea5f65683db7f0092.png	2
+crops/HD_008/38a722ef8d57bbbb9b79.png	3
+crops/HD_008/f4fcf764a42b0c6fa1c0.png	4
+crops/HD_008/97b188de0790ba7e94dd.png	6
+crops/HD_008/81e2698b680ca0675644.png	1
+crops/HD_008/9a755d08820a472092a9.png	Blue MLVD3VN/A
+crops/HD_008/89eed9a1101abee60ce5.png	10
+crops/HD_008/f697e371a8b29336b4a1.png	25,445,454.55
+crops/HD_008/603b24896c0c0ed803d0.png	25,445,454.55
+crops/HD_008/46c489549f8a063764ea.png	1
+crops/HD_008/b61c1cefc2f4f891727e.png	1
+crops/HD_008/62d594ae7610393fc210.png	MLVC3VN/A
+crops/HD_008/6853f21a70eedc4b35dc.png	10
+crops/HD_008/07124de90f3cb9e33f99.png	25,445,454.55
+crops/HD_008/0fc27a1a85e48cb5ed0b.png	2
+crops/HD_008/016397bdee4498695d80.png	25,445,454.55
+crops/HD_008/07a8a1d62a1274730f8a.png	1
+crops/HD_008/0489d5f785af5690a787.png	MLVC3VN/A
+crops/HD_008/367efbac9901f626cc5a.png	10
+crops/HD_008/5dfaaabf097bb48aafe2.png	25,445,454.55
+crops/HD_008/a50a51e27ecbbdef7cfd.png	3
+crops/HD_008/04decbcebdc8ec2016df.png	25,445,454.55
+crops/HD_008/f07ffd45fbbc36826dd9.png	1
+crops/HD_008/0b6819a7e165381c28ae.png	0
+crops/HD_008/1ca6934ac1c8bc95e8a1.png	4
+crops/HD_008/b9116e2443a6c7b905c2.png	3
+crops/HD_008/99961342e83a0b3a9ebb.png	0
+crops/HD_008/e2c7196814113726fec9.png	5
+crops/HD_008/c3390e17bf2824007e52.png	3
+crops/HD_008/661ee5859e7decc85adb.png	chính hãng (HSD 7 ngày)
+crops/HD_008/6edcfa2db4937242799c.png	0
+crops/HD_008/33ac602f3212663947cd.png	3
+crops/HD_008/c24531dd908474062574.png	6
+crops/HD_008/2498448a4e61d6bcf2c3.png	Cái
+crops/HD_008/163ff0787dcd46860de9.png	0
+crops/HD_008/10b9e0fa3e2b15ed72d8.png	3
+crops/HD_008/3bf3d8ca097f1d5bade4.png	7
+crops/HD_008/879e0c617605e111ac78.png	5%
+crops/HD_008/2a95852dfd0a9b763d3c.png	0%
+crops/HD_008/815fdcb645d742781af0.png	8%
+crops/HD_008/6fa63467f9522a01c0fd.png	10%
+crops/HD_008/aa0736c0bf712b7c13bb.png	76,336,364
+crops/HD_008/30366fec227a65112881.png	76,336,364
+crops/HD_008/41ca97299215eab77b10.png	7,633,636
+crops/HD_008/e7f3ec9b96c84802f6aa.png	7,633,636
+crops/HD_008/d3f631834cbdd29de5df.png	83,970,000
+crops/HD_008/9a21382a8a02569654ee.png	83,970,000
+crops/HD_008/1e5a2cb5b5186a240556.png	0
+crops/HD_008/bc3dae510f99fe2c6301.png	0
+crops/HD_008/ae48f86a855fc326e754.png	Bên bán
+crops/HD_008/80409e0f9aae556b4c8a.png	Bên mua
+crops/HD_008/b0016fc5464fdf1a5523.png	Signature Valid
+crops/HD_008/6491d1383f2a3e26f32d.png	Ký ngày: 07/03/2022
+crops/HD_009/6be552a597ab86f8b423.png	Ngày : 10/06/2019
+crops/HD_009/6a1e21b5059924050f40.png	STT
+crops/HD_009/78993e3986531be5ee82.png	(%)
+crops/HD_009/4278560c6c43e6186909.png	tính
+crops/HD_009/cea85c2bc5b54093e27c.png	(1)
+crops/HD_009/847a1bfe841448565f61.png	(3)
+crops/HD_009/77b4a2e8423a71e99175.png	(4)
+crops/HD_009/f69a98f5d8ada09a7a16.png	(5)
+crops/HD_009/f95cbd331413501ce9f6.png	(2)
+crops/HD_009/b4f368ee8e66ece0f8c0.png	(6)
+crops/HD_009/e2c291bdd786dd1d13bf.png	(7=5x6)
+crops/HD_009/c66d0c31c32e5a32fa6b.png	MT582VN/A
+crops/HD_009/bda73c49d09f94d4c04b.png	10
+crops/HD_009/1d7098d2995bdb01da66.png	36,354,545.45
+crops/HD_009/25a4191338fee3688197.png	36,354,545.45
+crops/HD_009/7877ea16085776d0a0f2.png	0.00
+crops/HD_009/9598b71b9f8a0133a293.png	0.00
+crops/HD_009/543d4784560987d21cfc.png	0
+crops/HD_009/f50ff8a66969b0865883.png	2
+crops/HD_009/4325c42c6d7cecb1d5e6.png	0.00
+crops/HD_009/5c5662200f3944079543.png	0.00
+crops/HD_009/ddf47f91d840ca010e36.png	0
+crops/HD_009/3f516da7d119648c015a.png	3
+crops/HD_009/56f69a1d63555c174d49.png	36,354,545
+crops/HD_009/5450856faebcefb48dd7.png	36,354,545
+crops/HD_009/bb87e0dc16d0080af06d.png	3,635,455
+crops/HD_009/73609eea309048a61425.png	3,635,455
+crops/HD_009/f02870f27f83a40ebd2d.png	39,990,000
+crops/HD_009/f7d636a5dc4a2a7f1c46.png	39,990,000
+crops/HD_009/845e69015c21caf6af5a.png	Bên bán
+crops/HD_009/00c008a78514107427df.png	Bên mua
+crops/HD_009/4e6f33334f2d4fd27402.png	Signature Valid
+crops/HD_009/d667c5826b28f442775f.png	Ký ngày: 10/06/2019
+crops/HD_022/70388da02e60277f4a04.png	VAT INVOICE
+crops/HD_022/96b26e203f63255f65fe.png	(TRANSFORM INVOICE FROM E-INVOICE)
+crops/HD_022/0b91bd7ed4ba9734a654.png	Ngày(Date) 20 tháng(month) 10 năm(year) 2024
+crops/HD_022/1351df9cbc569ab90117.png	: 02871089666
+crops/HD_022/b7637847a8823af3dd7d.png	TS
+crops/HD_022/27cf1eb2fb693313b74e.png	GTGT
+crops/HD_022/67c8e017c9530044be67.png	STT
+crops/HD_022/bdab911d0b99008fcb8c.png	GTGT)
+crops/HD_022/ab135fba4be2d643b0f4.png	tính
+crops/HD_022/4cf46eb28895b30d88fd.png	(VAT
+crops/HD_022/e11d6ded90fcff0d3abd.png	(VAT)
+crops/HD_022/117322635a1dba41de54.png	(No.)
+crops/HD_022/0299e420346c53bc811c.png	GTGT)
+crops/HD_022/cb6171a15613f0f94916.png	(Description)
+crops/HD_022/30a3ad64dc92d6bd3e66.png	(Quantity)
+crops/HD_022/babecb45e6a925e774f5.png	(Unit price)
+crops/HD_022/b2e909c64aa05f177d2b.png	(Unit)
+crops/HD_022/ea47e16f4b130f93f2a9.png	(Amount not
+crops/HD_022/b6769097b6fee7f4de7a.png	rate)
+crops/HD_022/2c837afcb0105843ffff.png	(Amount)
+crops/HD_022/1fff7164a4fe72b83102.png	VAT)
+crops/HD_022/6d1e1bb83464ebbeaf42.png	Cái
+crops/HD_022/ae800566f5d283e494c1.png	10%
+crops/HD_022/a8fc53ba0d6616ae7d2b.png	31.818
+crops/HD_022/eb04c4fc573b65e17c71.png	318.182
+crops/HD_022/f17d99ef5037560c9b8c.png	318.182
+crops/HD_022/c2c0de87392405235abc.png	350.000
+crops/HD_022/279e91104ff4800c22a1.png	1
+crops/HD_022/d7ba18bf25f8d157f827.png	IMEI: 863827056373774
+crops/HD_022/ca0930815df4d28a3f8e.png	Cái
+crops/HD_022/ea2117a3ad083f7776eb.png	10%
+crops/HD_022/b4d7b51e0d7f4bdbd2fe.png	2
+crops/HD_022/3c9d3da6f1b47cbd614b.png	276.364
+crops/HD_022/8ece87b6440f03db7dac.png	2.763.636
+crops/HD_022/7ada40e0b87269dd357d.png	2.763.636
+crops/HD_022/335183ec8827e4951496.png	3.040.000
+crops/HD_022/2643e892f29e736da77b.png	863827056373774
+crops/HD_022/b7af1b37df0ce56ecf59.png	3.081.818
+crops/HD_022/a70d714260aa5598df78.png	308.182
+crops/HD_022/7b883503dd2c926312b6.png	3.390.000
+crops/HD_022/7082e7b21d97d69c40fd.png	(Sign & full name)
+crops/HD_022/228b739e80dc071279c7.png	(Sign & full name)
+crops/HD_022/a865a86b5b0b81ed24ea.png	(Sign, stamp & full name)
+crops/HD_022/1e1c3f2da5f3b24bc2df.png	Signature Valid
+crops/HD_022/45ba5a627e29cd8476f0.png	Ký ngày: 20/10/2024
+crops/HD_022/3f18a38c35b8cca0be56.png	invoices)
+crops/HD_022/e4525bd843d109bfd53f.png	Trang 1/1
+crops/HD_029/de6c7f68172bcd73e6d3.png	Ngày 2 tháng 12 năm 2021
+crops/HD_029/f6fc93d4fb9596431c15.png	STT
+crops/HD_029/181d034e3ba82ea6582b.png	(%)
+crops/HD_029/b60be15f245ac9774759.png	2
+crops/HD_029/d1a67e7ceeaf09327f19.png	3
+crops/HD_029/404b22aa5fa82225e22b.png	5
+crops/HD_029/5b9bc8ba046f13ce0b80.png	7=5x6
+crops/HD_029/88e10067987d034af0ee.png	4
+crops/HD_029/d5a76e2478676424b83f.png	6
+crops/HD_029/cfb48ef893646a17f7a4.png	1
+crops/HD_029/be944be1bdaeb8b33007.png	10
+crops/HD_029/017acbf342720c1b58bc.png	30,900,000.00
+crops/HD_029/98cb4561c8b03b29d303.png	30,900,000.00
+crops/HD_029/0fde0440541d52ec0d54.png	1
+crops/HD_029/d14ce654011141d4f2d5.png	1
+crops/HD_029/c9da47a6f59e68f23ade.png	02/12/2023
+crops/HD_029/915f05aaddb9f1583075.png	2
+crops/HD_029/09ac2309e8dc5c1f235d.png	0
+crops/HD_029/cf62f14e5bcd6fedb843.png	1
+crops/HD_029/9aefc506971ae61dc856.png	3
+crops/HD_029/514ca6e0e1f42f1201a3.png	0
+crops/HD_029/7e19df2ead1735fd9fca.png	1
+crops/HD_029/27901894a21e5e44c8ce.png	1T Esim
+crops/HD_029/6919c5379f32cbf0fda8.png	0%
+crops/HD_029/f59e3ca3bc174cdfd489.png	5%
+crops/HD_029/388e86791c6587e8ceae.png	10%
+crops/HD_029/e49d35dbbf113cc00e52.png	30,900,000
+crops/HD_029/392fa499b186c3cc006e.png	30,900,000
+crops/HD_029/bf42f868e9d5c7054dca.png	3,090,000
+crops/HD_029/c945a26e2bde96553863.png	3,090,000
+crops/HD_029/f87ff98cec364699cf15.png	33,990,000
+crops/HD_029/7b91e7994109b4964ecb.png	33,990,000
+crops/HD_029/5e79f1ba1b8f78bf3579.png	0
+crops/HD_029/e0cf5e4ab606355411c3.png	0
+crops/HD_029/c27f0006cc17cc5834d0.png	Bên mua
+crops/HD_029/41991942411f036f157c.png	Bên bán
+crops/HD_029/ada8075b28d51ff25d80.png	Signature Valid
+crops/HD_029/975904293936856cfb50.png	Ký ngày: 02/12/2021
+crops/HD_030/45789400da5c887d326f.png	Ngày 27 tháng 9 năm 2024
+crops/HD_030/801916c2cb2d95903ad1.png	STT
+crops/HD_030/ae6ee085fe6f79a48754.png	(%)
+crops/HD_030/3bf3193f58f3511babcf.png	5
+crops/HD_030/c686ab813e123382c975.png	2
+crops/HD_030/5801b53ed65f4e1ab39b.png	3
+crops/HD_030/86218c289077b296cfe6.png	7=5x6
+crops/HD_030/c2af5cea650bd676df87.png	4
+crops/HD_030/cfe2c81b3165d066cc62.png	6
+crops/HD_030/28cefeeec8bf302152d8.png	1
+crops/HD_030/680f09af6d4132afc38a.png	10%
+crops/HD_030/a19415e402e9640f88d2.png	31,809,090.91
+crops/HD_030/090b40a8eb3918c51c07.png	31,809,090.91
+crops/HD_030/87c52b52ce96c952c20c.png	1
+crops/HD_030/c36a1c36f3f962cb7b49.png	1
+crops/HD_030/3e5270d34a3f0ce15349.png	10%
+crops/HD_030/19a1d2579b7f426387ce.png	354,545.45
+crops/HD_030/e3194d72c48abd8822b4.png	354,545.45
+crops/HD_030/155074ab7acca310be88.png	2
+crops/HD_030/8aacfee9f7664d6e797e.png	1
+crops/HD_030/7ed2280abdeccdb8fa35.png	Gói
+crops/HD_030/0c9086e58b6c902c5720.png	10%
+crops/HD_030/1cccff662bf7d4d8c586.png	1,181,818.18
+crops/HD_030/39057a346c36252ddba7.png	1,181,818.18
+crops/HD_030/7d35ce9e41901bdc1589.png	3
+crops/HD_030/48cd22c60b184cb59fba.png	1
+crops/HD_030/bf9b6d2e329994b1d28d.png	8%
+crops/HD_030/f6aa3399e0711114b3e8.png	230,555.56
+crops/HD_030/72091e9ef49b81349990.png	230,555.56
+crops/HD_030/34ca412049b4a1fe44fd.png	4
+crops/HD_030/4155da2c565488d04f48.png	1
+crops/HD_030/17f612f329423a73fbd7.png	Max 5D YVS
+crops/HD_030/9f387c0a7b1383f319af.png	8%
+crops/HD_030/95647c4d6c27b214f3bb.png	462,037.04
+crops/HD_030/e7c459e5c64d361792c0.png	462,037.04
+crops/HD_030/a35e2ba30544fd9775ae.png	5
+crops/HD_030/a99450a5f84395a63815.png	1
+crops/HD_030/710c98f064bc40339ee6.png	Cái
+crops/HD_030/d5199b5e41975fce1bf6.png	8%
+crops/HD_030/32c1eaf16c84c27eec05.png	797,222.22
+crops/HD_030/1fd0ce11a1e4532b19de.png	797,222.22
+crops/HD_030/4b336a09df68c56eef10.png	6
+crops/HD_030/f3940a23d343760dbc7d.png	1
+crops/HD_030/fd4feccce083851167e0.png	hành: 26/09/2025
+crops/HD_030/61c59101a670d7344965.png	Cái
+crops/HD_030/1620a8056be30eb0aa02.png	10%
+crops/HD_030/a1cf39476c100f84e42b.png	7
+crops/HD_030/e2eeba81e91509561c36.png	1
+crops/HD_030/067672769be8c7fc0b16.png	8
+crops/HD_030/c168586630d22fed838f.png	1
+crops/HD_030/876590836b94ac36123d.png	5%
+crops/HD_030/8a55dbeec4d7b0ddda5b.png	KCT
+crops/HD_030/948e1538556b4c7c4e27.png	0%
+crops/HD_030/5dff001041c476d025d2.png	8%
+crops/HD_030/035dd3b18adc5dd621fa.png	10%
+crops/HD_030/d65267a67a5162f7c471.png	1,489,815
+crops/HD_030/5ddcdbaa644e7e291f34.png	33,345,455
+crops/HD_030/87f88d0b1f7eb2385ed7.png	34,835,270
+crops/HD_030/80775560e39fb662af93.png	3,453,730
+crops/HD_030/dade66d4519562f51642.png	3,334,545
+crops/HD_030/84f0f51892e5a52cbc0c.png	1,609,000
+crops/HD_030/b87ac2f8be6e1530b165.png	38,289,000
+crops/HD_030/71323e240aaee32eae89.png	36,680,000
+crops/HD_030/e32da5fe0d99aadc3104.png	Bên bán
+crops/HD_030/1cae65dd7fb052463af6.png	Bên mua
+crops/HD_030/455f4224abb7060fc712.png	Signature Valid
+crops/HD_030/c7fa03b2621d425b7ab0.png	Ký ngày: 27/09/2024
+crops/HD_030/469a5034c2f1a7f5cb38.png	Tiep theo trang truoc - trang 2/2
+crops/HD_030/cd14f9ef85d3705953e7.png	Ngày 27 tháng 9 năm 2024
+crops/HD_030/a4f8c3ce1f5e21a1aa77.png	STT
+crops/HD_030/e42769050261a156a4b8.png	(%)
+crops/HD_030/bcc27550f4ca66a7c98f.png	5
+crops/HD_030/c4b1a1ff2410931433d7.png	3
+crops/HD_030/6fc694fdd7f7b71769bc.png	2
+crops/HD_030/3571d244c82bc22be218.png	6
+crops/HD_030/2fd32ab88e3ee4d8ad57.png	7=5x6
+crops/HD_030/94821147a745120455ec.png	4
+crops/HD_030/493b9195b1f8561cc83d.png	1
+crops/HD_030/3a0efaca10d00558f8f4.png	Cái
+crops/HD_030/a7a7fe766cb8c6e15ca3.png	10%
+crops/HD_030/3df173f28f40daa7b049.png	9
+crops/HD_030/eb4ffedd02c986f78877.png	1
+crops/HD_030/506d6dd8e79f111a0b6e.png	0%
+crops/HD_030/24a45393170ae68da746.png	5%
+crops/HD_030/337a1c1a98cb222c46b7.png	8%
+crops/HD_030/1a6c26f94feee11a6745.png	KCT
+crops/HD_030/843f00991675b3667b03.png	10%
+crops/HD_030/e1c9f5d2eada553b7b9c.png	1,489,815
+crops/HD_030/a9800073c82fa339cedc.png	34,835,270
+crops/HD_030/1079a685bccdcd93f288.png	33,345,455
+crops/HD_030/b80ba83beb67ddd05452.png	3,334,545
+crops/HD_030/b89e1e7c8a14b5c1f8fe.png	3,453,730
+crops/HD_030/d79385b33c90000665a0.png	38,289,000
+crops/HD_030/4cfe564054e853d2704d.png	1,609,000
+crops/HD_030/06f08e506b798202fb09.png	36,680,000
+crops/HD_030/d3eacc0868b234dfe161.png	Bên mua
+crops/HD_030/4b0d2ae1856b7b01da10.png	Bên bán
+crops/HD_030/4658ce7eafa12975c441.png	Signature Valid
+crops/HD_030/d17491a6077ee52eb54f.png	Ký ngày: 27/09/2024
+crops/WEB_034/37f2f75b1f17325a657f.png	HCPX2112-8894
+crops/WEB_034/0044f5b29c4f54d6bd78.png	STT
+crops/WEB_034/5c686ab556c17c669f66.png	tính
+crops/WEB_034/95dfb08734b746bea255.png	6 = 4 x 5
+crops/WEB_034/ed4693dc94583a8e76d6.png	5
+crops/WEB_034/7a880935b1e4d7645e5a.png	1
+crops/WEB_034/1f9fd89ea8d2af1ad347.png	2
+crops/WEB_034/98ed02fe738ced915402.png	3
+crops/WEB_034/f7d45fa6a4c08603b6ee.png	4
+crops/WEB_034/f4de372a075986d4b87e.png	CÁI
+crops/WEB_034/d503b8dbd381920a4df3.png	1
+crops/WEB_034/0bfe694221e6bd3b711a.png	28.690.000
+crops/WEB_034/787afa4c7e1d23f87bef.png	28.690.000
+crops/WEB_034/4f684023a4f0ba6f3cbe.png	1
+crops/WEB_034/343c69a3b7301e0b4a0e.png	GOLD 128GB
+crops/WEB_034/dff27836216890b2d8e9.png	SN/IMEI : 352362887129730
+crops/WEB_034/30a42c5dd96626a5ebbb.png	28.690.000
+crops/WEB_034/d1ac565012bd6031ff5d.png	10 %
+crops/WEB_034/dc2c047610af9d97e716.png	2.869.000
+crops/WEB_034/bcddaea7c90f3b59d982.png	31.559.000
+crops/WEB_034/3bc75365f81e32eaa624.png	Signature Valid
+crops/WEB_034/e97746cd3731d0e75bcb.png	Kýngày: 20/03/2022
+crops/WEB_034/3317155579e301b59145.png	Trang: 1/1
+crops/WEB_043/84432b1847c28a623c12.png	Ngày 06 tháng 01 năm 2024
+crops/WEB_043/a6c8e86c32bc35a88fea.png	Mã CQT: M1-24-BFDKV-00132153516
+crops/WEB_043/44ed0cc6938cdd13d9d9.png	TM/CK
+crops/WEB_043/cfa23b58befd4118d9fc.png	VND
+crops/WEB_043/608417821c029c51c46e.png	STT
+crops/WEB_043/df7dfeac69c5ae40ddf1.png	3
+crops/WEB_043/95a8d03536da8be40577.png	7 = 5 x 6
+crops/WEB_043/e640bc45039d623bdca7.png	2
+crops/WEB_043/673701b8e03d7b675c9b.png	4
+crops/WEB_043/1908c1a08b8be8bb94ee.png	5
+crops/WEB_043/ab86666fa69debabb074.png	6
+crops/WEB_043/87f75d0cfb722cd99226.png	1
+crops/WEB_043/c745778837c65a87356a.png	0%
+crops/WEB_043/faa9848524fdccfa1c48.png	87.500
+crops/WEB_043/8345bd2d4bafb0644e8d.png	87.500
+crops/WEB_043/beb89f8aed4fa9ab43a8.png	1
+crops/WEB_043/4dfaaf980a0c668e0311.png	BACTEROCIN OINT KOLMAR 15G
+crops/WEB_043/e33cb89cf402681bcddf.png	1
+crops/WEB_043/1e750f39c0a4f843e9b9.png	0%
+crops/WEB_043/c0bc5aba8504451d1369.png	5%
+crops/WEB_043/93518cc5dbe3ea0b8504.png	8%
+crops/WEB_043/0f0fd21f2cd93c2974fc.png	10%
+crops/WEB_043/774dd3c1055d64b7bdd5.png	87.500
+crops/WEB_043/f6fd9eb38240d3b43ccc.png	87.500
+crops/WEB_043/9d3ddb8309a6397d0888.png	0
+crops/WEB_043/af244c43c998e6863bc5.png	0
+crops/WEB_043/62f403540364d05a0087.png	87.500
+crops/WEB_043/df4b3ebe70ff5ce4ffb0.png	87.500
+crops/WEB_043/71144abd49845617233f.png	Bên mua
+crops/WEB_043/f24909f3dd2fef48b2be.png	Bên bán
+crops/WEB_043/f22b6df379d4c6f3c0e8.png	Trang 1/1
+crops/WEB_044/a0de71c603c85d7f677f.png	Ngày 20 tháng 02 năm 2024
+crops/WEB_044/45327bdbb466e70072b2.png	Mã CQT: M1-24-BFDKV-00148144969
+crops/WEB_044/666dbb2463d96581fafb.png	ông lê
+crops/WEB_044/971ea6108015f16a2b45.png	VND
+crops/WEB_044/10521ba88d356527eccd.png	TM/CK
+crops/WEB_044/4436afe86bd153b20a94.png	STT
+crops/WEB_044/9eb69d866f06423de7d4.png	2
+crops/WEB_044/b522cf8566ffef993e5d.png	3
+crops/WEB_044/a3ae3d106c29892d0e34.png	5
+crops/WEB_044/5d5bf7f5f7d40fbcb858.png	6
+crops/WEB_044/882d43d9fbe324bc5ada.png	1
+crops/WEB_044/a4526e0ebf62247aa3dc.png	4
+crops/WEB_044/432860fe27055adf33d1.png	7 = 5 x 6
+crops/WEB_044/c4259838d48c832a009c.png	8%
+crops/WEB_044/cae5745b13b56577b4ca.png	6
+crops/WEB_044/3d52f4aaef0ba6d78755.png	5.356.481,48
+crops/WEB_044/46381b0b6befbccbf50d.png	32.138.888,89
+crops/WEB_044/03d001029242561d8062.png	1
+crops/WEB_044/aa9eb43fb845a742aeab.png	DA NMN PREMIUM 21600 60V
+crops/WEB_044/f8844f985fdf557d6001.png	0%
+crops/WEB_044/0303f802d8cf94cbe55f.png	5%
+crops/WEB_044/e4df34780725fc0608e7.png	8%
+crops/WEB_044/19bf5a59d752b4e9b827.png	10%
+crops/WEB_044/96e8ae7ce781fb9b391e.png	32.138.888,89
+crops/WEB_044/05d0746877acd362afd0.png	32.138.888,89
+crops/WEB_044/4d5df9f0f70be4d462f8.png	2.571.111,11
+crops/WEB_044/7f453c9654668a542d4f.png	2.571.111,11
+crops/WEB_044/90a8a45ed8d0349369fb.png	34.710.000
+crops/WEB_044/5b590c210fbe3077435c.png	34.710.000
+crops/WEB_044/d0e10ff817be9c6a314f.png	Bên mua
+crops/WEB_044/dc824324adbebcc1c297.png	Bên bán
+crops/WEB_044/19856d5eac238d1386e0.png	Trang 1/1
+crops/WEB_045/590fb40ff8310926a00e.png	Ngày 18 tháng 05 năm 2024
+crops/WEB_045/a105533e7c0a81aa7721.png	Mã CQT: M1-24-BFDKV-00179047086
+crops/WEB_045/4a8c0ad75d23fa7b8539.png	TM/CK
+crops/WEB_045/50f963fd63c4dcbb3f8b.png	VND
+crops/WEB_045/4d802e0e099b03f1a044.png	STT
+crops/WEB_045/ffb3c5c3a7f8648318fe.png	3
+crops/WEB_045/8f24faafbb4aed59d6ae.png	2
+crops/WEB_045/2264f402fcefaa06d66a.png	4
+crops/WEB_045/a3eb92bfd5cb9c4e6a7a.png	5
+crops/WEB_045/6388eab806261fb03fc3.png	6
+crops/WEB_045/027bdf3b6b13d2cdc619.png	1
+crops/WEB_045/431b00ac061f0dafb629.png	5%
+crops/WEB_045/78da539301a8d01c1ac4.png	2
+crops/WEB_045/d9d05d6cd34b4cfffad0.png	62.857,14
+crops/WEB_045/252f301a06b031ef6843.png	1
+crops/WEB_045/a56f8d87d270630b8c36.png	125.714,29
+crops/WEB_045/ba179344de32e1f216c4.png	RUPAFIN 10MG HYPHENS 1X10
+crops/WEB_045/e2d5b7a03ca25db2051b.png	8%
+crops/WEB_045/87163c5674e169a8136a.png	0%
+crops/WEB_045/2c324833974be824cf87.png	5%
+crops/WEB_045/12bc47e8f467327cf16f.png	10%
+crops/WEB_045/dafbd169069535b43122.png	125.714,29
+crops/WEB_045/787545820b15ae910020.png	125.714,29
+crops/WEB_045/48e7c9efef6c11fbbae3.png	6.285,71
+crops/WEB_045/1ddd2764b3207ebe14e3.png	6.285,71
+crops/WEB_045/a4c492854c81c7459063.png	132.000
+crops/WEB_045/2dcec30c72be623569f4.png	132.000
+crops/WEB_045/f5e80c2f19da52cdadb0.png	Bên mua
+crops/WEB_045/2204244505894cc4811a.png	Bên bán
+crops/WEB_045/4aefe7bd143db5f36547.png	Trang 1/1
+crops/WEB_058/f329a922fec996a86e66.png	VAT INVOICE
+crops/WEB_058/44db1d35e4940789558d.png	Ngày(Date) 27 tháng(month) 12 năm(year) 2021
+crops/WEB_058/b3429440d3461fe6ca16.png	: 028 71089666
+crops/WEB_058/5ef6c032351fc3ff53d1.png	: HCM
+crops/WEB_058/78b0cb8f82e62304dd29.png	TS
+crops/WEB_058/37b7a3f95829a192b273.png	GTGT
+crops/WEB_058/5efaa4ac1c5d596d347e.png	STT
+crops/WEB_058/11a93bc55d01a0fc7a27.png	GTGT)
+crops/WEB_058/49338ff0a78b8afe62c7.png	tính
+crops/WEB_058/f16b7c899deb4824e877.png	GTGT)
+crops/WEB_058/139ea3f67398f3a0442a.png	(VAT
+crops/WEB_058/f46478732f0b97f60ac7.png	(No.)
+crops/WEB_058/b6f42ffa96246e35deb9.png	(VAT)
+crops/WEB_058/2384d0d8dfccb108570c.png	(Description)
+crops/WEB_058/6f5f56b207683c18a25d.png	(Unit price)
+crops/WEB_058/297ada42646330811413.png	(Unit)
+crops/WEB_058/44909a6871d709e582a1.png	(Amount not
+crops/WEB_058/7d9ad7620de1983bc02f.png	(Quantity)
+crops/WEB_058/0a5f3dfc5d678b480c6b.png	rate)
+crops/WEB_058/65bcf8633f31ce346c36.png	(Amount)
+crops/WEB_058/ebe24404353da5b65ef5.png	VAT)
+crops/WEB_058/f79e1f0cfae741dd8734.png	APPLE IPHONE 12 PRO 128GB
+crops/WEB_058/277d8206138062459a3a.png	Cái
+crops/WEB_058/4c0b78deebfc0cbf4a17.png	10%
+crops/WEB_058/eab0f0bfd42c77801cda.png	20.627.273
+crops/WEB_058/d2834c4ebcd40ab8b970.png	20.627.273
+crops/WEB_058/559d6118ed967f044f96.png	2.062.727
+crops/WEB_058/3c64a138a845511989f8.png	22.690.000
+crops/WEB_058/7ac518d9ca4ba26ed4b7.png	1
+crops/WEB_058/283e0d9b859c60bc149b.png	354991553938145
+crops/WEB_058/6e01a5cb4708bd4c8a26.png	2.062.727
+crops/WEB_058/bba6578f99de866e6954.png	22.690.000
+crops/WEB_058/5cf4ab14d396e9fe8147.png	20.627.273
+crops/WEB_058/df2f206fa3336948ce3c.png	(Sign & full name)
+crops/WEB_058/bf55046ed0c95bc27dbe.png	(Sign, stamp & full name)
+crops/WEB_058/ffaf00c970bed689797d.png	Signature Valid
+crops/WEB_058/ca2e0d021c648e7a596c.png	Ký ngày: 27/12/2021
+crops/WEB_058/1e869fcef590c2c7e02b.png	(Please check e-Invoice at the website: https://hddt.cellphones.com.vn/
+crops/WEB_058/0c3bf73b1a85c6225ce8.png	Trang 1/1
+crops/WEB_096/57dbac201264c8e93b38.png	Email:  congtyxuanphung@gmail.com
+crops/WEB_096/687b3cdead02175f2133.png	00000684
+crops/WEB_096/d960b999661bc825f429.png	Mã CQT: 004C1C839C060549E6A0825E990447C5ED
+crops/WEB_096/c522f44fec5e44a10e43.png	STT
+crops/WEB_096/04ca031299a7b0be8e39.png	2
+crops/WEB_096/f4220ef1e82b8aee955a.png	6 = 4 x 5
+crops/WEB_096/14055f436ef801f04bbf.png	1
+crops/WEB_096/5fc72040c7470b0abb22.png	5
+crops/WEB_096/8a2e720f88be01301808.png	3
+crops/WEB_096/812b23b14c048beaedaf.png	4
+crops/WEB_096/399dcdaa95a415a73a6c.png	500.000
+crops/WEB_096/f87a6ae3b449d2010dc4.png	Cái
+crops/WEB_096/c8f59c27530d18712c0b.png	1,00
+crops/WEB_096/b8e489e7514e45c9e169.png	500.000,00
+crops/WEB_096/227d9909cf43c6d2a75f.png	1
+crops/WEB_096/3ce03b71175faaae1500.png	62-01
+crops/WEB_096/4b826842887a1f9d104d.png	1,00
+crops/WEB_096/04e9bda7cfa8d0c812aa.png	Cái
+crops/WEB_096/4f58695b6c1d9a2c8409.png	2
+crops/WEB_096/89815d81a85a09bec520.png	445.000,00
+crops/WEB_096/7ccefa4b744800c7a967.png	445.000
+crops/WEB_096/ea0f8ce933889fc1142c.png	1,00
+crops/WEB_096/5c7ceedfc1e13cfc15f9.png	52.000,00
+crops/WEB_096/ceed4ec77df25077b53f.png	3
+crops/WEB_096/89e2cd29dceb45936057.png	Cái
+crops/WEB_096/2c1efa1c00cdff77b1c0.png	52.000
+crops/WEB_096/33b089d96bc7eb046f5c.png	2,00
+crops/WEB_096/396cb4473dc87b93edfc.png	4
+crops/WEB_096/84ba30a7845ddf89e12c.png	96.000
+crops/WEB_096/7642770b7c01cf0fcf69.png	48.000,00
+crops/WEB_096/2a851ab097c60f18824a.png	Cái
+crops/WEB_096/acba4d139de5585fe8ca.png	Piston 143RII 40mm. Rpl 521 32 51-01
+crops/WEB_096/1be0b710decf3e0723a8.png	Cái
+crops/WEB_096/cdd8dacf47f7d46fd4e6.png	1,00
+crops/WEB_096/7bafd80118811ae71da3.png	160.000,00
+crops/WEB_096/978b22b919f2e91af090.png	160.000
+crops/WEB_096/6bb2329789113e7a9eab.png	5
+crops/WEB_096/9bd669929ebf4af2c7e4.png	1.253.000
+crops/WEB_096/5f44692572b48fd2f9f8.png	125.300
+crops/WEB_096/1ca187f36be58bc8219c.png	1.378.300
+crops/WEB_096/f8e914f0b7788305ccb8.png	Signature Valid
+crops/WEB_096/bf5d222534384c77327a.png	Ký ngày:  15/05/2025
+crops/WEB_097/07af53fbf14e00b21103.png	Email:  congtyxuanphung@gmail.com
+crops/WEB_097/463d10cb12bca9a6a699.png	00000683
+crops/WEB_097/876eac07ea0a51a34263.png	Mã CQT: 0073B6CF9BB1DF41688F5EAA6F3DE6BA92
+crops/WEB_097/ea5ee53d96fdcfd85b21.png	STT
+crops/WEB_097/c6317581718c462c0616.png	2
+crops/WEB_097/d395f844be241280b5f1.png	4
+crops/WEB_097/ecdb562c140ba2bcddbb.png	6 = 4 x 5
+crops/WEB_097/ae3728348a924ff2a7e8.png	1
+crops/WEB_097/6cdeb3431e1ef2efe09e.png	5
+crops/WEB_097/95435070ede859ec571b.png	3
+crops/WEB_097/83cc182e520f0504653d.png	1,00
+crops/WEB_097/34487640aec8f7be9e0e.png	Cái
+crops/WEB_097/f660086a977656c42e45.png	430.000,00
+crops/WEB_097/7d4e717b9ea86ad242f3.png	430.000
+crops/WEB_097/8be0e070d2e8a4a8fbae.png	1
+crops/WEB_097/bb979bd9bba7323405ae.png	525 95 70-01
+crops/WEB_097/45a673427aaaf7510db2.png	1,00
+crops/WEB_097/64431d69ed9fbdb1bae2.png	Cái
+crops/WEB_097/409edb12589fb1f69c25.png	2
+crops/WEB_097/3092b7c1474557680908.png	165.000,00
+crops/WEB_097/8be1db48e22c6a6139a6.png	165.000
+crops/WEB_097/7bf9cb669a26c1883626.png	2,00
+crops/WEB_097/262751fd3e4c3e7a6463.png	31.000,00
+crops/WEB_097/bdb9c1647242a1b0c035.png	3
+crops/WEB_097/319a87553b42bfef03b2.png	Cái
+crops/WEB_097/9688227d7ad50c281c3c.png	62.000
+crops/WEB_097/2554871e4df8fde138e8.png	17.500,00
+crops/WEB_097/c287b2daaba1bbf6bea8.png	2,00
+crops/WEB_097/47a6a358b2a51c590578.png	4
+crops/WEB_097/d83e2efd5fccf4a12473.png	35.000
+crops/WEB_097/aed685f46109bea380c2.png	Cái
+crops/WEB_097/4380e766328cccbf33c8.png	Cái
+crops/WEB_097/1a2986b3857cf897bea3.png	1,00
+crops/WEB_097/7c0bf7499fb08794d13f.png	62.000
+crops/WEB_097/2884b10d9386a6ebc027.png	62.000,00
+crops/WEB_097/cfb027fdcdb722b7db66.png	5
+crops/WEB_097/bd9aa17a513175d99721.png	1,00
+crops/WEB_097/eb2263135cde5e59b0fd.png	Cái
+crops/WEB_097/1447e12b44ac16c3bcf2.png	6
+crops/WEB_097/d8e2adfb4c444e15d8c9.png	170.000
+crops/WEB_097/ebe073eae7813390234c.png	170.000,00
+crops/WEB_097/be1f76b9fe7e73ad747c.png	1,00
+crops/WEB_097/24ec1853b1d90f40dc42.png	Cái
+crops/WEB_097/1746f62cdc08fd8e617c.png	Dây ga MCC143R2,236R, 226
+crops/WEB_097/ad7ef4e9c28a06461170.png	250.000,00
+crops/WEB_097/5dab4318a503f7ea13fd.png	250.000
+crops/WEB_097/63497abc5469305c616e.png	7
+crops/WEB_097/7e2c92cb84fec22fbd27.png	2,00
+crops/WEB_097/9eb573e87be9ddfd6f49.png	8
+crops/WEB_097/a72d2435cad7c463a04a.png	45.727,20
+crops/WEB_097/6d0da8766e1030e5a809.png	Cái
+crops/WEB_097/db6e05cb0e1e2abf387e.png	91.454
+crops/WEB_097/0fe072ee11f5e88671d3.png	1.265.454
+crops/WEB_097/8a875018f9ec4f495225.png	126.546
+crops/WEB_097/d338c9f86980edf61a71.png	1.392.000
+crops/WEB_097/8b1bfa7cca1bef1fd93f.png	Signature Valid
+crops/WEB_097/609dc9a0eb1935b2b998.png	Ký ngày:  15/05/2025
+crops/WEB_110/e5e2a4e0f865d93929e9.png	VAT INVOICE
+crops/WEB_110/e49a00350d652d6a6305.png	Ngày(Date) 05 tháng(month) 08 năm(year) 2024
+crops/WEB_110/fc0d929d3042a89652cd.png	Nam
+crops/WEB_110/7d15a25d7a5920627de2.png	: 18002044
+crops/WEB_110/74609c40e50d9278c752.png	TS
+crops/WEB_110/0c1521bcabf2d4f44d7f.png	STT
+crops/WEB_110/501182b54fe0b758e0f0.png	GTGT
+crops/WEB_110/72f066895c8b85f4c54a.png	GTGT)
+crops/WEB_110/b60462ef1cfa09c95446.png	tính
+crops/WEB_110/8109c776c65192da9510.png	GTGT)
+crops/WEB_110/917495d37bb34b0388f3.png	(No.)
+crops/WEB_110/ce37a91cc4969be3b90a.png	(VAT
+crops/WEB_110/8e7cb2f8854fc7d7fdae.png	(VAT)
+crops/WEB_110/34277df3a51006c15efa.png	(Unit price)
+crops/WEB_110/b69ff115392382722882.png	(Description)
+crops/WEB_110/7f88ce12f00e8b031b64.png	(Unit)
+crops/WEB_110/e339a3986bd10b792c3c.png	(Quantity)
+crops/WEB_110/dabd98512a7db8643d8f.png	(Amount not
+crops/WEB_110/9fb65a7922761fa536cb.png	rate)
+crops/WEB_110/01788dafeb39f02dc003.png	(Amount)
+crops/WEB_110/1a41072860fae247253e.png	VAT)
+crops/WEB_110/545186f7ebefcdbbdaf1.png	SM-X916BZAIXXV
+crops/WEB_110/731640adf9290c3594d7.png	Cái
+crops/WEB_110/c1b85180b95a66ec076b.png	10%
+crops/WEB_110/794a81c8646bdd677a25.png	2.843.181
+crops/WEB_110/54b7e743b24324786854.png	1
+crops/WEB_110/5b2d7522f626f5d18d7d.png	28.431.819
+crops/WEB_110/6501ec0dbd2f807bca27.png	28.431.819
+crops/WEB_110/d503ab8274e43bb4a6b2.png	31.275.000
+crops/WEB_110/acd816510e5deee01c3e.png	X916B,1TB,Xám- IMEI:
+crops/WEB_110/a726c18628b98f8cc619.png	355954720233658
+crops/WEB_110/6dfec5f52becfc56d166.png	Cái
+crops/WEB_110/ecfef937e728948b5222.png	422.727
+crops/WEB_110/d890715d02102c3ac3ef.png	42.273
+crops/WEB_110/f2b01ff9c99ce0cad1f6.png	465.000
+crops/WEB_110/094655464b99c6b09216.png	2
+crops/WEB_110/ed57a7f273a07fa5168b.png	10%
+crops/WEB_110/9393aa0016dc3e3878b2.png	ZM107- IMEI:
+crops/WEB_110/07ccb00d78d735b20a19.png	422.727
+crops/WEB_110/2450464b3dcba8670bd0.png	355954720233658
+crops/WEB_110/89c2bd10f7f2e90a3c74.png	EF-DX915UBEGWW
+crops/WEB_110/9058f1a0b22f438837d7.png	Cái
+crops/WEB_110/b5e7a2f2a5a71d7ce7ae.png	3
+crops/WEB_110/73da99710692c6457960.png	10%
+crops/WEB_110/90ed52f8f66a3502eb2a.png	4.457.000
+crops/WEB_110/bb93c90e4a4083fdf8ab.png	405.182
+crops/WEB_110/d8bcd988f76aeff1a80b.png	4.051.818
+crops/WEB_110/bc82d3d70ae36e0e6ca9.png	4.051.818
+crops/WEB_110/bcf71b77b2f1ff9e90b8.png	RF7X600T77FCIS
+crops/WEB_110/f7737d1a778faacedf88.png	32.906.364
+crops/WEB_110/1648cdf750b16ee69809.png	3.290.636
+crops/WEB_110/474af457bee836e2a937.png	36.197.000
+crops/WEB_110/f1ccca42cc116bfd6aa1.png	(Sign & full name)
+crops/WEB_110/aea3321899e1b7481797.png	(Sign, stamp & full name)
+crops/WEB_110/e73d0b192bd798b6d016.png	Signature Valid
+crops/WEB_110/f2636c55c48785492fac.png	Ký ngày: 05/08/2024
+crops/WEB_110/e927c801760fc03cfb48.png	Trang 1/1
+crops/WEB_111/6d9d7453a1f187fbd7f0.png	VAT INVOICE
+crops/WEB_111/c09a86b68e54808d22f3.png	Ngày(Date) 29 tháng(month) 09 năm(year) 2023
+crops/WEB_111/b5c40d634a3ddb09234a.png	Nam
+crops/WEB_111/0bd373ccfd697d395834.png	: 0967645164
+crops/WEB_111/f5727fe955e730ca8b88.png	TS
+crops/WEB_111/8a708823a542ef298c96.png	STT
+crops/WEB_111/40f0ea57c97a54bdf1ad.png	GTGT
+crops/WEB_111/b3d854ec524a8bb61365.png	GTGT)
+crops/WEB_111/aaea4175446384bd91c9.png	tính
+crops/WEB_111/0b289255fdf8ecaea156.png	(VAT
+crops/WEB_111/74f9d3b021edab357fed.png	GTGT)
+crops/WEB_111/47908491ce1791176b81.png	(No.)
+crops/WEB_111/283750e2af01bf4213d2.png	(VAT)
+crops/WEB_111/2512bfd6ea5773c5b5e4.png	(Unit price)
+crops/WEB_111/6f69576e76be00454efc.png	(Description)
+crops/WEB_111/868af56685c6c1478e57.png	(Unit)
+crops/WEB_111/93b952fd08e20a7608ab.png	(Amount not
+crops/WEB_111/172ac5c8a5c9174b99b6.png	(Quantity)
+crops/WEB_111/8d8fefb03fc67435f80e.png	rate)
+crops/WEB_111/00a9111bac753b1acc9a.png	(Amount)
+crops/WEB_111/1d7868e737921d95beac.png	VAT)
+crops/WEB_111/7d21ece629effcaf7dc0.png	128GB, Natural Titanium, 1Y
+crops/WEB_111/b60f7f0180a28f709fb7.png	26.090.909
+crops/WEB_111/614d1bef740df51ff84f.png	26.090.909
+crops/WEB_111/2b042b8c20e45594d802.png	Cái
+crops/WEB_111/66e570ce612401b1b942.png	10%
+crops/WEB_111/85045203e1268d18374e.png	2.609.091
+crops/WEB_111/2112f1fa874f399b849a.png	28.700.000
+crops/WEB_111/0d39215d7adc65f9df1c.png	1
+crops/WEB_111/3a53a8b261e62c3a895e.png	YL374M4YCG
+crops/WEB_111/4e4680ad7119427dcda1.png	2.609.091
+crops/WEB_111/da7bb0edf3168b7f5e12.png	26.090.909
+crops/WEB_111/2e7207d50e1a9b9d6722.png	28.700.000
+crops/WEB_111/3307e24c2c86c845c432.png	(Sign & full name)
+crops/WEB_111/f2893f2a637bd2fdf955.png	(Sign, stamp & full name)
+crops/WEB_111/fc960695396b2deb349b.png	Signature Valid
+crops/WEB_111/ca414ba14a89e5f57d7c.png	Ký ngày: 29/09/2023
+crops/WEB_111/14b2b4bc47a0c7493d96.png	Trang 1/1
+crops/WEB_112/77b00b543ebfcb81f748.png	VAT INVOICE
+crops/WEB_112/cef77a3cbd685192fc7f.png	Ngày(Date) 21  tháng(month) 02 năm(year) 2024
+crops/WEB_112/a37c5d4d28f48fadcb6a.png	: 02871089666
+crops/WEB_112/a600ad55fd36f1c66838.png	: Hcm
+crops/WEB_112/69cfe2e8f2bf09ae4e15.png	TS
+crops/WEB_112/96b16180bbdcf2eb6979.png	STT
+crops/WEB_112/220807a0285d7ff79b14.png	GTGT
+crops/WEB_112/f799193b24118c86e182.png	GTGT)
+crops/WEB_112/4bc2702799c7ca73663b.png	tính
+crops/WEB_112/e51fc9fa9151c8dcfd77.png	(VAT
+crops/WEB_112/aac38b2139658a0fa9a9.png	GTGT)
+crops/WEB_112/5f065b124089b962be67.png	(No.)
+crops/WEB_112/69f482a75c94f0058744.png	(VAT)
+crops/WEB_112/a9ae74cdd4abcec5d82b.png	(Unit price)
+crops/WEB_112/1cdd3036e2000ab5476b.png	(Description)
+crops/WEB_112/b10e424dde39c5db62ce.png	(Unit)
+crops/WEB_112/1be423565eb9aaefb503.png	(Quantity)
+crops/WEB_112/c43062f208ff43319aa9.png	(Amount not
+crops/WEB_112/fc5418f35185f95aeb2c.png	rate)
+crops/WEB_112/89e03e7a0f94fc2e86b3.png	(Amount)
+crops/WEB_112/f578f2d6fb03cd581b0a.png	VAT)
+crops/WEB_112/040357a273b3fe1f0d5c.png	Vòng đeo tay thông minh Xiaomi
+crops/WEB_112/2d757de9492569af443b.png	Smart Band 8 Champagne
+crops/WEB_112/26c7c80f8148bcc73eb2.png	Cái
+crops/WEB_112/ab7ab0052aefee68fb3a.png	10%
+crops/WEB_112/1b045ecf2f3b7e7a7ebd.png	71.818
+crops/WEB_112/0a52a03f2bf37c18b9cc.png	718.182
+crops/WEB_112/e48461a7af8cda4039d2.png	718.182
+crops/WEB_112/d725520bd0b855de8005.png	790.000
+crops/WEB_112/5743af7d854665fad5a7.png	Gold BHR7166GL- IMEI:
+crops/WEB_112/11dc4a0da1a3fde16f0e.png	46719/CRAG503XN25668
+crops/WEB_112/5c0ad9ce2cec01d0a532.png	71.818
+crops/WEB_112/82a1fcb1aa3883454756.png	718.182
+crops/WEB_112/b88005c5f45749478727.png	790.000
+crops/WEB_112/68721d6a34e98b36d60b.png	(Sign, stamp & full name)
+crops/WEB_112/405e5e161655861a30a0.png	(Sign & full name)
+crops/WEB_112/836978103d52c8d9f2fb.png	Signature Valid
+crops/WEB_112/f3629425f4fbd346c6fd.png	Ký ngày: 21/02/2024
+crops/WEB_112/7e88da848114ddbc67e1.png	Trang 1/1
+crops/WEB_113/bf95c1c56c8fe8253737.png	VAT INVOICE
+crops/WEB_113/2d72710bf235f89709aa.png	Ngày(Date) 23 tháng(month) 02 năm(year) 2024
+crops/WEB_113/5ecba9c4f1d3dd62b8f8.png	: 02871089666
+crops/WEB_113/a856d473fde324099099.png	: hcm
+crops/WEB_113/4be9e92842f37226ec46.png	TS
+crops/WEB_113/d4297afb902aeaa53048.png	STT
+crops/WEB_113/38a109d71eb91f1bbd66.png	GTGT
+crops/WEB_113/dfdb555df51cb51dbf8c.png	GTGT)
+crops/WEB_113/9c07a8c750df634b117c.png	tính
+crops/WEB_113/5c34b3cfd4cce3ea57c5.png	GTGT)
+crops/WEB_113/a34c58ab8487869ec791.png	(VAT
+crops/WEB_113/631f149c7dfe8128e0d3.png	(No.)
+crops/WEB_113/597d67cb36b09b462de4.png	(VAT)
+crops/WEB_113/73cd2104d37a525b2cb6.png	(Unit price)
+crops/WEB_113/b27097e910f6f70926bd.png	(Description)
+crops/WEB_113/f437165fba35187967ac.png	(Unit)
+crops/WEB_113/eb41b97b845e89f04d29.png	(Quantity)
+crops/WEB_113/dfece2826c09b77c0741.png	(Amount not
+crops/WEB_113/2ca6e2bd977859264d08.png	rate)
+crops/WEB_113/81e367f104a2659b2aba.png	(Amount)
+crops/WEB_113/12568a393acc60181d0c.png	VAT)
+crops/WEB_113/0b2a828852103ba38729.png	Trackpad - Black Multi - Touch
+crops/WEB_113/87fd4a807528163a6285.png	Cái
+crops/WEB_113/797fd62b4eb0057b94e1.png	3.118.182
+crops/WEB_113/e365d1a772f3a7fa84e1.png	10%
+crops/WEB_113/c2a59d92da0f7bb59e61.png	311.818
+crops/WEB_113/369ff6606dfbde604301.png	3.118.182
+crops/WEB_113/86a2a7f8fe95d8ac373c.png	3.430.000
+crops/WEB_113/ca5a07461a6e7e74e632.png	CC2335600DV1G2YA0
+crops/WEB_113/c9edb8cb4599dfdec6d8.png	3.118.182
+crops/WEB_113/a924ad3bd81f466dd434.png	3.430.000
+crops/WEB_113/bc35b54870e04e9aef00.png	311.818
+crops/WEB_113/8ab7e1c2c77690563ed0.png	(Sign, stamp & full name)
+crops/WEB_113/15cc5bbf3abbb68f41c8.png	(Sign & full name)
+crops/WEB_113/52cedd8eb76c89a09ed5.png	Signature Valid
+crops/WEB_113/4fdc2bfe132a698c62cf.png	Ký ngày: 23/02/2024
+crops/WEB_113/1651de375163eaf9f77a.png	Trang 1/1
+crops/WEB_114/3ef229fd29acb533a49c.png	VAT INVOICE
+crops/WEB_114/f70a83087e1144dc5b97.png	Ngày(Date) 06 tháng(month) 06 năm(year) 2024
+crops/WEB_114/9a08b0bd7518fe712b99.png	: 02871089666
+crops/WEB_114/97e6e5edb36f4974533e.png	: HCM
+crops/WEB_114/9017688dd91ed1cfaa80.png	TS
+crops/WEB_114/c0e39d79e2f5cebf7221.png	STT
+crops/WEB_114/7b2ccdadc19dc2824fab.png	GTGT
+crops/WEB_114/cecacd13b8f73674132b.png	GTGT)
+crops/WEB_114/2afafb99951b4701a680.png	tính
+crops/WEB_114/09264bd041d2545425aa.png	GTGT)
+crops/WEB_114/9c031f39bf5cd401d2ae.png	(VAT
+crops/WEB_114/fb44f4a17476f45cac83.png	(No.)
+crops/WEB_114/33f6e6b8a222522a16f3.png	(VAT)
+crops/WEB_114/becee13b04f9ed0a63c8.png	(Unit price)
+crops/WEB_114/314eee63e62425593b7d.png	(Description)
+crops/WEB_114/85028521be1f2dd51c44.png	(Unit)
+crops/WEB_114/79bc6ea88bbb1f66bb79.png	(Quantity)
+crops/WEB_114/c5e86cfb960498c9f078.png	(Amount not
+crops/WEB_114/901cff773a45304dd39c.png	rate)
+crops/WEB_114/2a98f171bb1b24bc9073.png	(Amount)
+crops/WEB_114/f4f10a3c7a4d2f26ac57.png	VAT)
+crops/WEB_114/261c44cb15674fb214b5.png	Cái
+crops/WEB_114/ab36b82c06c7c4a65506.png	75.727
+crops/WEB_114/ee27c7eb8bb435f13d72.png	10%
+crops/WEB_114/d4598db107b795f35f48.png	kèm cáp 45W (EP-T4511)- IMEI:
+crops/WEB_114/4e6373997aa982aadd4f.png	757.273
+crops/WEB_114/a680239d1d02cdd564c2.png	757.273
+crops/WEB_114/981fd9d517661d9ada1a.png	833.000
+crops/WEB_114/b27f3871c663ce681c19.png	1
+crops/WEB_114/6e61bd36062d6f58633a.png	RF7X43CPDL1DKB
+crops/WEB_114/b07fdc073afcf223b79d.png	75.727
+crops/WEB_114/e9d2fd4a341eeeeafaaa.png	833.000
+crops/WEB_114/3326a7154987dadb30ad.png	757.273
+crops/WEB_114/722190f61e2c910040e0.png	(Sign & full name)
+crops/WEB_114/e0246780bdc813a4505b.png	(Sign, stamp & full name)
+crops/WEB_114/0ac939e1f2900dd38d8a.png	Signature Valid
+crops/WEB_114/8f66287216cf0fc0c8e2.png	Ký ngày: 06/06/2024
+crops/WEB_114/69049cf3cb2e4d726a06.png	Trang 1/1
+crops/WEB_117/01e587d8dc0415594708.png	00000040
+crops/WEB_117/265e60678464f49f717d.png	Mã CQT: 0011F803124BFB49C98A12CAF0ED45FB3F
+crops/WEB_117/d6113a0bf6d21b888687.png	STT
+crops/WEB_117/063ca05a40cc4a7ccbee.png	Cái
+crops/WEB_117/ab08f0ae603c49d53d20.png	50,00
+crops/WEB_117/745b8d53e6badfb0948a.png	13.500.000
+crops/WEB_117/7bb3b4cc97bcf64b3431.png	1
+crops/WEB_117/3f713029e34a93ede306.png	270.000,00
+crops/WEB_117/217475f0aa3acd685876.png	13.500.000
+crops/WEB_117/a81c4742c623333c50db.png	1.080.000
+crops/WEB_117/b1cfdcdcc781c8e5fc1b.png	14.580.000
+crops/WEB_117/fb4ca52d86f694d06100.png	Signature Valid
+crops/WEB_117/d25453f5f5d6bb2bbc78.png	Ký ngày:  27/01/2026
+crops/WEB_118/8dafc4beba18ba2c45ce.png	00000036
+crops/WEB_118/cee0bbcdc52dc1a74047.png	Mã CQT: 005CC925438EF24302B50EE0750DDA66AD
+crops/WEB_118/7b0f917887595f6b2440.png	Minh.
+crops/WEB_118/eb8e04938f408d4ae300.png	STT
+crops/WEB_118/78c59403c906a36a6bd5.png	1,00
+crops/WEB_118/e3843a65390c931f9a5e.png	20.000.000,00
+crops/WEB_118/bd326a8dcd88151416ad.png	20.000.000
+crops/WEB_118/514baecd01d28090809f.png	1
+crops/WEB_118/c95b155918f60c8dc4a0.png	Model: DZY-II
+crops/WEB_118/205976571f1c9f157eba.png	2
+crops/WEB_118/7719f562d6df5df00675.png	1,00
+crops/WEB_118/4871229435ae84454b76.png	6.800.000,00
+crops/WEB_118/cf0ad66c71b9b5f298fd.png	Cái
+crops/WEB_118/9b0b6c37a55618de9b68.png	6.800.000
+crops/WEB_118/03eabbf6b4f848362889.png	Cái
+crops/WEB_118/9123fcae5221c6cc483d.png	2,00
+crops/WEB_118/a3bb2c1788edc7dfc1aa.png	3
+crops/WEB_118/1f9fe5cc5ad40fc9b944.png	700.000
+crops/WEB_118/98b67d157840790dc42b.png	350.000,00
+crops/WEB_118/737a796cdb41a1bba7a0.png	Cái
+crops/WEB_118/774412723cc22387daba.png	38,00
+crops/WEB_118/88a32860eab560765407.png	4
+crops/WEB_118/2fab6a7e39f7003c759d.png	180.000,00
+crops/WEB_118/416b40013b8642a0a2c5.png	6.840.000
+crops/WEB_118/f6d719fcda82e67bd8a6.png	34.340.000
+crops/WEB_118/2adb4cdc7fbc331309bc.png	2.747.200
+crops/WEB_118/385ea70ed43d25164489.png	37.087.200
+crops/WEB_118/79b86642ee6d23b043ce.png	Signature Valid
+crops/WEB_118/baa660ba7e0223cbc211.png	Ký ngày:  12/02/2025
+crops/WEB_119/37e5549ce5e3d89b4f5f.png	00000037
+crops/WEB_119/788d5bf0d078ebda525d.png	Mã CQT:
+crops/WEB_119/a912bf437d7cf2714159.png	Minh.
+crops/WEB_119/7909b1f29945df5515f7.png	STT
+crops/WEB_119/ebaaf77cc9dfbc94786e.png	1,00
+crops/WEB_119/f9c0b2a905c8fd62d708.png	1
+crops/WEB_119/476c6f0328d6f2c7c00e.png	1.200.000,00
+crops/WEB_119/e6532aa11f9decfe5400.png	1.200.000
+crops/WEB_119/d957e218da143a7d1e94.png	1,00
+crops/WEB_119/2480ba29c6fd86f5cc94.png	2
+crops/WEB_119/0b752e57e74cdfce3ceb.png	Cái
+crops/WEB_119/3d0df230243dc754a9b1.png	3.500.000,00
+crops/WEB_119/5907cbe3d904b051f593.png	3.500.000
+crops/WEB_119/98713d761641cc901633.png	3
+crops/WEB_119/d3e922668748fbdbeb5d.png	1,00
+crops/WEB_119/903990873d8e2a80cc1e.png	450.000
+crops/WEB_119/c6ae6457d62573424ed8.png	Cái
+crops/WEB_119/ba3cee33f0c93947625a.png	450.000,00
+crops/WEB_119/5d0610d4b59b9ae12c09.png	1,00
+crops/WEB_119/86cead0d0baa45385b6b.png	Cái
+crops/WEB_119/8e553f7177c5fc8f0129.png	550.000,00
+crops/WEB_119/9ec1ddcda1cf734394dd.png	550.000
+crops/WEB_119/198c0fa74be4ea39de6a.png	4
+crops/WEB_119/847771676964b2791317.png	1,00
+crops/WEB_119/b58b52c22721f1cf8ffe.png	Cái
+crops/WEB_119/081f154e386f92b21e0f.png	1.000.000,00
+crops/WEB_119/33e06cd94fc6ae657be5.png	5
+crops/WEB_119/4338a3f59c687d1f0e9b.png	1.000.000
+crops/WEB_119/fa8c22a1191c68ca4d7b.png	Đồng hồ 600kg
+crops/WEB_119/495ccf8647bdcc114035.png	1,00
+crops/WEB_119/67d78ff60a3172cfc88d.png	Cái
+crops/WEB_119/a091c6250f109a7adeae.png	6
+crops/WEB_119/6a4ee9f5dc951a32dea5.png	900.000
+crops/WEB_119/b31f9a9a55c8cdfabb87.png	900.000,00
+crops/WEB_119/68e59b3ce18d1c1d965b.png	1,00
+crops/WEB_119/7a1d0831cf0ac7fa46c3.png	Cái
+crops/WEB_119/3a1f76841b0a44165507.png	1.000.000,00
+crops/WEB_119/ca3886f747e2a880d2fa.png	1.000.000
+crops/WEB_119/c89b30f163651bd2f140.png	7
+crops/WEB_119/cebc6a962f9de75776f4.png	8.600.000
+crops/WEB_119/638c09e9d152f80e6fa2.png	860.000
+crops/WEB_119/c712363168de71444fe2.png	9.460.000
+crops/WEB_119/44f3652f0b9d28dc09d9.png	Signature Valid
+crops/WEB_119/44e9cfa2376cca88de77.png	Ký ngày:  12/02/2025
+crops/WEB_120/705e51c63262578e387b.png	00000004
+crops/WEB_120/909c40733fca9442f3da.png	Mã CQT: 00DB1EB0D55BE442B7A8C5EED63B40245B
+crops/WEB_120/b516c74425c224d95087.png	STT
+crops/WEB_120/2712ee3f5551afb7d968.png	1,00
+crops/WEB_120/7af412f30fa5c36f363e.png	1
+crops/WEB_120/32e7affc0362a606b26c.png	1.200.000,00
+crops/WEB_120/40febdcc2d3cfa60a08b.png	1.200.000
+crops/WEB_120/bae9854a0f452892fd0f.png	2
+crops/WEB_120/93eab64369a25e33397d.png	1,00
+crops/WEB_120/de26ef50b047cc2e6324.png	1.400.000,00
+crops/WEB_120/ebfafb12a57ceb8ddd5c.png	1.400.000
+crops/WEB_120/e23eaf5a9d2c73c176c3.png	1,00
+crops/WEB_120/ef234001bde305d55158.png	3
+crops/WEB_120/fbe3beae3bf1408bb246.png	Cái
+crops/WEB_120/b561e1512857505a40af.png	1.285.000,00
+crops/WEB_120/84eaefea5e8060d6612c.png	1.285.000
+crops/WEB_120/ed43ef9d151db53cebdd.png	1,00
+crops/WEB_120/884dca2d2e3993e0069c.png	4
+crops/WEB_120/777cf7679a1918aebf2d.png	Cái
+crops/WEB_120/6abb9f0c03d1a4937437.png	1.100.000
+crops/WEB_120/eec5f1e823bf61ca18fe.png	1.100.000,00
+crops/WEB_120/2127934ba8cb69016b2e.png	1,00
+crops/WEB_120/36ce2eb5c0afbd04531f.png	Cái
+crops/WEB_120/22652f705506b7608c7a.png	900.000
+crops/WEB_120/b7e97308d58a99e329c5.png	900.000,00
+crops/WEB_120/1426fbc68f8221717be2.png	5
+crops/WEB_120/a7011a3973dfea71c774.png	5.885.000
+crops/WEB_120/7215f7946d0958bf488c.png	588.500
+crops/WEB_120/03ec278dcb3ae683d965.png	6.473.500
+crops/WEB_120/c21b705baaf1c1098c64.png	Signature Valid
+crops/WEB_120/c032c495cc55b58d78a3.png	Ký ngày:  06/01/2025
+crops/WEB_121/ccc20205b1204365d3db.png	00000417
+crops/WEB_121/a0d581e7132c2204d688.png	Mã CQT: 000304AB523FEB44AFB55895D2ED205661
+crops/WEB_121/9f5b70e29f71b8ed0c2e.png	STT
+crops/WEB_121/f7d448333ff0a905f970.png	Túi
+crops/WEB_121/4863399c35cb3186cfd1.png	15,00
+crops/WEB_121/2fa1b2162af81b5b97c2.png	45.000,00
+crops/WEB_121/ea4c781b42256e86d321.png	675.000
+crops/WEB_121/bb5eee25dae0ce1acbbd.png	1
+crops/WEB_121/6d8afde2c97b9d51cee1.png	675.000
+crops/WEB_121/86ad307941db28635e50.png	67.500
+crops/WEB_121/cf0b6389772a2ede1d2c.png	742.500
+crops/WEB_121/933a506942de09dab816.png	Signature Valid
+crops/WEB_121/38e6929a60ba9d18d32b.png	Ký ngày:  05/09/2025
+crops/WEB_122/f59d6b00ccd378ebab43.png	00000529
+crops/WEB_122/840911a59b4cbc5c41c7.png	Mã CQT: 00B1CB920EDDFA44FEAB295A98565E750F
+crops/WEB_122/400759ee155019db28a2.png	STT
+crops/WEB_122/cd805605bf0fb640ee77.png	Cái
+crops/WEB_122/fd80308b347028513fa3.png	3,00
+crops/WEB_122/7e94dbf4ca1b86b95cd4.png	1
+crops/WEB_122/b98efa46dd1c60fc4ef7.png	380.000,00
+crops/WEB_122/d5c136fd23fddf64f31d.png	1.140.000
+crops/WEB_122/04b75259a4c1f38ed6ac.png	Cái
+crops/WEB_122/91aa32b7ba8c357dd5cd.png	2,00
+crops/WEB_122/caabde544ab2687cfda8.png	2
+crops/WEB_122/c3fc9b3ccdb36ddb6d35.png	900.000
+crops/WEB_122/b6ae692677ec98659d92.png	450.000,00
+crops/WEB_122/27fe4c30572d8d6b1534.png	1,00
+crops/WEB_122/5c887f13c5a14f4c4e37.png	3
+crops/WEB_122/26306662c8a606bd67d1.png	1.500.000
+crops/WEB_122/ac866b63ee211d61cee7.png	1.500.000,00
+crops/WEB_122/dc789d6824cb0943b76c.png	3.540.000
+crops/WEB_122/770b7630e62870f3d391.png	283.200
+crops/WEB_122/908e3b4a145a89fa83fa.png	3.823.200
+crops/WEB_122/b6a250a3a97344b820cf.png	Signature Valid
+crops/WEB_122/04e3ceb3ee24113b3853.png	Ký ngày:  11/11/2025
+crops/WEB_123/90a178530295ff9f4d4a.png	00000596
+crops/WEB_123/f1a5a8605a329dccaaee.png	Mã CQT: 009C6EBB8FBD7F46EAAD47D258AE4F4A4D
+crops/WEB_123/24f8204bedb19fbeef0e.png	STT
+crops/WEB_123/27e9cea8ba913ee1c688.png	Cái
+crops/WEB_123/760004835c196050f291.png	1,00
+crops/WEB_123/a92fa072b33a6823f361.png	32.000.000,00
+crops/WEB_123/a98049dcdf9d48d0ddda.png	32.000.000
+crops/WEB_123/1b085d749ee487b9e819.png	1
+crops/WEB_123/2a52a43097abd8758992.png	TYA-300
+crops/WEB_123/b952276f0c1e0154fed1.png	1,00
+crops/WEB_123/1cb56272df4863489dc3.png	1.600.000,00
+crops/WEB_123/f0890b462db29fdf1371.png	2
+crops/WEB_123/63aece89f40729445f98.png	1.600.000
+crops/WEB_123/160e75d92c4fd023ebd3.png	33.600.000
+crops/WEB_123/5da7c6797eee03eb6658.png	2.688.000
+crops/WEB_123/f42bb49b5fc6200f0305.png	36.288.000
+crops/WEB_123/a67c88dd843ee6d2e1d3.png	Signature Valid
+crops/WEB_123/cc12c120bb6ab841d237.png	Ký ngày:  15/12/2025
+crops/WEB_127/e177aa7751f8224324a7.png	00000240
+crops/WEB_127/36f4f59f0a10304d16bc.png	Mã CQT: 0042F4798398304368877EA0336EAD0FFB
+crops/WEB_127/79b1db211b80676d3cf4.png	STT
+crops/WEB_127/20cfcb30ad5184bd5842.png	10,00
+crops/WEB_127/1fc331a2bf3fc385ce88.png	Cái
+crops/WEB_127/179539a52fbbbbc8a014.png	180.000,00
+crops/WEB_127/c732fbe475c70b074aeb.png	1
+crops/WEB_127/98e49fd32c8e45288858.png	1.800.000
+crops/WEB_127/3822e9debf24fa58512c.png	12,00
+crops/WEB_127/f31292f4bab3fbfb08c7.png	Cái
+crops/WEB_127/df576456d41cc2a27744.png	32.000,00
+crops/WEB_127/a097e006bd94587baa68.png	2
+crops/WEB_127/cca8d7120569e02fbb5a.png	384.000
+crops/WEB_127/8d9a5f8c4d37361998b9.png	liên Model: WG ( WG - 1B )
+crops/WEB_127/2c814556100c8e3bcb4c.png	2.184.000
+crops/WEB_127/da6aa702f2be4e5ecc8a.png	174.720
+crops/WEB_127/13f5366b280403a42477.png	2.358.720
+crops/WEB_127/c710389c429151746a25.png	Signature Valid
+crops/WEB_127/8d479eea2e3d816e58e3.png	Ký ngày:  07/06/2025
+crops/WEB_221/9516aa93c783d001eeeb.png	71
+crops/WEB_221/7b335c92ceeb9cf62d4c.png	(Liên 2: Dùng cho khách hàng)
+crops/WEB_221/fb50fe37b268e62154bd.png	KH: TP/20P
+crops/WEB_221/77a0a42823fb6d3d97af.png	Ngày 15 tháng 10 năm 2020
+crops/WEB_221/a222fd608595c19c5fc3.png	STT
+crops/WEB_221/c202a37ef025a75dee58.png	C
+crops/WEB_221/3e5a2bd938e00c6c8ff5.png	B
+crops/WEB_221/3e7c868298e6c0e9e988.png	2
+crops/WEB_221/5d84fa50f08ae4cb9476.png	3 = 1 x 2
+crops/WEB_221/5036917b9e7804d93560.png	1
+crops/WEB_221/c520f31dbc84ded531ec.png	A
+crops/WEB_221/11a820f9f1e4d5f836fd.png	cái
+crops/WEB_221/4f9965f49f3e1b403547.png	25
+crops/WEB_221/ca0971d62326d5dfdade.png	1.821.818,2
+crops/WEB_221/1da89bfebfde8fd1ad4f.png	45.545.455
+crops/WEB_221/3117dfeee946ecb23196.png	01
+crops/WEB_221/f2ca59f459eb70b4df5f.png	4.554.545
+crops/WEB_221/9ff55c2d8813e88494f3.png	50.100.000
+crops/WEB_222/30af887af7c5dd3f2525.png	74
+crops/WEB_222/42b4455595af2175e8d6.png	KH: TP/20P
+crops/WEB_222/0719c2efded4d5d9c212.png	(Liên 2: Dùng cho khách hàng)
+crops/WEB_222/96c3cb48b9dd789b41bb.png	STT
+crops/WEB_222/b292dabd4e71220e32ba.png	C
+crops/WEB_222/9e549d6c1b49d8dab695.png	2
+crops/WEB_222/cf880e6c1ddc4bd6971d.png	B
+crops/WEB_222/b99945fa85e9f45e921f.png	3 = 1 x 2
+crops/WEB_222/9fa39c6f3ef453492add.png	1
+crops/WEB_222/38ba991c05a1dcb5498b.png	A
+crops/WEB_222/e91be44b588c60447cd5.png	cái
+crops/WEB_222/55aca218f9d2b8a58641.png	190
+crops/WEB_222/e6dfac74bb8496605369.png	1.987.779
+crops/WEB_222/18208e410f3fb72d2a32.png	377.678.010
+crops/WEB_222/266b17dd9cf71b55809b.png	01
+crops/WEB_222/3c93f439cc5ca9b4e675.png	37.767.801
+crops/WEB_222/3d2e73420bb934320115.png	415.445.811
+crops/WEB_223/808173630dce4702b08b.png	77
+crops/WEB_223/ec18cc4c69352004f2bc.png	KH: TP/20P
+crops/WEB_223/ab48fa439db7151910f3.png	(Liên 2: Dùng cho khách hàng)
+crops/WEB_223/dc8030a2dead0f7599c2.png	Ngày 15 tháng 12 năm 2020
+crops/WEB_223/fa284d7a809e85c9c7a7.png	STT
+crops/WEB_223/4e269e132fa9952d0043.png	C
+crops/WEB_223/9216252343f16e3f9aa0.png	2
+crops/WEB_223/bc3f96eca6486c222191.png	3 = 1 x 2
+crops/WEB_223/077e1e0c1125abb55fe7.png	B
+crops/WEB_223/0b635021c05a521bc242.png	1
+crops/WEB_223/fbb0e59d5c92cd4f2776.png	A
+crops/WEB_223/f8f6c1314acafab0fd99.png	cái
+crops/WEB_223/bf47c62178990a3efe87.png	135
+crops/WEB_223/4af48505b7ee48e8924c.png	1.764.581
+crops/WEB_223/87a68cdd6e87c5adc3cd.png	238.218.435
+crops/WEB_223/c7a1df4e42c004c608b1.png	01
+crops/WEB_223/c4d2c084ba2fc292ebe1.png	23.821.844
+crops/WEB_223/d4db193b475a1a214f48.png	262.040.279
+crops/WEB_224/dacf037da4a198f28f7d.png	142
+crops/WEB_224/6672b179f4f7e4f89cb5.png	KH: TP/20P
+crops/WEB_224/ed4d8f0a8d79cdb42e62.png	(Liên 2: Dùng cho khách hàng)
+crops/WEB_224/097358c3c7d24390c4d3.png	Ngày 10 tháng 07 năm 2020
+crops/WEB_224/a79112d23be3ddb2d059.png	STT
+crops/WEB_224/8f3c33af682a759e7e72.png	C
+crops/WEB_224/901f8e283df1b442829b.png	2
+crops/WEB_224/6374520d83457517982d.png	B
+crops/WEB_224/0fb7a3dc76c04afa3fa8.png	3 = 1 x 2
+crops/WEB_224/f6328b7b1c78196b1cf1.png	1
+crops/WEB_224/496565e2f5579fb5ef46.png	A
+crops/WEB_224/7122a923ebcb2a19a50b.png	cái
+crops/WEB_224/dd0957ff3fb77f1e8482.png	100
+crops/WEB_224/08fbd77b9a0cef48dee6.png	1.987.779
+crops/WEB_224/d97c6ec20a47f20726de.png	198.777.900
+crops/WEB_224/62c10f2d290e9cec77d6.png	01
+crops/WEB_224/43251c85d5b159b804bf.png	19.877.790
+crops/WEB_225/186dc8dc58d47fc752be.png	143
+crops/WEB_225/fe231a6d19dc1dc7b57b.png	(Liên 2: Dùng cho khách hàng)
+crops/WEB_225/f614dd970615e3144665.png	KH: TP/20P
+crops/WEB_225/62bdd927a9214cfd7d77.png	Ngày 18 tháng 08 năm 2020
+crops/WEB_225/2a0c853c01aacf1f41e5.png	STT
+crops/WEB_225/76ee23947b89f997c6e7.png	C
+crops/WEB_225/d016ac4912d1cbbf6595.png	2
+crops/WEB_225/4439a7a5bd9438d4b4bf.png	B
+crops/WEB_225/d0f84c624687dade82a5.png	3 = 1 x 2
+crops/WEB_225/8a0ed3e91f6f0da1612d.png	1
+crops/WEB_225/a4458a658cc8fcee6cd4.png	A
+crops/WEB_225/bf5d28280f602e3bc72c.png	cái
+crops/WEB_225/213ff34db1c69a1b673f.png	150
+crops/WEB_225/432f74a1564d88b254cf.png	1.987.779
+crops/WEB_225/43d72367db9520818772.png	298.166.850
+crops/WEB_225/ac343bf6e71b7002e3a0.png	01
+crops/WEB_225/198d1a22ea80599e3fcd.png	29.816.685
+crops/WEB_226/7c4c3ac4d4da2d451b9d.png	144
+crops/WEB_226/d3510acf071ccf3826c3.png	(Liên 2: Dùng cho khách hàng)
+crops/WEB_226/3a9ed93fbc5efe2eb234.png	KH: TP/20P
+crops/WEB_226/64858f53c45a3ae5c860.png	Ngày 21 tháng 08 năm 2020
+crops/WEB_226/3dc6e0cfd9d30912fc00.png	STT
+crops/WEB_226/f52c1756d0699cf97d40.png	C
+crops/WEB_226/ef84301a86afdf8c1cef.png	2
+crops/WEB_226/c394a404c5aeccd1c09f.png	B
+crops/WEB_226/c0c7a265f555e41ba9b7.png	3 = 1 x 2
+crops/WEB_226/f868312ff5032acead97.png	1
+crops/WEB_226/061501fce970e752e5bb.png	A
+crops/WEB_226/342757a164738f5be5a1.png	cái
+crops/WEB_226/9137a6fcf05e7ab09a47.png	100
+crops/WEB_226/3b96fb54a06115e495ff.png	1.987.779
+crops/WEB_226/48b027d617bd4567c1f9.png	298.166.850
+crops/WEB_226/1f640803629d2a7257cc.png	01
+crops/WEB_226/e87d9b81ed4a23e24d98.png	29.816.685
+crops/WEB_227/57ba6b5eeef450a23c96.png	145
+crops/WEB_227/cb75f51d805ca61feca4.png	(Liên 2: Dùng cho khách hàng)
+crops/WEB_227/b1d6c3da098706f3dabd.png	KH: TP/20P
+crops/WEB_227/2b6294b53b24f28a726f.png	Ngày 30 tháng 09 năm 2020
+crops/WEB_227/e051cb7c92741600db9d.png	STT
+crops/WEB_227/e238d2b7428179162571.png	C
+crops/WEB_227/2ffb6444cac4dd3cc657.png	2
+crops/WEB_227/4d479fbf4bb2c78bdee7.png	B
+crops/WEB_227/0d1e90798e437f411eef.png	3 = 1 x 2
+crops/WEB_227/e965e77cccd2c09de5d9.png	1
+crops/WEB_227/cce2967e41e4188105b0.png	A
+crops/WEB_227/71b62003fe689c21ba84.png	cái
+crops/WEB_227/1c03c3a85dfbc9383212.png	10
+crops/WEB_227/9076dc5b0d371c23b2d0.png	1.987.779
+crops/WEB_227/625b15c7f571cc1e53d6.png	19.877.790
+crops/WEB_227/9953419080580974ec0b.png	01
+crops/WEB_227/4e3a9bb25a43f8cf7426.png	1.987.779
+crops/WEB_227/ba21243d95ab250bd46b.png	21.865.569
+crops/HD_003/bd0121c9d7666173b62e.png	Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT Tại Hà Nội
+crops/HD_003/2ed6b2ccde3eb4ccef9e.png	HÓA ĐƠN
+crops/HD_003/bffb3b9331c72674cbbe.png	Địa chỉ: Tòa nhà FPT Cầu Giấy, Số 17 Phố Duy Tân,
+crops/HD_003/7a0f6b022ce710a6d203.png	Ký hiệu : 1K23THN
+crops/HD_003/94d4481c16ef812dc60c.png	Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP Hà Nội,
+crops/HD_003/f34e0ba15217cd99001c.png	Số : 00446845
+crops/HD_003/07775fa5983a866f94b1.png	GIÁ TRỊ GIA TĂNG
+crops/HD_003/29bd6cf2d3fdb075e7ce.png	Việt Nam
+crops/HD_003/d631859ae1cd16d85b02.png	Mã số thuế: 0311609355-001
+crops/HD_003/af1ab788c83e31b351e7.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_003/b8c2968631d8e1122338.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)
+crops/HD_003/61092a70ea1b7b7df119.png	Tài khoản : 09120912005 tại Ngân hàng TMCP Tiên
