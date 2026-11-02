@@ -1,0 +1,39 @@
+{
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "67305f4f98c368fffe29",
+      "review_note": "WEB_261 page 1: formula clearly legible.",
+      "reviewed_at": "2026-11-02T01:34:15.6247674Z",
+      "transcript": "3=1x2",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "de2536e20fb264d4c74e",
+      "review_note": "WEB_262 page 1: formula clearly legible.",
+      "reviewed_at": "2026-11-02T01:34:15.6247674Z",
+      "transcript": "6=4x5",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1c2b75d1629d74b40ca4",
+      "review_note": "WEB_263 page 1: formula clearly legible; table border touches crop edge.",
+      "reviewed_at": "2026-11-02T01:34:15.6247674Z",
+      "transcript": "6=4x5",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "333d49f5836af69f2362",
+      "review_note": "WEB_267 page 1: formula clearly legible; standardized spacing.",
+      "reviewed_at": "2026-11-02T01:34:15.6247674Z",
+      "transcript": "6 = 4 x 5",
+      "status": "verified"
+    }
+  ],
+  "policy": "manual visual confirmation: crop visually checked against corresponding rendered invoice page",
+  "run_id": "visual_20261102_083415",
+  "created_at_utc": "2026-11-02T01:34:15.6247674Z"
+}

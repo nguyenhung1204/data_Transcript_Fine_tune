@@ -1,0 +1,42 @@
+{
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074504.json",
+  "timestamp_utc": "2026-11-02T00:45:04.0616532Z",
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "transcript": "Đơn vị bán (Seller):",
+      "crop_id": "ba0e22ac94568014ea53"
+    },
+    {
+      "transcript": "30/6A Khu phố 2, Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ",
+      "crop_id": "4e63f5408a8407acc6b2"
+    },
+    {
+      "transcript": "Địa chỉ (Address):",
+      "crop_id": "a734b3a475847f1ccdca"
+    },
+    {
+      "transcript": "Điện thoại (Tel.):",
+      "crop_id": "b77c4e394274f39a7ce0"
+    },
+    {
+      "transcript": "0371000495873 tại Ngân hàng TMCP Ngoại Thương Việt Nam",
+      "crop_id": "e82f92d7e66559bed9ba"
+    },
+    {
+      "transcript": "Người mua (Buyer):",
+      "crop_id": "256501da3c20fa2e820c"
+    },
+    {
+      "transcript": "CÔNG TY TNHH DỊCH VỤ TƯ VẤN KẾ TOÁN THUẾ THUẬN VIỆT",
+      "crop_id": "0a613743cffc7aedb745"
+    },
+    {
+      "transcript": "Đơn vị (Co. name):",
+      "crop_id": "6c3b2bda8aef19f8d665"
+    }
+  ],
+  "note": "Eight crop images visually inspected; exact visible text confirmed.",
+  "skipped": [],
+  "invoice": "HD_034"
+}

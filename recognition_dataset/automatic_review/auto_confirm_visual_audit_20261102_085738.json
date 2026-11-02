@@ -1,0 +1,199 @@
+{
+  "run_id": "visual_20261102_085738",
+  "annotations": [
+    {
+      "review_note": "WEB_041: mã thuế đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "c4318b24eadcc1f1b97d",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Mã cơ quan thuế: M2-25-6VY7C-00001290782"
+    },
+    {
+      "review_note": "WEB_041: ký hiệu đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "c74314ebc4915abfed97",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial No): 2C25MNN"
+    },
+    {
+      "review_note": "WEB_041: địa chỉ đọc rõ trên crop phóng to.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "a2c6a5e9f7b05c46e4dc",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address): Khu Phố Gò Thuyền, Thị trấn Tân Hưng, Huyện Tân Hưng, Tỉnh Long An"
+    },
+    {
+      "review_note": "WEB_041: nhãn người mua đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "cc478e335fa98bd3ea54",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer's fullname):"
+    },
+    {
+      "review_note": "WEB_041: MST đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ba2d3909dd9272383b8d",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 3600523938"
+    },
+    {
+      "review_note": "WEB_041: nhãn trường rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "f84827914c8d2604b04a",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Số tài khoản (A/C No):"
+    },
+    {
+      "review_note": "WEB_041: đơn vị tiền tệ đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5a236d49b1ce71df29cc",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Đơn vị tiền tệ (Currency): VND"
+    },
+    {
+      "review_note": "WEB_041: phương thức thanh toán đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b11c0016b89cfb48fd5d",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản"
+    },
+    {
+      "review_note": "WEB_041: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1f65881dcf75153986a8",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Thành tiền"
+    },
+    {
+      "review_note": "WEB_041: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4e4b1047a94f067eae2b",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "review_note": "WEB_041: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "764ea8477fef60402043",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Đơn vị tính"
+    },
+    {
+      "review_note": "WEB_041: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "f34c047dbe978977887c",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Phần"
+    },
+    {
+      "review_note": "WEB_041: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ce991f77658c320c1d59",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Phần"
+    },
+    {
+      "review_note": "WEB_041: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "77c9f920351b21170a19",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Phần"
+    },
+    {
+      "review_note": "WEB_041: tên món đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2f9f73f179f9af695e9f",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Cá chạch chiên nước mắm"
+    },
+    {
+      "review_note": "WEB_041: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e3f384d6050218a7b67e",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Phần"
+    },
+    {
+      "review_note": "WEB_041: tên món đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5fce8de422d127c549c8",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Mì xào hải sản"
+    },
+    {
+      "review_note": "WEB_041: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ed6a5f274ba7ca510a04",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Phần"
+    },
+    {
+      "review_note": "WEB_041: nhãn tổng tiền hàng đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "fd6e6e8f071fd5c79b6e",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng (Total amount):"
+    },
+    {
+      "review_note": "WEB_041: nhãn số tiền bằng chữ rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "c391fe817fcc0af9328a",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ (In words):"
+    },
+    {
+      "review_note": "WEB_041: số tiền bằng chữ đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d616ac49a14ed13fc835",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Sáu triệu chín trăm năm mươi tám nghìn đồng"
+    },
+    {
+      "review_note": "WEB_041: nhãn chữ ký đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ef8d9af8f57b1f88df7d",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)"
+    },
+    {
+      "review_note": "WEB_041: chú thích chữ ký đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e300ae4b90a5f69079c2",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ tên)"
+    },
+    {
+      "review_note": "WEB_041: chú thích chữ ký đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d7a7951d101643b5ca3a",
+      "reviewed_at": "2026-11-02T01:57:38.7791106Z",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ tên)"
+    }
+  ],
+  "policy": "Each crop visually inspected; only fully legible printed content confirmed.",
+  "created_at_utc": "2026-11-02T01:57:38.7791106Z"
+}

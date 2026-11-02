@@ -1,0 +1,154 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "c12fae6a87add90a9e7b",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "HÓA ĐON GIÁ TRI GIA TĂNG",
+      "transcript_after": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "295e157db37b101c17f3",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Sô:",
+      "transcript_after": "Số:",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "137280c93d964bec0980",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Đon v bán hàng: CÔNG TY TNHH TU VÂN VÀ XÂY DÚNG DIN DÚC TRUNG",
+      "transcript_after": "Đơn vị bán hàng: CÔNG TY TNHH TƯ VẤN VÀ XÂY DỰNG ĐIỆN ĐỨC TRUNG",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "6231a5047f1727027ea1",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Mã só thu: 3100408158",
+      "transcript_after": "Mã số thuế: 3100408158",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "cc32897252495381f1f1",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Só tài khoǎn: 040047796999",
+      "transcript_after": "Số tài khoản: 040047796999",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "47adbce427013a79202a",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Tên đon v!: CÔNG TY TRÁCH NHIM HÛU HAN GROBEST INDUSTRIAL (VIT NAM)",
+      "transcript_after": "Tên đơn vị: CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "41f09c1179489a97980d",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Hinh thc thanh toán: TM",
+      "transcript_after": "Hình thức thanh toán: TM",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "2c2c7a8ce65a9123aaef",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Đon giá",
+      "transcript_after": "Đơn giá",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "03a81de5421653cb3d61",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Nưóc sui",
+      "transcript_after": "Nước suối",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "5a0081e433486b75d2d9",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "hàu xào lón",
+      "transcript_after": "hàu xào lớn",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "91ef8bc64dd622c1b2d0",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Ngao nưóng",
+      "transcript_after": "Ngao nướng",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f918d2f4e19c071e3582",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Soup hi sån",
+      "transcript_after": "Soup hải sản",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0ac37552d15a4cd178e5",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Ngưòi mua hàng",
+      "transcript_after": "Người mua hàng",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0475cc62efc0498cb929",
+      "invoice": "WEB_055",
+      "pdf": "WEB_055.pdf",
+      "page": 1,
+      "transcript_before": "Ngưòi bán hàng",
+      "transcript_after": "Người bán hàng",
+      "evidence": "Visually inspected crop; full line is legible and complete, accents/digits/punctuation match visible PDF text, and length <=90.",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "a4c56177ae3d3dbaf6ff",
+      "reason": "Only “Đơn” fragment; combined label is split across adjacent crops."
+    },
+    {
+      "crop_id": "09001ac35df1778e17ec",
+      "reason": "Only “vị tính” fragment; label is split across adjacent crops."
+    }
+  ]
+}

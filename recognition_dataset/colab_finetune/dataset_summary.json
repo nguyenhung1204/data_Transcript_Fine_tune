@@ -1,24 +1,24 @@
 {
   "generated_from": "automatic_review/manual_review_progress.json + automatic_review/automatic_review_manifest.csv",
-  "source_progress_sha256": "93df4d9cada6d8596bd363908b2bdd5bbe9e4d6474558f408ee4e06ea6bbd563",
-  "source_manifest_sha256": "9517392c8594ddae57e2fbccdb044c80ba1673476a1a4f17265cc52b08166672",
-  "verified_annotations": 7362,
+  "source_progress_sha256": "97dd540af137d2dccd803a71ed52c6825b9ec700a30e1f8f8ae304f1eeb6b62f",
+  "source_manifest_sha256": "484768111823fadb7b47d58dd98199f7ab2ce2e7a7adab114400c82c42eb059d",
+  "verified_annotations": 12551,
   "split_crop_counts": {
-    "val": 1301,
-    "train": 4370,
-    "test": 1691
+    "val": 2359,
+    "train": 7670,
+    "test": 2522
   },
   "split_invoice_counts": {
-    "train": 104,
+    "train": 109,
     "val": 36,
-    "test": 31
+    "test": 32
   },
   "provenance_counts": {
-    "human_review_evidence": 396,
-    "automatic_pdf_ocr_confirmation_or_untraced_verified": 6966
+    "human_review_evidence": 392,
+    "automatic_pdf_ocr_confirmation_or_untraced_verified": 12159
   },
-  "rejected": 111,
-  "needs_review": 20,
+  "rejected": 39,
+  "needs_review": 36,
   "max_label_chars": 90,
   "image_files_copied": false,
   "notes": [
@@ -27,5 +27,7 @@
     "OCR/PDF consensus is weak supervision and not equivalent to visual ground truth.",
     "The current progress record does not contain an independent OCR2 confirmation for the automatically confirmed labels.",
     "Split is inherited from invoice-level manifest; same invoice is kept in one split."
-  ]
+  ],
+  "excluded_invoice": "WEB_242",
+  "excluded_crop_count": 56
 }

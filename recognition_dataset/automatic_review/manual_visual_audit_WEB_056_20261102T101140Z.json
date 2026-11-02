@@ -1,0 +1,200 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "20d32bee3ed60a56395e",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "HÓA DON GIÁ TRI GIA TĂNG",
+      "transcript_after": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "3ecba068f40fda0ca01d",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Ký hiu:",
+      "transcript_after": "Ký hiệu:",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "96a3cf71bf894554e14a",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Sô:",
+      "transcript_after": "Số:",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "1d4299383fdb39170d2d",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Bn th hin ca hóa đon đin t",
+      "transcript_after": "Bản thể hiện của hóa đơn điện tử",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "bfddb0da3df305af5e91",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Đon v! bán hàng: CÔNG TY TNHH TU VÁN VÀ XÂY DÚNG DIN DÚC TRUNG",
+      "transcript_after": "Đơn vị bán hàng: CÔNG TY TNHH TƯ VẤN VÀ XÂY DỰNG ĐIỆN ĐỨC TRUNG",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0c0111eb3eb2e983e59f",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Mã só thu: 3100408158",
+      "transcript_after": "Mã số thuế: 3100408158",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "53b0d8f9c844107dc329",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Điên thoai: 0966994999",
+      "transcript_after": "Điện thoại: 0966994999",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e8acfe3a883da30b67ce",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Só tài khoǎn: 040047796999",
+      "transcript_after": "Số tài khoản: 040047796999",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "afd5872f2bf8e1be2bee",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Ngân hàng: Ngân hàng Sacombank Qung Bình",
+      "transcript_after": "Ngân hàng: Ngân hàng Sacombank Quảng Bình",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "72cf5e0a3638dc298b4e",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Ho tên ngưòi mua hàng:",
+      "transcript_after": "Họ tên người mua hàng:",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "8fe9a67bf9f63483a1a0",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Tên đon v!: CÔNG TY TRÁCH NHIM HÛU HAN GROBEST INDUSTRIAL (VIT NAM)",
+      "transcript_after": "Tên đơn vị: CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "3e3145ad7192188335d2",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Mã s thu: 3600456424",
+      "transcript_after": "Mã số thuế: 3600456424",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "7f4c25f69f0f75f269cf",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "S tài khon:",
+      "transcript_after": "Số tài khoản:",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "11d99eace9ec06820889",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Hinh thúc thanh toán: TM",
+      "transcript_after": "Hình thức thanh toán: TM",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "67202049ecb4ad0720df",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Só",
+      "transcript_after": "Số",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "3b6a3cb252dd32504066",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Thu",
+      "transcript_after": "Thuế",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f487fe4e90a7613fbd07",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Thành tin",
+      "transcript_after": "Thành tiền",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "c8f1ebdc868d7fa8cef3",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Tin thu",
+      "transcript_after": "Tiền thuế",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "830b5651359156fbbd87",
+      "invoice": "WEB_056",
+      "pdf": "WEB_056.pdf",
+      "page": 1,
+      "transcript_before": "Thành tin",
+      "transcript_after": "Thành tiền",
+      "evidence": "Visually inspected crop; the complete line is clearly printed and matches the PDF. Number strings, Vietnamese diacritics and punctuation were checked; length <=90.",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "105035ff7339df680d16",
+      "reason": "Crop contains only the fragment “Đơn”; left pending because it is not the complete printed unit label."
+    }
+  ]
+}

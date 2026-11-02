@@ -1,0 +1,148 @@
+{
+  "invoice": "WEB_102",
+  "timestamp_utc": "2026-11-02T03:06:46.2572208Z",
+  "reviewed_count": 15,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "crop_id": "e5711daf9b2755e2b8d4",
+      "reason": "Phone label crop has detached/cut diacritics, exact marks uncertain."
+    },
+    {
+      "crop_id": "072f3c6348ed9e986fbf",
+      "reason": "Buyer label is cut by horizontal table rule and adjacent text."
+    },
+    {
+      "crop_id": "72609d7ec67506ff57db",
+      "reason": "Heading crop is clipped at bottom with next line intruding."
+    },
+    {
+      "crop_id": "21da306ed52f89747f17",
+      "reason": "Only tail of the bilingual Total label remains in crop."
+    },
+    {
+      "crop_id": "dbad3ff6eacb85861e91",
+      "reason": "Tax text is crossed by a heavy rule and clipped."
+    },
+    {
+      "crop_id": "9b96f14ab966d630c086",
+      "reason": "Top accents in long discount heading are clipped."
+    },
+    {
+      "crop_id": "115502f177c46e124588",
+      "reason": "Top accents in total payment heading are clipped."
+    },
+    {
+      "crop_id": "1c21d8c59eb0a99a2492",
+      "reason": "Seller heading is crossed by a heavy horizontal rule."
+    }
+  ],
+  "notes": "All 23 candidates visually inspected, including full-size difficult labels. Fifteen complete legible crops saved; eight clipped/obscured crops left pending.",
+  "annotations": [
+    {
+      "crop_id": "36a790c3b88754b3949e",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial): 1C25TGG",
+      "reviewed_at": "2026-11-02T03:06:46.2515250Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "878479a61497c8a92b82",
+      "status": "verified",
+      "transcript": "Số (No.): 458681",
+      "reviewed_at": "2026-11-02T03:06:46.2552401Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7b913f9a0fc010bf214a",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0317860332",
+      "reviewed_at": "2026-11-02T03:06:46.2553632Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "27b33b3ab429f3fbbcf6",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address): Đường số 5, KCN Trảng Bàng, , Tây Ninh",
+      "reviewed_at": "2026-11-02T03:06:46.2554225Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "76a449b2a928f5a1a03c",
+      "status": "verified",
+      "transcript": "Số tài khoản (A/C No.) :",
+      "reviewed_at": "2026-11-02T03:06:46.2554524Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "96ab19f3c967fcc43e6b",
+      "status": "verified",
+      "transcript": ", 70000, Việt Nam",
+      "reviewed_at": "2026-11-02T03:06:46.2554793Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e555f6d5e1f90c8c367d",
+      "status": "verified",
+      "transcript": "̀ , Hınh thức thanh toán (Payment method): Chuyển khoản",
+      "reviewed_at": "2026-11-02T03:06:46.2555126Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c65a7af8ac756a4f114d",
+      "status": "verified",
+      "transcript": "Đồng tiền thanh toán (Payment currency): VND",
+      "reviewed_at": "2026-11-02T03:06:46.2555412Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ba7162e9958e94179699",
+      "status": "verified",
+      "transcript": "Thànhtiền",
+      "reviewed_at": "2026-11-02T03:06:46.2555641Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "737090934b74f5ff24ef",
+      "status": "verified",
+      "transcript": "Tênhàng hóa, dịchvụ",
+      "reviewed_at": "2026-11-02T03:06:46.2555879Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "531cc1178077b7e22ea5",
+      "status": "verified",
+      "transcript": "Áo thun đồng phục",
+      "reviewed_at": "2026-11-02T03:06:46.2556141Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a4cbfc1c6103cc6de28c",
+      "status": "verified",
+      "transcript": "(Chữ kýsố (nếu có))",
+      "reviewed_at": "2026-11-02T03:06:46.2556365Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "04c84953fc97ea32a882",
+      "status": "verified",
+      "transcript": "(Digitalsignatures)",
+      "reviewed_at": "2026-11-02T03:06:46.2556580Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d67c9c3e017d525d8518",
+      "status": "verified",
+      "transcript": "(Digitalsignature)",
+      "reviewed_at": "2026-11-02T03:06:46.2556806Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "de50398b067c5cb5ec52",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:06:46.2557084Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

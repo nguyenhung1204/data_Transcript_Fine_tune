@@ -1,0 +1,151 @@
+{
+  "policy": "Visually inspected each crop; tiny or ambiguous bank/address fragments were left pending.",
+  "run_id": "visual_20261102_085205",
+  "created_at_utc": "2026-11-02T01:52:05.4404520Z",
+  "annotations": [
+    {
+      "transcript": "CHI NHÁNH CÔNG TY CỔ PHẦN THẾ GIỚI SỐ",
+      "review_note": "WEB_035: tên người bán nhìn rõ trên crop.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d8328d867c1f37756e8f",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Mã số thuế: 0302861742-001",
+      "review_note": "WEB_035: MST đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "7a8bfefab13b6781a5a7",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Điện thoại: 0915805695 - Fax: (024) 3537 5888",
+      "review_note": "WEB_035: điện thoại và fax đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9541ef91638880b8bdaf",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Số tài khoản:",
+      "review_note": "WEB_035: nhãn tài khoản rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ef52234b7a544b2ff597",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "review_note": "WEB_035: tiêu đề in rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e087056c18ef803b66af",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Ký hiệu: 1K23THN",
+      "review_note": "WEB_035: ký hiệu đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "41f00e3e87d9b4a59ffc",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Ngày 17 tháng 08 năm 2023",
+      "review_note": "WEB_035: ngày đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "44c88b83ba11f0dce308",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Mã số thuế: 0302861742-001",
+      "review_note": "WEB_035: MST người bán đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "a4a747ab64efbab795e1",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Họ tên người mua hàng:",
+      "review_note": "WEB_035: nhãn người mua rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "08244723b90ee65bc016",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "CÔNG TY TNHH THƯƠNG MẠI TỔNG HỢP HTV",
+      "review_note": "WEB_035: tên đơn vị đọc trực tiếp trên crop phóng to.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "23688c94d73708926363",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Mã số thuế: 0108075931",
+      "review_note": "WEB_035: MST người mua đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1c9a3467642be343f9e9",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Địa chỉ giao hàng:",
+      "review_note": "WEB_035: nhãn trường rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "64bde3e14d73e8f76f6b",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "review_note": "WEB_035: phương thức thanh toán đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e23f9d2c0c32184b5ae4",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Số tài khoản/Hợp đồng:",
+      "review_note": "WEB_035: nhãn trường rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "a1e6f50e9fa26f5d0281",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Số",
+      "review_note": "WEB_035: chữ trong crop đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6a0138b0d05f342b16e8",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Thuế",
+      "review_note": "WEB_035: chữ trong tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "32990f95efd13d895ef0",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Tiền thuế",
+      "review_note": "WEB_035: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "094eaa3e97b3d3e56acf",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    },
+    {
+      "transcript": "Thành tiền sau",
+      "review_note": "WEB_035: phần tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "f6aa339858a3b65f6948",
+      "reviewed_at": "2026-11-02T01:52:05.4404520Z",
+      "status": "verified"
+    }
+  ]
+}

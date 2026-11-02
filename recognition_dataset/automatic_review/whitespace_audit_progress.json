@@ -1,0 +1,585 @@
+{
+  "version": 1,
+  "items": {
+    "26ac96cae23807d26ebc": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:43:21.875932+07:00",
+      "original_transcript": "2, 571 , 818",
+      "corrected_transcript": "2,571,818",
+      "snapshot": {
+        "id": "26ac96cae23807d26ebc",
+        "crop_id": "26ac96cae23807d26ebc",
+        "invoice": "HD_027",
+        "pdf": "HD_027.pdf",
+        "page": 1,
+        "coords": [
+          2744,
+          1645,
+          2918,
+          1697
+        ],
+        "image": "/crops/HD_027/26ac96cae23807d26ebc.png",
+        "page_image": "/rendered_pages/HD_027/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/HD_027.pdf",
+        "split": "test",
+        "transcript": "2, 571 , 818",
+        "confirmation_method": "pdf_ocr_agreement_v1",
+        "original_transcript": "2, 571 , 818",
+        "current_transcript": "2, 571 , 818",
+        "suggested_transcript": null,
+        "categories": [
+          "space_before_punctuation"
+        ],
+        "issues": [
+          {
+            "category": "space_before_punctuation",
+            "message": "Có khoảng trắng ngay trước dấu câu.",
+            "start": 6,
+            "end": 7,
+            "text": " "
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "3811000d04a5e3636971": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:44:55.043909+07:00",
+      "original_transcript": "2, 571 , 818",
+      "corrected_transcript": "2,571,818",
+      "snapshot": {
+        "id": "3811000d04a5e3636971",
+        "crop_id": "3811000d04a5e3636971",
+        "invoice": "HD_027",
+        "pdf": "HD_027.pdf",
+        "page": 1,
+        "coords": [
+          2747,
+          1424,
+          2919,
+          1474
+        ],
+        "image": "/crops/HD_027/3811000d04a5e3636971.png",
+        "page_image": "/rendered_pages/HD_027/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/HD_027.pdf",
+        "split": "test",
+        "transcript": "2, 571 , 818",
+        "confirmation_method": "pdf_ocr_agreement_v1",
+        "original_transcript": "2, 571 , 818",
+        "current_transcript": "2, 571 , 818",
+        "suggested_transcript": null,
+        "categories": [
+          "space_before_punctuation"
+        ],
+        "issues": [
+          {
+            "category": "space_before_punctuation",
+            "message": "Có khoảng trắng ngay trước dấu câu.",
+            "start": 6,
+            "end": 7,
+            "text": " "
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "59c5ed402065aa5f789f": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:46:54.335246+07:00",
+      "original_transcript": "61 ,400,000",
+      "corrected_transcript": "61,400,000",
+      "snapshot": {
+        "id": "59c5ed402065aa5f789f",
+        "crop_id": "59c5ed402065aa5f789f",
+        "invoice": "WEB_057",
+        "pdf": "WEB_057.pdf",
+        "page": 1,
+        "coords": [
+          1774,
+          1530,
+          1991,
+          1580
+        ],
+        "image": "/crops/WEB_057/59c5ed402065aa5f789f.png",
+        "page_image": "/rendered_pages/WEB_057/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_057.pdf",
+        "split": "train",
+        "transcript": "61 ,400,000",
+        "confirmation_method": "pdf_ocr_agreement_v1",
+        "original_transcript": "61 ,400,000",
+        "current_transcript": "61 ,400,000",
+        "suggested_transcript": null,
+        "categories": [
+          "space_before_punctuation"
+        ],
+        "issues": [
+          {
+            "category": "space_before_punctuation",
+            "message": "Có khoảng trắng ngay trước dấu câu.",
+            "start": 2,
+            "end": 3,
+            "text": " "
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "d6618a7ae977ea2e175a": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:47:19.595462+07:00",
+      "original_transcript": "JJ24391 , JK16629, JD31219, BM15297, G191215, GI91216",
+      "corrected_transcript": "JJ24391, JK16629, JD31219, BM15297, G191215, GI91216",
+      "snapshot": {
+        "id": "d6618a7ae977ea2e175a",
+        "crop_id": "d6618a7ae977ea2e175a",
+        "invoice": "WEB_057",
+        "pdf": "WEB_057.pdf",
+        "page": 1,
+        "coords": [
+          106,
+          1629,
+          1231,
+          1680
+        ],
+        "image": "/crops/WEB_057/d6618a7ae977ea2e175a.png",
+        "page_image": "/rendered_pages/WEB_057/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_057.pdf",
+        "split": "train",
+        "transcript": "JJ24391 , JK16629, JD31219, BM15297, G191215, GI91216",
+        "confirmation_method": "pdf_ocr_agreement_v1",
+        "original_transcript": "JJ24391 , JK16629, JD31219, BM15297, G191215, GI91216",
+        "current_transcript": "JJ24391 , JK16629, JD31219, BM15297, G191215, GI91216",
+        "suggested_transcript": null,
+        "categories": [
+          "space_before_punctuation"
+        ],
+        "issues": [
+          {
+            "category": "space_before_punctuation",
+            "message": "Có khoảng trắng ngay trước dấu câu.",
+            "start": 7,
+            "end": 8,
+            "text": " "
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "e555f6d5e1f90c8c367d": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:49:24.630453+07:00",
+      "original_transcript": "̀ , Hınh thức thanh toán (Payment method): Chuyển khoản",
+      "corrected_transcript": "Hınh thức thanh toán (Payment method): Chuyển khoản",
+      "snapshot": {
+        "id": "e555f6d5e1f90c8c367d",
+        "crop_id": "e555f6d5e1f90c8c367d",
+        "invoice": "WEB_102",
+        "pdf": "WEB_102.pdf",
+        "page": 1,
+        "coords": [
+          242,
+          1100,
+          1141,
+          1155
+        ],
+        "image": "/crops/WEB_102/e555f6d5e1f90c8c367d.png",
+        "page_image": "/rendered_pages/WEB_102/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_102.pdf",
+        "split": "test",
+        "transcript": "̀ , Hınh thức thanh toán (Payment method): Chuyển khoản",
+        "confirmation_method": "manual_visual_review",
+        "original_transcript": "̀ , Hınh thức thanh toán (Payment method): Chuyển khoản",
+        "current_transcript": "̀ , Hınh thức thanh toán (Payment method): Chuyển khoản",
+        "suggested_transcript": null,
+        "categories": [
+          "space_before_punctuation"
+        ],
+        "issues": [
+          {
+            "category": "space_before_punctuation",
+            "message": "Có khoảng trắng ngay trước dấu câu.",
+            "start": 1,
+            "end": 2,
+            "text": " "
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "3bd1f6ef4367084a7498": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:49:51.321681+07:00",
+      "original_transcript": "(Name o f goods, services)",
+      "corrected_transcript": "(Name of goods, services)",
+      "snapshot": {
+        "id": "3bd1f6ef4367084a7498",
+        "crop_id": "3bd1f6ef4367084a7498",
+        "invoice": "WEB_115",
+        "pdf": "WEB_115.pdf",
+        "page": 1,
+        "coords": [
+          378,
+          1477,
+          781,
+          1525
+        ],
+        "image": "/crops/WEB_115/3bd1f6ef4367084a7498.png",
+        "page_image": "/rendered_pages/WEB_115/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_115.pdf",
+        "split": "train",
+        "transcript": "(Name o f goods, services)",
+        "confirmation_method": "manual_visual_review",
+        "original_transcript": "(Name o f goods, services)",
+        "current_transcript": "(Name o f goods, services)",
+        "suggested_transcript": null,
+        "categories": [
+          "split_inside_word"
+        ],
+        "issues": [
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 8,
+            "end": 15,
+            "text": "f goods"
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "415270dabfc55a51d6a2": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:50:33.715419+07:00",
+      "original_transcript": "Thành t iền t rước t huế",
+      "corrected_transcript": "Thành tiền trước thuế",
+      "snapshot": {
+        "id": "415270dabfc55a51d6a2",
+        "crop_id": "415270dabfc55a51d6a2",
+        "invoice": "WEB_115",
+        "pdf": "WEB_115.pdf",
+        "page": 1,
+        "coords": [
+          879,
+          2128,
+          1238,
+          2180
+        ],
+        "image": "/crops/WEB_115/415270dabfc55a51d6a2.png",
+        "page_image": "/rendered_pages/WEB_115/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_115.pdf",
+        "split": "train",
+        "transcript": "Thành t iền t rước t huế",
+        "confirmation_method": "manual_visual_review",
+        "original_transcript": "Thành t iền t rước t huế",
+        "current_transcript": "Thành t iền t rước t huế",
+        "suggested_transcript": null,
+        "categories": [
+          "split_inside_word"
+        ],
+        "issues": [
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 6,
+            "end": 11,
+            "text": "t iền"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 12,
+            "end": 18,
+            "text": "t rước"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 19,
+            "end": 24,
+            "text": "t huế"
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "c438c35be6f75b88b1dc": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:50:59.570886+07:00",
+      "original_transcript": "Tổng c ộng ( Total:)",
+      "corrected_transcript": "Tổng cộng ( Total:)",
+      "snapshot": {
+        "id": "c438c35be6f75b88b1dc",
+        "crop_id": "c438c35be6f75b88b1dc",
+        "invoice": "WEB_115",
+        "pdf": "WEB_115.pdf",
+        "page": 1,
+        "coords": [
+          184,
+          2582,
+          488,
+          2635
+        ],
+        "image": "/crops/WEB_115/c438c35be6f75b88b1dc.png",
+        "page_image": "/rendered_pages/WEB_115/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_115.pdf",
+        "split": "train",
+        "transcript": "Tổng c ộng ( Total:)",
+        "confirmation_method": "manual_visual_review",
+        "original_transcript": "Tổng c ộng ( Total:)",
+        "current_transcript": "Tổng c ộng ( Total:)",
+        "suggested_transcript": null,
+        "categories": [
+          "split_inside_word",
+          "space_after_opening"
+        ],
+        "issues": [
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 5,
+            "end": 10,
+            "text": "c ộng"
+          },
+          {
+            "category": "space_after_opening",
+            "message": "Có khoảng trắng ngay sau dấu ngoặc mở.",
+            "start": 11,
+            "end": 13,
+            "text": "( "
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "7d543f8133144f213325": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:51:25.116109+07:00",
+      "original_transcript": "Cộng t iền t hanh t oán",
+      "corrected_transcript": "Cộng tiền thanh toán",
+      "snapshot": {
+        "id": "7d543f8133144f213325",
+        "crop_id": "7d543f8133144f213325",
+        "invoice": "WEB_115",
+        "pdf": "WEB_115.pdf",
+        "page": 1,
+        "coords": [
+          1862,
+          2150,
+          2209,
+          2205
+        ],
+        "image": "/crops/WEB_115/7d543f8133144f213325.png",
+        "page_image": "/rendered_pages/WEB_115/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_115.pdf",
+        "split": "train",
+        "transcript": "Cộng t iền t hanh t oán",
+        "confirmation_method": "manual_visual_review",
+        "original_transcript": "Cộng t iền t hanh t oán",
+        "current_transcript": "Cộng t iền t hanh t oán",
+        "suggested_transcript": null,
+        "categories": [
+          "split_inside_word"
+        ],
+        "issues": [
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 5,
+            "end": 10,
+            "text": "t iền"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 11,
+            "end": 17,
+            "text": "t hanh"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 18,
+            "end": 23,
+            "text": "t oán"
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    },
+    "ad72bf52f78c5a7684a5": {
+      "status": "corrected",
+      "reviewed_at": "2026-11-02T19:53:56.93476+07:00",
+      "original_transcript": "CÔNG T Y T NHH T HIẾT B Ị ĐO L ƯỜNG H OA S EN V ÀNG",
+      "corrected_transcript": "CÔNG TY TNHH THIẾT BỊ ĐO LƯỜNG HOA SEN VÀNG",
+      "snapshot": {
+        "id": "ad72bf52f78c5a7684a5",
+        "crop_id": "ad72bf52f78c5a7684a5",
+        "invoice": "WEB_132",
+        "pdf": "WEB_132.pdf",
+        "page": 1,
+        "coords": [
+          481,
+          105,
+          1614,
+          168
+        ],
+        "image": "/crops/WEB_132/ad72bf52f78c5a7684a5.png",
+        "page_image": "/rendered_pages/WEB_132/page_001.png",
+        "pdf_path": "/source_300_invoices/pdfs/WEB_132.pdf",
+        "split": "train",
+        "transcript": "CÔNG T Y T NHH T HIẾT B Ị ĐO L ƯỜNG H OA S EN V ÀNG",
+        "confirmation_method": "manual_visual_review",
+        "original_transcript": "CÔNG T Y T NHH T HIẾT B Ị ĐO L ƯỜNG H OA S EN V ÀNG",
+        "current_transcript": "CÔNG T Y T NHH T HIẾT B Ị ĐO L ƯỜNG H OA S EN V ÀNG",
+        "suggested_transcript": null,
+        "categories": [
+          "split_inside_word"
+        ],
+        "issues": [
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 9,
+            "end": 14,
+            "text": "T NHH"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 15,
+            "end": 21,
+            "text": "T HIẾT"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 24,
+            "end": 28,
+            "text": "Ị ĐO"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 29,
+            "end": 35,
+            "text": "L ƯỜNG"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 36,
+            "end": 40,
+            "text": "H OA"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 41,
+            "end": 45,
+            "text": "S EN"
+          },
+          {
+            "category": "split_inside_word",
+            "message": "Có một chữ cái đứng riêng trước một mảnh từ; có thể là từ bị chèn khoảng trắng.",
+            "start": 46,
+            "end": 51,
+            "text": "V ÀNG"
+          }
+        ],
+        "review_status": "pending",
+        "reviewed_at": ""
+      }
+    }
+  },
+  "history": [
+    {
+      "crop_id": "26ac96cae23807d26ebc",
+      "at": "2026-11-02T19:43:21.875932+07:00",
+      "old_transcript": "2, 571 , 818",
+      "new_transcript": "2,571,818",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "pdf_ocr_agreement_v1"
+    },
+    {
+      "crop_id": "3811000d04a5e3636971",
+      "at": "2026-11-02T19:44:55.043909+07:00",
+      "old_transcript": "2, 571 , 818",
+      "new_transcript": "2,571,818",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "pdf_ocr_agreement_v1"
+    },
+    {
+      "crop_id": "59c5ed402065aa5f789f",
+      "at": "2026-11-02T19:46:54.335246+07:00",
+      "old_transcript": "61 ,400,000",
+      "new_transcript": "61,400,000",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "pdf_ocr_agreement_v1"
+    },
+    {
+      "crop_id": "d6618a7ae977ea2e175a",
+      "at": "2026-11-02T19:47:19.595462+07:00",
+      "old_transcript": "JJ24391 , JK16629, JD31219, BM15297, G191215, GI91216",
+      "new_transcript": "JJ24391, JK16629, JD31219, BM15297, G191215, GI91216",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "pdf_ocr_agreement_v1"
+    },
+    {
+      "crop_id": "e555f6d5e1f90c8c367d",
+      "at": "2026-11-02T19:49:24.630453+07:00",
+      "old_transcript": "̀ , Hınh thức thanh toán (Payment method): Chuyển khoản",
+      "new_transcript": "Hınh thức thanh toán (Payment method): Chuyển khoản",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3bd1f6ef4367084a7498",
+      "at": "2026-11-02T19:49:51.321681+07:00",
+      "old_transcript": "(Name o f goods, services)",
+      "new_transcript": "(Name of goods, services)",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "415270dabfc55a51d6a2",
+      "at": "2026-11-02T19:50:33.715419+07:00",
+      "old_transcript": "Thành t iền t rước t huế",
+      "new_transcript": "Thành tiền trước thuế",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c438c35be6f75b88b1dc",
+      "at": "2026-11-02T19:50:59.570886+07:00",
+      "old_transcript": "Tổng c ộng ( Total:)",
+      "new_transcript": "Tổng cộng ( Total:)",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7d543f8133144f213325",
+      "at": "2026-11-02T19:51:25.116109+07:00",
+      "old_transcript": "Cộng t iền t hanh t oán",
+      "new_transcript": "Cộng tiền thanh toán",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ad72bf52f78c5a7684a5",
+      "at": "2026-11-02T19:53:56.93476+07:00",
+      "old_transcript": "CÔNG T Y T NHH T HIẾT B Ị ĐO L ƯỜNG H OA S EN V ÀNG",
+      "new_transcript": "CÔNG TY TNHH THIẾT BỊ ĐO LƯỜNG HOA SEN VÀNG",
+      "method": "whitespace_audit_user_edit",
+      "previous_confirmation_method": "manual_visual_review"
+    }
+  ]
+}

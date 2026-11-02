@@ -1,5 +1,5 @@
-# Bản sao bộ hóa đơn cho chuẩn bị recognition
+# Active invoice working copies
 
-Thư mục này chứa 208 PDF active được sao chép từ `E:\KhoaLuanTotNghiep\HoaDonBanHang_300\pdfs`, cùng bản sao `source_manifest.csv` và `SHA256SUMS.txt`. Số lượng hiện tại là 208, chưa đủ 300.
+This folder contains **188 active PDF working copies** and source/checksum manifests. PDFs are copied from `E:\KhoaLuanTotNghiep\HoaDonBanHang_300\pdfs`; the original files are not modified or moved. WEB_242 and its 56 crops were excluded from the active dataset at the user’s request; the working copy and crops are recoverable in `E:\KhoaLuanTotNghiep\data_Transcript_Fine_tune\recognition_dataset\excluded_invoice_backups\WEB_242_20261102T203812312432Z`.
 
-`source_copy_manifest.csv` ghi mã hồ sơ, đường dẫn nguồn/bản sao và trạng thái kiểm tra SHA-256. PDF nguồn không bị sửa hoặc di chuyển. Đây là bản sao đầu vào, chưa phải bộ crop/transcript đã xác minh để fine-tune.
+`source_copy_manifest.csv` lists only active PDF copies. `source_manifest.csv` retains the source catalog and marks excluded records as rejected.

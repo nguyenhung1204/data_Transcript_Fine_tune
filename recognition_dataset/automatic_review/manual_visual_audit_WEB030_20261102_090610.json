@@ -1,0 +1,178 @@
+[
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/224eb1a4fae29d07af29.png",
+    "confirmed_transcript": "Địa chỉ (Address):",
+    "source_text": "Đia chí (Address):",
+    "crop_id": "224eb1a4fae29d07af29",
+    "coords": [
+      51,
+      840,
+      351,
+      892
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.2221629Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/22626c7e496d50dfbc9b.png",
+    "confirmed_transcript": "Số lượng",
+    "source_text": "Só luơng",
+    "crop_id": "22626c7e496d50dfbc9b",
+    "coords": [
+      1679,
+      1165,
+      1847,
+      1226
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.2772844Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/a1f308f0d7f2c845f448.png",
+    "confirmed_transcript": "Đơn vị tính",
+    "source_text": "Đon vi tính",
+    "crop_id": "a1f308f0d7f2c845f448",
+    "coords": [
+      1451,
+      1171,
+      1656,
+      1223
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.3258134Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/a0d1067824617ddb489d.png",
+    "confirmed_transcript": "Thăn Ngoại Chiên Nước Mắm",
+    "source_text": "Thăn Ngoi Chiên Nưóc Mm",
+    "crop_id": "a0d1067824617ddb489d",
+    "coords": [
+      218,
+      1341,
+      701,
+      1393
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.4268734Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/7777c837425c5c7d8228.png",
+    "confirmed_transcript": "Thăn Nội + Lòng Đen Hấp Tía Tô",
+    "source_text": "Thăn Ni + Lòng Đen Hp Tía Tô",
+    "crop_id": "7777c837425c5c7d8228",
+    "coords": [
+      219,
+      1405,
+      759,
+      1454
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.5115241Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/c3c87776b63fda8a1658.png",
+    "confirmed_transcript": "Lẩu Đuôi",
+    "source_text": "Lu Duôi",
+    "crop_id": "c3c87776b63fda8a1658",
+    "coords": [
+      215,
+      1466,
+      380,
+      1516
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.5653184Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/529641ff0a6742ba6fb2.png",
+    "confirmed_transcript": "Ốc Hương Xào Bơ Bắp",
+    "source_text": "Ôc Hương Xào Bo Bp",
+    "crop_id": "529641ff0a6742ba6fb2",
+    "coords": [
+      216,
+      1526,
+      595,
+      1583
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.6273198Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/9b6b31918699f2106f98.png",
+    "confirmed_transcript": "Gà Hấp Tỏi",
+    "source_text": "Gà Hp Ti",
+    "crop_id": "9b6b31918699f2106f98",
+    "coords": [
+      217,
+      1714,
+      416,
+      1770
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.6816601Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/f2692801870864f126d5.png",
+    "confirmed_transcript": "Nước Suối",
+    "source_text": "Nuóc Sui",
+    "crop_id": "f2692801870864f126d5",
+    "coords": [
+      215,
+      1775,
+      400,
+      1828
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.7263031Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/3156748970909e7cde0a.png",
+    "confirmed_transcript": "Dĩa",
+    "source_text": "Dia",
+    "crop_id": "3156748970909e7cde0a",
+    "coords": [
+      1516,
+      1903,
+      1593,
+      1954
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.7711000Z"
+  },
+  {
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_image": "/crops/WEB_030/5aabaa2591d469312843.png",
+    "confirmed_transcript": "Người bán hàng (Seller)",
+    "source_text": "Nguòi bán hàng (Seller)",
+    "crop_id": "5aabaa2591d469312843",
+    "coords": [
+      1783,
+      2409,
+      2185,
+      2458
+    ],
+    "page_image": "/rendered_pages/WEB_030/page_001.png",
+    "invoice": "WEB_030",
+    "reviewed_at": "2026-11-02T09:06:10.8158206Z"
+  }
+]

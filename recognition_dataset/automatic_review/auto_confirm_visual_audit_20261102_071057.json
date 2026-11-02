@@ -1,0 +1,406 @@
+{
+  "reviewed_at_utc": "2026-11-02T00:10:56.866045+00:00",
+  "invoice": "HD_025",
+  "method": "manual_visual_review",
+  "evidence": "Visually inspected each crop and compared to visible PDF content. Kept separated MST digits as visibly printed. Incomplete/multiline fragments were intentionally skipped. OCR2 unavailable.",
+  "saved_count": 26,
+  "items": [
+    {
+      "crop_id": "a021aa5109fdfa11426f",
+      "transcript": "Việt nam",
+      "image": "/crops/HD_025/a021aa5109fdfa11426f.png",
+      "page": 1,
+      "coordinates": [
+        1177,
+        361,
+        1338,
+        411
+      ],
+      "pdf_text": "Việt nam",
+      "ocr1": "Vit nam",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "60d3007b5588156996a3",
+      "transcript": "Mã số thuế (Tax code): 0 3 0 8 8 0 8 5 7 6 Điện thoại (Tel):",
+      "image": "/crops/HD_025/60d3007b5588156996a3.png",
+      "page": 1,
+      "coordinates": [
+        714,
+        422,
+        1796,
+        475
+      ],
+      "pdf_text": "Mã số thuế (Tax code): 0  3  0  8  8  0  8  5  7  6  Điện thoại (Tel):",
+      "ocr1": "Mã s thu (Tax code): 0 3 0 8 8 0 8 5 7 6 Đin thoi (Tel):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "375560f3235da102da3d",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "image": "/crops/HD_025/375560f3235da102da3d.png",
+      "page": 1,
+      "coordinates": [
+        617,
+        553,
+        1490,
+        644
+      ],
+      "pdf_text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "ocr1": "HÓA DON GIÁ TRI GIA TĂNG",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "66060c441ebbf3b059d5",
+      "transcript": "Ký hiệu (Serial): 1K24TLA",
+      "image": "/crops/HD_025/66060c441ebbf3b059d5.png",
+      "page": 1,
+      "coordinates": [
+        1604,
+        630,
+        2059,
+        679
+      ],
+      "pdf_text": "Ký hiệu (Serial): 1 K24TLA",
+      "ocr1": "Ký hiu (Serial): 1K24TLA",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "42a91671f2056a4f8e03",
+      "transcript": "Số (No.): 2128274",
+      "image": "/crops/HD_025/42a91671f2056a4f8e03.png",
+      "page": 1,
+      "coordinates": [
+        1597,
+        685,
+        2029,
+        762
+      ],
+      "pdf_text": "Số (No.): 21 28274",
+      "ocr1": "Ső (No.): 2128274",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "debf8c7756ac7184b1f9",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "image": "/crops/HD_025/debf8c7756ac7184b1f9.png",
+      "page": 1,
+      "coordinates": [
+        762,
+        745,
+        1351,
+        797
+      ],
+      "pdf_text": "(Bản thể hiện của hóa đơn điện tử)",
+      "ocr1": "(Bn th hin ca hóa đơn đin t)",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "6fbc33c2c1f278353de7",
+      "transcript": "Họ tên người mua hàng (Customer) : Ngô Thanh Hà",
+      "image": "/crops/HD_025/6fbc33c2c1f278353de7.png",
+      "page": 1,
+      "coordinates": [
+        204,
+        945,
+        1080,
+        993
+      ],
+      "pdf_text": "Họ tên người mua hàng (Customer) : Ngô Thanh Hà",
+      "ocr1": "Ho tên ngưi mua hàng (Customer) : Ngô Thanh Hà",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "e47759eb27433e398bee",
+      "transcript": "Tên đơn vị (Company) :",
+      "image": "/crops/HD_025/e47759eb27433e398bee.png",
+      "page": 1,
+      "coordinates": [
+        202,
+        1016,
+        605,
+        1070
+      ],
+      "pdf_text": "Tên đơn vị (Company) :",
+      "ocr1": "Tên đơn v (Company) :",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "e8a43ae0e051531676f1",
+      "transcript": "Địa chỉ (Address) : số 40 ngõ 14 Phố Châu Đài, Phường",
+      "image": "/crops/HD_025/e8a43ae0e051531676f1.png",
+      "page": 1,
+      "coordinates": [
+        201,
+        1092,
+        1148,
+        1143
+      ],
+      "pdf_text": "Địa chỉ (Address) : số 40 ngõ 14 Phố Châu Đài, Phường",
+      "ocr1": "Đa chì (Address) : s 40 ngõ 14 Ph Châu Đài, Phưng",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "57afd3f9a01cc22c9791",
+      "transcript": "Thượng Cát, Quận Bắc Từ Liêm, Hà Nội",
+      "image": "/crops/HD_025/57afd3f9a01cc22c9791.png",
+      "page": 1,
+      "coordinates": [
+        202,
+        1136,
+        886,
+        1186
+      ],
+      "pdf_text": "Thượng Cát, Quận Bắc Từ Liêm, Hà Nội",
+      "ocr1": "Thưng Cát, Qun Bc T Liêm, Hà Ni",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "cc0d5622839398dbee9a",
+      "transcript": "FP04541 1547862976-items-10",
+      "image": "/crops/HD_025/cc0d5622839398dbee9a.png",
+      "page": 1,
+      "coordinates": [
+        1341,
+        1139,
+        1867,
+        1181
+      ],
+      "pdf_text": "FP04541 1547862976-items-10",
+      "ocr1": "FP045411547862976-items-10",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "81d3aae0f96f502ae63e",
+      "transcript": "Mã số thuế (Tax code) :",
+      "image": "/crops/HD_025/81d3aae0f96f502ae63e.png",
+      "page": 1,
+      "coordinates": [
+        202,
+        1208,
+        611,
+        1263
+      ],
+      "pdf_text": "Mã số thuế (Tax code) :",
+      "ocr1": "Mã s thu (Tax code) :",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "d3adae0ea521d9ebea25",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "image": "/crops/HD_025/d3adae0ea521d9ebea25.png",
+      "page": 1,
+      "coordinates": [
+        1222,
+        1212,
+        2042,
+        1261
+      ],
+      "pdf_text": "Hình thức thanh toán (Payment method): TM/CK",
+      "ocr1": "Hình thc thanh toán (Payment method): TM/CK",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "3c888b865f098c3efa06",
+      "transcript": "Số tài khoản (A/C):",
+      "image": "/crops/HD_025/3c888b865f098c3efa06.png",
+      "page": 1,
+      "coordinates": [
+        202,
+        1283,
+        532,
+        1339
+      ],
+      "pdf_text": "Số tài khoản (A/C):",
+      "ocr1": "S tài khon (A/C):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "d7e007b1579ad747e237",
+      "transcript": "Tại ngân hàng (At Bank):",
+      "image": "/crops/HD_025/d7e007b1579ad747e237.png",
+      "page": 1,
+      "coordinates": [
+        592,
+        1288,
+        1020,
+        1336
+      ],
+      "pdf_text": "Tại ngân hàng (At Bank):",
+      "ocr1": "Ti ngân hàng (At Bank):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "73f473cd82f6327ee1ce",
+      "transcript": "Thuế",
+      "image": "/crops/HD_025/73f473cd82f6327ee1ce.png",
+      "page": 1,
+      "coordinates": [
+        1789,
+        1381,
+        1899,
+        1439
+      ],
+      "pdf_text": "Thuế",
+      "ocr1": "Thu",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "0f38773dacef25dacb16",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "image": "/crops/HD_025/0f38773dacef25dacb16.png",
+      "page": 1,
+      "coordinates": [
+        461,
+        1405,
+        846,
+        1457
+      ],
+      "pdf_text": "Tên hàng hóa, dịch vụ",
+      "ocr1": "Tên hàng hóa, dch v",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "1ab03a8c0318b33491ee",
+      "transcript": "Chiết khấu:",
+      "image": "/crops/HD_025/1ab03a8c0318b33491ee.png",
+      "page": 1,
+      "coordinates": [
+        321,
+        1870,
+        522,
+        1919
+      ],
+      "pdf_text": "Chiết khấu:",
+      "ocr1": "Chit khu:",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "3ca2bb07d695e1abafb1",
+      "transcript": "Tổng tiền thuế GTGT (Total VAT amount): 2.136.273",
+      "image": "/crops/HD_025/3ca2bb07d695e1abafb1.png",
+      "page": 1,
+      "coordinates": [
+        1296,
+        1981,
+        2194,
+        2037
+      ],
+      "pdf_text": "Tổng tiền thuế GTGT (Total VAT amount): 2.136.273",
+      "ocr1": "Tng tin thu GTGT (Total VAT amount): 2.136.273",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "307a30aa028ceb054b4d",
+      "transcript": "Cộng tiền hàng (Total amount): 21.362.727",
+      "image": "/crops/HD_025/307a30aa028ceb054b4d.png",
+      "page": 1,
+      "coordinates": [
+        204,
+        1983,
+        932,
+        2037
+      ],
+      "pdf_text": "Cộng tiền hàng (Total amount): 21 .362.727",
+      "ocr1": "Cng tiên hàng (Total amount): 21.362.727",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "de6568ee6b72c3fdf02b",
+      "transcript": "Tổng số tiền thanh toán (Total payment): 23.499.000",
+      "image": "/crops/HD_025/de6568ee6b72c3fdf02b.png",
+      "page": 1,
+      "coordinates": [
+        203,
+        2067,
+        1092,
+        2119
+      ],
+      "pdf_text": "Tổng số tiền thanh toán (Total payment): 23.499.000",
+      "ocr1": "Tng s tin thanh toán (Total payment): 23.499.000",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "eacd77f853651e6636a3",
+      "transcript": "Người mua hàng (Customer)",
+      "image": "/crops/HD_025/eacd77f853651e6636a3.png",
+      "page": 1,
+      "coordinates": [
+        473,
+        2240,
+        961,
+        2295
+      ],
+      "pdf_text": "Người mua hàng (Customer)",
+      "ocr1": "Ngưi mua hàng (Customer)",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "f96e07f30466dcd2913f",
+      "transcript": "Người bán hàng (Seller)",
+      "image": "/crops/HD_025/f96e07f30466dcd2913f.png",
+      "page": 1,
+      "coordinates": [
+        1550,
+        2241,
+        1961,
+        2293
+      ],
+      "pdf_text": "Người bán hàng (Seller)",
+      "ocr1": "Ngưi bán hàng (Seller)",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "a39ea9594db60274ccc0",
+      "transcript": "Ký, ghi rõ họ tên",
+      "image": "/crops/HD_025/a39ea9594db60274ccc0.png",
+      "page": 1,
+      "coordinates": [
+        575,
+        2289,
+        863,
+        2341
+      ],
+      "pdf_text": "Ký, ghi rõ họ tên",
+      "ocr1": "Ký, ghi rõ h tên",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "dbde9c5cca28d5312cd8",
+      "transcript": "Ký, đóng dấu, ghi rõ họ tên",
+      "image": "/crops/HD_025/dbde9c5cca28d5312cd8.png",
+      "page": 1,
+      "coordinates": [
+        1529,
+        2292,
+        1989,
+        2340
+      ],
+      "pdf_text": "Ký, đóng dấu, ghi rõ họ tên",
+      "ocr1": "Ký, đóng du, ghi rõ h tên",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "453c439bd24ca0e84b6b",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)",
+      "image": "/crops/HD_025/453c439bd24ca0e84b6b.png",
+      "page": 1,
+      "coordinates": [
+        836,
+        3395,
+        1706,
+        3447
+      ],
+      "pdf_text": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)",
+      "ocr1": "(Cn kim tra, đi chiu khi lp, giao nhn hóa đơn)",
+      "status_after": "verified"
+    }
+  ],
+  "api_response": {
+    "saved": 26,
+    "total": 8568,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_071056.json",
+  "recheck_errors": []
+}

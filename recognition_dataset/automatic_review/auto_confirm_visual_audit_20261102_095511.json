@@ -1,0 +1,332 @@
+{
+  "invoice": "WEB_090",
+  "timestamp_utc": "2026-11-02T02:55:11.6256663Z",
+  "reviewed_count": 46,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Contact sheets 0-6 inspected; tax code, bank account, product names and amount opened at full size. Corrected PDF text-layer spacing for 1.650 using visible crop.",
+  "annotations": [
+    {
+      "crop_id": "b0f766d3f23c7045843d",
+      "status": "verified",
+      "transcript": "Mẫu số - Ký hiệu (Serial No.): 1C25TAA",
+      "reviewed_at": "2026-11-02T02:55:11.6203594Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b7bd7fce3b321c74905e",
+      "status": "verified",
+      "transcript": "Số (Invoice No.): 00001890",
+      "reviewed_at": "2026-11-02T02:55:11.6245353Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a3d62f86b5dac22c8734",
+      "status": "verified",
+      "transcript": "Mã của Cơ quan thuế: 000478E10562C443B280080E96D1199403",
+      "reviewed_at": "2026-11-02T02:55:11.6245919Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8ecd1eeec31c67ed53c5",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH TM DV HẢI HÀ",
+      "reviewed_at": "2026-11-02T02:55:11.6246233Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1aa96da148bf7636a2be",
+      "status": "verified",
+      "transcript": "Đơn vị bán (Seller):",
+      "reviewed_at": "2026-11-02T02:55:11.6246476Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b7252fb89a57df58129d",
+      "status": "verified",
+      "transcript": "30/6A Khu phố 2, Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ",
+      "reviewed_at": "2026-11-02T02:55:11.6246831Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "02382ffd1351c3568e1e",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel.):",
+      "reviewed_at": "2026-11-02T02:55:11.6247053Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "43b5c3dbfff151ffbff3",
+      "status": "verified",
+      "transcript": "0371000495873 tại Ngân hàng TMCP Ngoại Thương Việt Nam",
+      "reviewed_at": "2026-11-02T02:55:11.6247429Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b08b466fd169e0a41525",
+      "status": "verified",
+      "transcript": "Người mua (Buyer):",
+      "reviewed_at": "2026-11-02T02:55:11.6247644Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "018d9b4a8ef069f90a3b",
+      "status": "verified",
+      "transcript": "VP 3.04, Tòa Nhà ST.Moritz, 1014 Phạm Văn Đồng, Phường Hiệp Bình Chánh,",
+      "reviewed_at": "2026-11-02T02:55:11.6247938Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c24de44cd96d595a6f3e",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address):",
+      "reviewed_at": "2026-11-02T02:55:11.6248157Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1ad43b7653f91fcd16b6",
+      "status": "verified",
+      "transcript": "Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T02:55:11.6248423Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ea46c76a8eff86886a94",
+      "status": "verified",
+      "transcript": "HTTT (Pay. method): Tiền mặt",
+      "reviewed_at": "2026-11-02T02:55:11.6248638Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9cce9979a59cd0a75dd1",
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "reviewed_at": "2026-11-02T02:55:11.6248891Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e496d7e978587957c9c5",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "reviewed_at": "2026-11-02T02:55:11.6249074Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c61a81c9accc7264dad0",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:55:11.6249296Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d18a5617f1501da920d5",
+      "status": "verified",
+      "transcript": "Xấp",
+      "reviewed_at": "2026-11-02T02:55:11.6249804Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "14535a03c6b5b5ceec05",
+      "status": "verified",
+      "transcript": "Bao thư 100 - A4, (100 cái/xấp)",
+      "reviewed_at": "2026-11-02T02:55:11.6250065Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cc5454b5475a47a1b15b",
+      "status": "verified",
+      "transcript": "1.650",
+      "reviewed_at": "2026-11-02T02:55:11.6250326Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0855d24d67cc1850681b",
+      "status": "verified",
+      "transcript": "Bút bi TL-027 xanh hộp 20",
+      "reviewed_at": "2026-11-02T02:55:11.6250555Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f591b145129c177df8a9",
+      "status": "verified",
+      "transcript": "Cốc giấy 6oz-lốc 50 cái",
+      "reviewed_at": "2026-11-02T02:55:11.6250806Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "622343d53a120fc73751",
+      "status": "verified",
+      "transcript": "Mực dấu S62 hiệu Shiny",
+      "reviewed_at": "2026-11-02T02:55:11.6251022Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "73ba1d75e1f6589c4f5d",
+      "status": "verified",
+      "transcript": "Mẫu số - Ký hiệu (Serial No.): 1C25TAA",
+      "reviewed_at": "2026-11-02T02:55:11.6251269Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "823998702f36d0be837a",
+      "status": "verified",
+      "transcript": "Mã của Cơ quan thuế: 000478E10562C443B280080E96D1199403",
+      "reviewed_at": "2026-11-02T02:55:11.6251534Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f6502b34124b7fc109c7",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH TM DV HẢI HÀ",
+      "reviewed_at": "2026-11-02T02:55:11.6251757Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7b06030d009fd294c103",
+      "status": "verified",
+      "transcript": "Đơn vị bán (Seller):",
+      "reviewed_at": "2026-11-02T02:55:11.6251954Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d4f6c56a5f75babe0fbd",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address):",
+      "reviewed_at": "2026-11-02T02:55:11.6252159Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9ffb225b9bf65d7e1d78",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel.):",
+      "reviewed_at": "2026-11-02T02:55:11.6252359Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9be4560b61b77083617b",
+      "status": "verified",
+      "transcript": "Người mua (Buyer):",
+      "reviewed_at": "2026-11-02T02:55:11.6252569Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "32ba024fca66ab467a19",
+      "status": "verified",
+      "transcript": "VP 3.04, Tòa Nhà ST.Moritz, 1014 Phạm Văn Đồng, Phường Hiệp Bình Chánh,",
+      "reviewed_at": "2026-11-02T02:55:11.6253081Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1a7c447629a1f28f98c3",
+      "status": "verified",
+      "transcript": "Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T02:55:11.6253366Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4bc77349dc68f2c101a1",
+      "status": "verified",
+      "transcript": "HTTT (Pay. method): Tiền mặt",
+      "reviewed_at": "2026-11-02T02:55:11.6253599Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e991623d10df5cbaf053",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-02T02:55:11.6253786Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "26e7b2b0bae042bf0729",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "reviewed_at": "2026-11-02T02:55:11.6253971Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "236f1dd88524b73b39bd",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:55:11.6254192Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f695c236252b456fe7ea",
+      "status": "verified",
+      "transcript": "suất",
+      "reviewed_at": "2026-11-02T02:55:11.6254369Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e05c8d633e2682e71cb7",
+      "status": "verified",
+      "transcript": "Chiết khấu",
+      "reviewed_at": "2026-11-02T02:55:11.6254566Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2e44621dc9172f1bb822",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:55:11.6254760Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5ec1d4622ed710773d27",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế suất 10%:",
+      "reviewed_at": "2026-11-02T02:55:11.6255079Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a5e8628cd6292b46ac09",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế suất 8%:",
+      "reviewed_at": "2026-11-02T02:55:11.6255314Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6fbacf13c66e71d2e50c",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế suất 5%:",
+      "reviewed_at": "2026-11-02T02:55:11.6255520Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d50e316f159fa219c2c3",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế suất 0%:",
+      "reviewed_at": "2026-11-02T02:55:11.6255719Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5445fe8e61998358f56c",
+      "status": "verified",
+      "transcript": "Tổng tiền không kê khai thuế:",
+      "reviewed_at": "2026-11-02T02:55:11.6255938Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "608e3b047eac398f5f48",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:55:11.6256141Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0c173a6fb3ed07df51f1",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)",
+      "reviewed_at": "2026-11-02T02:55:11.6256347Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "385e84812b0365b8a3d2",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T02:55:11.6256596Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

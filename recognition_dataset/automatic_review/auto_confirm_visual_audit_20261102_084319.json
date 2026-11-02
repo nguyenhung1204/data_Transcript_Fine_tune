@@ -1,0 +1,135 @@
+{
+  "created_at_utc": "2026-11-02T01:43:19.2737280Z",
+  "run_id": "visual_20261102_084319",
+  "annotations": [
+    {
+      "transcript": "BA RỌI DÊ QUAY",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 item description crop clearly legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "7b3fb118968945549924"
+    },
+    {
+      "transcript": "BÒ TƠ HẤP CÁCH THỦY",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 item description crop legible; accents checked.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "cd46f40d97aa9a952f1a"
+    },
+    {
+      "transcript": "PHẦN",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 unit crop clearly reads PHẦN.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "5ba4dd4a2b8d6e4f0937"
+    },
+    {
+      "transcript": "LẨU DÊ ĐỆ NHẤT",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 item description crop clearly legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "f3b3239cb688ca3ff198"
+    },
+    {
+      "transcript": "PHẦN",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 unit crop clearly reads PHẦN.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "edd7bd52916391f9e12c"
+    },
+    {
+      "transcript": "PHẦN",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 unit crop clearly reads PHẦN.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "ff868a557ea39736b490"
+    },
+    {
+      "transcript": "PHẦN",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 unit crop clearly reads PHẦN.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "75230f1934ba85117d27"
+    },
+    {
+      "transcript": "Đã giảm 18.579 đồng tương ứng 20% mức tỷ lệ % để tính",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 discount text crop legible through the word tính.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "9ecc51d5d838b2e3f211"
+    },
+    {
+      "transcript": "thuế giá trị gia tăng theo Nghị quyết số 174/2024/QH15",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 continuation line fully legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "af2bff502df8e110ea14"
+    },
+    {
+      "transcript": "Tổng tiền thanh toán",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 total payment label clearly legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "5aea651353ca19b717e6"
+    },
+    {
+      "transcript": "Số tiền viết bằng chữ: Ba triệu không trăm bảy mươi tám nghìn đồng",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 amount in words fully legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "8e4a8cfbfb9aa8662776"
+    },
+    {
+      "transcript": "Người mua hàng (Buyer)",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 buyer footer label fully legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "7424385e79790ba0e332"
+    },
+    {
+      "transcript": "Người bán hàng (Seller)",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 seller footer label fully legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "68a5c371e1a183aca994"
+    },
+    {
+      "transcript": "(Chữ ký số (Digital signature))",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 signature note crop fully legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "b8659f3d3d61e2f50cdf"
+    },
+    {
+      "transcript": "(Chữ ký số (Digital signature))",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 second signature note crop fully legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "bdcce90a08dfc35b7002"
+    },
+    {
+      "transcript": "Mã cơ quan thuế cấp: 008B4B77D744234875B59F27698BA2D76D",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_027 tax authority code line fully legible.",
+      "reviewed_at": "2026-11-02T01:43:19.2737280Z",
+      "status": "verified",
+      "crop_id": "5bae951b1d49ce7848f4"
+    }
+  ],
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page"
+}

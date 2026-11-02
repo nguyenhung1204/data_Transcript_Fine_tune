@@ -1,0 +1,57 @@
+{
+  "created_at_utc": "2026-11-02T00:35:36.1376805Z",
+  "count": 6,
+  "invoice": "HD_014",
+  "method": "manual_visual_review",
+  "skipped": [
+    {
+      "crop_id": "aac072daf28a1a1c90b7",
+      "reason": "Chữ ký xanh chồng lên chữ đỏ ở phần tên công ty; không xác nhận khi ký tự bị che."
+    }
+  ],
+  "evidence": "Đã xem crop PNG và đúng vị trí trên ảnh trang 1 HD_014. Sáu crop xác nhận đọc rõ; crop tên công ty có dấu chữ ký che một phần nên để chờ.",
+  "confirmed": [
+    {
+      "crop_id": "a2e89cb0b09e89d1ed64",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T00:35:36.1376805Z",
+      "transcript": "Thuế suất 10% (VAT rate 10%):"
+    },
+    {
+      "crop_id": "d7fd48436b1b784c7934",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T00:35:36.1376805Z",
+      "transcript": "Tổng cộng (Total):"
+    },
+    {
+      "crop_id": "268f60a3981a552634d0",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T00:35:36.1376805Z",
+      "transcript": "Người bán hàng (Seller)"
+    },
+    {
+      "crop_id": "266fc666b9bcaf922dcd",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T00:35:36.1376805Z",
+      "transcript": "Người mua hàng (Buyer)"
+    },
+    {
+      "crop_id": "afb60cf4f295d5a8647c",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T00:35:36.1376805Z",
+      "transcript": "(Chữ ký số (nếu có))"
+    },
+    {
+      "crop_id": "8573113cf09c7139d7c4",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T00:35:36.1376805Z",
+      "transcript": "(Chữ ký điện tử, chữ ký số)"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "invoice": "WEB_087",
+  "created_at": "2026-11-02T02:49:49.5047263Z",
+  "method": "manual_visual_review",
+  "count": 25,
+  "deferred_crop_id": "71218a418cc9c31392e9",
+  "deferred_reason": "Green verification stamp obscures part of the red company signature text.",
+  "annotations": [
+    {
+      "crop_id": "6cff572300f82dab627c",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH LOTTERIA VIỆT NAM",
+      "reviewed_at": "2026-11-02T02:49:49.4927769Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e2f561fa2888d75f05c2",
+      "status": "verified",
+      "transcript": "Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T02:49:49.5024189Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c46e5e88c9f1846ecf9d",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel):",
+      "reviewed_at": "2026-11-02T02:49:49.5026602Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0eb517b395d2a00031de",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0300644051",
+      "reviewed_at": "2026-11-02T02:49:49.5027785Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2aa6c4d10e7b0087f874",
+      "status": "verified",
+      "transcript": "Số (No.): 3516",
+      "reviewed_at": "2026-11-02T02:49:49.5028629Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bd630aaafbf82522160a",
+      "status": "verified",
+      "transcript": "(Hóa đơn có mã khởi tạo từ máy tính tiền)",
+      "reviewed_at": "2026-11-02T02:49:49.5029341Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "db23e44edb6062229a8a",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Customer's name):",
+      "reviewed_at": "2026-11-02T02:49:49.5030105Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5bdaae75f7d22b8b659f",
+      "status": "verified",
+      "transcript": "Tên đơn vị (Company): Khách hàng không lấy hóa đơn",
+      "reviewed_at": "2026-11-02T02:49:49.5032334Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "126f765b80ccfe9938ef",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address): Khách hàng không lấy hóa đơn",
+      "reviewed_at": "2026-11-02T02:49:49.5033130Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5daa38ac857cef41c3e5",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code):",
+      "reviewed_at": "2026-11-02T02:49:49.5033735Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "edbced66dc76d2f7d1fd",
+      "status": "verified",
+      "transcript": "Số CCCD (Citizen identification):",
+      "reviewed_at": "2026-11-02T02:49:49.5034306Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "04aeae6209e1cda19bb3",
+      "status": "verified",
+      "transcript": "Số điện thoại (Phone):",
+      "reviewed_at": "2026-11-02T02:49:49.5035019Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9d59de52d6b3ebe2725b",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Method of payment): TM/CK",
+      "reviewed_at": "2026-11-02T02:49:49.5035567Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "94deb73c4c34fa2a2c33",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:49:49.5036032Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5015de5b2bcad42245b8",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "reviewed_at": "2026-11-02T02:49:49.5036471Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "283eaeb616181ec0f059",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:49:49.5037026Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7747f6dcfc4fe59b1324",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng và cung cấp dịch vụ (Sub Total Amount):",
+      "reviewed_at": "2026-11-02T02:49:49.5038182Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2f820c8cb9b68e2b0d05",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "reviewed_at": "2026-11-02T02:49:49.5038991Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ceb0da29baba3ee5d80c",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT (VAT rate): 10%",
+      "reviewed_at": "2026-11-02T02:49:49.5039594Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1d8f04efa5dc1191e8b5",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán (Total amount payaple):",
+      "reviewed_at": "2026-11-02T02:49:49.5041367Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "808e9f31f418a993934f",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:49:49.5042681Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "de1314eb9ddac045ecd8",
+      "status": "verified",
+      "transcript": "Ký, ghi rõ họ tên",
+      "reviewed_at": "2026-11-02T02:49:49.5043853Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f498a5956e0eb6c02280",
+      "status": "verified",
+      "transcript": "Ký, ghi rõ họ, tên",
+      "reviewed_at": "2026-11-02T02:49:49.5044555Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "82445bf73b5731183c12",
+      "status": "verified",
+      "transcript": "Mã nhận hóa đơn: 59195890 tra cứu tại: http://tracuulotteria.einvoice.vn/",
+      "reviewed_at": "2026-11-02T02:49:49.5045588Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f893d2c1411a8ad20857",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T02:49:49.5046454Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "invoice": "WEB_231",
+  "confirmed": [
+    {
+      "transcript": "Người mua hàng",
+      "crop_id": "28fae4805c175eb0df01"
+    },
+    {
+      "transcript": "Mã số thuế",
+      "crop_id": "79a73ebcbf743eda5c59"
+    },
+    {
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "crop_id": "f4a063717d66ad229140"
+    },
+    {
+      "transcript": "Tiền thuế GTGT:",
+      "crop_id": "31bfa0c55391a7afaaaf"
+    },
+    {
+      "transcript": "Cộng tiền hàng :",
+      "crop_id": "e353d77808981ad8fb9c"
+    },
+    {
+      "transcript": "HÓA ĐƠN",
+      "crop_id": "7c65bba3d796d1887cf4"
+    },
+    {
+      "transcript": "Hình thức thanh toán:TM/CK Mã số thuế: 0107335263",
+      "crop_id": "1e69e64e908dfcd92cac"
+    },
+    {
+      "transcript": ": 0104927141",
+      "crop_id": "7b95e25c741ad2a4687c"
+    },
+    {
+      "transcript": "Ký hiệu: TP/17P",
+      "crop_id": "ee20a43595312c225775"
+    },
+    {
+      "transcript": "Thành tiền",
+      "crop_id": "59b2e8fbbb182353a3f0"
+    },
+    {
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "a0b9e73d7df8c90ae35d"
+    },
+    {
+      "transcript": "Có TK 51111: 281.406.364 đ",
+      "crop_id": "655aa655660d26dec224"
+    },
+    {
+      "transcript": "Nội",
+      "crop_id": "f9e493d8fb03cd9b2b1e"
+    },
+    {
+      "transcript": "Mẫu số 3.4: Hóa đơn GTGT",
+      "crop_id": "615e8ac804ae5e30fb9b"
+    },
+    {
+      "transcript": "Liêm, TP.Hà Nội, Việt Nam",
+      "crop_id": "15139e4581535c08fbbf"
+    },
+    {
+      "transcript": "Liên 3: Nội bộ",
+      "crop_id": "f0c3fc8343c0d48d8282"
+    },
+    {
+      "transcript": "Thuế suất GTGT : 10 %",
+      "crop_id": "36778248e8e51e5aeab3"
+    },
+    {
+      "transcript": "Tổng cộng tiền thanh toán: 309.547.000",
+      "crop_id": "2b5a2c5056ee3fee0356"
+    },
+    {
+      "transcript": "Người bán hàng",
+      "crop_id": "826b35af1b358033b33b"
+    }
+  ],
+  "verified_count_after": 11347,
+  "verification_errors": [],
+  "reviewed_at": "2026-11-02T11:19:48.5076460+07:00",
+  "verified_count_before": 11328,
+  "preserved_existing": 18,
+  "confirmed_new": 19,
+  "deferred": [
+    {
+      "reason": "Dòng ghi chú kết thúc giữa câu ở từ “nghiệp”; crop không chứa trọn câu nên để chờ.",
+      "crop_id": "36149d74713b579d85a6"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_111942.json",
+  "visually_reviewed": 38,
+  "preexisting_transcript_conflicts": [
+    {
+      "status": "verified",
+      "transcript": "3=1x2",
+      "expected_visual": "3= 1x2",
+      "crop_id": "bee7dd9e36dfb8961b50"
+    }
+  ]
+}

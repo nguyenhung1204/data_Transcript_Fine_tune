@@ -6,11 +6,12 @@ Repository chia sẻ bộ crop nhận dạng chữ PaddleOCR, công cụ rà tra
 
 ## Trạng thái dữ liệu mới nhất
 
-- 208 PDF nguồn đã được sao chép vào `recognition_dataset/source_300_invoices/pdfs/`; checksum khớp manifest.
-- Có 17.961 crop trong manifest. Tiến độ rà hiện ghi 7.358 nhãn `verified`, 111 `rejected`, 20 `needs_review`; các crop còn lại chưa có quyết định rà.
-- Bộ Colab được làm mới từ tiến độ hiện tại: 4.370 train, 1.297 validation, 1.691 test. Các split kế thừa manifest cấp hóa đơn; 104/36/31 hóa đơn có crop được xuất trong từng split.
-- Trong 7.358 nhãn export, 396 có bằng chứng audit rà trực quan hoặc xác nhận ban đầu từ công cụ gán nhãn; 6.962 là xác nhận tự động theo PDF/OCR hoặc chưa truy nguyên được thành rà tay. Đây là bộ thử nghiệm có nhãn yếu, không được gọi toàn bộ là ground truth đã được người kiểm tra.
-- Tập test đã từng được dùng trong các lần đánh giá trước; xem đây là kết quả chẩn đoán, không phải benchmark độc lập.
+- 188 hóa đơn active (206 trang) nằm trong `recognition_dataset/source_300_invoices/pdfs/`; danh sách và checksum ở `source_manifest.csv`.
+- `crop_manifest.csv` có 14.469 vùng crop; ảnh crop đều tồn tại tại đường dẫn trong manifest.
+- Bộ export Colab có 12.551 dòng nhãn: 7.670 train, 2.359 validation và 2.522 test. Chia tập theo hóa đơn: 111 train, 40 validation, 37 test; các hóa đơn không có crop export vẫn được giữ trong manifest split.
+- Theo `colab_finetune/dataset_manifest.csv`, nguồn nhãn ghi 12.549 dòng `ocr_pseudo_label` và 2 dòng từ crop được xác nhận trong công cụ gán nhãn. Phân loại nguồn gốc riêng ghi 392 dòng có bằng chứng rà soát của con người và 12.159 dòng tự động/chưa truy nguyên được; các nhóm này không đồng nghĩa với việc toàn bộ đã được kiểm tra bằng mắt.
+- Tập hóa đơn đã được dùng trong các lần đánh giá OCR trước; kết quả trên tập này có tính chẩn đoán, không phải benchmark độc lập.
+- WEB_242 và các hóa đơn bị loại khỏi dữ liệu active không nằm trong export; bản sao khôi phục cục bộ bị loại khỏi GitHub.
 - Danh sách và manifest Colab: `recognition_dataset/colab_finetune/`. Ảnh crop được tham chiếu từ các thư mục đã có trong repository.
 
 ## Dùng dữ liệu trong Google Colab

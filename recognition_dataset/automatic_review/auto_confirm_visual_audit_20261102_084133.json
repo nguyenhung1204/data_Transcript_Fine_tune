@@ -1,0 +1,32 @@
+{
+  "created_at_utc": "2026-11-02T01:41:33.6683577Z",
+  "run_id": "visual_20261102_084133",
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page",
+  "annotations": [
+    {
+      "reviewed_at": "2026-11-02T01:41:33.6683577Z",
+      "status": "verified",
+      "crop_id": "971d3f2cbe7932bb850a",
+      "review_note": "HD_013 crop visibly reads Cộng tiền thanh.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Cộng tiền thanh"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:41:33.6683577Z",
+      "status": "verified",
+      "crop_id": "aac072daf28a1a1c90b7",
+      "review_note": "HD_014 red signature line clearly legible.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ký bởi (Signed By): CÔNG TY CỔ PHẦN"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:41:33.6683577Z",
+      "status": "verified",
+      "crop_id": "750f3747d6bed8f28a4c",
+      "review_note": "HD_025 label crop clearly reads Tiền thuế.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền thuế"
+    }
+  ],
+  "annotation_count": 3
+}

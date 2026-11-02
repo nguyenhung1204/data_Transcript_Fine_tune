@@ -1,0 +1,106 @@
+{
+  "invoice_ids": [
+    "WEB_220"
+  ],
+  "accepted": [
+    {
+      "crop_id": "1cc3e1aca815e0eadc70",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN (GTGT)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "348366af5d4714a76150",
+      "status": "verified",
+      "transcript": "KH: 1C22TKJ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fa73b15f8a1ced8edc1a",
+      "status": "verified",
+      "transcript": "(Liên 2: Giao khách h àng)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d05705e6f16a1672047f",
+      "status": "verified",
+      "transcript": "0441000647085",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "42a4d93992b357464502",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng: C ông T y TN HH Thang máy H ải Giang Sơn",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "16e33117c59c95fde4fb",
+      "status": "verified",
+      "transcript": "Mã số thuế: 03009115655",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a38bfcec37e7169cdd06",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chưa th anh toá n",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "52fa80c8976680188aed",
+      "status": "verified",
+      "transcript": "T hành t iền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2db3bfede00c0928b180",
+      "status": "verified",
+      "transcript": "ĐV T",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "168fb091004511ad1879",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "27106f1c35013aca2e37",
+      "status": "verified",
+      "transcript": "Cá i",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "62c87030ed70740d1e9e",
+      "status": "verified",
+      "transcript": "421.818",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "254a41c675de851a2e15",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "35a06722774bd33fed8c",
+      "status": "verified",
+      "transcript": "33.745",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dd1986e9d71b5588a92a",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a3287f19aca1deecab65",
+      "status": "verified",
+      "transcript": "455.563",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "accepted_count": 16,
+  "timestamp": "20261102_110506",
+  "deferred": []
+}

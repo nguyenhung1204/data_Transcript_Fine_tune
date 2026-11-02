@@ -1,0 +1,43 @@
+{
+  "invoice": "HD_037",
+  "confirmed": [
+    {
+      "transcript": "(Chữ ký số (nếu có))",
+      "crop_id": "aba553fb73ab6dfe91dd"
+    },
+    {
+      "transcript": "(Chữ ký số (nếu có))",
+      "crop_id": "29c70018cf5bcfd1f797"
+    },
+    {
+      "transcript": "Chữ ký có hiệu lực",
+      "crop_id": "caaa784e851fc828349c"
+    },
+    {
+      "transcript": "Động Việt",
+      "crop_id": "62afcf1eb3270c2857f9"
+    },
+    {
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "crop_id": "b390e0ccb78fe0ea1ebb"
+    }
+  ],
+  "timestamp_utc": "2026-11-02T00:54:49.0259158Z",
+  "note": "Five clearly readable short crops confirmed; obscured, clipped, and over-limit lines remain pending.",
+  "method": "manual_visual_review_crop_images",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075449.json",
+  "skipped": [
+    {
+      "reason": "Green signature overlay crosses and obscures characters.",
+      "crop_id": "c7797a893bee4af5175d"
+    },
+    {
+      "reason": "Visible line is 113 characters, over 90-character limit.",
+      "crop_id": "d755f52f66fd4b575c30"
+    },
+    {
+      "reason": "Visible footer text is 116 characters and lower part is clipped.",
+      "crop_id": "592e67c0c750eeb8a4dc"
+    }
+  ]
+}

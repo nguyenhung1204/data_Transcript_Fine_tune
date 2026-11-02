@@ -1,0 +1,155 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "093bead73ebaf909fd5b",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "HÓA ĐO'N GIÁ TRI GIA TĂNG",
+      "transcript_after": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "061c7e2af53cb92d5a9f",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "Só/Inv.No :",
+      "transcript_after": "Số/Inv.No :",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "1bf4456e201aeeb9a7f6",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "Mã sô thuê (Tax code): 3600456424",
+      "transcript_after": "Mã số thuế (Tax code): 3600456424",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "bac94aea5e6c8d53ac95",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "TÊN HÀNG HÓA DICH VU",
+      "transcript_after": "TÊN HÀNG HÓA DỊCH VỤ",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "8780ac55a07f966b2657",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "DO'N VI TÍNH",
+      "transcript_after": "ĐƠN VỊ TÍNH",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e9b77b7612d5aa8735e5",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "SÓ LU'O'NG",
+      "transcript_after": "SỐ LƯỢNG",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "bf94665f0287dcf29c0d",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "DO'N GIÁ",
+      "transcript_after": "ĐƠN GIÁ",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0d78d0e818d7587716f9",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "Tng cng tin thanh toán (Total payment):",
+      "transcript_after": "Tổng cộng tiền thanh toán (Total payment):",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "b5a867ac9bff7aa97eb8",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "Ngưòi mua hàng",
+      "transcript_after": "Người mua hàng",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "7b76509fec25afd4adf3",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "Ngưòi bán hàng",
+      "transcript_after": "Người bán hàng",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "913f11a0349e3e74a84b",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "(Ký, ghi rõ h tên)",
+      "transcript_after": "(Ký, ghi rõ họ tên)",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "1d1f4c6e24be7a251e1d",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "Ký đin t bi: CÔnG TY TNHH",
+      "transcript_after": "Ký điện tử bởi: CÔNG TY TNHH",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "67a01775ec4a95c82bbe",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "THU'O'NG MAI NIKOS",
+      "transcript_after": "THƯƠNG MẠI NIKOS",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "66bf2b7d3857a9f833e2",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "(Cn kim tra đi chiu khi lp, giao, nhn hóa đơn)",
+      "transcript_after": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e4598ae88bcf53b42a9a",
+      "invoice": "WEB_050",
+      "pdf": "WEB_050.pdf",
+      "page": 1,
+      "transcript_before": "Mã ca co quan thué:",
+      "transcript_after": "Mã của cơ quan thuế:",
+      "evidence": "Visually inspected crop; complete printed content is legible; transcript preserves case, punctuation, accents and visible wording. PDF text layer agrees after normalizing nonbreaking/multiple spaces only.",
+      "status": "verified"
+    }
+  ],
+  "skipped": []
+}

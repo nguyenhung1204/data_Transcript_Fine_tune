@@ -1,0 +1,28 @@
+{
+  "created_at_utc": "2026-11-02T09:51:26.2308271Z",
+  "reviewed": [
+    {
+      "evidence": "Full 86-character crop is legible; PDF text matches.",
+      "length": 86,
+      "crop_id": "65320c2b8e37e8606cb0",
+      "transcript": "Đơn vị bán hàng (Seller): CÔNG TY TNHH MỘT THÀNH VIÊN TRÁI CÂY BẢO YẾN – CHI NHÁNH SÓC",
+      "invoice": "WEB_038"
+    },
+    {
+      "evidence": "Printed red signature text is fully readable; no overlay in crop.",
+      "length": 32,
+      "crop_id": "e6a0a46ee8f5f19bb526",
+      "transcript": "TRÁI CÂY BẢO YẾN – CHI NHÁNH SÓC",
+      "invoice": "WEB_038"
+    },
+    {
+      "evidence": "Printed continuation is fully readable in crop.",
+      "length": 5,
+      "crop_id": "42cc078d7ac9fd9b4626",
+      "transcript": "TRĂNG",
+      "invoice": "WEB_038"
+    }
+  ],
+  "skipped": "Long addresses, provider footer, and stamp-obscured signed-by label remain pending.",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_165122.json"
+}

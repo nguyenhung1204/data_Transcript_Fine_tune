@@ -1,0 +1,135 @@
+{
+  "created_at_utc": "2026-11-02T01:37:50.6802029Z",
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "CÔNG TY TNHH NHỰA VÀ CAO SU KIẾN PHÁT VIỆT NAM",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 seller name crop fully legible.",
+      "status": "verified",
+      "crop_id": "11989d4c1bb5ba443b7e"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tài khoản (Bank account): 217290879 - Á Châu",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 bank account line fully legible.",
+      "status": "verified",
+      "crop_id": "0416ed1e5325f1a979ae"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Cộng tiền thanh",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 crop visibly contains Cộng tiền thanh; crop ends at this text.",
+      "status": "verified",
+      "crop_id": "65df7e7632748cb3c505"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền trước thuế",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 table header fully legible.",
+      "status": "verified",
+      "crop_id": "bea3519e56e47c32ca29"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tổng hợp",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 table label fully legible.",
+      "status": "verified",
+      "crop_id": "5f8517ca28b90aaec78b"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền thuế GTGT",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 table label fully legible.",
+      "status": "verified",
+      "crop_id": "bfb6ac51d48ea2006778"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Không chịu thuế GTGT (VAT exemption):",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 tax label and punctuation clearly legible.",
+      "status": "verified",
+      "crop_id": "401490b111289b316926"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất 5% (VAT rate 5%):",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 tax rate label clearly legible.",
+      "status": "verified",
+      "crop_id": "d1ac859a26f7712944d1"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất 8% (VAT rate 8%):",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 tax rate label clearly legible.",
+      "status": "verified",
+      "crop_id": "ea3c061b36ecdd38bd27"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất 10% (VAT rate 10%):",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 tax rate label clearly legible.",
+      "status": "verified",
+      "crop_id": "3b7f7153eea201bc91b6"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất KHÁC (Other VAT rates):",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 tax rate label clearly legible.",
+      "status": "verified",
+      "crop_id": "da0d80629afe50e42be0"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tổng cộng (Total):",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 total label and punctuation clearly legible.",
+      "status": "verified",
+      "crop_id": "8c0f625b11d2594fee81"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 buyer label crop fully legible.",
+      "status": "verified",
+      "crop_id": "d8ba1d0989c31b55bca8"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 second buyer label occurrence fully legible.",
+      "status": "verified",
+      "crop_id": "b7b36dc6e9fab6f02034"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 signature note fully legible.",
+      "status": "verified",
+      "crop_id": "d4afde3ef7e9541d0af6"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T01:37:50.6802029Z",
+      "review_note": "HD_190 second signature note occurrence fully legible.",
+      "status": "verified",
+      "crop_id": "20b27079275b1b3dea00"
+    }
+  ],
+  "run_id": "visual_20261102_083750",
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page"
+}

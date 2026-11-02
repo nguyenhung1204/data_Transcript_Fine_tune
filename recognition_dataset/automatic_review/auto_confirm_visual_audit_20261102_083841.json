@@ -1,0 +1,111 @@
+{
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page",
+  "annotations": [
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "056338e6adccf85929e3",
+      "status": "verified",
+      "review_note": "HD_192 invoice title crop fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Ký hiệu (Serial):",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b7245f415b9bb8398913",
+      "status": "verified",
+      "review_note": "HD_192 serial label crop fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "1C25TYY Số (No.):",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "bda5665679074b580834",
+      "status": "verified",
+      "review_note": "HD_192 crop clearly contains serial value followed by invoice number label."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THÔNG TIN DOANH NGHIỆP VIỆT",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3620cc0785c563f04458",
+      "status": "verified",
+      "review_note": "HD_192 seller name crop fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Mã số thuế (Tax code): 0104478506",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ac63de0ed3a1ce878947",
+      "status": "verified",
+      "review_note": "HD_192 seller tax code line fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Họ tên người mua hàng (Customer's name):",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2d91c4c77af044a68f24",
+      "status": "verified",
+      "review_note": "HD_192 buyer label crop fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Mã số thuế (Tax code): 0310415290",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9d1c600c0b24b3380ae8",
+      "status": "verified",
+      "review_note": "HD_192 buyer tax code line fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Việt Nam Tài khoản ngân hàng (Bank Account):",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3034198b869988711632",
+      "status": "verified",
+      "review_note": "HD_192 line crop fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b37a70d02a5e88e3476d",
+      "status": "verified",
+      "review_note": "HD_192 payment line fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8e2e9bba2349531cdf21",
+      "status": "verified",
+      "review_note": "HD_192 table header fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "077096b5b1a6a3974667",
+      "status": "verified",
+      "review_note": "HD_192 table header fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "410cb0eef366ca844e1b",
+      "status": "verified",
+      "review_note": "HD_192 table header fully legible."
+    },
+    {
+      "reviewed_at": "2026-11-02T01:38:41.1087148Z",
+      "transcript": "Quảng cáo Trang Vàng",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "16900b10cb5177d38581",
+      "status": "verified",
+      "review_note": "HD_192 product description crop fully legible."
+    }
+  ],
+  "run_id": "visual_20261102_083841",
+  "created_at_utc": "2026-11-02T01:38:41.1087148Z"
+}

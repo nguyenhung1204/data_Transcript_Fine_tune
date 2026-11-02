@@ -1,0 +1,159 @@
+{
+  "policy": "Each crop inspected visually; uncertain bank, buyer company, restaurant-name, and ambiguous product text crops were left pending.",
+  "annotations": [
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "review_note": "WEB_033: tiêu đề in rõ.",
+      "crop_id": "c106d73df2687d7f4f32",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Ký hiệu (Serial No): 1C25TYY",
+      "review_note": "WEB_033: ký hiệu đọc rõ.",
+      "crop_id": "7cabedf32c262292f272",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "review_note": "WEB_033: chú thích in rõ.",
+      "crop_id": "5ad0a4bfde9b74868cc1",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Số (No.):",
+      "review_note": "WEB_033: nhãn trường đủ dòng.",
+      "crop_id": "b80fa92a95d0bed37e3c",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Mã của cơ quan thuế: 008FE82944C7F045A2BDCDC532092F51B2",
+      "review_note": "WEB_033: mã cơ quan thuế kiểm tra trực tiếp trên crop phóng to.",
+      "crop_id": "db9f5c20b842753aef39",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Đơn vị bán hàng (Seller): CÔNG TY CỔ PHẦN ĐÔNG PHÁT",
+      "review_note": "WEB_033: dòng người bán đọc rõ trên crop phóng to.",
+      "crop_id": "977b065977e7bd9ef3b4",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Mã số thuế (Tax code): 2801411333",
+      "review_note": "WEB_033: MST đọc rõ.",
+      "crop_id": "2467139884a47d44f980",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Điện thoại (Tel): 02372.240.466",
+      "review_note": "WEB_033: số điện thoại đọc rõ.",
+      "crop_id": "73b6af28b79f5b9d0fa7",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Họ tên người mua hàng (Buyer's fullname):",
+      "review_note": "WEB_033: nhãn người mua đủ dòng.",
+      "crop_id": "5942a3c116d19906641f",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "review_note": "WEB_033: MST bên mua đọc rõ.",
+      "crop_id": "51be8ace8841c2897c5b",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "review_note": "WEB_033: phương thức thanh toán đọc rõ.",
+      "crop_id": "a894dd82d249e8613ce8",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Số tài khoản (A/C No):",
+      "review_note": "WEB_033: nhãn trường đủ dòng.",
+      "crop_id": "65efc730b30762632cc7",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Thành tiền",
+      "review_note": "WEB_033: tiêu đề cột đọc rõ.",
+      "crop_id": "02ed4d359f4a4c3560aa",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "review_note": "WEB_033: tiêu đề cột đọc rõ.",
+      "crop_id": "e3ea0db9bd0d47a9ce1b",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Dê ủ trấu",
+      "review_note": "WEB_033: tên món in rõ.",
+      "crop_id": "3ca43705c042dac55ec3",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Cá chình nướng, đầu đuôi nấu canh chua",
+      "review_note": "WEB_033: tên món in rõ trên crop.",
+      "crop_id": "4254103bbe70a5406f6f",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Rau bí xào tỏi",
+      "review_note": "WEB_033: tên món in rõ.",
+      "crop_id": "b0914aae37311714ca7b",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "review_note": "WEB_033 trang 2: tiêu đề in rõ.",
+      "crop_id": "3b24bdf2dfdad83f1674",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:50:51.5695109Z",
+      "transcript": "Ký hiệu (Serial No): 1C25TYY",
+      "review_note": "WEB_033 trang 2: ký hiệu in rõ.",
+      "crop_id": "5d1027ae0c42e89cb2fc",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "created_at_utc": "2026-11-02T01:50:51.5695109Z",
+  "run_id": "visual_20261102_085051"
+}

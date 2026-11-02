@@ -1,0 +1,56 @@
+{
+  "confirmed": [
+    {
+      "invoice": "HD_012",
+      "text": "Số lượng",
+      "id": "6146d25604440de2d89a",
+      "note": "Crop table header visually sharp; source page shows column label Số lượng."
+    },
+    {
+      "invoice": "HD_013",
+      "text": "Số lượng",
+      "id": "c9fc80c73d980ab581f2",
+      "note": "Crop table header visually sharp and matches source invoice table."
+    },
+    {
+      "invoice": "HD_013",
+      "text": "Đơn giá",
+      "id": "f6471fbc0e82e2bebcc6",
+      "note": "Crop table header visually sharp and matches source invoice table."
+    },
+    {
+      "invoice": "HD_013",
+      "text": "Tên hàng hóa, dịch vụ",
+      "id": "1b9cd5bd53e9d095efbc",
+      "note": "Crop table header visually sharp and matches source invoice table."
+    }
+  ],
+  "policy": "Visual comparison of each crop against its source invoice page; only legible exact text <=90 characters confirmed.",
+  "timestamp_utc": "2026-11-02T01:08:10.3078685Z",
+  "skipped": [
+    {
+      "reason": "Transcript >90 characters after exact accents; left pending.",
+      "id": "8722d3872eea050200b2"
+    },
+    {
+      "reason": "Exact transcript is 91 characters; left pending.",
+      "id": "677ae63e8c54a6c6360a"
+    },
+    {
+      "reason": "Transcript exceeds 90 characters; left pending.",
+      "id": "017c7b9c17073973d697"
+    },
+    {
+      "reason": "Transcript exceeds 90 characters; left pending.",
+      "id": "4b5df9f47dad6345f8c7"
+    },
+    {
+      "reason": "Exact transcript exceeds 90 characters; left pending.",
+      "id": "645038c825f8b949d84a"
+    },
+    {
+      "reason": "Decorative logo typography with small tagline; exact character sequence uncertain.",
+      "id": "ef4942cac4edc289a53f"
+    }
+  ]
+}

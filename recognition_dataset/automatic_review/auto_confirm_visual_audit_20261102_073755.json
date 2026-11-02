@@ -1,0 +1,80 @@
+{
+  "confirmed": [
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ff24b44dc81e3a5f36cc",
+      "transcript": "Cộng tiền thanh toán"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2f8fbafbdcd5a17e0ac1",
+      "transcript": "Không kê khai thuế GTGT (Not required to declare, pay VAT):"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e9fc7a61799dc292222e",
+      "transcript": "Không chịu thuế GTGT (VAT exemption):"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3c118da81ac1b66ecbe2",
+      "transcript": "Thuế suất 0% (VAT rate 0%):"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "842d659e7927c4a3b4e5",
+      "transcript": "Thuế suất 5% (VAT rate 5%):"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "04a35da7d6fc89be2190",
+      "transcript": "Thuế suất 8% (VAT rate 8%):"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3b8836e7d765b0a42791",
+      "transcript": "Thuế suất 10% (VAT rate 10%):"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b0c93791b0070a876b1f",
+      "transcript": "Tổng cộng (Total):"
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "c29e82d66b398f2dfb61",
+      "transcript": "Số tiền viết bằng chữ (Total amount in words): Hai trăm năm mươi triệu đồng chẵn."
+    },
+    {
+      "reviewed_at": "2026-11-02T00:37:55.6909843Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b1743839edd564147e7f",
+      "transcript": "Người mua hàng (Buyer)"
+    }
+  ],
+  "count": 10,
+  "invoice": "HD_023",
+  "skipped": [],
+  "created_at_utc": "2026-11-02T00:37:55.6909843Z",
+  "evidence": "Đã xem từng crop PNG. Tất cả đoạn chữ trong lô này rõ, đủ ký tự và không bị cắt; transcript chép theo chữ nhìn thấy.",
+  "method": "manual_visual_review"
+}

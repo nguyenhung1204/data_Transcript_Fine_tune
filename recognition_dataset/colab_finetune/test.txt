@@ -81,13 +81,13 @@ crops/HD_027/2ab5a8a6a34c881b34be.png	(Amount exclusive VAT)
 crops/HD_027/604dde3372d51b3533ce.png	(VAT Amount)
 crops/HD_027/cae1ee1f341d841be05b.png	(VAT %)
 crops/HD_027/ac538b2ff27520e9604e.png	MacBook Pro 13-inch (M1 chip/ 8-
-crops/HD_027/3811000d04a5e3636971.png	2, 571 , 818
+crops/HD_027/3811000d04a5e3636971.png	2,571,818
 crops/HD_027/8cc1ea2b1f4cb6075712.png	28, 290, 000
 crops/HD_027/30a1872db68040a41f3a.png	25, 718, 182
 crops/HD_027/f908ee06da92321d9316.png	25, 718, 182
 crops/HD_027/a39a091a94cdee213961.png	MYDA2SA/A
 crops/HD_027/527f5dd194576ad6ab34.png	CPU/ 8-core GPU/ 256GB SSD - Silver
-crops/HD_027/26ac96cae23807d26ebc.png	2, 571 , 818
+crops/HD_027/26ac96cae23807d26ebc.png	2,571,818
 crops/HD_027/9cafa80383e22ba3107f.png	25, 718, 182
 crops/HD_027/a937d9f985125db5a1cb.png	28, 290, 000
 crops/HD_027/14aa67b9930632dbf0de.png	28, 290, 000
@@ -1161,24 +1161,24 @@ crops/WEB_134/c5c1b02c0f08aedfa13c.png	B
 crops/WEB_134/79671a7ffe23acd314d7.png	2
 crops/WEB_134/ae550e3b86033f31d3e6.png	1
 crops/WEB_134/b2535a71ea2ae1349d9e.png	Cái
-crops/WEB_134/70c05d9051823f0a1881.png	1 ,00
+crops/WEB_134/70c05d9051823f0a1881.png	1,00
 crops/WEB_134/91b57fa70c38a6d05ade.png	1
 crops/WEB_134/fb2ff891155e907ef8c2.png	19.500.000,00
 crops/WEB_134/9d46788fa4a920adaf12.png	19.500.000
 crops/WEB_134/3fa52d7a0421f06bec6f.png	2
 crops/WEB_134/b9104d1107b1fdd4e077.png	Cái
-crops/WEB_134/6fc46cefa5ae2d55b934.png	1 ,00
+crops/WEB_134/6fc46cefa5ae2d55b934.png	1,00
 crops/WEB_134/a168c3ae1ffecd8bd1b0.png	6.500.000,00
 crops/WEB_134/3384fc292a078520c732.png	6.500.000
 crops/WEB_134/51dc814ae912aeb200c2.png	Cái
 crops/WEB_134/434f0fa790f0c104baa1.png	3
-crops/WEB_134/166d31fa64f8f9a30207.png	1 ,00
+crops/WEB_134/166d31fa64f8f9a30207.png	1,00
 crops/WEB_134/cb9b62c64b3e1a4a2447.png	Dao vòng_VN
 crops/WEB_134/ceafc0d4b97e462b5b9f.png	4
-crops/WEB_134/748a1c33f9cf2c6cdafc.png	1 ,00
+crops/WEB_134/748a1c33f9cf2c6cdafc.png	1,00
 crops/WEB_134/66582857eabd434178b4.png	5
-crops/WEB_134/be1a7fb89d28bac5a144.png	1 ,00
-crops/WEB_134/78027ad5a17223745ac6.png	1 ,00
+crops/WEB_134/be1a7fb89d28bac5a144.png	1,00
+crops/WEB_134/78027ad5a17223745ac6.png	1,00
 crops/WEB_134/dce747003cfad478e4d7.png	6
 crops/WEB_134/33f97103e018d1944571.png	34.650.000
 crops/WEB_135/94265840c6d2600c0442.png	Fax:
@@ -1192,23 +1192,23 @@ crops/WEB_135/5e325ff28985e7339ebe.png	B
 crops/WEB_135/544e2f8a5fc94979adaa.png	2
 crops/WEB_135/41140bcd75f77ab1150d.png	1
 crops/WEB_135/08d448457a9a3d8cae04.png	Cái
-crops/WEB_135/e55cb1eb081a7e0be7a1.png	1 ,00
+crops/WEB_135/e55cb1eb081a7e0be7a1.png	1,00
 crops/WEB_135/c84664c4570a2c248145.png	1
 crops/WEB_135/f6f1775e31f3e13ca3e7.png	Model: LR - 6000C
 crops/WEB_135/f4c672986b6a1c78c784.png	Cái
-crops/WEB_135/c61020d04c062e3aeb2c.png	1 ,00
+crops/WEB_135/c61020d04c062e3aeb2c.png	1,00
 crops/WEB_135/635cd32131ce3df84fe6.png	2
 crops/WEB_135/823b6d07f9730933ee38.png	49.000.000,00
 crops/WEB_135/8a93f264a753876a1433.png	49.000.000
 crops/WEB_135/88f29346daec736ee5ea.png	Cái
-crops/WEB_135/82aa8fa6eaf0cf46f34d.png	1 ,00
+crops/WEB_135/82aa8fa6eaf0cf46f34d.png	1,00
 crops/WEB_135/5c45e7c7dcf1a2b41f7f.png	3
 crops/WEB_135/c7f614c3d6f6240c6aee.png	7.000.000,00
 crops/WEB_135/1b0927b6de85312d9e8d.png	7.000.000
 crops/WEB_135/a508317244cadfbff005.png	Model: STT-950
 crops/WEB_135/f4ab706458b955061e99.png	Cái
 crops/WEB_135/e3b05f85eac3a21fbc30.png	4
-crops/WEB_135/e77ca15e33cc47f78f9a.png	1 ,00
+crops/WEB_135/e77ca15e33cc47f78f9a.png	1,00
 crops/WEB_135/ddef5e5d3719ae27dd33.png	6.500.000,00
 crops/WEB_135/80a079d21e851ec24474.png	6.500.000
 crops/WEB_135/df84132834bfc7dbb64b.png	Cái
@@ -1218,48 +1218,48 @@ crops/WEB_135/8989b6d1a50c89589674.png	190.000,00
 crops/WEB_135/0710385976f6c7a4fdb5.png	950.000
 crops/WEB_135/cc6dfac35b31a845171c.png	Cái
 crops/WEB_135/3827fe1a18b0659d41ca.png	6
-crops/WEB_135/0a467232702e4fcb6abf.png	1 ,00
+crops/WEB_135/0a467232702e4fcb6abf.png	1,00
 crops/WEB_135/5f4909dac3d5fbf4c5b6.png	22.000.000
 crops/WEB_135/5b6a6719256971d4ac6f.png	22.000.000,00
 crops/WEB_135/9e717f669251e94679ab.png	1.5
 crops/WEB_135/cb8a178e727ae423948d.png	Cái
-crops/WEB_135/db2a99618d4197a7594e.png	1 ,00
+crops/WEB_135/db2a99618d4197a7594e.png	1,00
 crops/WEB_135/9c55de11633ab071a983.png	7
 crops/WEB_135/0792090a721e6f94c8a0.png	33.000.000,00
 crops/WEB_135/ac7135bde50f64ee35e3.png	33.000.000
 crops/WEB_135/5c7e8d2591b2d4823a43.png	parafin Model: WSY - 010A
 crops/WEB_135/4eaa6d0321f945080345.png	Cái
-crops/WEB_135/bdeba36165052b015ea4.png	1 ,00
+crops/WEB_135/bdeba36165052b015ea4.png	1,00
 crops/WEB_135/dd19351b1e03311bcd1c.png	8
 crops/WEB_135/cca103cf0f754d089963.png	29.000.000,00
 crops/WEB_135/e87563a0c5464722812f.png	29.000.000
 crops/WEB_135/ac64f1fab7bc9bd373f9.png	Model: SYD - 265E
 crops/WEB_135/1220961b3e71eaffc79f.png	Cái
 crops/WEB_135/6abe95eb00ffb1830245.png	9
-crops/WEB_135/12264e1f118e2e545500.png	1 ,00
+crops/WEB_135/12264e1f118e2e545500.png	1,00
 crops/WEB_135/c5dc7857047d71b620be.png	6.000.000
 crops/WEB_135/c5d09aed9d22f0937e68.png	6.000.000,00
 crops/WEB_135/be65213009cc5e45ca2c.png	10
 crops/WEB_135/8c512b29ad522e8aec90.png	Cái
-crops/WEB_135/a986f26afd60b795fead.png	1 ,00
+crops/WEB_135/a986f26afd60b795fead.png	1,00
 crops/WEB_135/7e6dabe3ac688e4d1bd8.png	8.500.000,00
 crops/WEB_135/6a9e2972717141d56f7b.png	8.500.000
 crops/WEB_135/8cca81d50c3b0eaa8b79.png	Cái
-crops/WEB_135/095f84aa580f0055c3ab.png	1 ,00
+crops/WEB_135/095f84aa580f0055c3ab.png	1,00
 crops/WEB_135/977d35e62cdf987a93fa.png	20.000.000,00
 crops/WEB_135/56d3214ff21a895f0269.png	20.000.000
 crops/WEB_135/f07e5f623c510244e869.png	Cái
-crops/WEB_135/02d91d584132cd62ffcc.png	1 ,00
+crops/WEB_135/02d91d584132cd62ffcc.png	1,00
 crops/WEB_135/686ad83a16907550a26e.png	12
 crops/WEB_135/32695d406f2160995f12.png	SM - 4
 crops/WEB_135/7819d1cfafbc4c4f3a67.png	13
 crops/WEB_135/bba2184644a2bdb343df.png	Cái
-crops/WEB_135/95d8ac9b62e84c52c5db.png	1 ,00
+crops/WEB_135/95d8ac9b62e84c52c5db.png	1,00
 crops/WEB_135/382b2d49068d9c25cd61.png	20.500.000,00
 crops/WEB_135/9ad28b71c1a31f5c05d0.png	20.500.000
 crops/WEB_135/c74bcf930895fdc9401a.png	Cái
 crops/WEB_135/876c8255bb6c235bcf83.png	14
-crops/WEB_135/e52d89cd44f6c20aef1d.png	1 ,00
+crops/WEB_135/e52d89cd44f6c20aef1d.png	1,00
 crops/WEB_135/fc726d4589a90dec9704.png	14.500.000
 crops/WEB_135/adba4cb444e165dd0d71.png	14.500.000,00
 crops/WEB_135/823aa2822f0fc556d9ea.png	1/2
@@ -1334,18 +1334,6 @@ crops/WEB_207/6da59a65b156de50ebb4.png	276.000.000
 crops/WEB_207/1db0e1b7745ce337d73c.png	276.000.000
 crops/WEB_207/18a552f0d9d63be36782.png	27.600.000
 crops/WEB_207/6c2565883134821b7405.png	303.600.000
-crops/WEB_242/3164a11017c1400a4ea4.png	Ngày 06/10/2017
-crops/WEB_242/0cfddc6a784ba3781f1a.png	Fax:
-crops/WEB_242/f536e2d595fb95c22f88.png	STT
-crops/WEB_242/94d53020aed1e10c7720.png	Máy khoan
-crops/WEB_242/18c6f47685504ed5fc82.png	17.977.500
-crops/WEB_242/1f7de2bbbbfc87430eff.png	1.198.500
-crops/WEB_242/140eb86b61bf40ff5a91.png	1
-crops/WEB_242/c5a01b233a7dffaf6045.png	17.977.500
-crops/WEB_242/ecda4e8fd4c29905ce31.png	1.797.750
-crops/WEB_242/5cb5bafe447f2f7026f8.png	19.775.250
-crops/WEB_242/7cfc5ddab6f23f8284fb.png	đồng.
-crops/WEB_242/3a5adf3c761d668d65f0.png	39
 crops/WEB_248/7d85bc9f9ff9b0fa1c38.png	Fax:
 crops/WEB_248/2f1738e29b43f1ebe3bb.png	(VAT INVOICE)
 crops/WEB_248/64dc9325fc078b7d1d2c.png	Ngày (Date): 02/01/2024
@@ -1403,7 +1391,6 @@ crops/WEB_254/c6a2b103bb82be2786bb.png	728.494
 crops/WEB_254/ee18efbb2626bfb43c8a.png	8.013.430
 crops/HD_017/74078b4aca8c43650c59.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
 crops/HD_017/322d768a955e2976b6c4.png	Mẫu số (Form):  01GTKT0/001
-crops/HD_017/60012ebb54a3c10f47df.png	S-TRADING
 crops/HD_017/53ceb12101d9c8a4d280.png	Ký hiệu (Serial):  SN/21E
 crops/HD_017/dd6ae4273ba5196ef858.png	(VATI NVOICE)
 crops/HD_017/f8544599466221cd3230.png	Số( No.): 0353729
@@ -1446,7 +1433,6 @@ crops/HD_017/fcf5204dfb9eec17b6bb.png	Ký ngày: 12/11/2022
 crops/HD_017/fc8b05bc5eab8c133e26.png	Mã nhận hóa đơn:MJCG30H7tra cứu tại:
 crops/HD_017/c5e63c13e41c6faae2c7.png	(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)
 crops/HD_024/380ee50cfa8eedebac1e.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
-crops/HD_024/d13c84a5920030dc2691.png	S-TRADING
 crops/HD_024/0aa14d668edb96457d02.png	Mẫu số (Form): 01GTKT0/001
 crops/HD_024/c534a4cec987ba4c9a27.png	Ký hiệu (Serial): SN/21E
 crops/HD_024/8c24cb2cc0f5dbbdb2db.png	Số( No.): 0522817
@@ -1483,7 +1469,6 @@ crops/HD_024/9eeba5555b91c6f2c4dd.png	(Cần kiểm tra, đối chiếu khi lậ
 crops/HD_026/2d06ab9eceba24a7a892.png	CÔNG TY TNHH CÔNG NGHỆ DI ĐỘNG VIỆT
 crops/HD_026/d8a9c1af57dd569b69a3.png	Mã số thuế: 0312193244
 crops/HD_026/213af50d1fa882f4daa5.png	Địa chỉ: 75/35 Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam
-crops/HD_026/4b02974690938dee0d23.png	didongviet
 crops/HD_026/7d527ae23d4fbd02a5b3.png	Điện thoại: 0931544144
 crops/HD_026/130fb0ccf574e5d4b6e5.png	Số tài khoản: 1031 123288 - CT TNHH CONG NGHE DI DONG VIET - VCB CN HCM
 crops/HD_026/dc3e17cc2648dfc5f9fd.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
@@ -1524,11 +1509,8 @@ crops/HD_026/f4e8779fbcd7bf07c3d2.png	ĐỘNG VIỆT
 crops/HD_026/fc7ec2fd62770b308249.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
 crops/WEB_055/574830b347694d657e76.png	lượng
 crops/WEB_056/d4909725785c20c902bf.png	lượng
-crops/WEB_074/ea13a5634857463c224a.png	(Quantity)
 crops/WEB_091/e5461d574c2602941f73.png	lượn
-crops/HD_027/dae9a70b77cd4e1367ef.png	MAP
 crops/HD_027/9f576403b53650334f2f.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
-crops/HD_027/3b50a382c9684c7fe4ab.png	Mitra Adiperkasa
 crops/HD_027/56ed46fa42784c9ba9c9.png	Đơn vị bán hàng (Seller): CÔNG TY TNHH MAPPLE MITRA ADIPERKASA VIỆT NAM
 crops/HD_027/4f70663ea9ddace4b421.png	Tài khoản số (Sold-to account number): 0000922717
 crops/HD_027/aed4ee973e518a26551e.png	Địa chỉ (Address) : Tầng 9, Tòa nhà Lim Tower 3 , 29A Nguyễn Đình Chiểu, Phường Đa Kao,
@@ -1575,9 +1557,7 @@ crops/HD_027/a6395fcbe9e64065ba47.png	Signature Valid
 crops/HD_027/4a7853353aaee6c14f5b.png	Được ký bởi : CÔNG TY TNHH MAPPLE MITRA
 crops/HD_027/9e9930fc997f7b143ec8.png	ADIPERKASA VIÊT NAM
 crops/HD_027/baa72d87aae005ffac1a.png	Ngày ký: 24/05/2024
-crops/HD_028/184b9c409e6ff1cc8319.png	MAP
 crops/HD_028/134d4a638097a53c32d7.png	HÓA ĐON GIÁ TRI GIA TĂNG
-crops/HD_028/35ef6910af1c2cac7fcd.png	Mitra Adiperkasa
 crops/HD_028/a3efbbd8c8fc46bc0a50.png	Đơn vị bán hàng (Seller): CÔNG TY TNHH MAPPLE MITRA ADIPERKASA VIỆT NAM
 crops/HD_028/601637d9b05aa52d62fd.png	Tài khoản số (Sold-to account number): 00009400 1 0
 crops/HD_028/da1a1562e0b2ffef5efe.png	Địa chỉ (Address) : Tầng 9, Tòa nhà Lim Tower 3 , 29A Nguyễn Đình Chiểu, Phường Đa Kao,
@@ -1624,7 +1604,6 @@ crops/HD_032/3be6905f0e3c33ee2839.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
 crops/HD_032/4bb65b8c70ebe2c13080.png	Ký hiệu: 1C25TDT
 crops/HD_032/01357ad5e47e1982ca0b.png	Bản thể hiện của hóa đơn điện tử
 crops/HD_032/e091d00f33ae8bb9bba2.png	Số: 00000022
-crops/HD_032/97769645262a0eef0fdf.png	D2TECH
 crops/HD_032/a6f8310b906ba87cd839.png	Mã cơ quan thuế cấp: 0087E5C5524995450FAFBCED57916D0154
 crops/HD_032/157e5034bc744b5cef66.png	Đơn vị bán hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ CÔNG NGHỆ KỸ THUẬT D2TECH
 crops/HD_032/4f5ba2ce73d408a4ae21.png	Mã số thuế: 0317954118
@@ -1634,6 +1613,7 @@ crops/HD_032/ba1dcefb227e16f557c3.png	Số tài khoản: 2672868 Ngân hàng TMC
 crops/HD_032/1bf51612abf05a7d84c5.png	Họ tên người mua hàng:
 crops/HD_032/aefd4a2a57fbf89de113.png	Tên đơn vị: CÔNG TY TNHH DỊCH VỤ TƯ VẤN KẾ TOÁN THUẾ THUẬN VIỆT
 crops/HD_028/f898cb479c3b53facaf5.png	ADIPERKASA VIỆT NAM
+crops/HD_028/45d556ba680bf58dcd53.png	Ngày ký: 25/06/2024
 crops/HD_032/810712054bfaf412c01c.png	Mã số thuế: 0310415290
 crops/HD_032/e46f866fe0fbc44aff17.png	Số tài khoản:
 crops/HD_032/55e574ac27375c3f02c1.png	Hình thức thanh toán: Tiền mặt/Chuyển khoản
@@ -1689,3 +1669,854 @@ crops/WEB_028/e1bca0d8e2fc231d8988.png	Đơn vị tính
 crops/WEB_028/bd798bdeb67477802c17.png	Lẳng hoa
 crops/WEB_028/b499a5620ab16a7dd6d6.png	Lẳng
 crops/WEB_028/86bd6069ae40d7586174.png	Tổng tiền thanh toán (Total Amount):
+crops/WEB_128/de8f65ef690480686f78.png	CÔNG TY TNHH THIẾT BỊ KHOA HỌC KỸ THUẬT MỸ THÀNH
+crops/WEB_128/49c9f4e7106744c0eed4.png	Mã số thuế (Tax code): 0 3 0 0 9 7 2 9 0 5
+crops/WEB_128/264d5d223c2d97cda661.png	Địa chỉ (Address): 445 Tô Hiến Thành, Phường 14, Quận 10, TP. Hồ Chí Minh, Việt Nam
+crops/WEB_128/0c2efb43d261fcae2c6a.png	Điện thoại (Telephone): 0903829226 * Fax: (028) 3864 4461
+crops/WEB_128/4f1f3e8833d59426634a.png	Mã của Cơ quan thuế: 00C8A30E08D6D04D7384E741C5712EE1A9
+crops/WEB_128/268af27b4574217cc003.png	Mẫu số - Ký hiệu (Serial No.): 1C24TMT
+crops/WEB_128/2f6230b79ed4c6f82ed5.png	Số (Invoice No.): 00000717
+crops/WEB_128/93a5cfcd35fb317c99c9.png	Họ tên người mua hàng (Customer name):
+crops/WEB_128/313f4f1eaaf1ee3cc13c.png	Tên đơn vị (Company): CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI VÀ THIẾT KẾ PHƯƠNG ANH
+crops/WEB_128/6324bb286c534c816b38.png	Mã số thuế (Tax code): 0 3 1 0 7 6 5 8 7 3
+crops/WEB_128/2e0eb45ec30d0d98b948.png	Minh, Việt Nam
+crops/WEB_128/c0895eda49b9106428b4.png	Số tài khoản (Account No):
+crops/WEB_128/7b8c927d1acac5384c5c.png	Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản
+crops/WEB_128/1de52f4fbcb2a9aa5d21.png	Số lượng
+crops/WEB_128/875998259afbbd7c8512.png	Thành tiền
+crops/WEB_128/ce851d1dd011b7658412.png	Tên hàng hóa, dịch vụ
+crops/WEB_128/f969a48bf74a8707551b.png	Đơn vị tính
+crops/WEB_128/0cf38e13711b192a490e.png	Đơn giá
+crops/WEB_128/65ef331351cff4dce806.png	Hóa chất Zinc oxyt (ZnO), TQ
+crops/WEB_128/86b63b1814d1bf7e12b7.png	Hóa chất Acetone (CH3)2CO, TQ
+crops/WEB_128/2565afdf8231f9702a0a.png	Hóa chất Acid acetic (CH3COOH), TQ
+crops/WEB_128/5d13a8651ddcef0c8dc1.png	Hóa chất Kali hydroxyt (KOH), TQ
+crops/WEB_128/0c623b16028c5134dff8.png	Hóa chất Natri Sunfat (Na2SO4), TQ
+crops/WEB_128/3b0b42099ab15613b905.png	Hóa chất Calci chloride (CaCl2), TQ
+crops/WEB_128/da489b2ef436a0b93f9e.png	Hóa chất Natri Clorua (NaCl), TQ
+crops/WEB_128/fec4961908f688a49d26.png	Hóa chất Kali Clorua (KCl), TQ
+crops/WEB_128/f0a39ff141efa4f7b5aa.png	Hóa chất Natri bicarbonate (NaHCO3), TQ
+crops/WEB_128/b717577eccb82d5f39d2.png	Hóa chất Ethanol (C2H5OH), TQ
+crops/WEB_128/99e5efb9c257bc1c0924.png	Hóa chất Natri cacbonat (Na2CO3), TQ
+crops/WEB_128/8041d51d92b2e2f4e095.png	71.000
+crops/WEB_128/a7e581904e80ac597594.png	71.000
+crops/WEB_128/f7e57fa1bc1ec9c7d781.png	Hóa chất Magnesium Sulfate(MgSO4), TQ
+crops/WEB_128/3461f724c44c4879a07c.png	112.000
+crops/WEB_128/e2264d5b147a56a57aca.png	112.000
+crops/WEB_128/cdb7844efa9b617c712a.png	Hóa chất Calci hydroxide Ca(OH)2, TQ
+crops/WEB_128/f0140a63c5180146a8ff.png	Hóa chất Amoni chloride (NH4Cl), TQ
+crops/WEB_128/ed7ef9f4f90a0142a432.png	Hóa chất Zinc chloride (ZnCl2), TQ
+crops/WEB_128/3354487d3e2e71f55eea.png	(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_128/63769bf1bf4f373fe560.png	CÔNG TY TNHH THIẾT BỊ KHOA HỌC KỸ THUẬT MỸ THÀNH
+crops/WEB_128/23f9392e8a0bd985e6b2.png	Mã số thuế (Tax code): 0 3 0 0 9 7 2 9 0 5
+crops/WEB_128/652ba2a44b202e38baa4.png	Địa chỉ (Address): 445 Tô Hiến Thành, Phường 14, Quận 10, TP. Hồ Chí Minh, Việt Nam
+crops/WEB_128/596757eb4b3cdba4c678.png	Điện thoại (Telephone): 0903829226 * Fax: (028) 3864 4461
+crops/WEB_128/16af8fbe008ff98783db.png	Mã của Cơ quan thuế: 00C8A30E08D6D04D7384E741C5712EE1A9
+crops/WEB_128/21fc69b2c0134b6a30ad.png	Mẫu số - Ký hiệu (Serial No.): 1C24TMT
+crops/WEB_128/5ea735c4d63e0b48c73b.png	Số (Invoice No.): 00000717
+crops/WEB_128/704fa19574f1849f0c30.png	Họ tên người mua hàng (Customer name):
+crops/WEB_128/90d230db92c0ddfd24ec.png	Tên đơn vị (Company): CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI VÀ THIẾT KẾ PHƯƠNG ANH
+crops/WEB_128/ffbb42aa882dd1f1fc4a.png	Mã số thuế (Tax code): 0 3 1 0 7 6 5 8 7 3
+crops/WEB_128/21260e87a78069f452bd.png	Minh, Việt Nam
+crops/WEB_128/065d96d4cac6f01658fa.png	Số tài khoản (Account No):
+crops/WEB_128/e882ad5678d90e6bb8d8.png	CÔNG TY TNHH THIẾT BỊ KHOA HỌC KỸ THUẬT MỸ THÀNH
+crops/WEB_128/77d65b51034f16c97e85.png	Mã số thuế (Tax code): 0 3 0 0 9 7 2 9 0 5
+crops/WEB_128/295e9448e1ec965c872b.png	Địa chỉ (Address): 445 Tô Hiến Thành, Phường 14, Quận 10, TP. Hồ Chí Minh, Việt Nam
+crops/WEB_128/4b9972287f750f658f91.png	Điện thoại (Telephone): 0903829226 * Fax: (028) 3864 4461
+crops/WEB_128/7ad0de5dcd2df037b0d0.png	Mã của Cơ quan thuế: 00C8A30E08D6D04D7384E741C5712EE1A9
+crops/WEB_128/5e878328098d2bef5448.png	Mẫu số - Ký hiệu (Serial No.): 1C24TMT
+crops/WEB_128/1fe0bfa1b49b42c8af69.png	Số (Invoice No.): 00000717
+crops/WEB_128/4e125ece922f0068a1c4.png	Họ tên người mua hàng (Customer name):
+crops/WEB_128/e26726fadccb5a4dbfa1.png	Tên đơn vị (Company): CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI VÀ THIẾT KẾ PHƯƠNG ANH
+crops/WEB_128/e037edd45cd94f9d7ad3.png	Mã số thuế (Tax code): 0 3 1 0 7 6 5 8 7 3
+crops/WEB_128/b47c1220131455466ad2.png	Minh, Việt Nam
+crops/WEB_128/26adc85b4df50f299ec9.png	Số tài khoản (Account No):
+crops/WEB_047/76c85758dab71c9843b9.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_047/bcb8ba6d1b5a48fcc5e7.png	Ký hiệu (Serial): 1C25MGC
+crops/WEB_047/03a15b73d5078edf210a.png	Số (No.):
+crops/WEB_047/519670b3d6461a6b8c52.png	Đơn vị bán hàng (Seller): CÔNG TY CỔ PHẦN HINOKO
+crops/WEB_047/72fd6a1658d694c7f5a7.png	Mã số thuế (Tax code): 0315852382
+crops/WEB_047/bdffbf250283c3e32595.png	Điện thoại (Tel): 028 6682 0390
+crops/WEB_047/a03862b70a45137312fa.png	Tài khoản(A/C number): 818198 Ngân Hàng Thương Mại Cổ Phần Á Châu - Chi Nhánh Hồ Chí Minh
+crops/WEB_047/0795e05b9db4b352da0c.png	ĐỊA ĐIỂM KINH DOANH CÔNG TY CỔ PHẦN HINOKO
+crops/WEB_047/6d684df8aac718e4e63f.png	Mã địa điểm kinh doanh (Code): 00008
+crops/WEB_047/d0524c6b1428feb7696f.png	Minh, Việt Nam
+crops/WEB_047/f36462134848007f31b2.png	Số điện thoại (Tel): (028) 38387878 - (028) 36387878
+crops/WEB_047/82e4d1282850a0f6b541.png	Người mua hàng (Buyer):
+crops/WEB_047/64aec7041b3a4d3ef174.png	Tên đơn vị (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)
+crops/WEB_047/37b19669487f0361b183.png	Mã số thuế (Tax code): 3600456424
+crops/WEB_047/fc3199677bf21d8ab314.png	Điện thoại (Tel):
+crops/WEB_047/276ee0712ac90c814b6b.png	Căn cước công dân (Citizen identity card):
+crops/WEB_047/5819bc475efd3cf9b78d.png	Hình thức thanh toán (Payment method): TM/CK
+crops/WEB_047/eb0fc2d8a9175f35e2e4.png	Thuế GTGT(VAT)
+crops/WEB_047/d1daeebb747915b2fba3.png	Tổng tiền
+crops/WEB_047/1cfe86f42799d1bc6a89.png	Thành tiền
+crops/WEB_047/5a8ccb12ff7ea72d0e0a.png	Thuế
+crops/WEB_047/8e82ef8c176d15829448.png	Đơn giá
+crops/WEB_047/0ece358cc5e686d6e464.png	Tên hàng hóa, dịch vụ
+crops/WEB_047/f2fe8639d879f809be51.png	trước thuế
+crops/WEB_047/167df41e1e67417352a7.png	Tiền thuế
+crops/WEB_047/6be70416dde8c912d300.png	suất
+crops/WEB_047/6e5e94100709e000a8e3.png	Phần
+crops/WEB_047/b31461f87589c6932830.png	Phần
+crops/WEB_047/a00f78574d18721910e0.png	116.450
+crops/WEB_047/6ad76c1af53e1a94ec87.png	116.450
+crops/WEB_047/a954b6a5e3702c645d4a.png	Cơm chiên hải sản
+crops/WEB_047/e8d2ddd36b5338ced8a1.png	Phần
+crops/WEB_047/33d658c13d24c60b2d7e.png	Combo 3 Loại Bò Tươi Thương Hạng
+crops/WEB_047/23c71fd0faac0ebfbcc1.png	Khăn lạnh
+crops/WEB_047/5e59a8528849cfaf249b.png	Phần
+crops/WEB_047/6fad84d8eec89e1f8676.png	Kim chi cải thảo
+crops/WEB_047/3230216013e6af336dc4.png	Phần
+crops/WEB_047/5dc67791b3f1a40a9530.png	Phần
+crops/WEB_047/a74c9ad485dfaa7351aa.png	Mực ống size jumbo
+crops/WEB_047/21cadb74cee37ac367c0.png	Phần
+crops/WEB_047/60405f01b089804e9ae2.png	Nầm heo sốt miso
+crops/WEB_047/576ce4ea68a4a328de2a.png	112.914
+crops/WEB_047/bab71f8e2ac82dd628ee.png	Phần
+crops/WEB_047/99c738c416dea49bf8e2.png	Nọng heo cuốn lá sanchu sốt miso
+crops/WEB_047/65bed08baf6518b08fda.png	Mã của cơ quan thuế (Tax authority code):M1-25-NA4KU-71670009457
+crops/WEB_047/f42dd41cf67f677dcd19.png	Trang tra cứu: http://0315852382hd.easyinvoice.com.vn
+crops/WEB_047/ad1ef4383d1b416510da.png	Mã tra cứu: CAVL5RM2W
+crops/WEB_047/b9f3e492d98cb8606e92.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_047/6fd0ce4b3d8ea264ffab.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_047/4c75508d8bff47938f93.png	Ký hiệu (Serial): 1C25MGC
+crops/WEB_047/773db4dd15ab7c2318fe.png	Số (No.):
+crops/WEB_047/af98bba46c1355a67bdc.png	Đơn vị bán hàng (Seller): CÔNG TY CỔ PHẦN HINOKO
+crops/WEB_047/847e93bbe1b50fb9d616.png	Mã số thuế (Tax code): 0315852382
+crops/WEB_047/e1b910bb8084170aadd8.png	Điện thoại (Tel): 028 6682 0390
+crops/WEB_047/3d0829bdcf6efe852bec.png	Tài khoản(A/C number): 818198 Ngân Hàng Thương Mại Cổ Phần Á Châu - Chi Nhánh Hồ Chí Minh
+crops/WEB_047/c2184a80aa21d4bdda72.png	ĐỊA ĐIỂM KINH DOANH CÔNG TY CỔ PHẦN HINOKO
+crops/WEB_047/137ea493ae3b78167bf1.png	Mã địa điểm kinh doanh (Code): 00008
+crops/WEB_047/e1cfc2aaf6eb841c6186.png	Minh, Việt Nam
+crops/WEB_047/c2b7bfb4a26dcb21d9f0.png	Số điện thoại (Tel): (028) 38387878 - (028) 36387878
+crops/WEB_047/7cef2e133557db91368f.png	Người mua hàng (Buyer):
+crops/WEB_047/5d3078b90c796f24cbe0.png	Tên đơn vị (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)
+crops/WEB_047/7757e828ffbbcc17243a.png	Mã số thuế (Tax code): 3600456424
+crops/WEB_047/26b3a4267e76dc1120c4.png	Điện thoại (Tel):
+crops/WEB_047/eaa7e70ff8c90d39c000.png	Căn cước công dân (Citizen identity card):
+crops/WEB_047/3b7c84e7e4570aa4ad1c.png	Hình thức thanh toán (Payment method): TM/CK
+crops/WEB_047/4300ec1ece2559501df0.png	Thuế GTGT(VAT)
+crops/WEB_047/be069e707542db7602cc.png	Tổng tiền
+crops/WEB_047/5962f825359cb085c0dd.png	Thành tiền
+crops/WEB_047/d1fd409fe7c567840af7.png	Đơn vị
+crops/WEB_047/6f034869b96a38317720.png	Thuế
+crops/WEB_047/6add5b11aba90c90915b.png	Tên hàng hóa, dịch vụ
+crops/WEB_047/688ffab9b140002a55bd.png	trước thuế
+crops/WEB_055/3bc1b41cf1a5c34c1935.png	6 = 4 x 5
+crops/WEB_055/e91f158afa95a8ba7490.png	8 = 6 x 7
+crops/WEB_055/22b3e160a6fae3b12177.png	Đĩa
+crops/WEB_055/fc7a54fe00fc87d16953.png	Đĩa
+crops/WEB_055/7b2cc1547fb74f13cb8c.png	Đĩa
+crops/WEB_055/14ba97e7de949f2d06d4.png	Đĩa
+crops/WEB_055/9a90c9587d9fb5dc0d4a.png	Đĩa
+crops/WEB_055/a3f75f0e2b5796f2a46d.png	Đĩa
+crops/WEB_056/5c374eb16a06d4cf5771.png	6 = 4 x 5
+crops/WEB_056/47897a110adb32eb2685.png	8 = 6 x 7
+crops/WEB_056/0fca0b7f6c355267780b.png	Đĩa
+crops/WEB_056/c18346c8cda939890533.png	Đĩa
+crops/WEB_056/657d63d1336151b5daf4.png	Đĩa
+crops/WEB_056/c32ce89c9a3fb48ab255.png	Đĩa
+crops/WEB_056/2c568dede83314ce82ca.png	Đĩa
+crops/WEB_056/15beabdd71027e9d0999.png	Đĩa
+crops/WEB_056/b64e0cc197bef2b0eb99.png	Đĩa
+crops/WEB_056/5f45162af119df23af23.png	Đĩa
+crops/WEB_056/a64c93082c1087c19a9c.png	6 = 4 x 5
+crops/WEB_056/90db836278f027616460.png	8 = 6 x 7
+crops/WEB_099/2eb0364653ccfc90ff41.png	6 = 4 x 5
+crops/WEB_100/71d7bba48b9ea5531566.png	6 = 4 x 5
+crops/WEB_049/2b79909153be43087954.png	7 = 5 x 6
+crops/WEB_051/3e2bd71d0c70209aef70.png	7 = 5 x 6
+crops/WEB_055/4f939dea1d7e8652a544.png	9 = 6 + 8
+crops/WEB_056/46013821a6febf66dc3a.png	9 = 6 + 8
+crops/WEB_056/231a825291a84b1504cb.png	9 = 6 + 8
+crops/WEB_260/3a36e4ce2cdc3e0fa3bd.png	3=1x2
+crops/WEB_028/47e24a9835133ea00fb2.png	Cơ quan thuế (Tax authorities)
+crops/WEB_028/a5a37535d485e9944099.png	Người bán hàng (Seller)
+crops/WEB_028/3274a512b277ce9ab71a.png	Người mua hàng (Buyer)
+crops/WEB_028/4a07e9e0c7718775cc9e.png	Mã tra cứu: HKD_12194-20250517084110-205462
+crops/WEB_028/6a2b211e1a279f8cf47a.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_047/2dd536eb03ca4a339d21.png	Tiền thuế
+crops/WEB_047/a3a876a36eeca2559783.png	suất
+crops/WEB_047/d8a35969aa7f3894f6c4.png	Phần
+crops/WEB_047/38594afa4f1b9bd8346c.png	Sò điệp hokkaido nướng giấy bạc
+crops/WEB_047/c635cbdedd7727cac312.png	Phần
+crops/WEB_047/e02794c664c462c19a36.png	Trứng gà
+crops/WEB_047/81d693f53e69c023acf9.png	Phần
+crops/WEB_047/a7bcbe8181316553a0fd.png	Xà lách cá trích ép trứng
+crops/WEB_047/e6b8cbe17cdedb5b7068.png	Thuế
+crops/WEB_047/a4442deb07193746b054.png	Tổng tiền thuế
+crops/WEB_047/ccb94c1d3cc00b8c740e.png	Tổng tiền chưa thuế
+crops/WEB_047/c642a1ac889a567e20c6.png	suất
+crops/WEB_047/82916e189882fff9ef19.png	Tổng tiền thanh toán
+crops/WEB_047/6d4029dfc8d8b2fd892d.png	Tổng tiền không chịu thuế:
+crops/WEB_047/d903e51b117c35988e09.png	Tổng tiền chịu thuế suất:
+crops/WEB_047/0a09e480a476e463ccfb.png	Tổng tiền chịu thuế suất:
+crops/WEB_047/1731eb4cf90559b04d98.png	Tổng cộng (Total amount):
+crops/WEB_047/60a5d764de18952be4ba.png	Người mua hàng (Buyer)
+crops/WEB_047/8f9bee83fb4576462519.png	Người bán hàng (Seller)
+crops/WEB_047/a455afb5f281ae9f2e9a.png	Mã của cơ quan thuế (Tax authority code): M1-25-NA4KU-71670009457
+crops/WEB_047/2bec24d8e34e04f2a5a3.png	Trang tra cứu: http://0315852382hd.easyinvoice.com.vn Mã tra cứu: CAVL5RM2W
+crops/WEB_047/1d301517f9b02f58765f.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_049/7e6c8b35a4a6bf704101.png	HÓA ĐƠN
+crops/WEB_049/2be83ae3823f72921443.png	GIÁ TRỊ GIA TĂNG
+crops/WEB_049/ba6e363d20bc86446241.png	Địa Chỉ: 4-6 Nguyễn Văn Tiên, khu phố 9, Phường Tân Phong, Thành phố Biên Hòa,
+crops/WEB_049/f03d32c4646daa416631.png	Tỉnh Đồng Nai, Việt Nam
+crops/WEB_049/a28aab53cfa73df551ea.png	Điện thoại: 19001908
+crops/WEB_049/2564a956f1b9a6e5d10a.png	(VIỆT NAM)
+crops/WEB_049/6aaa3791475678d5a0d6.png	Mã số thuế:3600456424
+crops/WEB_049/96b159b0bbbabff66f72.png	ĐT: 0989822201
+crops/WEB_049/a96e8023478b449345a1.png	Thuế suất
+crops/WEB_049/4846966cff8a6c21af42.png	Thành tiền
+crops/WEB_049/76cc934bbaaae469d4a6.png	Đơn giá
+crops/WEB_049/9e912d7eabfbb1c04de7.png	Hàng hóa / Dịch vụ
+crops/WEB_049/93901d1e545cbaf697de.png	Thuế suất 5%
+crops/WEB_049/903a9766cf71aa9649e0.png	Thuế suất 8%
+crops/WEB_049/f308455160ff04f08d87.png	Thuế suất 0%
+crops/WEB_049/a9da0333ab68b01f6640.png	Không chịu thuế
+crops/WEB_049/4d90218a35f5ca40d172.png	Thuế suất 10%
+crops/WEB_049/d6e9f7701a86f0cc58f2.png	Tiền hàng:
+crops/WEB_049/64edeb3b9ae4a003b7b4.png	Tiền thuế:
+crops/WEB_049/2cba6ef3d896add81c9d.png	Tiền thanh toán:
+crops/WEB_049/044fb3e92ea5d1959197.png	Số tiền bằng chữ:
+crops/WEB_049/de69c0545cf958ba0ce1.png	(Ký, ghi rõ họ tên)
+crops/WEB_049/2295bfc6ff41a8f86ee1.png	Khách hàng vào web https://hddt.bachhoaxanh.com để tải về hóa đơn điện tử
+crops/WEB_049/1c41e2aa3c8d8ebdc85d.png	(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_051/e953b2039c5a30dfa443.png	HÓA ĐƠN
+crops/WEB_051/729fbf31303a6808066a.png	GIÁ TRỊ GIA TĂNG
+crops/WEB_051/1f757a24541138e72441.png	Địa Chỉ: 4-6 Nguyễn Văn Tiên, khu phố 9, Phường Tân Phong, Thành phố Biên Hòa,
+crops/WEB_051/80e6285d53cbfbef0f5a.png	Tỉnh Đồng Nai, Việt Nam
+crops/WEB_051/730e34766955972a345a.png	Điện thoại: 19001908
+crops/WEB_051/4ea68ca7fc3d88e7a6ee.png	(VIỆT NAM)
+crops/WEB_051/07ca9bc9ab228595902a.png	Mã số thuế:3600456424
+crops/WEB_051/16486413779b1bff96cd.png	ĐT: 0989822201
+crops/WEB_051/a07bdffbbd648d2b8fa0.png	Thuế suất
+crops/WEB_051/4837f424e83c1c6a11d7.png	Thành tiền
+crops/WEB_051/af41274227ac27d392fa.png	Đơn giá
+crops/WEB_051/0d249067682656eaa5f9.png	Hàng hóa / Dịch vụ
+crops/WEB_051/bef7a6eaf83b1d9b2d45.png	Thuế suất 5%
+crops/WEB_051/7380a5ee745e258335c8.png	Thuế suất 8%
+crops/WEB_051/6c4bdd5ab6586cf67524.png	Thuế suất 0%
+crops/WEB_051/1f9a4421f500cd27f3d9.png	Không chịu thuế
+crops/WEB_051/031e4bbf1bbf6d183ce4.png	Thuế suất 10%
+crops/WEB_051/8248c9bb4172092bfefc.png	Tiền hàng:
+crops/WEB_051/9915271c8d77439d071c.png	Tiền thuế:
+crops/WEB_051/ac12bc54305c76649f04.png	Tiền thanh toán:
+crops/WEB_051/c951fb503fb4f4155f92.png	Số tiền bằng chữ:
+crops/WEB_051/7710bbc1b29a1214c27f.png	(Ký, ghi rõ họ tên)
+crops/WEB_051/9d10a76c107e66e83490.png	Ký ngày: 11/06/2025
+crops/WEB_051/a8e3a5e2f5b6a17c10d6.png	Khách hàng vào web https://hddt.bachhoaxanh.com để tải về hóa đơn điện tử
+crops/WEB_051/a3040e19da1474499a44.png	(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_028/85100f704a115c93972e.png	Tra cứu tại website: https://8730438344-001-tt78.vnpt-invoice.com.vn
+crops/WEB_055/294e048cc0079fa3c16f.png	Ký hiệu:
+crops/WEB_055/cef75ca8a5c579c0ff9e.png	Bản thể hiện của hóa đơn điện tử
+crops/WEB_055/573073d53e1b1f6bb2d9.png	Điện thoại: 0966994999
+crops/WEB_055/7adf089beec879a7e1af.png	Ngân hàng: Ngân hàng Sacombank Quảng Bình
+crops/WEB_055/0883bb89468c61ba20c2.png	Họ tên người mua hàng:
+crops/WEB_055/25654deacd36e4ee2a1d.png	Mã số thuế: 3600456424
+crops/WEB_055/6e8bcf36e52f9db905a7.png	Số tài khoản:
+crops/WEB_055/b4b8f8e1e2f291cb19d5.png	Số
+crops/WEB_055/8e2f07cf97643a4e2ceb.png	Thuế
+crops/WEB_055/628b20392b3cabb1e60d.png	Thành tiền
+crops/WEB_055/f7d66d881488af3cb015.png	Tiền thuế
+crops/WEB_055/6023f75410150be4f810.png	Thành tiền
+crops/WEB_055/233adbe6c42d737265ea.png	Tên hàng hóa, dịch vụ
+crops/WEB_055/7c7e8a230385c460f054.png	suất
+crops/WEB_055/2043e846e27673372c52.png	sau thuế
+crops/WEB_055/e102226f5484b9683e7e.png	Cơm chiên trứng lớn
+crops/WEB_055/e4984ebb8791bede3d17.png	Nộm sứa
+crops/WEB_055/b7ba6090a0c5afc8db15.png	Ốc lông
+crops/WEB_055/ac00d4c5cadcb9dfbc66.png	Cộng tiền hàng hóa, dịch vụ:
+crops/WEB_055/f808886d12aaf8a0c328.png	Tổng cộng tiền thanh toán:
+crops/WEB_055/ace99e4ea6c84791f6bf.png	Số tiền viết bằng chữ: Hai triệu năm trăm lẻ sáu nghìn đồng
+crops/WEB_055/483c6ff671ff3df082bb.png	Tổng tiền không chịu thuế:
+crops/WEB_055/b30e911e76b8f3715e61.png	Tổng tiền chịu thuế 0%:
+crops/WEB_055/93c66c94af9cca90c37a.png	Tổng tiền thuế GTGT 5%:
+crops/WEB_055/c020d4c6cbc647ad8cd9.png	Tổng tiền chịu thuế 5%:
+crops/WEB_055/3d5d5a41dffb9b824677.png	Tổng tiền thuế GTGT 8%: 153.481
+crops/WEB_055/837a99eb49f98d513e21.png	Tổng tiền chịu thuế 8%: 1.918.518
+crops/WEB_055/c3747c3e176c94231d94.png	Tổng tiền thuế GTGT 10%: 39.455
+crops/WEB_055/6f4b66ae067855afa997.png	Tổng tiền chịu thuế 10%: 394.546
+crops/WEB_055/2dda32e416be3a2860d3.png	(Ký, ghi rõ họ tên)
+crops/WEB_055/38c3a3d14880f10f13ac.png	(Ký, ghi rõ họ tên)
+crops/WEB_055/7604f3764faeee94a50a.png	Mã của cơ quan thuế: M1-25-ECXRO-00000000249
+crops/WEB_087/6cff572300f82dab627c.png	CÔNG TY TNHH LOTTERIA VIỆT NAM
+crops/WEB_087/e2f561fa2888d75f05c2.png	Minh, Việt Nam
+crops/WEB_087/c46e5e88c9f1846ecf9d.png	Điện thoại (Tel):
+crops/WEB_087/0eb517b395d2a00031de.png	Mã số thuế (Tax code): 0300644051
+crops/WEB_087/2aa6c4d10e7b0087f874.png	Số (No.): 3516
+crops/WEB_087/bd630aaafbf82522160a.png	(Hóa đơn có mã khởi tạo từ máy tính tiền)
+crops/WEB_087/db23e44edb6062229a8a.png	Họ tên người mua hàng (Customer's name):
+crops/WEB_087/5bdaae75f7d22b8b659f.png	Tên đơn vị (Company): Khách hàng không lấy hóa đơn
+crops/WEB_087/126f765b80ccfe9938ef.png	Địa chỉ (Address): Khách hàng không lấy hóa đơn
+crops/WEB_087/5daa38ac857cef41c3e5.png	Mã số thuế (Tax code):
+crops/WEB_087/edbced66dc76d2f7d1fd.png	Số CCCD (Citizen identification):
+crops/WEB_087/04aeae6209e1cda19bb3.png	Số điện thoại (Phone):
+crops/WEB_087/9d59de52d6b3ebe2725b.png	Hình thức thanh toán (Method of payment): TM/CK
+crops/WEB_087/94deb73c4c34fa2a2c33.png	Thành tiền
+crops/WEB_087/5015de5b2bcad42245b8.png	ĐVT
+crops/WEB_087/283eaeb616181ec0f059.png	Tên hàng hóa, dịch vụ
+crops/WEB_087/7747f6dcfc4fe59b1324.png	Cộng tiền hàng và cung cấp dịch vụ (Sub Total Amount):
+crops/WEB_087/2f820c8cb9b68e2b0d05.png	Tiền thuế GTGT (VAT amount):
+crops/WEB_087/ceb0da29baba3ee5d80c.png	Thuế suất GTGT (VAT rate): 10%
+crops/WEB_087/1d8f04efa5dc1191e8b5.png	Tổng cộng tiền thanh toán (Total amount payaple):
+crops/WEB_087/808e9f31f418a993934f.png	Người mua hàng (Buyer)
+crops/WEB_087/de1314eb9ddac045ecd8.png	Ký, ghi rõ họ tên
+crops/WEB_087/f498a5956e0eb6c02280.png	Ký, ghi rõ họ, tên
+crops/WEB_087/82445bf73b5731183c12.png	Mã nhận hóa đơn: 59195890 tra cứu tại: http://tracuulotteria.einvoice.vn/
+crops/WEB_087/f893d2c1411a8ad20857.png	(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)
+crops/WEB_089/c4b29c64c3be78752d47.png	Ký hiệu (Serial): 1C25TGG
+crops/WEB_089/e1e42dbe1e159a14c613.png	Số (No.): 458681
+crops/WEB_089/051578a1990e58bcfd4e.png	Mã số thuế (Tax code): 0317860332
+crops/WEB_089/39e08579eefb71971155.png	Địa chỉ (Address): Đường số 5, KCN Trảng Bàng, , Tây Ninh
+crops/WEB_089/f95c5fc38b62594c8f4f.png	Điện thoại (Tel):
+crops/WEB_089/09516afc359c0a1aecb8.png	Số tài khoản (A/C No.) :
+crops/WEB_089/1684c8c89eee136bc67b.png	70000, Việt Nam
+crops/WEB_089/663ee1a3eb754b287d24.png	Hình thức thanh toán (Payment method): Chuyển khoản
+crops/WEB_089/c1d5bd5eb12dc7060f3b.png	Đồng tiền thanh toán (Payment currency): VND
+crops/WEB_089/7afea9d94e13339c068b.png	Tênhàng hóa, dịchvụ
+crops/WEB_089/3dd269ecffcebe58a9b7.png	Áo thun đồng phục
+crops/WEB_089/5603e3ad2a16946866be.png	Tổng tiền chiết khấu thương mại (Total amount of trade discount):
+crops/WEB_089/4c3caa9c6463f45d7815.png	Tổng tiền thanh toán (Total payment):
+crops/WEB_089/9d8d16b6361fd1a3b0dd.png	NGƯỜI BÁN HÀNG(SELLER)
+crops/WEB_089/febeb2320c0d3e7fe83a.png	(Chữ kýsố (nếu có))
+crops/WEB_089/38392a947ebc7e7c987a.png	(Digitalsignatures)
+crops/WEB_089/d311109100334c0b8d5a.png	(Digitalsignature)
+crops/WEB_089/0441ae184d3801224060.png	(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)
+crops/WEB_091/10639cfe752c786ddfa4.png	Mã số thuế: 0312193244
+crops/WEB_091/ebaabea0446bfbe027ab.png	Minh, Việt Nam Điện thoại: 0931544144
+crops/WEB_091/9226a41db03e7f747c78.png	Số tài khoản: 1031 123288 - CT CP CONG NGHE DI DONG VIET - VCB CN
+crops/WEB_091/f5a7ea1f2d09a8aef67b.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_091/dffc507ff93fbc73d23d.png	Ký hiệu: 1C25TDD
+crops/WEB_091/d9379a06cb5354493d89.png	Họ tên người mua hàng (Customer's name):
+crops/WEB_091/0dc33bb265110132b1bd.png	Minh, Việt Nam
+crops/WEB_091/8ea3733eca7940df0fc8.png	Tài khoản ngân hàng(Bank Account) :
+crops/WEB_091/be457f892bc8d3ba8f18.png	Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản
+crops/WEB_091/c006e3128bf0aab0e9dd.png	Thuế
+crops/WEB_091/a3a4b55f3f680a7c8095.png	Số
+crops/WEB_091/11b8405a32c959061501.png	Tiền thuế
+crops/WEB_091/e28541b1e4b899633225.png	suất
+crops/WEB_091/42c25c702c6a3539f67d.png	Tên hàng hóa, dịch vụ
+crops/WEB_091/69f04061b209a3dbc6f1.png	tiền
+crops/WEB_091/1a1d329d2d70d6ef0bf3.png	ĐIỆN THOẠI THÔNG MINH
+crops/WEB_091/fd6db6e29dae80add99e.png	Tiền thuế GTGT
+crops/WEB_091/6825b664018faa3be427.png	Cộng tiền thanh toán
+crops/WEB_091/17b62aa273fd361548f8.png	Thuế suất 5%:
+crops/WEB_091/f86c7de93cd1e22d5089.png	Thuế suất 8%:
+crops/WEB_091/f49bdff37472e6787adb.png	Thuế suất 10%:
+crops/WEB_091/9a610654f101d4d4318a.png	Người mua hàng (Buyer)
+crops/WEB_091/15e019c3cae650ec0f7c.png	Người mua hàng (Buyer)
+crops/WEB_091/41399c5b9d695719dcc0.png	(Chữ ký số (nếu có))
+crops/WEB_091/573d0ad37fb622b5e523.png	(Chữ ký số (nếu có))
+crops/WEB_091/800b317fb29b65f207c5.png	Chữ ký có hiệu lực
+crops/WEB_099/787801aa55a2f51a9e1a.png	Ký hiệu (Series): 1C25TAA
+crops/WEB_099/244cb05fb544cc9f642a.png	Bản thể hiện hóa đơn điện tử
+crops/WEB_099/29f272cb59195a389ae5.png	Đơn vị bán hàng (Seller): CÔNG TY TNHH TAJAGI
+crops/WEB_099/6b45a5468bf3aea4b324.png	Mã số thuế (Tax code)
+crops/WEB_099/2536367d4fa14d9a428f.png	Địa chỉ (Address)
+crops/WEB_099/2af5fa491aa6135eb195.png	Thành phố Hồ Chí Minh, Việt Nam
+crops/WEB_099/0cebcd38de9571a8d6a3.png	Điện thoại (Phone)
+crops/WEB_099/6846daf9d6cc01e8ccbc.png	Số tài khoản (Acc No.)
+crops/WEB_099/9fb659753c0fbf7f482a.png	Họ tên người mua hàng (Buyer):
+crops/WEB_099/db65009aa4d09e1f5b8e.png	Mã số thuế (Tax code): 3500102414
+crops/WEB_099/f6ac12382e16c5029d48.png	Thành tiền
+crops/WEB_099/1a0f168fc3ae9a0caf21.png	Tên hàng hóa, dịch vụ
+crops/WEB_099/1492af267e7eaa878703.png	Cung cấp bộ truyền động cho van điều khiển PCV-
+crops/WEB_099/444530ad5e9315c3f876.png	XL.TM/TAJAGI ký ngày 18 tháng 02 năm 2025 thuộc
+crops/WEB_099/aedc5e93b18859207ea8.png	Phần hàng hóa miễn thuế
+crops/WEB_099/a414f9400d791969345f.png	Cộng tiền hàng (Total amount):
+crops/WEB_099/4e538f1ea3ece750fbb4.png	Thuế suất GTGT (VAT rate): /
+crops/WEB_099/41a80b05924e22add689.png	Tiền thuế GTGT (VAT amount):
+crops/WEB_099/2ce2305af879b55e1e2a.png	Tổng cộng tiền thanh toán (Total payment):
+crops/WEB_099/bfb96ebff52cd4ceae79.png	Người mua hàng (Buyer)
+crops/WEB_099/92e98b905770999f64e6.png	Người bán hàng (Seller)
+crops/WEB_099/596d74c798cbc829e13e.png	Trang tra cứu (Search on Website): https://tracuuhoadon.fpt.com.vn/search.html
+crops/WEB_100/d796f882d3f7ec47d14a.png	Ký hiệu (Series): 1C25TAA
+crops/WEB_100/808e8268df867b024550.png	Đơn vị bán hàng (Seller): CÔNG TY TNHH TAJAGI
+crops/WEB_100/145e9ff78b6d76ed6f86.png	Mã số thuế (Tax code)
+crops/WEB_100/f083828c18d1d43be646.png	Địa chỉ (Address)
+crops/WEB_100/477443d4772a08c20425.png	Thành phố Hồ Chí Minh, Việt Nam
+crops/WEB_100/a41e8a70bef2e24a94d9.png	Điện thoại (Phone)
+crops/WEB_100/145908e0f359c6e0c817.png	Số tài khoản (Acc No.)
+crops/WEB_100/901ca5c06d0ab6d454ce.png	Họ tên người mua hàng (Buyer):
+crops/WEB_100/ad378baa08a3a0ede8c5.png	Mã số thuế (Tax code): 3500102414
+crops/WEB_100/2d74b1ddf0edd13586ad.png	Hình thức thanh toán (Payment method):
+crops/WEB_100/ee9cf22e2ece75590ae9.png	Thành tiền
+crops/WEB_100/bc8e8cc21cf643b8b3e0.png	Cung cấp bộ truyền động cho van điều khiển PCV-
+crops/WEB_100/182a8738394ec9a771a0.png	Dự án: Lô 09-1 Đơn hàng số: VT-0093/25-XL-TTH.
+crops/WEB_100/32c70e759dac4c83c233.png	Phần phát sinh chênh lệch giữa giá trị hàng hóa đã
+crops/WEB_100/e3576233ee3376527efa.png	khaibáo tại khâu nhập khẩu và giá trị hàng hóa ghi
+crops/WEB_100/2964ae368619ec178db6.png	Cộng tiền hàng (Total amount):
+crops/WEB_100/e19fb68e1a8f9ab248a6.png	Tiền thuế GTGT (VAT amount):
+crops/WEB_100/fa209ff770f5a7c1ae8b.png	Thuế suất GTGT (VAT rate): 8%
+crops/WEB_100/f9af5e21f47ec01c8081.png	Tổng cộng tiền thanh toán (Total payment):
+crops/WEB_100/a79156d59b3b7e23fc34.png	Người mua hàng (Buyer)
+crops/WEB_100/a26c718232721673b69e.png	Người bán hàng (Seller)
+crops/WEB_100/6c80197ab5a71832e6cb.png	Trang tra cứu (Search on Website): https://tracuuhoadon.fpt.com.vn/search.html
+crops/WEB_102/36a790c3b88754b3949e.png	Ký hiệu (Serial): 1C25TGG
+crops/WEB_102/878479a61497c8a92b82.png	Số (No.): 458681
+crops/WEB_102/7b913f9a0fc010bf214a.png	Mã số thuế (Tax code): 0317860332
+crops/WEB_102/27b33b3ab429f3fbbcf6.png	Địa chỉ (Address): Đường số 5, KCN Trảng Bàng, , Tây Ninh
+crops/WEB_102/76a449b2a928f5a1a03c.png	Số tài khoản (A/C No.) :
+crops/WEB_102/96ab19f3c967fcc43e6b.png	, 70000, Việt Nam
+crops/WEB_102/e555f6d5e1f90c8c367d.png	Hınh thức thanh toán (Payment method): Chuyển khoản
+crops/WEB_102/c65a7af8ac756a4f114d.png	Đồng tiền thanh toán (Payment currency): VND
+crops/WEB_102/ba7162e9958e94179699.png	Thànhtiền
+crops/WEB_102/737090934b74f5ff24ef.png	Tênhàng hóa, dịchvụ
+crops/WEB_102/531cc1178077b7e22ea5.png	Áo thun đồng phục
+crops/WEB_102/a4cbfc1c6103cc6de28c.png	(Chữ kýsố (nếu có))
+crops/WEB_102/04c84953fc97ea32a882.png	(Digitalsignatures)
+crops/WEB_102/d67c9c3e017d525d8518.png	(Digitalsignature)
+crops/WEB_102/de50398b067c5cb5ec52.png	(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)
+crops/WEB_107/071243b2c7830234d945.png	HỘ KINH DOANH DÊ CUA 245
+crops/WEB_107/e226b472a5cc408544e1.png	Mã số thuế (Tax code): 8069367273
+crops/WEB_107/f31f68b113d490024e14.png	Địa chỉ (Address): 91 Hoàng Sa, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
+crops/WEB_107/4d5f49fd3762235082c1.png	Điện thoại (Tel):
+crops/WEB_107/c7d25923287470098a64.png	Số tài khoản (Bank account):
+crops/WEB_107/9c4b5a14f2005dbe8ae9.png	HÓA ĐƠN BÁN HÀNG
+crops/WEB_107/36076b5617eb084757a8.png	Ký hiệu (Serial): 2C22TAA
+crops/WEB_107/62c0acc7c81932f5f78d.png	Số (No.):
+crops/WEB_107/13764530ce409ed9d31b.png	Họ tên người mua hàng (Buyer):
+crops/WEB_107/badb7fd915b68b95bebc.png	Mã số thuế (Tax code): 0316833907
+crops/WEB_107/6096d43641d0a79aae17.png	Số tài khoản (Bank account):
+crops/WEB_107/d68b63570f54b01e6047.png	Đồng tiền thanh toán (Payment Currency): VND
+crops/WEB_107/1decb767686a264a2fb7.png	Thành tiền
+crops/WEB_107/0975b1422b0059db1205.png	Tên hàng hóa, dịch vụ
+crops/WEB_107/24ad8a7c2a52c2dcb2b2.png	Khăn Lạnh
+crops/WEB_107/99fd36de064c0e68d3c5.png	Lạng
+crops/WEB_107/a7128fb87765444d9fde.png	Phần
+crops/WEB_107/677243541493e30bac91.png	Phần
+crops/WEB_107/bd748b17f6a682990a2b.png	85.51 1
+crops/WEB_107/0d36baae62869f80e05e.png	85.51 1
+crops/WEB_107/dbc8932e9c052c5101a9.png	Rau Luộc Thập Cẩm+Kho Quẹt
+crops/WEB_107/a83e843bd11f2e34f173.png	(Ký, ghi rõ họ, tên)
+crops/WEB_108/755c04cb63938829d96a.png	HỘ KINH DOANH DÊ CUA 245
+crops/WEB_108/a71aba8e4e5eabdd7c75.png	Mã số thuế (Tax code): 8069367273
+crops/WEB_108/b0f86cfbed2eee9e7b42.png	Địa chỉ (Address): 91 Hoàng Sa, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
+crops/WEB_108/c56225fa810bf9ffb078.png	Điện thoại (Tel):
+crops/WEB_108/afae00135e5ce10a8cbb.png	Số tài khoản (Bank account):
+crops/WEB_108/23dad137191807dfea1b.png	Ký hiệu (Serial): 2C22TAA
+crops/WEB_108/d075b3a46ab968d05cbd.png	Số (No.):
+crops/WEB_108/32cf1ec0183bda3f8710.png	Họ tên người mua hàng (Buyer):
+crops/WEB_108/3d04fc8a111dd682253f.png	Mã số thuế (Tax code): 0316833907
+crops/WEB_108/39344992f679ed7aeb6b.png	Đồng tiền thanh toán (Payment Currency): VND
+crops/WEB_108/89e29a55ef76d497a846.png	Thành tiền
+crops/WEB_108/50c40ff5475a1ca038c6.png	Tên hàng hóa, dịch vụ
+crops/WEB_108/b18baaa81b5733bed6c9.png	Cộng tiền bán hàng hóa, dịch vụ (Total amount):
+crops/WEB_108/32f4c3fb7f095ad5ef76.png	Người mua hàng (Buyer)
+crops/WEB_108/70be7537426d4843750e.png	(Ký, ghi rõ họ, tên)
+crops/WEB_108/7c33b485f03664e2de52.png	(Ký, ghi rõ họ, tên)
+crops/WEB_128/53e8782877c10193bc52.png	Hóa chất Natri hydroxyt (NaOH), TQ
+crops/WEB_128/6c89ff7199e3176c1f5c.png	Hóa chất Amoni hydroxide (NH4OH)/(NH3),
+crops/WEB_128/f1f0e670b20d0ff0bb33.png	Hóa chất Kẽm sunfat (ZnSO4.7H2O), TQ
+crops/WEB_128/730a21ed23392a9390f4.png	Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản
+crops/WEB_128/5a34a387b6da8c98c934.png	Tên hàng hóa, dịch vụ
+crops/WEB_128/cc44b06abe9e33743ead.png	Đơn giá
+crops/WEB_128/6a03426f17be8b70cbb9.png	Hóa chất Amoni thioxianat (NH4SCN), TQ
+crops/WEB_128/1487b55ebbc4f827288e.png	Hóa chất Acid citric (C6H8O7H2O), TQ
+crops/WEB_128/303dd1e25d5c4d737348.png	Hóa chất Etylen glycol (C2H6O2), TQ
+crops/WEB_128/fde4aefe3be8d83b429e.png	Hóa chất Oxalic Acid dehydrate
+crops/WEB_128/19651ced685323744499.png	Hóa chất Natri nitrit(NaNO2), TQ
+crops/WEB_128/c3c4718573e9960192db.png	Hóa chất Natri salicylate (C7H5NaO3), TQ
+crops/WEB_128/34556900ec10c731cdff.png	Hóa chất Natri kali tatrat
+crops/WEB_128/322026e639b16a9fc431.png	Hóa chất Kali Permanganate (KMnO4), VN
+crops/WEB_128/8310a6479243e11a17ec.png	Hóa chất Kali cromat (K2CrO4), TQ
+crops/WEB_128/2c189198c3eac0ee5cbe.png	Chỉ thị muối NH4Fe(SO4)2.12H2O 10 %, TQ
+crops/WEB_128/7db649d0643b0ca0a2e2.png	Dung dịch xanh methylen (C16H18CIN3S),
+crops/WEB_128/7f5864b1954a0a26ca66.png	Hóa chất Metyl da cam (C14H14N3NaO3S),
+crops/WEB_128/8b44df253257a6644fd5.png	1 12.000
+crops/WEB_128/87278833fd18ab29923e.png	1 12.000
+crops/WEB_128/a486e284c486e8d13543.png	Hóa chất Urea, TQ
+crops/WEB_128/26ba9754fe4fe5f0613b.png	(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_128/5a0bb0810f327f9ca176.png	Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản
+crops/WEB_128/2f5f8e6e0d2bd3dce318.png	Thành tiền
+crops/WEB_128/461529d02811ab403e6f.png	Tên hàng hóa, dịch vụ
+crops/WEB_128/553b668b0c260ac57eb6.png	Cộng tiền hàng (Total amount):
+crops/WEB_128/b4b21c9012ef8aa34709.png	Thuế suất GTGT (VAT rate): 10%
+crops/WEB_128/8ce2437cca03c2fdd730.png	Tổng cộng tiền thanh toán (Total payment):
+crops/WEB_128/20ef7b1679236cb70257.png	Người mua hàng (Buyer)
+crops/WEB_128/268599446d189dd521b7.png	Người bán hàng (Seller)
+crops/WEB_128/a34494c0b19cfb388014.png	CÔNG TY TNHH THIẾT BỊ KHOA
+crops/WEB_128/28299a7be2cc4fe002a0.png	(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_134/b0f29ed75b61edf29300.png	CÔNG TY TNHH SX TM - THIẾT BỊ KHOA HỌC HƯNG THỊNH
+crops/WEB_134/6c9ae4b36c335122bdd2.png	Mã số thuế: 0315307852
+crops/WEB_134/ba0192dc14eae143dfde.png	Chí Minh, Việt Nam
+crops/WEB_134/88d1e9931b3424234d8b.png	Ký hiệu: 1C24THT
+crops/WEB_134/7fd435b6c0378350a821.png	(Bản thể hiện của hóa đơn điện tử)
+crops/WEB_134/1824b30a6ed5e5629d46.png	Ngày 11 tháng 4 năm 2024
+crops/WEB_134/4d8f4f1970f5b099d0bb.png	Mã số thuế: 0310765873
+crops/WEB_134/13aa579f45068f9d2906.png	Địa chỉ: 237 đường Nam Hòa, Tổ 4, Khu phố 1, Phường Phước Long A, Thành phố Thủ Đức, TP Hồ
+crops/WEB_134/67f8d1de49b0f43b694a.png	Chuyển khoản
+crops/WEB_134/70a388df9250e50e4dca.png	Thành tiền
+crops/WEB_134/91888ab8c1bfc00ff485.png	Dụng cụ thử va đập kính
+crops/WEB_134/23a46c84c4c0778df44e.png	Dụng cụ thử bi rơi kính
+crops/WEB_134/53f4c6851d9fe83e7677.png	1.200.000
+crops/WEB_134/9515f8002d3e22b95574.png	1.200.000,00
+crops/WEB_134/56a2923c2178237070f3.png	Bộ
+crops/WEB_134/13936b803a438067323f.png	1.200.000,00
+crops/WEB_134/45e0fd50c32fa01ba7ea.png	1.200.000
+crops/WEB_134/396a54e1ba05c0f3a605.png	Thiết bị thử thấm của gạch - cỡ to -
+crops/WEB_134/a8b82c98e4ce476f0cf4.png	Bộ
+crops/WEB_134/74701707acee087b4e20.png	1.500.000,00
+crops/WEB_134/91bbe23dd02f52bae598.png	1.500.000
+crops/WEB_134/4f2703953ed18ae169b0.png	Việt Nam
+crops/WEB_134/49c1233f0f4af014bd73.png	Bộ dao vòng lấy mẫu đất -VN
+crops/WEB_134/49087613254a6e880d67.png	Bộ
+crops/WEB_134/c2fb41c16d27a79ae9d2.png	1.600.000,00
+crops/WEB_134/7ede5c8cbb6e1117ebcd.png	1.600.000
+crops/WEB_134/9c27ff9bfb9c8e4be299.png	Cộng tiền hàng:
+crops/WEB_134/d1dc60501bd90fc32cb4.png	31.500.000
+crops/WEB_134/babb45ec282af93d6e64.png	Thuế suất GTGT:
+crops/WEB_134/94e110adfdb966f4822c.png	10 % Tiền thuế GTGT:
+crops/WEB_134/e552c3eba7c058d049b8.png	3.150.000
+crops/WEB_134/ae59c527546d5bdabca8.png	Ba mươi bốn triệu sáu trăm năm mươi nghìn đồng chẵn.
+crops/WEB_134/7606d828c8c658bd5f61.png	Người mua hàng
+crops/WEB_134/a43c344407e972dc31a1.png	(Ký, ghi rõ họ, tên)
+crops/WEB_134/1f0f25363a0fb477f002.png	(Ký, ghi rõ họ, tên)
+crops/WEB_134/38959ebcce15c135fba9.png	KHOA HỌC HƯNG THỊNH
+crops/WEB_134/52b89a2929d9c681561f.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_134/c286089eda7ccd49df2c.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu/
+crops/WEB_135/f00fd2e1961e2eacb5fd.png	CÔNG TY TNHH SX TM - THIẾT BỊ KHOA HỌC HƯNG THỊNH
+crops/WEB_135/7ac6d813fc51e27701f7.png	Chí Minh, Việt Nam
+crops/WEB_135/87a950534b2c074e1113.png	Ký hiệu: 1C24THT
+crops/WEB_135/573eb0ed8a1961d1dd8e.png	(Bản thể hiện của hóa đơn điện tử)
+crops/WEB_135/d3f0dd968a5a8ff9d2fe.png	Ngày 11 tháng 4 năm 2024
+crops/WEB_135/b91e66cf9becc0d5c0a5.png	Họ tên người mua hàng:
+crops/WEB_135/c6e9ffc92262042b7423.png	Mã số thuế: 0310765873
+crops/WEB_135/d974d488f2b9bdded8be.png	Địa chỉ: 237 đường Nam Hòa, Tổ 4, Khu phố 1, Phường Phước Long A, Thành phố Thủ Đức, TP Hồ
+crops/WEB_135/e2466ba084b73b569074.png	Thành tiền
+crops/WEB_135/9fb14985738dbdafd0b2.png	Thiết bị thử cường độ bám dính vữa
+crops/WEB_135/82e80a795c24a79c3026.png	10.000.000,00
+crops/WEB_135/2aff2f7d64fb1ad224cf.png	10.000.000
+crops/WEB_135/fa47ce09171f971bc846.png	đường Model: LA-302E
+crops/WEB_135/f041d44c57fbe641b9e7.png	Thiết bị đo chiều dày sơn kẻ đường
+crops/WEB_135/c0d66724e157643e3b63.png	Thiết bị đo độ nhám mặt đường bằng
+crops/WEB_135/49228ebabdd1b2bb0954.png	con lắc Anh Model: BM - III
+crops/WEB_135/1bc1e9dbb0dcd93d6e66.png	Sàng đường kính 300mm
+crops/WEB_135/cce9b67d7ce7f59be95e.png	Thiết bị giãn dài nhựa Model: LYS -
+crops/WEB_135/bfa41a4c96ac81ef44c7.png	Máy thí nghiệm xác định hàm lượng
+crops/WEB_135/b7d32e37fcdfc149bf8f.png	Máy thí nghiệm Nhớt kế động học
+crops/WEB_135/9fb83ae8690c847ddab3.png	Lò Nung 1000 độ C SX2-4-10
+crops/WEB_135/37e13b33a6d295d88b55.png	Thiết bị kim lún nhựa Model: SZR-3
+crops/WEB_135/80fe3eeb8b3e1b982155.png	Máy mài mòn gạch men
+crops/WEB_135/7082021f90e37c4bdfc7.png	Máy thử mài mòn đá tự nhiên Model:
+crops/WEB_135/68cb1919539cc69c1d68.png	16.000.000
+crops/WEB_135/582a66228286cefcdf21.png	16.000.000,00
+crops/WEB_135/4e47cbec3919e3d8d142.png	Máy lắc sàng Model: SJ - FKY
+crops/WEB_135/5098d9724bbed4289262.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu/
+crops/WEB_135/d367dbba95be62c7d941.png	Chí Minh, Việt Nam
+crops/WEB_135/1f50c4f74aa22fbf08df.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_135/74d20181df23ff5dfe4e.png	Ngày 11 tháng 4 năm 2024
+crops/WEB_135/b7ba0397fd5ec26a5b66.png	Họ tên người mua hàng:
+crops/WEB_135/4eda068c3b4b710db709.png	Địa chỉ: 237 đường Nam Hòa, Tổ 4, Khu phố 1, Phường Phước Long A, Thành phố Thủ Đức, TP Hồ
+crops/WEB_135/01f6160e2358edb42a0e.png	Thành tiền
+crops/WEB_135/34b02309aeb06f23b90a.png	Tên hàng hóa, dịch vụ
+crops/WEB_135/394af3c86ee8b121dd14.png	Thuế suất GTGT:
+crops/WEB_135/9d6be02571d9662ec3b1.png	Người mua hàng
+crops/WEB_135/6fe8938fdb2dc5cf53bf.png	(Ký, ghi rõ họ, tên)
+crops/WEB_135/7056e3b76dc31078db41.png	(Ký, ghi rõ họ, tên)
+crops/WEB_135/bf7be91fce2002734539.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_135/a57147d95dafb046fd8b.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu/
+crops/WEB_204/59f742e88bd58ed4fab9.png	Nghiệp vụ số 11- VinaTrain
+crops/WEB_204/b7abebc8d2d5a712cfe8.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_204/406e1ed245e190fe48ce.png	Ký hiệu: ST/20E
+crops/WEB_204/8b817bd3b484fe85c3f2.png	Liên 2: Giao cho người mua
+crops/WEB_204/38de1ecb163f519f0275.png	Đơn vị bán hàng : Công ty TNHH Sản Xuất Và Thương Mại VinaTrain
+crops/WEB_204/cb5ffb307faf5496c586.png	Mã số thuế
+crops/WEB_204/d1e7f0b83be6b689ad4b.png	Điện thoại
+crops/WEB_204/94a43f247e16110319a7.png	: 987 Nguyễn Trãi, Quận 1, TP.HCM
+crops/WEB_204/b6967533d2663018d366.png	Hình thức thanh toán: Chuyển khoản
+crops/WEB_204/e6be4b5aa8487251cbf3.png	Thành tiền
+crops/WEB_204/42439db06e5eed5d4965.png	Tên hàng hóa, dịch vụ
+crops/WEB_204/ad612962e79a5c13c73a.png	Cộng tiền hàng:
+crops/WEB_204/e7f843f5de58b20df7e1.png	Thuế suất GTGT: 10%, Tiền thuế GTGT:
+crops/WEB_204/f8793a227d42ec32ba97.png	Người mua hàng
+crops/WEB_204/49e1c04adea3d6a0105d.png	(Ký, đóng dấu ghi rõ họ tên)
+crops/WEB_204/857f0edbc68a50268641.png	(Ký ghi rõ họ tên)
+crops/WEB_204/053cc75a045515b196ae.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_205/fbf2b55af04776972f6e.png	Nghiệp vụ số 12-VinaTrain
+crops/WEB_205/c9f251ec858431d12d81.png	Ký hiệu: ST/20E
+crops/WEB_205/d54fb487a8b8859a1cea.png	Đơn vị bán hàng : Công ty TNHH Sản Xuất Và Thương Mại Vina Train
+crops/WEB_205/516dc02dbb2d6d35f977.png	HCM - Phòng giao dịch Hai Bà Trưng
+crops/WEB_205/ab7fe1e64fb780c3ea6e.png	Họ tên người mua hàng :
+crops/WEB_205/62ba0bca2314fd3b6213.png	: Công ty Cổ Phần Ánh Mai
+crops/WEB_205/3d49459ab03ccc4aad27.png	: Số 695, đường Quang Trung, Phường 8, Quận Gò Vấp, Thành phố Hồ Chí Minh
+crops/WEB_205/122caac5badb49b5b9b0.png	Số tài khoản:
+crops/WEB_205/42bb2907a0ac3ae5a573.png	Thành tiền
+crops/WEB_205/9dd1c8d679e1aec36e81.png	Tên hàng hóa, dịch vụ
+crops/WEB_205/3759de7c1b372a84711a.png	Cộng tiền hàng:
+crops/WEB_205/9034b5258ebb034c949a.png	Người mua hàng
+crops/WEB_205/fb4fca3a9a890df0d94a.png	Người bán hàng
+crops/WEB_205/f4f6803a3c30ad017a30.png	(Ký ghi rõ họ tên)
+crops/WEB_205/85a73108efbc3fd52ce1.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_207/10f67e40b0268dd44c81.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_207/6be149171db57827f294.png	Ký hiệu: ST/20E
+crops/WEB_207/29d0d4165a99375e34ea.png	Liên 2 : Giao cho người mua
+crops/WEB_207/8b06e4bb30d374069ac5.png	Đơn vị bán hàng : Công ty TNHH Sản Xuất Và Thương Mại VinaTrain
+crops/WEB_207/7d08d2ce89a092fa8376.png	Điện thoại
+crops/WEB_207/e2bd6e9f3fe932866a5f.png	HCM - Phòng giao dịch Hai Bà Trưng
+crops/WEB_207/8418cc76c267477664da.png	Họ tên người mua hàng :
+crops/WEB_207/d5dd644a8022db607b35.png	Thành tiền
+crops/WEB_207/e46bcb1738d96e002ccb.png	Đơn giá
+crops/WEB_207/cefad582d1c16b85432c.png	Cộng tiền hàng:
+crops/WEB_207/adc9dbcb73d5a40c7665.png	ổng cộng tiền thanh toán:
+crops/WEB_207/10acdff2f8681289620b.png	Người mua hàng
+crops/WEB_207/63e91c5a4f4bd401e44b.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_248/b1d774292da7a7641eb2.png	CÔNG TY TNHH LOTTERIA VIỆT NAM
+crops/WEB_248/5ec1871f889bf60764a3.png	Minh, Việt Nam
+crops/WEB_248/890ea769130f32d57e22.png	Điện thoại (Tel):
+crops/WEB_248/ada4cf06f65c6e976ca3.png	Mã số thuế (Tax code): 0300644051
+crops/WEB_248/8beaa169b1c58d9801aa.png	Số (No.): 3516
+crops/WEB_248/4b046c70912dd4f8368b.png	(Hóa đơn có mã khởi tạo từ máy tính tiền)
+crops/WEB_248/50e36ad80b3d3a8c30b1.png	Họ tên người mua hàng (Customer's name):
+crops/WEB_248/9f75322b8915888bd26e.png	Tên đơn vị (Company): Khách hàng không lấy hóa đơn
+crops/WEB_248/0ec171df8a85873a4a3b.png	Địa chỉ (Address): Khách hàng không lấy hóa đơn
+crops/WEB_248/dd86a61c9a7b712c7133.png	Mã số thuế (Tax code):
+crops/WEB_248/3ccf3e4185e42794da68.png	Số CCCD (Citizen identification):
+crops/WEB_248/893a91077300c83fd582.png	Số điện thoại (Phone):
+crops/WEB_248/717e536c77a7bb8aa257.png	Hình thức thanh toán (Method of payment): TM/CK
+crops/WEB_248/543d2bbe1bd631570928.png	Thành tiền
+crops/WEB_248/79ab743aeeeeae2ebf4f.png	ĐVT
+crops/WEB_248/8c9fce297db3efda7d41.png	Tên hàng hóa, dịch vụ
+crops/WEB_248/ba4652fa3cfd02ef50bf.png	Cộng tiền hàng và cung cấp dịch vụ (Sub Total Amount):
+crops/WEB_248/6b195310288073362266.png	Tiền thuế GTGT (VAT amount):
+crops/WEB_248/2d2fa0222414094ddf34.png	Thuế suất GTGT (VAT rate): 10%
+crops/WEB_248/7869f4d1cc16a9b2f048.png	Tổng cộng tiền thanh toán (Total amount payable):
+crops/WEB_248/ee842ca38e24ef7db21b.png	Người mua hàng (Buyer)
+crops/WEB_248/ddc9aeec131e5d12a1e5.png	Ký, ghi rõ họ tên
+crops/WEB_248/af1093dce9a012ad2735.png	Ký, ghi rõ họ, tên
+crops/WEB_248/f5f08828479497a420e6.png	Ký bởi: CÔNG TY TNHH LOTTERIA VIỆT
+crops/WEB_248/28f6e3229d227725bb51.png	Mã nhận hóa đơn: 59195890 tra cứu tại: http://tracuulotteria.einvoice.vn/
+crops/WEB_248/be3f5608297c18521260.png	(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)
+crops/WEB_253/90ac2726f1c3e2c73924.png	Mẫu số 3.5: Trích hóa đơn GTGT
+crops/WEB_253/ed87518515e2bddae051.png	Mẫu số 01GTKT3/001
+crops/WEB_253/9d94077270798d2029ed.png	Ký hiệu: TM/17P
+crops/WEB_253/1d9eaa556663a5a1c6d3.png	Đơn vị bán hàng: Công ty TNHH Thắng Mai
+crops/WEB_253/0bb273ddb324b5ed4d58.png	Địa chỉ: Thôn Gò -Xã khánh Thượng-Huyện Ba Vì- Thành Phố Hà Nội Việt Nam
+crops/WEB_253/6019bec6da8a39ef52ed.png	Điện thoại:04- 3396 7777
+crops/WEB_253/ff043303aa49f38c1ba3.png	Họ tên người mua hàng:
+crops/WEB_253/dcfd5d4d9612b3252b32.png	Tên đơn vị: Doanh nghiệp tư nhân Hoàng Điệp
+crops/WEB_253/25fd8917e15bc927d067.png	Địa chỉ: thôn Sơn Hà- X.Khánh Thượng- H.Ba Vì- TP.Hà Nội
+crops/WEB_253/c93fa9486df2a0d28694.png	ĐVT
+crops/WEB_253/07f66b9903c31033aaa4.png	Thành tiền
+crops/WEB_253/af814be55ebbfecbabd8.png	Dầu Diezel
+crops/WEB_253/e3930e5b291132c4c72e.png	Cộng tiền hàng
+crops/WEB_253/c7c23d7b025331fe0799.png	Thuế suất GTGT: 10%
+crops/WEB_253/0b4015805b648e7a8a6e.png	Tiền thuế GTGT
+crops/WEB_253/789aa5c86c89b8ec5686.png	Tổng cộng tiền thanh toán
+crops/WEB_253/762f6e85bd7e9edd61e2.png	Người bán hàng
+crops/WEB_254/63f601824f1b93a0c96e.png	Phụ biểu 03: Trích hóa đơn GTGT
+crops/WEB_254/832c48ef55334ece9fe4.png	Mẫu số 01GTKT3/001
+crops/WEB_254/8510cb345d3d1e0b25eb.png	GIÁ TRỊ GIA TĂNG
+crops/WEB_254/54df782790eeb2445afb.png	Ký hiệu: TM/17P
+crops/WEB_254/a8ccd31286250767e1e2.png	Đơn vị bán hàng: Công ty TNHH Thắng Mai
+crops/WEB_254/6fc02802ea6007283589.png	Mã số thuế: 0500478771
+crops/WEB_254/95008efa811c2152f94a.png	Địa chỉ: Thôn Gò -Xã khánh Thượng-Huyện Ba Vì- Thành Phố Hà Nội Việt Nam
+crops/WEB_254/3d39f41e811ecfeb9570.png	Điện thoại:04- 3396 7777
+crops/WEB_254/5692ff6b640eb77d4243.png	Số tài khoản:8301 100393009 Ngân Hàng TMCP Quân Đội-chi nhánh Sơn Tây -Hà Nội
+crops/WEB_254/ad786325282665c5b80e.png	Tên đơn vị: Công ty Cổ phần Phúc Khánh
+crops/WEB_254/38fa5d0d1c7f9285352e.png	Hình thức thanh toán:
+crops/WEB_254/941b7a234459deddc065.png	Thành tiền
+crops/WEB_254/2f008349d03e221cb522.png	ĐVT
+crops/WEB_254/2fe8b9fbdd9afdd0fdb9.png	11.664
+crops/WEB_254/657f780a576602dd0f08.png	Cộng tiền hàng
+crops/WEB_254/ea9fa6b76cbf92ce1510.png	Tiền thuế GTGT
+crops/WEB_254/8b778c25b0d91b67c195.png	Tổng cộng tiền thanh toán
+crops/WEB_254/eb31fb148fd315eb7e11.png	Thủ trưởng đơn vị
+crops/WEB_260/7944b73f04eff01b52d9.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_260/3408cbbfdb8d548643f5.png	Ký hiệu: KV/12P
+crops/WEB_260/03b1fc8fa97948f78965.png	Ngày 05 tháng 12 năm 2018
+crops/WEB_260/f04d69a483a825594c34.png	Thành tiền
+crops/WEB_260/659a96d9c6e688515ceb.png	tính
+crops/WEB_260/180ab5655414c2c96de6.png	1.125.000.000
+crops/WEB_260/6522605f8728e51457dc.png	Cộng tiền hàng: 112.500.000
+crops/WEB_260/c51b141304b5160a798f.png	112.500.000
+crops/WEB_260/57af2344e3aa05610fb7.png	Tổng cộng tiền thanh toán
+crops/WEB_260/3b1af9bf4bad4f2baaed.png	1.237.500.000
+crops/WEB_261/1d3899090891d6a2bf36.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_261/8c4669fae994a54761ba.png	Ngày14tháng 12 năm 2018
+crops/WEB_261/740b9e3240460e10c311.png	1.650.236.000
+crops/WEB_261/227da8ae136fb49d74e1.png	1.650.236.000
+crops/WEB_264/e27b78d89b7c231e1d85.png	Đơn vị bán hàng: Công ty cổ phần công nghiệp chế tạo máy Việt Nhật
+crops/WEB_264/84f76242106e7306b92a.png	Tên đơn vị: Công ty TNHH Xây dựng Thành Hưng
+crops/WEB_264/00f63fe92fcb0f24fa62.png	Mã số thuế: 0500380328
+crops/WEB_264/c0b52ebcd77500178073.png	DVT
+crops/WEB_264/366c83d9c2e78a42e3c3.png	Tên hàng hóa dịch vụ
+crops/WEB_264/4dbcc37b24dc78925cef.png	15
+crops/WEB_264/f4aed918985333af251f.png	Tiền thuế GTGT
+crops/WEB_028/b69a3df0c29fa36fa672.png	Số tiền viết bằng chữ (Total amount in words): Chín trăm chín mươi bốn nghìn đồng
+crops/WEB_087/3ffadf4ec59d9cb7e760.png	HÓA ĐƠN
+crops/WEB_087/a4d0a9428b2a42117046.png	Ký hiệu (Serial): 1C24MAQ
+crops/WEB_087/d9277fc1feb5150a82c4.png	GIÁ TRỊ GIA TĂNG
+crops/WEB_087/134079fa1fdb703eb7a6.png	Mã của CQT (Tax Authentication code): M1-24-3OOEB-10170080583
+crops/WEB_087/40a15c332f83d8a591e1.png	Số lượng
+crops/WEB_087/2f63f66ad038d5eb5ef2.png	Đơn giá
+crops/WEB_087/02e62cf823c7bbec806a.png	Số tiền viết bằng chữ (Amount in words): Một trăm ba mươi lăm nghìn đồng
+crops/WEB_087/cd7bdbeb76bf364bd472.png	Người bán hàng (Seller)
+crops/WEB_047/8d87611a9e51f11bab39.png	Đơn vị
+crops/WEB_047/1135a9e340276041fb69.png	Số lượng
+crops/WEB_047/0ef0124cfd84d88e08ae.png	Bánh xèo hải sản
+crops/WEB_047/d5aa520e1c0986c0df21.png	Số lượng
+crops/WEB_047/0616340f5b97fe443c3f.png	Đơn giá
+crops/WEB_047/1edcf6368947296a55ff.png	Súp miso hải sản cay
+crops/WEB_047/ac3496d378b9e4d6a1b1.png	Quả
+crops/WEB_047/acb6cd4e83597174c1c1.png	Tổng tiền chịu thuế suất:
+crops/WEB_047/396f6a15d949c5c5b6be.png	Tổng tiền chịu thuế suất:
+crops/WEB_047/d12cc3cf944f2a99b7d5.png	(KHỞI TẠO TỪ MÁY TÍNH TIỀN)
+crops/WEB_047/a34d34e6990db9101591.png	(KHỞI TẠO TỪ MÁY TÍNH TIỀN)
+crops/WEB_049/e563920f379ecb57c327.png	Ký hiệu: 1K25TDN
+crops/WEB_049/02cf598ff6b224e59dc2.png	BÁCH HÓA XANH ĐỒNG NAI
+crops/WEB_049/ed67fa6dd8e619521e8f.png	Số: 9861547
+crops/WEB_049/67bbf3fc3466286bc9ae.png	Mã số thuế: 0310471746-353
+crops/WEB_049/cb78fa2acc1d4ed22549.png	Họ tên người mua hàng:
+crops/WEB_049/dcf47848811ec076d75c.png	Mã số Thuế: 0310471746-353
+crops/WEB_049/855069981e2c93ba0b6b.png	Đơn vị tính
+crops/WEB_049/32251c9c2781a147b715.png	Số lượng
+crops/WEB_049/18a6c69a8d4fee9c7934.png	Tên hàng hoá, dịch vụ
+crops/WEB_049/613123d2440303f98295.png	Tổng cộng
+crops/WEB_049/22644b175ab7b705e3c2.png	Ba trăm năm mươi ba nghìn đồng chẵn
+crops/WEB_051/7424df07b7b98763dab8.png	Ký hiệu: 1K25TDN
+crops/WEB_051/8ee8b3f7f549d3b71395.png	BÁCH HÓA XANH ĐỒNG NAI
+crops/WEB_051/95c1a7ef8bb8b06c5012.png	Số: 10380815
+crops/WEB_051/ac8094bc6088669857f1.png	Mã số thuế: 0310471746-353
+crops/WEB_051/bc65f5566ed7e1083e67.png	Họ tên người mua hàng:
+crops/WEB_051/ab307565d4ba247f5def.png	Mã số Thuế: 0310471746-353
+crops/WEB_051/62fc0ba28ce584e09693.png	Đơn vị tính
+crops/WEB_051/11d2812d2608ff2651ac.png	Số lượng
+crops/WEB_051/6598fda9794a108ed6d9.png	Tên hàng hoá, dịch vụ
+crops/WEB_051/26d547831895e4d4b36e.png	Tổng cộng
+crops/WEB_051/6d3768cd551b332e25b2.png	Ba trăm năm mươi ba nghìn đồng chẵn
+crops/WEB_055/c12fae6a87add90a9e7b.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_055/295e157db37b101c17f3.png	Số:
+crops/WEB_055/137280c93d964bec0980.png	Đơn vị bán hàng: CÔNG TY TNHH TƯ VẤN VÀ XÂY DỰNG ĐIỆN ĐỨC TRUNG
+crops/WEB_055/6231a5047f1727027ea1.png	Mã số thuế: 3100408158
+crops/WEB_055/cc32897252495381f1f1.png	Số tài khoản: 040047796999
+crops/WEB_055/47adbce427013a79202a.png	Tên đơn vị: CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)
+crops/WEB_055/41f09c1179489a97980d.png	Hình thức thanh toán: TM
+crops/WEB_055/2c2c7a8ce65a9123aaef.png	Đơn giá
+crops/WEB_055/03a81de5421653cb3d61.png	Nước suối
+crops/WEB_055/5a0081e433486b75d2d9.png	hàu xào lớn
+crops/WEB_055/91ef8bc64dd622c1b2d0.png	Ngao nướng
+crops/WEB_055/f918d2f4e19c071e3582.png	Soup hải sản
+crops/WEB_055/0ac37552d15a4cd178e5.png	Người mua hàng
+crops/WEB_055/0475cc62efc0498cb929.png	Người bán hàng
+crops/WEB_056/20d32bee3ed60a56395e.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_056/3ecba068f40fda0ca01d.png	Ký hiệu:
+crops/WEB_056/96a3cf71bf894554e14a.png	Số:
+crops/WEB_056/1d4299383fdb39170d2d.png	Bản thể hiện của hóa đơn điện tử
+crops/WEB_056/bfddb0da3df305af5e91.png	Đơn vị bán hàng: CÔNG TY TNHH TƯ VẤN VÀ XÂY DỰNG ĐIỆN ĐỨC TRUNG
+crops/WEB_056/0c0111eb3eb2e983e59f.png	Mã số thuế: 3100408158
+crops/WEB_056/53b0d8f9c844107dc329.png	Điện thoại: 0966994999
+crops/WEB_056/e8acfe3a883da30b67ce.png	Số tài khoản: 040047796999
+crops/WEB_056/afd5872f2bf8e1be2bee.png	Ngân hàng: Ngân hàng Sacombank Quảng Bình
+crops/WEB_056/72cf5e0a3638dc298b4e.png	Họ tên người mua hàng:
+crops/WEB_056/8fe9a67bf9f63483a1a0.png	Tên đơn vị: CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)
+crops/WEB_056/3e3145ad7192188335d2.png	Mã số thuế: 3600456424
+crops/WEB_056/7f4c25f69f0f75f269cf.png	Số tài khoản:
+crops/WEB_056/11d99eace9ec06820889.png	Hình thức thanh toán: TM
+crops/WEB_056/67202049ecb4ad0720df.png	Số
+crops/WEB_056/3b6a3cb252dd32504066.png	Thuế
+crops/WEB_056/f487fe4e90a7613fbd07.png	Thành tiền
+crops/WEB_056/c8f1ebdc868d7fa8cef3.png	Tiền thuế
+crops/WEB_056/830b5651359156fbbd87.png	Thành tiền
+crops/WEB_028/6a832ff25323bd118fba.png	Ký bởi: CN=CỤC THUẾ,O=BỘ TÀI
+crops/WEB_028/0f61950fd0b106149e6b.png	Ký bởi: SHOP HOA TƯƠI VY THANH
+crops/WEB_028/b4b0c6c5af0f8b09888e.png	Ký ngày: 17/05/2025 09:05:17
+crops/WEB_028/390e9a19d729e76c6bf9.png	CHÍNH,L=Hà Nội,C=VN
+crops/WEB_047/8e6a94bdac7d5a2142b6.png	Tổng hợp
+crops/WEB_047/23feaa31f689c391e528.png	Ký bởi: CÔNG TY CỔ PHẦN HINOKO
+crops/WEB_049/13f6e3955410ab78e24c.png	CN CÔNG TY CP THƯƠNG MẠI BÁCH HÓA XANH - CH
+crops/WEB_049/d855615d14130500964d.png	Tài khoản số: Ngân hàng:
+crops/WEB_049/e37ffe3dac997340e2b1.png	Tên CN: ĐỊA ĐIỂM KINH DOANH CHI NHÁNH CÔNG
+crops/WEB_049/3bd0a5bcef2274ed41b9.png	Tên đơn vi: CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL
+crops/WEB_049/df521b274625d243a850.png	TY CỔ PHẦN THƯƠNG MẠI BÁCH HÓA XANH - CỬA
+crops/WEB_049/442fa95c114e4cf2e894.png	HÀNG BÁCH HÓA XANH ĐỒNG NAI SỐ 146
+crops/WEB_049/0d44d12934bb247b8f16.png	Đia chỉ CN:Tổ 1 , Ấp Bàu Bông, xã Phước An, huyện Nhơn
+crops/WEB_049/35286fca8a485bd75822.png	Đia chi: Số 9, đường 3A, KCN Biên Hòa 2, Phường Long Bình Tân, Thành phố Biên
+crops/WEB_049/9f270b2d09b824e7c072.png	Trạch, tinh Đồng Nai, Việt Nam
+crops/WEB_049/439025fec6dac66f271f.png	Hoà, Tinh Đồng Nai, Việt Nam
+crops/WEB_049/8c617a7c4760be24f072.png	Hình thức thanh toán: CK / TM / Cấn trừ công nợ
+crops/WEB_049/2f11bd7be5a2f99850c9.png	Ký điện tư bởi: CHI NHÁNH CÔNG TY CỔ PHẦN
+crops/WEB_049/4027a8f264d983a56ba1.png	THƯƠNG MẠI BÁCH HÓA XANH - CỬA HÀNG BÁCH
+crops/WEB_049/2c3e18f5d2e3736d023e.png	HÓA XANH ĐỒNG NAI
+crops/WEB_051/aa4f13e94be41c60f0ca.png	CN CÔNG TY CP THƯƠNG MẠI BÁCH HÓA XANH - CH
+crops/WEB_051/56f85f44f24845baab5a.png	Tài khoản số: Ngân hàng:
+crops/WEB_051/9650617742101557f7c7.png	Tên CN: ĐỊA ĐIỂM KINH DOANH CHI NHÁNH CÔNG
+crops/WEB_051/0573fefe18c6b798d4ff.png	Tên đơn vi: CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL
+crops/WEB_051/4a5156007f139ae44d67.png	TY CỔ PHẦN THƯƠNG MẠI BÁCH HÓA XANH - CỬA
+crops/WEB_051/69565aa5cc976a12bc4a.png	HÀNG BÁCH HÓA XANH ĐỒNG NAI SỐ 146
+crops/WEB_051/62d9ae8d5049803421b2.png	Đia chi CN:Tổ 1 , Ấp Bàu Bông, xã Phước An, huyện Nhơn
+crops/WEB_051/356fe66218797ab7f977.png	Đia chi: Số 9, đường 3A, KCN Biên Hòa 2, Phường Long Bình Tân, Thành phố Biên
+crops/WEB_051/a8678765686c0cbac3ae.png	Trạch, tỉnh Đồng Nai, Việt Nam
+crops/WEB_051/28f2e0629e9e28d32c09.png	Hoà, Tinh Đồng Nai, Việt Nam
+crops/WEB_051/59947d23ca14535dd072.png	Hình thức thanh toán: CK / TM / Cấn trừ công nợ
+crops/WEB_051/b10f584a82c93878249b.png	Ký điện tư bởi: CHI NHÁNH CÔNG TY CỔ PHẦN
+crops/WEB_051/9823b03979f47e6edd60.png	THƯƠNG MẠI BÁCH HÓA XANH - CỬA HÀNG BÁCH
+crops/WEB_051/39d57dc208ee66ad207e.png	HÓA XANH ĐỒNG NAI
+crops/WEB_055/b56d07c01492208c984d.png	Địa chỉ: Thôn 3 Trung Nghĩa, Xã Nghĩa Ninh, Thành phố Đồng Hới, Tỉnh Quảng Bình, Việt Nam
+crops/WEB_055/a4c56177ae3d3dbaf6ff.png	Đơn
+crops/WEB_055/09001ac35df1778e17ec.png	vị tính
+crops/WEB_055/e873f07408e2e77156b2.png	Ký bởi CÔNG TY TNHH TƯ VẤN
+crops/WEB_055/6731708ebb5813d7e1a8.png	VÀ XÂY DỰNG ĐIỆN ĐỨC TRUNG
+crops/WEB_056/94aecc2d25defcae5c64.png	Địa chỉ: Thôn 3 Trung Nghĩa, Xã Nghĩa Ninh, Thành phố Đồng Hới, Tỉnh Quảng Bình, Việt Nam
+crops/WEB_056/105035ff7339df680d16.png	Đơn
+crops/WEB_056/9501e348d1a8c867d709.png	Đơn giá
+crops/WEB_056/0fdbc70a2fe07226c103.png	Tên hàng hóa, dịch vụ
+crops/WEB_056/e8753b0a5d16afe64271.png	suất
+crops/WEB_056/ece00e3be2414458fd52.png	sau thuế
+crops/WEB_056/2d027498d2d9e7294de2.png	vị tính
+crops/WEB_056/4e8b1b790bf23c4e9af0.png	Cháo hải sản
+crops/WEB_056/f4096edc0bbb559a9091.png	Ngao hấp
+crops/WEB_056/80f05f8e5dec8a682057.png	Cá Đuối Canh Xương Rồng
+crops/WEB_056/23483d3c1126e09cdcd1.png	Điệp nướng mỡ hành
+crops/WEB_056/8bf14260a342402f3d47.png	Nộm hải sản lớn
+crops/WEB_056/73d5ea674ab771b29888.png	Cơm chiên hải sản lớn
+crops/WEB_056/e312d7f25ff908ecc68c.png	Lạc
+crops/WEB_056/eb9dc3b08474e9d7d407.png	Mực hấp
+crops/WEB_056/731f8505cf68994b4eeb.png	Nước suối
+crops/WEB_056/f973a145aeec61d7d421.png	Cộng tiền hàng hóa, dịch vụ:
+crops/WEB_056/099744cc6cffbb73aeda.png	Tổng cộng tiền thanh toán:
+crops/WEB_056/5ea7f2272a0e3cacd35b.png	Mã của cơ quan thuế: M1-25-ECXRO-00000000287
+crops/WEB_056/6045fac5c31796ecca0c.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_056/cb0b67c047dadbf0d66b.png	Ký hiệu:
+crops/WEB_056/0a15a512f0a705445ea8.png	Số:
+crops/WEB_056/6e5e5e2a52fa9a4783db.png	Bản thể hiện của hóa đơn điện tử
+crops/WEB_056/8d49aa575dc62ba71284.png	Đơn vị bán hàng: CÔNG TY TNHH TƯ VẤN VÀ XÂY DỰNG ĐIỆN ĐỨC TRUNG
+crops/WEB_056/d0f94c14573b050ce6b6.png	Mã số thuế: 3100408158
+crops/WEB_056/eed447b83c258b86444e.png	Địa chỉ: Thôn 3 Trung Nghĩa, Xã Nghĩa Ninh, Thành phố Đồng Hới, Tỉnh Quảng Bình, Việt Nam
+crops/WEB_056/b0cf6a1dfc82ad0131d7.png	Điện thoại: 0966994999
+crops/WEB_056/cb3c597b940b6b048b0b.png	Số tài khoản: 040047796999
+crops/WEB_056/c77ef909dad524ac611f.png	Ngân hàng: Ngân hàng Sacombank Quảng Bình
+crops/WEB_056/8ee186590efd836e28eb.png	Họ tên người mua hàng:
+crops/WEB_056/300e2947198e3921b173.png	Tên đơn vị: CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)
+crops/WEB_056/78b67d5171b9140f3c33.png	Mã số thuế: 3600456424
+crops/WEB_056/ea501e9024e15189c215.png	Số tài khoản:
+crops/WEB_056/7f814ad8926bae225ccd.png	Hình thức thanh toán: TM
+crops/WEB_056/569c5a07ef84022acca8.png	Số
+crops/WEB_056/8badbc3f2e26b5ba8b21.png	Thuế
+crops/WEB_056/cd1a517e914a9d7df0db.png	Thành tiền
+crops/WEB_056/dcc9beaa13121382b4f0.png	Đơn
+crops/WEB_056/07424aeb23bccddbd0e3.png	Tiền thuế
+crops/WEB_056/a9a8b9db7163dd816ee1.png	Thành tiền
+crops/WEB_056/fe886e3626bdf0666e2c.png	Đơn giá
+crops/WEB_056/7f98ddad9d5fe9108a16.png	Tên hàng hóa, dịch vụ
+crops/WEB_056/c59e80f0ead8c43196f5.png	suất
+crops/WEB_056/641159733e9405be6186.png	sau thuế
+crops/WEB_056/2665bae68b4d0fc19ecd.png	vị tính
+crops/WEB_056/573d77d5660dc317b9c8.png	lượng
+crops/WEB_056/3dd80df91cab42f925c2.png	Số tiền viết bằng chữ: Hai triệu năm trăm lẻ ba nghìn năm trăm đồng
+crops/WEB_056/5bdee6f112c06291e7a7.png	Tổng tiền không chịu thuế:
+crops/WEB_056/c57dda712e2de2463235.png	Tổng tiền chịu thuế 0%:
+crops/WEB_056/472f89ab645d2456d3c5.png	Tổng tiền thuế GTGT 5%:
+crops/WEB_056/8bb1f94d4b36773cc8a1.png	Tổng tiền chịu thuế 5%:
+crops/WEB_056/0a5a72f44df28e3e69ea.png	Tổng tiền thuế GTGT 8%: 152.148
+crops/WEB_056/ff39134de22efe298513.png	Tổng tiền chịu thuế 8%: 1.901.852
+crops/WEB_056/60de171c3f36dd1c39bb.png	Tổng tiền thuế GTGT 10%: 40.864
+crops/WEB_056/839fbd091e0f12f6d1f7.png	Tổng tiền chịu thuế 10%: 408.636
+crops/WEB_056/970b20ac40794723dc71.png	Người bán hàng
+crops/WEB_056/820d40cb676dc7880bd8.png	Người mua hàng
+crops/WEB_056/0e9866c272849e1fab5a.png	(Ký, ghi rõ họ tên)
+crops/WEB_056/545e94c76afa7e7cf8ae.png	(Ký, ghi rõ họ tên)
+crops/WEB_056/f31ff9db008930cd9114.png	Ký bởi CÔNG TY TNHH TƯ VẤN
+crops/WEB_056/0f1417403371a7c7d8c0.png	VÀ XÂY DỰNG ĐIỆN ĐỨC TRUNG
+crops/WEB_056/3eb6db6f6e12d55c0188.png	Mã của cơ quan thuế: M1-25-ECXRO-00000000287

@@ -1,0 +1,103 @@
+{
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_142552.json",
+  "preexisting_transcript_conflicts": [],
+  "verification_errors": [],
+  "reviewed_at": "2026-11-02T14:26:03.9772226+07:00",
+  "deferred": [],
+  "verified_count_before": 11347,
+  "invoice": "WEB_232",
+  "confirmed": [
+    {
+      "transcript": "Họ tên người mua hàng:",
+      "crop_id": "43dc824b146b9dadc412"
+    },
+    {
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "crop_id": "4560ebb1afc822034be7"
+    },
+    {
+      "transcript": "Đơn vị bán hàng: CÔNG TY TNHH TIN HỌC ATP",
+      "crop_id": "781a22a210be72e58c91"
+    },
+    {
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "crop_id": "1981d5cc2e612cc24add"
+    },
+    {
+      "transcript": "Điện thoại: 02283631448",
+      "crop_id": "20a26b88f146922c0e32"
+    },
+    {
+      "transcript": "(Ký, ghi rõ học tên)",
+      "crop_id": "bbe8eccd7afb3001f3e0"
+    },
+    {
+      "transcript": "ĐVT",
+      "crop_id": "e10a61b0e8c23fdbff88"
+    },
+    {
+      "transcript": "(Ký tên, đóng dấu)",
+      "crop_id": "227aad3502654b0e9a8b"
+    },
+    {
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "crop_id": "6c135365b781288d12f3"
+    },
+    {
+      "transcript": "Người mua hàng",
+      "crop_id": "a9015385b99f1fb8839f"
+    },
+    {
+      "transcript": "Mã số thuế: 0600658030-001",
+      "crop_id": "5b2121147cada7683d7e"
+    },
+    {
+      "transcript": "01",
+      "crop_id": "1b140dfd029a5c761fc8"
+    },
+    {
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "crop_id": "c3d94aa55c4927b14f60"
+    },
+    {
+      "transcript": "Liên 3: Nội bộ",
+      "crop_id": "f461c339967254f12497"
+    },
+    {
+      "transcript": "Thành tiền",
+      "crop_id": "689c8a2ec7de05dd9f97"
+    },
+    {
+      "transcript": "Mẫu số: 01",
+      "crop_id": "c95275261f21cd0351f2"
+    },
+    {
+      "transcript": "05",
+      "crop_id": "784fe00f6d0580be1932"
+    },
+    {
+      "transcript": "Đơn giá",
+      "crop_id": "2bb05674ac630a3ec56a"
+    },
+    {
+      "transcript": "chiếc",
+      "crop_id": "531d54b633c259881e5e"
+    },
+    {
+      "transcript": "Ký hiệu: AP/11P",
+      "crop_id": "221c9c0e93fda5b75f9d"
+    },
+    {
+      "transcript": "Cộng tiền hàng",
+      "crop_id": "94624616829fb77834c2"
+    },
+    {
+      "transcript": "Mẫu số 3.4: Trích mẫu hóa đơn GTGT",
+      "crop_id": "80b927f5b00bd717bf55"
+    }
+  ],
+  "confirmed_new": 22,
+  "visually_reviewed": 37,
+  "verified_count_after": 11369,
+  "preserved_existing": 15
+}

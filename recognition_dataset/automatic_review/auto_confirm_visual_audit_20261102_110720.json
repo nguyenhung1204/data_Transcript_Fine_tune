@@ -1,0 +1,112 @@
+{
+  "accepted_count": 17,
+  "deferred": [],
+  "invoice_ids": [
+    "WEB_223"
+  ],
+  "timestamp": "20261102_110720",
+  "accepted": [
+    {
+      "status": "verified",
+      "transcript": "HÓA ĐƠN (GTGT)",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ecdc704a0a69209d857b"
+    },
+    {
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng: Công ty TNHH Cơ Điện Thịnh Phát",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "71a37ce4e7da8af22e21"
+    },
+    {
+      "status": "verified",
+      "transcript": "Mã số thuế: 4101546032",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d2ec46e4f71a7720fa46"
+    },
+    {
+      "status": "verified",
+      "transcript": "Địa chỉ: số 11A Tăng Bạt Hổ – TP Quy Nhơn – Tỉnh Bình Định",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3376aa885cfc107e2fa3"
+    },
+    {
+      "status": "verified",
+      "transcript": "Họ tên ngƣời mua hàng: Hà Thị Nhịp",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "bdf5ad23d027bc88a6d6"
+    },
+    {
+      "status": "verified",
+      "transcript": "Mã số thuế: 4201717429",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e3af726c57e955298d51"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tỉnh Khánh Hòa",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5f63cacfc7a2bf41c6c3"
+    },
+    {
+      "status": "verified",
+      "transcript": "STK: 58010001141405",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "fa89f8b59b77db16864f"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ea81258e79330075b3d3"
+    },
+    {
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ba2ee26448b6682a46af"
+    },
+    {
+      "status": "verified",
+      "transcript": "ĐVT",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "136cdfa9766e601f2059"
+    },
+    {
+      "status": "verified",
+      "transcript": "Bán hệ thống bộ đàm",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ca629b0e9373ba64455d"
+    },
+    {
+      "status": "verified",
+      "transcript": "Cộng tiền hàng: 238.218.435",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "54a74041ff87c8737bb6"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "db49e7937319e24d149e"
+    },
+    {
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:10%",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "054de833725353e67637"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6671c1dc8d0af78935a9"
+    },
+    {
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d116532a5d100b6f0460"
+    }
+  ]
+}

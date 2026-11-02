@@ -1,0 +1,148 @@
+{
+  "invoice": "WEB_093",
+  "timestamp_utc": "2026-11-02T02:59:12.9308918Z",
+  "reviewed_count": 19,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "crop_id": "883069524e7a68653148",
+      "reason": "Bank account digits have ambiguous internal spacing in the crop; leave pending for manual transcription."
+    }
+  ],
+  "notes": "Three contact sheets and four high-risk crops visually inspected at full size; all saved transcripts match the visible crop. Whitespace normalized to one separator.",
+  "annotations": [
+    {
+      "crop_id": "1b1a8945daddbc6923f1",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "reviewed_at": "2026-11-02T02:59:12.9266192Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3d62ebc5afbc4eec5cee",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial): 2C25MYY",
+      "reviewed_at": "2026-11-02T02:59:12.9303833Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7d4e132ff39a54cdc1f6",
+      "status": "verified",
+      "transcript": "Số (No.):",
+      "reviewed_at": "2026-11-02T02:59:12.9304407Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "842ea94f864f019ff954",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 1201 570298-001",
+      "reviewed_at": "2026-11-02T02:59:12.9304700Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6908a9f226959a570560",
+      "status": "verified",
+      "transcript": "Công, Tỉnh Tiền Giang, Việt Nam",
+      "reviewed_at": "2026-11-02T02:59:12.9304936Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "997c51e650d965bcd4ae",
+      "status": "verified",
+      "transcript": "Tên cửa hàng (Shop name):",
+      "reviewed_at": "2026-11-02T02:59:12.9305172Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "808488b8d81927a1cb0e",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel): 0939727736",
+      "reviewed_at": "2026-11-02T02:59:12.9305438Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "720a694bd63f64489bf2",
+      "status": "verified",
+      "transcript": "Tên người mua (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "reviewed_at": "2026-11-02T02:59:12.9305805Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7748617c427fd93473b7",
+      "status": "verified",
+      "transcript": "Họ và tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T02:59:12.9306027Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "32a92753757ab07324df",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "reviewed_at": "2026-11-02T02:59:12.9306244Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "31eb85cda9678e59a857",
+      "status": "verified",
+      "transcript": "Quét để thanh toán",
+      "reviewed_at": "2026-11-02T02:59:12.9306564Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7097525f90ac9ecb92f2",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel):",
+      "reviewed_at": "2026-11-02T02:59:12.9306834Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6589e0287b1dffd5ef93",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method) TM/CK: Tiền mặt Số tài khoản (Bank account):",
+      "reviewed_at": "2026-11-02T02:59:12.9307200Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c8f9341084abdd6bdd09",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:59:12.9307403Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f2ff5eb01d37b6a5939f",
+      "status": "verified",
+      "transcript": "Cộng tiền bán hàng hóa, dịch vụ (Total amount):",
+      "reviewed_at": "2026-11-02T02:59:12.9307653Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4dcc38e200e1141d0370",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:59:12.9307855Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b89dedc2124b3032507f",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)",
+      "reviewed_at": "2026-11-02T02:59:12.9308355Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "699d520148a943090771",
+      "status": "verified",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T02:59:12.9308561Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e88480bde041db1adb09",
+      "status": "verified",
+      "transcript": "Ký bởi (Signed By): HỘ KINH DOANH",
+      "reviewed_at": "2026-11-02T02:59:12.9308794Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

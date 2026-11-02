@@ -1,0 +1,35 @@
+{
+  "method": "manual_visual_review_crop_images",
+  "invoice": "HD_036",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075006.json",
+  "confirmed": [
+    {
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "crop_id": "9269659304273785fe74"
+    },
+    {
+      "transcript": "NGƯỜI MUA HÀNG",
+      "crop_id": "fb633ba2ed71f56d29b8"
+    },
+    {
+      "transcript": "NGƯỜI BÁN HÀNG",
+      "crop_id": "b430d027dab444198292"
+    },
+    {
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "crop_id": "2f102b4d22d7ed4c1c35"
+    },
+    {
+      "transcript": "(Ký, đóng dấu, ghi rõ họ, tên)",
+      "crop_id": "f0d70fcc342f1755b364"
+    }
+  ],
+  "note": "Five clear labels confirmed; amount-in-words transcript is 91 characters so remains pending.",
+  "timestamp_utc": "2026-11-02T00:50:06.4932492Z",
+  "skipped": [
+    {
+      "reason": "Transcript is 91 characters, over 90-character limit.",
+      "crop_id": "c90f6dce9271f7af3e18"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "skipped": [
+    {
+      "crop_id": "aaf3ff29b9be3a548492",
+      "reason": "Logo text is blurred; exact casing/characters are not certain."
+    },
+    {
+      "crop_id": "811b1f08a4ce0570398b",
+      "reason": "Crop contains blurred, unreadable logo/brand text."
+    }
+  ],
+  "invoice": "HD_037",
+  "timestamp_utc": "2026-11-02T00:51:46.4649250Z",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075146.json",
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "crop_id": "0c2bde79e0189144ed35",
+      "transcript": "CÔNG TY CỔ PHẦN CÔNG NGHỆ DI ĐỘNG VIỆT"
+    },
+    {
+      "crop_id": "749ece82fd9f2619cae5",
+      "transcript": "Mã số thuế: 0312193244"
+    },
+    {
+      "crop_id": "c8e41accd5053da62ad0",
+      "transcript": "Địa chỉ: 77 Trần Quang Khải, Phường Tân Định, Quận 1, Thành phố Hồ Chí"
+    },
+    {
+      "crop_id": "bb8db82af9e30ee6620f",
+      "transcript": "Minh, Việt Nam Điện thoại: 0931544144"
+    },
+    {
+      "crop_id": "0d644cfba32c78597e6d",
+      "transcript": "Số tài khoản: 1031 123288 - CT CP CONG NGHE DI DONG VIET - VCB CN"
+    },
+    {
+      "crop_id": "10c6b2fee1d120ddfd5a",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG"
+    }
+  ],
+  "note": "Six crop images are clearly legible. Blurred brand/logo candidates remain pending."
+}

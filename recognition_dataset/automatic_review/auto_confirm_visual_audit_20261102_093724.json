@@ -1,0 +1,80 @@
+{
+  "created_at": "2026-11-02T09:37:24.765608+07:00",
+  "invoice": "WEB_064",
+  "method": "manual_visual_review",
+  "count": 18,
+  "annotations": [
+    {
+      "crop_id": "c07319011f726a78d566",
+      "transcript": "Ký hiệu (Serial): 1C25TKP"
+    },
+    {
+      "crop_id": "6b234737a967a300b7de",
+      "transcript": "Số (No): 00000100"
+    },
+    {
+      "crop_id": "e0da0e37eea6359a1fe9",
+      "transcript": "Mã của cơ quan thuế: 003F8D71957F5B4249B0953A12ED208330"
+    },
+    {
+      "crop_id": "262e5700b06b34b0d2e2",
+      "transcript": "Mã số thuế (Tax code): 3900335269"
+    },
+    {
+      "crop_id": "08b6bed2734167fbfc8c",
+      "transcript": "Địa chỉ (Address): Đường số 5, KCN Trảng Bàng, Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam"
+    },
+    {
+      "crop_id": "c84558cf0337059ed23d",
+      "transcript": "Mã số thuế (Tax code): 0310415290"
+    },
+    {
+      "crop_id": "a39db0bea87f2e68fc52",
+      "transcript": "Hình thức thanh toán: Chuyển khoản/Tiền Mặt"
+    },
+    {
+      "crop_id": "0cc0057f44d15c49de6e",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "e3537ae9bea79e25e022",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "efc89f71e26569990b22",
+      "transcript": "Cộng tiền hàng hóa, dịch vụ (Total amount): 96.000.000"
+    },
+    {
+      "crop_id": "abfbc44bc273c5c27708",
+      "transcript": "Tiền Thuế VAT 8% : 7.680.000đ"
+    },
+    {
+      "crop_id": "ac83826690950746fdd3",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):"
+    },
+    {
+      "crop_id": "4de11736a6c2730385a5",
+      "transcript": "(Ký, ghi rõ họ, tên)"
+    },
+    {
+      "crop_id": "976576644ff1f93b4674",
+      "transcript": "(Ký, đóng dấu, ghi rõ họ, tên)"
+    },
+    {
+      "crop_id": "807effaff40743dad248",
+      "transcript": "CHÍNH,L=Hà Nội,C=VN"
+    },
+    {
+      "crop_id": "a5faddb8f076a2bd1102",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    },
+    {
+      "crop_id": "bbc125a2ca8c5c40c657",
+      "transcript": "Mã nhận hóa đơn:"
+    },
+    {
+      "crop_id": "c3ddcd43450af4ac41ac",
+      "transcript": "Tra cứu tại website: https://3900335269-tt78.vnpt-invoice.com.vn"
+    }
+  ]
+}

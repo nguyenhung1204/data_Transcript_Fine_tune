@@ -1,0 +1,104 @@
+{
+  "invoice": "WEB_230",
+  "confirmed": [
+    {
+      "crop_id": "12712c5257a1942470a9",
+      "transcript": "Hình thức thanh toán: CK"
+    },
+    {
+      "crop_id": "b89ba86ade7411352c6a",
+      "transcript": "Thuế suất GTGT: 10 %"
+    },
+    {
+      "crop_id": "c7935c9be79c69416b45",
+      "transcript": "Mẫu số 3.4. Mẫu hóa đơn GTGT"
+    },
+    {
+      "crop_id": "784b996d5669c989d92f",
+      "transcript": "Địa chỉ: Thôn 3, Xã Phú Cát, Huyện Quốc Oai, Thành phố Hà Nội"
+    },
+    {
+      "crop_id": "b122b5d520bb1cd260ee",
+      "transcript": "Địa chỉ: Thôn 8, Xã Phú Cát, Huyện Quốc Oai, Thành phố Hà Nội"
+    },
+    {
+      "crop_id": "9fc070d73b3203cd9540",
+      "transcript": "Cộng tiền hàng:"
+    },
+    {
+      "crop_id": "99403b49694b58700438",
+      "transcript": "GIÁ TRỊ GIA TĂNG"
+    },
+    {
+      "crop_id": "0549d8da2af8dc5e48c1",
+      "transcript": "doanh thu bán hàng như sau:"
+    },
+    {
+      "crop_id": "1ba8a13797cf7519d45c",
+      "transcript": "Ký hiệu: PG/12P"
+    },
+    {
+      "crop_id": "fb102cc8cc197928aaee",
+      "transcript": "(Ký, ghi rõ họ tên)"
+    },
+    {
+      "crop_id": "bbd23b4a62ba6da0d74e",
+      "transcript": "nhánh Quốc Oai"
+    },
+    {
+      "crop_id": "c12fb3b00afb47ce3368",
+      "transcript": "Mã số thuế: 0106412814"
+    },
+    {
+      "crop_id": "fdbb69d912af0dd3d766",
+      "transcript": "Tấn"
+    },
+    {
+      "crop_id": "bb150b35f52c720bb634",
+      "transcript": "Đơn giá"
+    },
+    {
+      "crop_id": "97079cdbfa9544862638",
+      "transcript": "Tiền thuế GTGT:"
+    },
+    {
+      "crop_id": "ee59b75fd2e375228b4e",
+      "transcript": "Căn cứ vào hóa đơn GTGT đã ra số số 00001626 kế toán hạch toán"
+    },
+    {
+      "crop_id": "25dfb6c3826ebe36020c",
+      "transcript": "(Ký, ghi rõ họ tên)"
+    },
+    {
+      "crop_id": "0b355bde47f9538d099b",
+      "transcript": "HÓA ĐƠN"
+    },
+    {
+      "crop_id": "48b235c490e594ae0f62",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "0371ee4008ec3f1f26b6",
+      "transcript": "Họ tên người mua hàng:"
+    },
+    {
+      "crop_id": "47aaba34bc4f799a833b",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_111815.json",
+  "preexisting_transcript_conflicts": [],
+  "preserved_existing": 17,
+  "verification_errors": [],
+  "reviewed_at": "2026-11-02T11:18:21.0929985+07:00",
+  "confirmed_new": 21,
+  "deferred": [
+    {
+      "crop_id": "d2eb072fce42a5b22cd7",
+      "reason": "Dòng số tài khoản bị cắt ngang sau từ “Chi”; phần tiếp nối nằm ở crop kế tiếp nên để chờ rà PDF."
+    }
+  ],
+  "verified_count_before": 11307,
+  "visually_reviewed": 39,
+  "verified_count_after": 11328
+}

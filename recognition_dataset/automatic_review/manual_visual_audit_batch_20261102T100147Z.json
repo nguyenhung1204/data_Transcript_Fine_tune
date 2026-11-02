@@ -1,0 +1,45 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "7cce43546da5fe7afd38",
+      "invoice": "WEB_036",
+      "pdf": "WEB_036.pdf",
+      "page": 2,
+      "transcript_before": "AUTHENTIC THAI CCng tin hàng (Sub total):",
+      "transcript_after": "Cộng tiền hàng (Sub total):",
+      "evidence": "Crop visually inspected; visible characters are complete and clear, transcript matches the rendered crop/PDF text. For the two HD_190 crops, these are distinct printed lines and both are fully visible.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "41fdce966a2a003764dc",
+      "invoice": "WEB_036",
+      "pdf": "WEB_036.pdf",
+      "page": 1,
+      "transcript_before": "CUISINE",
+      "transcript_after": "1",
+      "evidence": "Crop visually inspected; visible characters are complete and clear, transcript matches the rendered crop/PDF text. For the two HD_190 crops, these are distinct printed lines and both are fully visible.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "2b241ace1a60ab887403",
+      "invoice": "HD_190",
+      "pdf": "HD_190.pdf",
+      "page": 1,
+      "transcript_before": "Ký bi (Signed By): CÔNG TY TNHH",
+      "transcript_after": "Ký bởi (Signed By): CÔNG TY TNHH",
+      "evidence": "Crop visually inspected; visible characters are complete and clear, transcript matches the rendered crop/PDF text. For the two HD_190 crops, these are distinct printed lines and both are fully visible.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f551fc142f4715b134b5",
+      "invoice": "HD_190",
+      "pdf": "HD_190.pdf",
+      "page": 1,
+      "transcript_before": "NHŪA VÀ CAO SU KIÉN PHÁT VIĘT",
+      "transcript_after": "NHỰA VÀ CAO SU KIẾN PHÁT VIỆT",
+      "evidence": "Crop visually inspected; visible characters are complete and clear, transcript matches the rendered crop/PDF text. For the two HD_190 crops, these are distinct printed lines and both are fully visible.",
+      "status": "verified"
+    }
+  ],
+  "skipped": []
+}

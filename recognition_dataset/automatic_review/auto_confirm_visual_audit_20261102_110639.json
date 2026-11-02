@@ -1,0 +1,100 @@
+{
+  "accepted_count": 15,
+  "accepted": [
+    {
+      "status": "verified",
+      "crop_id": "198c001bea2b4aa9fe88",
+      "transcript": "HÓA ĐƠN (GTGT)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7478c674adfe951a809f",
+      "transcript": "Ngày 18 tháng 1 1 năm 2020",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "812e3c34a0dbe972e1af",
+      "transcript": "Mã số thuế: 4101546032",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "619246d428164835ef89",
+      "transcript": "Tên đơn vị: Công ty CP DV& TM HDT Việt Nam- Chi nhánh ình Định",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9d62d46bb3ee07590ead",
+      "transcript": "STK: 58110000123457",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "519819cf50a7a327652f",
+      "transcript": "ĐVT",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "126eb51d3eb626b3dcaa",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "52bda114171f7981a75d",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "c511ec33229ab9579796",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9912eb2c29e8bc432d5d",
+      "transcript": "Hệ thống chống sét",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "e376afafe31342ec4148",
+      "transcript": "Cộng tiền hàng: 377.678.010",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "79f00bbf439da4a04cb0",
+      "transcript": "Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a0c8ebf46be84a571137",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b0fb3b566e7ef1ef87f3",
+      "transcript": "mƣời một đồng./.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "crop_id": "fd83f97df7d75e3c5f84",
+      "transcript": "Ngƣời mua hàng",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "timestamp": "20261102_110639",
+  "deferred": [],
+  "invoice_ids": [
+    "WEB_222"
+  ]
+}

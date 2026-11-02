@@ -1,0 +1,14 @@
+{
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_165619.json",
+  "created_at_utc": "2026-11-02T09:56:22.8978661Z",
+  "reviewed": [
+    {
+      "transcript": "Ký bởi: CHI NHÁNH CÔNG TY CỔ PHẦN THẾ GIỚI",
+      "crop_id": "81efb956f125f0ff0b12",
+      "length": 42,
+      "evidence": "Full printed red signed-by line is readable; PDF text matches.",
+      "invoice": "WEB_035"
+    }
+  ],
+  "skipped": "Addresses and footer lines exceed 90; other crop is partial or clipped."
+}

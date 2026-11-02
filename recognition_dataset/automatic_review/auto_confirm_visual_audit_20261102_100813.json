@@ -1,0 +1,169 @@
+{
+  "invoice": "WEB_104",
+  "timestamp_utc": "2026-11-02T03:08:13.3663992Z",
+  "reviewed_count": 22,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "crop_id": "655a55fc0140d7cfd912",
+      "reason": "Phone label is clipped after “Điện thoại (”; remaining text is not visible."
+    }
+  ],
+  "notes": "Three contact sheets and four high-risk crops inspected full-size; watermark does not obscure saved transcripts. Hotline spacing adjusted to match visible print.",
+  "annotations": [
+    {
+      "crop_id": "1c5c30fd9af424ae5c9f",
+      "status": "verified",
+      "transcript": "HOÁ ĐƠN BÁN HÀNG",
+      "reviewed_at": "2026-11-02T03:08:13.3620331Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a21ca1fd638e5dbc335b",
+      "status": "verified",
+      "transcript": "Số",
+      "reviewed_at": "2026-11-02T03:08:13.3657970Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c91a2676d4f23ee68aa7",
+      "status": "verified",
+      "transcript": "NHÀ SÁCH TƯ PHÁP",
+      "reviewed_at": "2026-11-02T03:08:13.3658979Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "70b701dbc57381d256af",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng",
+      "reviewed_at": "2026-11-02T03:08:13.3659296Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0d8e156218cf63ca47bb",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "reviewed_at": "2026-11-02T03:08:13.3659520Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a2e9a339717f311f2b5f",
+      "status": "verified",
+      "transcript": "Tên đơn vị",
+      "reviewed_at": "2026-11-02T03:08:13.3659807Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "37b289d6bc5f9ed067ed",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "reviewed_at": "2026-11-02T03:08:13.3660037Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "982f7efc05a986450100",
+      "status": "verified",
+      "transcript": "Tổ 5, Thị Trấn Trùng Khánh, Huyện Trùng Khánh, Tỉnh Cao Bằng",
+      "reviewed_at": "2026-11-02T03:08:13.3660381Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "76113635a1901e930f31",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-02T03:08:13.3660583Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6bf7005480c7ad747bcf",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:08:13.3660787Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0e7e0afa4a15e94214c2",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:08:13.3661037Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1effed15bb057024fc85",
+      "status": "verified",
+      "transcript": "Cuốn",
+      "reviewed_at": "2026-11-02T03:08:13.3661222Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "11c3c97813e5f205340d",
+      "status": "verified",
+      "transcript": "Cuốn",
+      "reviewed_at": "2026-11-02T03:08:13.3661402Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5ce16088b931f3d6e171",
+      "status": "verified",
+      "transcript": "Cuốn",
+      "reviewed_at": "2026-11-02T03:08:13.3661583Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "51607996ab53a31338b1",
+      "status": "verified",
+      "transcript": "Cuốn",
+      "reviewed_at": "2026-11-02T03:08:13.3661808Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "93395a856317db81a7d6",
+      "status": "verified",
+      "transcript": "Cuốn",
+      "reviewed_at": "2026-11-02T03:08:13.3661989Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7a2da33d883bfaca157e",
+      "status": "verified",
+      "transcript": "Bình luận Hình sự - Phần chung",
+      "reviewed_at": "2026-11-02T03:08:13.3662561Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5dadb557326e8e11aa74",
+      "status": "verified",
+      "transcript": "Tổng tiền hàng hoá dịch vụ:",
+      "reviewed_at": "2026-11-02T03:08:13.3662803Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c84254db61362ef2b2dd",
+      "status": "verified",
+      "transcript": "Tra cứu tại:",
+      "reviewed_at": "2026-11-02T03:08:13.3662996Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6aab1eb1723f31272517",
+      "status": "verified",
+      "transcript": "Mã tra cứu:",
+      "reviewed_at": "2026-11-02T03:08:13.3663175Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b9e3f04cc12211be3721",
+      "status": "verified",
+      "transcript": "Mã cơ quan thuế cấp: 00FA9FA5B6C90F49728CCC38C4D7C9AEDE",
+      "reviewed_at": "2026-11-02T03:08:13.3663512Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7fa28f0e758544387ea3",
+      "status": "verified",
+      "transcript": "htinvoice.com.vn, hotline:0287.300.6187",
+      "reviewed_at": "2026-11-02T03:08:13.3663797Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

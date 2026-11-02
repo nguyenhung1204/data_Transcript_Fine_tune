@@ -1,0 +1,128 @@
+{
+  "created_at": "2026-11-02T09:38:29.077705+07:00",
+  "invoice": "WEB_065",
+  "method": "manual_visual_review",
+  "count": 30,
+  "annotations": [
+    {
+      "crop_id": "fb55d73f38c432d7ab68",
+      "transcript": "HÓA ĐƠN BÁN HÀNG"
+    },
+    {
+      "crop_id": "5dc7686f46a3a8695939",
+      "transcript": "Ký hiệu (Series): 2C25MNS"
+    },
+    {
+      "crop_id": "bbfe21592d1ce31f12b6",
+      "transcript": "Số (Invoice No): 1056"
+    },
+    {
+      "crop_id": "ea056a8a06c3a42e9273",
+      "transcript": "Mã của cơ quan thuế: M2-25-2G9DQ-00100001056"
+    },
+    {
+      "crop_id": "1243b76e26070cd9f8b5",
+      "transcript": "BÒ TƠ TÂY NINH NĂM SÁNH 79"
+    },
+    {
+      "crop_id": "2c9c405e86f142614d69",
+      "transcript": "Mã số thuế (Tax code):"
+    },
+    {
+      "crop_id": "7b0815986eefe6d53221",
+      "transcript": "Đường Ninh Bình, Phường Bạc Liêu, Tỉnh Cà Mau"
+    },
+    {
+      "crop_id": "a95582379d533f47b777",
+      "transcript": "Số điện thoại (Tel):"
+    },
+    {
+      "crop_id": "865a5ece0d6afd9022a2",
+      "transcript": "Tên người mua hàng (Buyer):"
+    },
+    {
+      "crop_id": "e78fdb55bfa7109cda60",
+      "transcript": "CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)"
+    },
+    {
+      "crop_id": "7cd0b01dffc8552a79a9",
+      "transcript": "Mã số thuế (Tax code):"
+    },
+    {
+      "crop_id": "12befcf64a431bb0304b",
+      "transcript": "Mã ĐVQHNS (Budget Relationship Unit Code):"
+    },
+    {
+      "crop_id": "4f21f4d8364a580f2355",
+      "transcript": "Số hộ chiếu (Passport No):"
+    },
+    {
+      "crop_id": "7eec5039ddd42bbb06e2",
+      "transcript": "Căn cước công dân (Identity Card):"
+    },
+    {
+      "crop_id": "b2666404f1ff2ecf2b87",
+      "transcript": "Số điện thoại (Tel):"
+    },
+    {
+      "crop_id": "39fa4ac0a4f329cf908e",
+      "transcript": "Hình thức thanh toán (Payment method):"
+    },
+    {
+      "crop_id": "c94539dc667b57862cb0",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "b05b7764b7af01406846",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "b1df904cb24c01637cd0",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "d193d259263256aae47f",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "eb8c6a7421b8ef81d27e",
+      "transcript": "Bún Gạo Cháy Kho Quẹt"
+    },
+    {
+      "crop_id": "5d6723c243882c1e15ac",
+      "transcript": "Nước Suối"
+    },
+    {
+      "crop_id": "f55022e387e01cad2ee5",
+      "transcript": "Khăn Lạnh"
+    },
+    {
+      "crop_id": "957deafe327051a5f419",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "5cf9d3ccdeaf6bbb3acd",
+      "transcript": "Bọc"
+    },
+    {
+      "crop_id": "3f817c011fe5376c9b0c",
+      "transcript": "Đậu Phộng"
+    },
+    {
+      "crop_id": "e666c76180dd9808a13f",
+      "transcript": "Tổng tiền thanh toán (Total Amount):"
+    },
+    {
+      "crop_id": "59a614ae6bfea75d4686",
+      "transcript": "Số tiền viết bằng chữ (Total amount in words):Một triệu bốn trăm chín mươi mốt nghìn đồng"
+    },
+    {
+      "crop_id": "41886f2d7ea231590915",
+      "transcript": "Ký ngày: 2025-07-30"
+    },
+    {
+      "crop_id": "220ac1ae3bc12e26ce98",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    }
+  ]
+}

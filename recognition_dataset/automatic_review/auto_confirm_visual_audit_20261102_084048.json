@@ -1,0 +1,111 @@
+{
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Giỏ hoa tươi ngày 14/4/2025",
+      "status": "verified",
+      "crop_id": "43159c26c2a2ffe504c3",
+      "review_note": "WEB_026 item description crop fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Đã giảm 1.400 đồng tương ứng 20% mức tỷ lệ % để tính thuế",
+      "status": "verified",
+      "crop_id": "8fdbcafdd1fa703cd718",
+      "review_note": "WEB_026 discount explanation crop legible; punctuation and digits checked."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "giá trị gia tăng theo Nghị quyết số 174/2024/QH15",
+      "status": "verified",
+      "crop_id": "6a6dd15769fcd9c9f052",
+      "review_note": "WEB_026 continuation line fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Tổng tiền thanh toán (Total payment):",
+      "status": "verified",
+      "crop_id": "4f4c5789abf75b7e398e",
+      "review_note": "WEB_026 total payment label fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Người mua hàng",
+      "status": "verified",
+      "crop_id": "52c544a4e7af73014a77",
+      "review_note": "WEB_026 buyer label fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Người bán hàng",
+      "status": "verified",
+      "crop_id": "9bb888c0b0f15ce98f2d",
+      "review_note": "WEB_026 seller label fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Ký, ghi rõ họ tên (Customer's signature)",
+      "status": "verified",
+      "crop_id": "85a40aa42f640cd0cb81",
+      "review_note": "WEB_026 customer signature note fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Ký, ghi rõ họ tên (Seller's signature)",
+      "status": "verified",
+      "crop_id": "99299b9c29580b163ea4",
+      "review_note": "WEB_026 seller signature note fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Được ký bởi: Hộ Kinh Doanh Tú",
+      "status": "verified",
+      "crop_id": "6f15e5ad7b932b817e29",
+      "review_note": "WEB_026 green digital signature line legible through the end of this crop."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Hóa đơn đã được cấp mã bởi tổng cục thuế",
+      "status": "verified",
+      "crop_id": "0cd24fca6b573d10e6c8",
+      "review_note": "WEB_026 green informational line fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Tra cứu tại: http://tracuuhoadon.mobifoneinvoice.vn",
+      "status": "verified",
+      "crop_id": "78845579cde8b0dff871",
+      "review_note": "WEB_026 lookup URL line fully legible."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "Mã nhận hóa đơn: 82ed784",
+      "status": "verified",
+      "crop_id": "96903c251a5e4de3c63e",
+      "review_note": "WEB_026 invoice lookup code legible; letter case preserved."
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:48.9912897Z",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)",
+      "status": "verified",
+      "crop_id": "a2f9ae64123b8b2be99c",
+      "review_note": "WEB_026 instruction line fully legible."
+    }
+  ],
+  "run_id": "visual_20261102_084048",
+  "created_at_utc": "2026-11-02T01:40:48.9912897Z",
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page"
+}

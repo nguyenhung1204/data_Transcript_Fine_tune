@@ -1,0 +1,25 @@
+{
+  "invoice_ids": [
+    "WEB_121",
+    "WEB_122"
+  ],
+  "reviewed_at_utc": "2026-11-02T03:31:53.8850795Z",
+  "action": "Normalize verified Ký ngày transcript whitespace to one space after visual confirmation of the crop.",
+  "updates": [
+    {
+      "crop_id": "04e3ceb3ee24113b3853",
+      "status": "verified",
+      "transcript": "Ký ngày: 11/11/2025",
+      "reviewed_at": "2026-11-02T03:31:53.7896514Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "38e6929a60ba9d18d32b",
+      "status": "verified",
+      "transcript": "Ký ngày: 05/09/2025",
+      "reviewed_at": "2026-11-02T03:31:53.8708036Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_103153.json"
+}

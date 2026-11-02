@@ -1,0 +1,132 @@
+{
+  "attempted_write_count": 24,
+  "readback_errors": [],
+  "uninspected_crop_ids": [
+    "b85fc8637e5d4144ccb0",
+    "8a215bc87b47c6895f8d",
+    "df145e31e9346a3dd998",
+    "720b5a41ddcf5d9fdc46",
+    "e2ab27199fcbb4fb6913",
+    "126a5bce465da112eaf4",
+    "f3e08c73ddb6422f8b42",
+    "e91792ee14235ed2558a",
+    "0fd9da37a9c3be0ad844"
+  ],
+  "invoice": "WEB_239",
+  "verified_total": 11481,
+  "timestamp": "20261102_145122",
+  "skipped": [
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "59480492801c62ad0cfa"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "9f228d5205c0d9bc832e"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "5719371ddc032db36c15"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "b9fe16a1837753f2f096"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "86594f2fa456e871cc77"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "c912cb6f18ae9a71bdce"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "5c6b6637a083cd10ec4b"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "7b665bace8a4a32f7ac7"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "5fb43ca37fd55fd046f5"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "60d89fadda3bcc5d4708"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "931f0c655210375b13e4"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "3cd9d8e8de43458528f5"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "b005f3b5e08411312e2c"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "af1e9f4218c8d2598b53"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "ed4483edf499ac9415d6"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "7be4c72ec385c1e42267"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "a2d94fb66e0031931bf3"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "d66d8559a2ef7cf48a0b"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "f9175bbb99d8554d51d0"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "b7b3b365fa44912de950"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "9ac399e9cafcdcd4bc64"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "f8709bcfa79bc123b61c"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "044819fd0001cd6dc7d9"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "f059eb80ad44714b307e"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "5bdb488613e5d234dd49"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "f41028cb7f53630247eb"
+    },
+    {
+      "reason": "existing_terminal_status_preserved",
+      "crop_id": "b4f5537b91294936fa36"
+    }
+  ],
+  "pdf": "WEB_239.pdf",
+  "visually_inspected_count": 51,
+  "visual_basis": "Inspected rendered crop images from WEB_239 contact sheets and selected individual crops; skipped no uncertain glyph among submitted candidates.",
+  "backup_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_145122.json"
+}

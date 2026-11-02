@@ -1,0 +1,43 @@
+{
+  "note": "Seven clear crop images confirmed; overlong address crop remains pending.",
+  "skipped": [
+    {
+      "crop_id": "f407c132a4fac45674f0",
+      "reason": "Visible line is 97 characters, over 90-character limit; left intact for manual review."
+    }
+  ],
+  "timestamp_utc": "2026-11-02T00:52:36.3516768Z",
+  "method": "manual_visual_review_crop_images",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075236.json",
+  "invoice": "HD_037",
+  "confirmed": [
+    {
+      "crop_id": "9c75e4ffeb9bd9c9ace7",
+      "transcript": "Ký hiệu:"
+    },
+    {
+      "crop_id": "5cca76bda30dab82a61e",
+      "transcript": "Số: 2781"
+    },
+    {
+      "crop_id": "36b049820e5c756e317c",
+      "transcript": "Họ tên người mua hàng (Customer's name):"
+    },
+    {
+      "crop_id": "ef9687c0c0539b0e44e8",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH DỊCH VỤ TƯ VẤN KẾ TOÁN THUẾ THUẬN VIỆT"
+    },
+    {
+      "crop_id": "a4e0031cde0bae1d1fef",
+      "transcript": "Mã số thuế (Tax code): 0310415290"
+    },
+    {
+      "crop_id": "8d0f0f3ce51fb96743e1",
+      "transcript": "Chí Minh, Việt Nam"
+    },
+    {
+      "crop_id": "8a73714002e0baccbaa4",
+      "transcript": "Tài khoản ngân hàng(Bank Account) :"
+    }
+  ]
+}

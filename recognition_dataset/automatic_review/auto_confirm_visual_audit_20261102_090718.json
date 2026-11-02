@@ -1,0 +1,116 @@
+{
+  "created_at_utc": "2026-11-02T02:07:18.718910+00:00",
+  "invoice": "WEB_050",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 18,
+  "items": [
+    {
+      "crop_id": "2c541968d4182e493fde",
+      "transcript": "CÔNG TY TNHH THƯƠNG MẠI NIKOS",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "842f1a9d5ba1c2045d04",
+      "transcript": "Mã số thuế/Tax code: 3 6 0 3 9 6 2 7 9 6",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "6385c76e6d008958cc7e",
+      "transcript": "Ký hiệu/Serial:",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "0ff824366623fab586c1",
+      "transcript": "Ngày (date) 16 tháng (month) 06 năm (year) 2025",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "c86464e20909e008dad5",
+      "transcript": "Họ tên người mua hàng (Purchaser's name):",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "ec0342b8f387ef6bf23a",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "58005b3b53ed46a532af",
+      "transcript": "Số tài khoản (Account No.) :",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "f5655aeaf55c1686f458",
+      "transcript": "THÀNH TIỀN",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "2bd49607406b52e3a091",
+      "transcript": "BIA NHẸ \"BALTIKA SỐ 7 XUẤT KHẨU\" LON 450ML",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "8c1af71e94f26b800c72",
+      "transcript": "1.440.000",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "9ebf5725912139eaacb9",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "8c12f6ed4ccd52ed3458",
+      "transcript": "1.440.000",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "a5a4cd3370cff3f6810a",
+      "transcript": "Tiền thuế GTGT (VAT Amount):",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "25a15cb70573cc0c01d8",
+      "transcript": "Thuế suất GTGT (VAT rate): 10%",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "4bb9c1bbfa7273cd8eb8",
+      "transcript": "1.584.000",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "1317addce63d6bf74069",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Một triệu năm trăm tám mươi bốn nghìn đồng",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "57055a27664900c50184",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    },
+    {
+      "crop_id": "a8e9eb2b5e13ef7b8f49",
+      "transcript": "Ký ngày 16 tháng 06 năm 2025",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and high-resolution crops; normalized excess spacing to single spaces while preserving visible words."
+    }
+  ]
+}

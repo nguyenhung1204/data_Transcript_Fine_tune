@@ -1,0 +1,281 @@
+{
+  "invoice": "WEB_037",
+  "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+  "items": [
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "a4497722a95c8e425772",
+      "status": "verified",
+      "transcript": "Số:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "7766d712633a0cb6cd97",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng: CÔNG TY TNHH MỘT THÀNH VIÊN MINH THY COM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "d760525dcb35142364b8",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0318280140",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "70a38d01c52d4a224372",
+      "status": "verified",
+      "transcript": "Địa chỉ: 50/42 Gò Dầu, Phường Tân Quý, Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "d6238d37c15655870813",
+      "status": "verified",
+      "transcript": "Số tài khoản: 1044541718",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "b1ab35e144d618a6be2b",
+      "status": "verified",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY CỔ PHẦN Y TẾ CV HEALTH 24",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "98233db28c111e9a6e7d",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0318311494",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "b4445b1016071372513f",
+      "status": "verified",
+      "transcript": "Địa chỉ: 541/21 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "5632a33f164bfc3dde3c",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "2da825e99dc566fd8e75",
+      "status": "verified",
+      "transcript": "Đơn",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "1482c0cfa3e437e1e5d0",
+      "status": "verified",
+      "transcript": "vị tính",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "a8a3adaaa779a04e9d8b",
+      "status": "verified",
+      "transcript": "lượng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "4d6302f8d3ef719ee9b0",
+      "status": "verified",
+      "transcript": "ổ cứng lắp trong Western Digital",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "3a8b0d24af9640212e25",
+      "status": "verified",
+      "transcript": "+ Bộ nguồn mã U-POE-af",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "8eb570585f50fc4f8e51",
+      "status": "verified",
+      "transcript": "khung gắn màn hình",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "4408f27017ba076757ec",
+      "status": "verified",
+      "transcript": "AOC 21.5\"W- WIDE LED",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "2f7dd99f9c759bc69026",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "131c57dc8804e39a5599",
+      "status": "verified",
+      "transcript": "Số:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "48d350aa79e9753457d6",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng: CÔNG TY TNHH MỘT THÀNH VIÊN MINH THY COM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "fd9da051a9bf6b30923a",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0318280140",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "2c1580048174a5120994",
+      "status": "verified",
+      "transcript": "Địa chỉ: 50/42 Gò Dầu, Phường Tân Quý, Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "89ae792cfcd5603b8f06",
+      "status": "verified",
+      "transcript": "Số tài khoản: 1044541718",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "664904498c73ec62c7fb",
+      "status": "verified",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY CỔ PHẦN Y TẾ CV HEALTH 24",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "7f7463db480319196401",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0318311494",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "6f2d3211aa9ade9da25f",
+      "status": "verified",
+      "transcript": "Địa chỉ: 541/21 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "9154a38d37c37507120e",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "99fb9485d8674b1609bf",
+      "status": "verified",
+      "transcript": "Đơn",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "c7ff84e2c93f9ebea250",
+      "status": "verified",
+      "transcript": "suất",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "7c476aece69d4bf95db7",
+      "status": "verified",
+      "transcript": "vị tính",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "ee3b893b6d99b279ef24",
+      "status": "verified",
+      "transcript": "lượng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "b1b2f0523aed1ea9e3f6",
+      "status": "verified",
+      "transcript": "Nẹp bán nguyệt 1.2x16",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "838b19d455194fca5e13",
+      "status": "verified",
+      "transcript": "Phích cắm điện âm + dương",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "ba46db21cea871c3ebe0",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng hóa, dịch vụ:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "b4e66d3ce3cab7cf9b3a",
+      "status": "verified",
+      "transcript": "Tổng tiền thuế GTGT 5%:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "bab30382b1c7373a64c7",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "fa1375d28f3bebce56ea",
+      "status": "verified",
+      "transcript": "Người bán hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "bd3223983d607ae73032",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "b1520fb8f13f99096d32",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:17:17.7131302Z",
+      "crop_id": "9f51af578aee863de398",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: 008E5B6A9736E949DB88EF948C80A960C8",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "method": "manual_visual_review",
+  "count": 39
+}

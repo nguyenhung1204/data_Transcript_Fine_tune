@@ -1,0 +1,308 @@
+{
+  "timestamp": "20261102_105430",
+  "invoice_ids": [
+    "WEB_199",
+    "WEB_200"
+  ],
+  "accepted_count": 49,
+  "accepted": [
+    {
+      "crop_id": "b31a8e98a71bf6550fd3",
+      "status": "verified",
+      "transcript": "Nghiệp vụ số 05- VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "38427bd84bd2f3326903",
+      "status": "verified",
+      "transcript": "Ký hiệu: PV/19P",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d3051f1920397a568702",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH TM & DV Thiết kế Công Nghệ Mới Phong Vũ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "86b3919c1fa78bd885fb",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b5a6f372237309a46690",
+      "status": "verified",
+      "transcript": ": 16 Trần Hưng Đạo, Quận 1, Thành phố Hồ Chí Minh",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "af3faa3e7a066f125123",
+      "status": "verified",
+      "transcript": "Số tài khoản : 840.820.500402.5 (Ngân hàng NN&PTNT - CN Quận 1)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "748c9e34853966357d52",
+      "status": "verified",
+      "transcript": "Điện thoại",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1d1e95c5fcece15fb939",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng :",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ae552d8849e0d9b0892b",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "36a1f25b08f4cca7ebb0",
+      "status": "verified",
+      "transcript": ": 117 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a0283c61bcb303fa1e17",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "68c74b9feb83156d5672",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dbf37c688f2c557e8e60",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "44bd99007a735dba3841",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1648255685b3a2296cda",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c691621a98befc911645",
+      "status": "verified",
+      "transcript": "Máy tính để bàn HP 1100",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "236be5728ff0f8f39f0b",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0f3e914515a73a51be35",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT: 10%, Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "95d27e41103a152636b6",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6ed61c80e69e0571f0f0",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "86cc1a09c26fd1faae25",
+      "status": "verified",
+      "transcript": "Người bán hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c80e1884c5cdc28651a3",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "04e8e297db689401052d",
+      "status": "verified",
+      "transcript": "Nguyễn Thị Thu Hương",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "71eec69b429ad225d6f8",
+      "status": "verified",
+      "transcript": "Trần Thanh Nguyên",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9a7455bb80c5fcd9c516",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "22e7e5a8f2f7ed97f5b3",
+      "status": "verified",
+      "transcript": "Ký hiệu: TS/19P",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9017b0e30e136b4539cc",
+      "status": "verified",
+      "transcript": "Liên 2: Giao cho người mua",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "684d3376b8bf0944ccf7",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH Ô Tô Toyotsu Samco",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "40b0c05c3814541f051b",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e220322b488183d74f4c",
+      "status": "verified",
+      "transcript": ": 84-86 Vành Đai Trong, Quận Bình Tân, Thành phố Hồ Chí Minh",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7a1232d1a346b690acbd",
+      "status": "verified",
+      "transcript": "Số tài khoản : 840.820.500402.5 (Ngân hàng NN&PTNT - CN Quận Bình Tân)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9436445f6339ee19c309",
+      "status": "verified",
+      "transcript": "Điện thoại",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7c9189b0a894e74ce94c",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng :",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a4670a869e007803c0f0",
+      "status": "verified",
+      "transcript": ": Công ty TNHH Sản Xuất Và Thương Mại VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "547f34dd4590bb0b9ff4",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "63529a671cdcb0887223",
+      "status": "verified",
+      "transcript": ": 117 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP.HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "62d06f7c7bc9577f1dff",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "40ec4d28944b39425455",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ca9b73e3dbb9d605f555",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b5a655b49612b28843d3",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a1e51392b66679c44f9e",
+      "status": "verified",
+      "transcript": "Xe ô tô 7 chỗ hiệu Toyota",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5e1e8a47d7773cca6cd2",
+      "status": "verified",
+      "transcript": "Yaris 1.5",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5e10ef96bb05ea446de1",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "511857051cb4e18c1fe5",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ: Bốn tỷ bốn trăm triệu đồng chẵn.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ba7a22e2dab09bb07627",
+      "status": "verified",
+      "transcript": "Người bán hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8102884bbe19597e2e7c",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f748c93a3d958b62d04d",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a5e2bcc5dba5bf72e1dd",
+      "status": "verified",
+      "transcript": "Nguyễn Ngọc Thiện",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "572b744c112934e5aacb",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_105430.json",
+  "readback_count": 11285,
+  "readback_failures": 0
+}

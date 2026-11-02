@@ -1,0 +1,167 @@
+{
+  "created_at_utc": "2026-11-02T01:59:42.1034903Z",
+  "annotations": [
+    {
+      "review_note": "WEB_046: ký hiệu đọc rõ.",
+      "transcript": "Ký hiệu (Series): 2C25MHD",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "838c174ece876a5dce0a",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: số hóa đơn màu đỏ đọc rõ.",
+      "transcript": "Số (Invoice No): 00000011",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "5f1a8b5e9be077a6408e",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: mã thuế đọc rõ.",
+      "transcript": "Mã của cơ quan thuế: M2-25-92FQN-00100000011",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "70f4468d214106af5dfe",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: nhãn người bán đủ dòng.",
+      "transcript": "Tên đơn vị bán hàng (ComName):",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "e119a80269e3e773a2b3",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: nhãn trường rõ.",
+      "transcript": "Số điện thoại (Tel):",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "ce0b0b206585573baa57",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: nhãn trường rõ.",
+      "transcript": "Số tài khoản (BankNo):",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "1012fa3e9a261fbe9552",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: nhãn trường rõ.",
+      "transcript": "Tên đơn vị mua hàng (CusName):",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "942d99cf5611323ddb25",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: tên đơn vị đọc rõ.",
+      "transcript": "GROBEST VN",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "e2599246baad4eb20a40",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: tiêu đề cột đọc rõ.",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "8589e9cc65c374771470",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: tên món đọc rõ.",
+      "transcript": "Tôm càng nướng",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "0234900c8ddbed562400",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: đơn vị tính đọc rõ.",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "a6f1961ffb1fa8e8c63e",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: đơn vị tính đọc rõ.",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "f06911a48a627c66eae0",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: đơn vị tính đọc rõ.",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "253c6eae4081694500e7",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: tên món đọc rõ.",
+      "transcript": "Lẩu cá khoai lớn",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "7c8269cb52a09a7d7be7",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: đơn vị tính đọc rõ.",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "f10a3f5b576a680c56b4",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: đơn vị tính đọc rõ.",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "ad55814ddaca7b804713",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: đơn vị tính đọc rõ.",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "6ed76b84c42b58c03db2",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: nhãn tổng thanh toán đọc rõ.",
+      "transcript": "Tổng tiền thanh toán (Total Amount):",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "9935d1eca55fdee636ab",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: nhãn chữ ký đọc rõ.",
+      "transcript": "Người bán hàng (Seller)",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "e0c82ed9ce7edc26efce",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    },
+    {
+      "review_note": "WEB_046: mã tra cứu đọc rõ.",
+      "transcript": "Mã tra cứu: HKD 22205-20250610141458-255618",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "0362783467a67a758fe9",
+      "reviewed_at": "2026-11-02T01:59:42.1034903Z"
+    }
+  ],
+  "policy": "Each crop visually inspected; partial and very small text was left pending.",
+  "run_id": "visual_20261102_085942"
+}

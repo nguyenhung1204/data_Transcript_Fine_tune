@@ -1,0 +1,15 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "ed675f755c4a47fc867f",
+      "invoice": "WEB_029",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "transcript_before": "Căn cuưóc công dân (Identity Card):",
+      "transcript_after": "Căn cước công dân (Identity Card):",
+      "evidence": "The crop visibly shows the complete line “Căn cước công dân (Identity Card):” with clear accents and punctuation; matches PDF text and is under the 90-character limit.",
+      "status": "verified"
+    }
+  ],
+  "skipped": []
+}

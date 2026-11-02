@@ -1,0 +1,118 @@
+{
+  "confirmed": [
+    {
+      "transcript": "Mẫu 3.4. Hóa đơn GTGT",
+      "crop_id": "b42fbad92d1f92f4d4ef"
+    },
+    {
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "crop_id": "73b288763f745dd31e1c"
+    },
+    {
+      "transcript": "Ký hiệu: AA/19E",
+      "crop_id": "4c5c6ea3e10eaa48e550"
+    },
+    {
+      "transcript": "Đơn vị bán hàng: CÔNG TY CỔ PHẦN CƠ KHÍ MẠO KHÊ",
+      "crop_id": "4559eb43c08963fe7211"
+    },
+    {
+      "transcript": "Mã số thuế: 5700526478",
+      "crop_id": "c772c978411ae1578d5d"
+    },
+    {
+      "transcript": "Số tài khoản: 4421000000241 tại Ngân hàng TMCP Đầu tư và Phát triển chi nhánh Tây Nam",
+      "crop_id": "f61a030000a16b3b360f"
+    },
+    {
+      "transcript": "Quảng Ninh-PGD Đông Triều",
+      "crop_id": "85deb1f57ade8b4b88f3"
+    },
+    {
+      "transcript": "Họ, tên người mua hàng: Cao Thái Thanh",
+      "crop_id": "fc120220fa76a08e1889"
+    },
+    {
+      "transcript": "Tên đơn vị: Chi nhánh tập đoàn CN than khoáng sản Việt Nam- Công ty Than Hạ Long",
+      "crop_id": "74dd67fba03d8e4c7bda"
+    },
+    {
+      "transcript": "(Tân Lập)",
+      "crop_id": "222d39f54a672cef1e04"
+    },
+    {
+      "transcript": "Mã số thuế: 5700100256-062",
+      "crop_id": "a38c801d62966ad15ab4"
+    },
+    {
+      "transcript": "Số TK: 0141000000136 tại Ngân hàng ngoại thương Quảng Ninh",
+      "crop_id": "905a0fcc368e6e6ad2fe"
+    },
+    {
+      "transcript": "Thành tiền",
+      "crop_id": "9db5dd46b0159aaa2e1b"
+    },
+    {
+      "transcript": "Đơn giá",
+      "crop_id": "fe5c6d5a4b24b0fe523f"
+    },
+    {
+      "transcript": "211.2",
+      "crop_id": "63d64e915532b111322f"
+    },
+    {
+      "transcript": "Cặp trục xe goòng 3 tấn",
+      "crop_id": "e610430225dca766d7ed"
+    },
+    {
+      "transcript": "cỡ đường 900mm",
+      "crop_id": "11b1e3f188b74c22cb6c"
+    },
+    {
+      "transcript": "Cộng tiền hàng: 119.790.000",
+      "crop_id": "cbcc036c35de72729e82"
+    },
+    {
+      "transcript": "Thuế suất GTGT: 10%",
+      "crop_id": "03d8fabd23a55e71a9c3"
+    },
+    {
+      "transcript": "Tổng cộng tiền thanh toán: 131.769.000",
+      "crop_id": "280190194497c460b34b"
+    },
+    {
+      "transcript": "Số tiền viết bằng chữ: Một trăm ba mươi mốt triệu bảy trăm sáu mươi chín nghìn đồng.",
+      "crop_id": "8ebc468a70433da6c30d"
+    },
+    {
+      "transcript": "Thủ trưởng đơn vị",
+      "crop_id": "d4c359e451ace5fb830d"
+    },
+    {
+      "transcript": "(Ký, họ tên)",
+      "crop_id": "7e0e3fba7edb0b7a6f5c"
+    },
+    {
+      "transcript": "(Ký, họ tên)",
+      "crop_id": "ab2815f9b2cd090141e0"
+    },
+    {
+      "transcript": "Căn cứ vào chứng từ hóa đơn GTGT, kế toán nhập sữ liệu vào phần mềm Excel",
+      "crop_id": "2ccc643847b1d79f9561"
+    }
+  ],
+  "deferred": [
+    {
+      "crop_id": "fe34acacfeaee967726e",
+      "reason": "Crop kết thúc giữa tên sản phẩm ở “Skat-”; có thể còn tiếp ở dòng sau, cần rà trên PDF."
+    }
+  ],
+  "reviewed_at": "2026-11-02T11:14:11.4265649+07:00",
+  "visually_reviewed": 42,
+  "verification_errors": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_111404.json",
+  "verified_count_before": 11260,
+  "invoice": "WEB_228",
+  "verified_count_after": 11285,
+  "confirmed_new": 25
+}

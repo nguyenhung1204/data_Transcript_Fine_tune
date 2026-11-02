@@ -1,0 +1,42 @@
+{
+  "timestamp_utc": "2026-11-02T00:53:05.1799952Z",
+  "method": "manual_visual_review_crop_images",
+  "skipped": [],
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075305.json",
+  "confirmed": [
+    {
+      "crop_id": "a283ae94eff96c33e3c6",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản"
+    },
+    {
+      "crop_id": "f4a3b2b85cf79f5198db",
+      "transcript": "Thuế"
+    },
+    {
+      "crop_id": "891b014f7736a7ce6d3e",
+      "transcript": "Số"
+    },
+    {
+      "crop_id": "d41c2145281800773f0a",
+      "transcript": "Tiền thuế"
+    },
+    {
+      "crop_id": "d583c6eb227024cb563a",
+      "transcript": "Đơn"
+    },
+    {
+      "crop_id": "37b0a1890371b3c924ed",
+      "transcript": "suất"
+    },
+    {
+      "crop_id": "d6fd9d19743d8b170c09",
+      "transcript": "Đơn giá"
+    },
+    {
+      "crop_id": "7d9c5cd8ee500d57da35",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    }
+  ],
+  "invoice": "HD_037",
+  "note": "Eight clear crops visually checked, including small separated table-header words."
+}

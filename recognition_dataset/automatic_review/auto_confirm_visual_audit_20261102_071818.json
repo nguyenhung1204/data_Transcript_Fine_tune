@@ -1,0 +1,136 @@
+{
+  "created_at_utc": "2026-11-02T00:18:18.3570129Z",
+  "method": "manual_visual_review",
+  "count": 8,
+  "confirmed": [
+    {
+      "crop_id": "76c85758dab71c9843b9",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        771,
+        143,
+        1707,
+        241
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\76c85758dab71c9843b9.png",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.0338025Z"
+    },
+    {
+      "crop_id": "bcb8ba6d1b5a48fcc5e7",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1766,
+        161,
+        2229,
+        215
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\bcb8ba6d1b5a48fcc5e7.png",
+      "transcript": "Ký hiệu (Serial): 1C25MGC",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.1037133Z"
+    },
+    {
+      "crop_id": "03a15b73d5078edf210a",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1764,
+        238,
+        1925,
+        303
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\03a15b73d5078edf210a.png",
+      "transcript": "Số (No.):",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.1464369Z"
+    },
+    {
+      "crop_id": "519670b3d6461a6b8c52",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        159,
+        470,
+        1089,
+        531
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\519670b3d6461a6b8c52.png",
+      "transcript": "Đơn vị bán hàng (Seller): CÔNG TY CỔ PHẦN HINOKO",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.1843845Z"
+    },
+    {
+      "crop_id": "72fd6a1658d694c7f5a7",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        161,
+        531,
+        739,
+        583
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\72fd6a1658d694c7f5a7.png",
+      "transcript": "Mã số thuế (Tax code): 0315852382",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.2249957Z"
+    },
+    {
+      "crop_id": "bdffbf250283c3e32595",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        161,
+        646,
+        674,
+        694
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\bdffbf250283c3e32595.png",
+      "transcript": "Điện thoại (Tel): 028 6682 0390",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.2658146Z"
+    },
+    {
+      "crop_id": "a03862b70a45137312fa",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        158,
+        693,
+        1856,
+        760
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\a03862b70a45137312fa.png",
+      "transcript": "Tài khoản(A/C number): 818198 Ngân Hàng Thương Mại Cổ Phần Á Châu - Chi Nhánh Hồ Chí Minh",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.3048093Z"
+    },
+    {
+      "crop_id": "0795e05b9db4b352da0c",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        160,
+        800,
+        1152,
+        856
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\0795e05b9db4b352da0c.png",
+      "transcript": "ĐỊA ĐIỂM KINH DOANH CÔNG TY CỔ PHẦN HINOKO",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:18:18.3444651Z"
+    }
+  ],
+  "note": "Compared crop image directly to PDF text candidate; transcript copied as visible after visual verification."
+}

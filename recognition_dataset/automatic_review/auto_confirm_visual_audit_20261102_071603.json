@@ -1,0 +1,171 @@
+{
+  "created_at_utc": "2026-11-02T00:16:03.736737+00:00",
+  "invoice": "WEB_128",
+  "page": 2,
+  "method": "manual_visual_review",
+  "crops": [
+    {
+      "crop_id": "63769bf1bf4f373fe560",
+      "transcript": "CÔNG TY TNHH THIẾT BỊ KHOA HỌC KỸ THUẬT MỸ THÀNH",
+      "pdf_text": "CÔNG TY TNHH THIẾT BỊ KHOA HỌC KỸ THUẬT MỸ THÀNH",
+      "ocr1": "CÔNG TY TNHH THIÉT BI KHOA HOC KÝ THUT MÝ THÀNH",
+      "image": "/crops/WEB_128/63769bf1bf4f373fe560.png",
+      "coords": [
+        558,
+        94,
+        2125,
+        168
+      ]
+    },
+    {
+      "crop_id": "23f9392e8a0bd985e6b2",
+      "transcript": "Mã số thuế (Tax code): 0 3 0 0 9 7 2 9 0 5",
+      "pdf_text": "Mã số thuế (Tax code): 0 3 0 0 9 7 2 9 0 5",
+      "ocr1": "Mã s thuê (Tax code): 0 3 0 0 9 7 2 9 0 5",
+      "image": "/crops/WEB_128/23f9392e8a0bd985e6b2.png",
+      "coords": [
+        904,
+        234,
+        1698,
+        292
+      ]
+    },
+    {
+      "crop_id": "652ba2a44b202e38baa4",
+      "transcript": "Địa chỉ (Address): 445 Tô Hiến Thành, Phường 14, Quận 10, TP. Hồ Chí Minh, Việt Nam",
+      "pdf_text": "Địa chỉ (Address): 445 Tô Hiến Thành, Phường 14, Quận 10, TP. Hồ Chí Minh, Việt Nam",
+      "ocr1": "Đa ch (Address): 445 Tô Hin Thành, Phưòng 14, Qun 10, TP. Hồ Chí Minh, Vit Nam",
+      "image": "/crops/WEB_128/652ba2a44b202e38baa4.png",
+      "coords": [
+        556,
+        298,
+        2214,
+        355
+      ]
+    },
+    {
+      "crop_id": "596757eb4b3cdba4c678",
+      "transcript": "Điện thoại (Telephone): 0903829226 * Fax: (028) 3864 4461",
+      "pdf_text": "Điện thoại (Telephone): 0903829226 * Fax: (028) 3864 4461",
+      "ocr1": "Đin thoai (Telephone): 0903829226 * Fax: (028) 3864 4461",
+      "image": "/crops/WEB_128/596757eb4b3cdba4c678.png",
+      "coords": [
+        662,
+        363,
+        1836,
+        418
+      ]
+    },
+    {
+      "crop_id": "16af8fbe008ff98783db",
+      "transcript": "Mã của Cơ quan thuế: 00C8A30E08D6D04D7384E741C5712EE1A9",
+      "pdf_text": "Mã của Cơ quan thuế: 00C8A30E08D6D04D7384E741C5712EE1A9",
+      "ocr1": "Mã ca Co quan thuê: 00C8A30E08D6D04D7384E741C5712EE1A9",
+      "image": "/crops/WEB_128/16af8fbe008ff98783db.png",
+      "coords": [
+        94,
+        512,
+        1390,
+        570
+      ]
+    },
+    {
+      "crop_id": "21fc69b2c0134b6a30ad",
+      "transcript": "Mẫu số - Ký hiệu (Serial No.): 1C24TMT",
+      "pdf_text": "Mẫu số - Ký hiệu (Serial No.): 1C24TMT",
+      "ocr1": "Mu s - Ký hiu (Serial No.): 1C24TMT",
+      "image": "/crops/WEB_128/21fc69b2c0134b6a30ad.png",
+      "coords": [
+        1646,
+        644,
+        2384,
+        706
+      ]
+    },
+    {
+      "crop_id": "5ea735c4d63e0b48c73b",
+      "transcript": "Số (Invoice No.): 00000717",
+      "pdf_text": "Số (Invoice No.): 0000071 7",
+      "ocr1": "Só (Invoice No.): 00000717",
+      "image": "/crops/WEB_128/5ea735c4d63e0b48c73b.png",
+      "coords": [
+        1646,
+        702,
+        2198,
+        767
+      ]
+    },
+    {
+      "crop_id": "704fa19574f1849f0c30",
+      "transcript": "Họ tên người mua hàng (Customer name):",
+      "pdf_text": "Họ tên người mua hàng (Customer name):",
+      "ocr1": "H tên ngưi mua hàng (Customer name):",
+      "image": "/crops/WEB_128/704fa19574f1849f0c30.png",
+      "coords": [
+        97,
+        957,
+        863,
+        1009
+      ]
+    },
+    {
+      "crop_id": "90d230db92c0ddfd24ec",
+      "transcript": "Tên đơn vị (Company): CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI VÀ THIẾT KẾ PHƯƠNG ANH",
+      "pdf_text": "Tên đơn vị (Company): CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI VÀ THIẾT KẾ PHƯƠNG ANH",
+      "ocr1": "Tên đo'n v! (Company): CÔNG TY CÔ PHÀN XÂY D'NG THU'O'NG MAI VÀ THIÉT KÉ PHU'O'NG ANH",
+      "image": "/crops/WEB_128/90d230db92c0ddfd24ec.png",
+      "coords": [
+        92,
+        1007,
+        2022,
+        1075
+      ]
+    },
+    {
+      "crop_id": "ffbb42aa882dd1f1fc4a",
+      "transcript": "Mã số thuế (Tax code): 0 3 1 0 7 6 5 8 7 3",
+      "pdf_text": "Mã số thuế (Tax code): 0 3 1 0 7 6 5 8 7 3",
+      "ocr1": "Mã s thu (Tax code): 0 3 1 0 7 6 5 8 7 3",
+      "image": "/crops/WEB_128/ffbb42aa882dd1f1fc4a.png",
+      "coords": [
+        94,
+        1076,
+        867,
+        1133
+      ]
+    },
+    {
+      "crop_id": "21260e87a78069f452bd",
+      "transcript": "Minh, Việt Nam",
+      "pdf_text": "Minh, Việt Nam",
+      "ocr1": "Minh, Vit Nam",
+      "image": "/crops/WEB_128/21260e87a78069f452bd.png",
+      "coords": [
+        97,
+        1207,
+        395,
+        1256
+      ]
+    },
+    {
+      "crop_id": "065d96d4cac6f01658fa",
+      "transcript": "Số tài khoản (Account No):",
+      "pdf_text": "Số tài khoản (Account No):",
+      "ocr1": "S tài khon (Account No):",
+      "image": "/crops/WEB_128/065d96d4cac6f01658fa.png",
+      "coords": [
+        1333,
+        1263,
+        1819,
+        1324
+      ]
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_071603.json",
+  "api_response": {
+    "saved": 12,
+    "total": 8618,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "readback_verified": true
+}

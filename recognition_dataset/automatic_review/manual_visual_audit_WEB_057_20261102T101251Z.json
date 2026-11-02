@@ -1,0 +1,194 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "044ff8ef3398777d5b58",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Đa ch : S 51, Trưong Đnh, Phưòng 1, Thành ph Tân An, Tinh Long An, Vit Nam",
+      "transcript_after": "Địa chỉ : Số 51 , Trương Định, Phường 1 , Thành phố Tân An, Tỉnh Long An, Việt Nam",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "fd28de9a326b2b26b0f9",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Mã só thué : 0300521758-039",
+      "transcript_after": "Mã số thuế : 0300521758-039",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "3ca630a8874aea1a5675",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Đa ch : 123B Hùng Vương, Phưng 2, Thành Ph Tân An, Tinh Long An, Vit Nam",
+      "transcript_after": "Địa chỉ : 123B Hùng Vương, Phường 2, Thành Phố Tân An, Tỉnh Long An, Việt Nam",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e03ca1fafb3f8ec99b47",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "SDT:02723580288",
+      "transcript_after": "SĐT : 02723580288",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "1c049ae7f986a9025c5e",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Mãu sÔ : 02GTTT0/002",
+      "transcript_after": "Mẫu số : 02GTTT0/002",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "405f21be6a2a35666e54",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "HÓA DO'N BÁN HÀNG",
+      "transcript_after": "HÓA ĐƠN BÁN HÀNG",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "16f4b5fbd7ac663e09d8",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "(BÃN THÊ HIN CA HÓA ĐON ĐIĘN T)",
+      "transcript_after": "(BẢN THỂ HIỆN CỦA HÓA ĐƠN ĐIỆN TỬ)",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "61f8ea3c57f63bf410bc",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Só:0016353",
+      "transcript_after": "Số : 0016353",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "70e3340b8bb4ae779be2",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Ho tên ngưi mua hàng : Ms. NGUYÊN TH! THÙY HÀNG (0102018946)",
+      "transcript_after": "Họ tên người mua hàng : Ms. NGUYỄN THỊ THÙY HẰNG (0102018946)",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "b584c8a74a42028b8f78",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Só tài khon",
+      "transcript_after": "Số tài khoản",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f5806405c8261cf16c74",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Tên đon v :",
+      "transcript_after": "Tên đơn vị :",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "a5bc7273394d132607df",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Đa chi : 145 SONG HÀNH, PHUÒ'NG 12, Q.6, HÒ CHÍ MINH",
+      "transcript_after": "Địa chỉ : 145 SONG HÀNH, PHƯỜNG 12, Q.6, HỒ CHÍ MINH",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "c0d4d4477971850ebb51",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Hình thúc thanh toán : TM/CK",
+      "transcript_after": "Hình thức thanh toán : TM/CK",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f9964faa84de53a0a104",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Só lưng",
+      "transcript_after": "Số lượng",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "c4f2c40d0294e808ceb3",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Đon vi",
+      "transcript_after": "Đơn vị",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "061a7aa9240518554d44",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "(Trong lưng)",
+      "transcript_after": "(Trọng lượng)",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "af287a4f20bcbaf098ce",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "(Cn kim tra, đi chiu khi lp, giao, nhn hóa đon)",
+      "transcript_after": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "6f752426671935187e2e",
+      "invoice": "WEB_057",
+      "pdf": "WEB_057.pdf",
+      "page": 1,
+      "transcript_before": "Ký bi: CHI NHÁNH CÔNG TY CÔ PHÀN VÀNG BAC ĐÁ QUÝ PHÚ NHUN - CHI NHÁNH PNJ LONG AN",
+      "transcript_after": "Ký bởi: CHI NHÁNH CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN - CHI NHÁNH PNJ LONG AN",
+      "evidence": "Visually inspected crop; complete text is legible and matches the rendered invoice. Diacritics, digits, punctuation and line edges checked; <=90 chars.",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "9653c5e01b1cb573ad0f",
+      "reason": "Printed serial has an ambiguous space between “21” and “E” between visual appearance and extracted text; left pending."
+    },
+    {
+      "crop_id": "f40f7a658cb455ceb2be",
+      "reason": "Long seller line shows a continuation at the lower edge; may contain a clipped second line."
+    }
+  ]
+}

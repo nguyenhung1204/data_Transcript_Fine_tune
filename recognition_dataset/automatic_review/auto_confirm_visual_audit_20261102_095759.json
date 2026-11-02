@@ -1,0 +1,113 @@
+{
+  "invoice": "WEB_092",
+  "timestamp_utc": "2026-11-02T02:57:59.3319080Z",
+  "reviewed_count": 14,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "crop_id": "98a88762bde1fd5a00f9",
+      "reason": "Product name ends with RG- at crop edge; missing suffix is not visible, so left pending."
+    }
+  ],
+  "notes": "Two contact sheets visually inspected; values, labels, product rows, tax and payment text match the rendered crops.",
+  "annotations": [
+    {
+      "crop_id": "2eb854ad881f23ddb0d5",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25TDT",
+      "reviewed_at": "2026-11-02T02:57:59.3267694Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9549d6d1b1d9cf100dce",
+      "status": "verified",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "reviewed_at": "2026-11-02T02:57:59.3314904Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "30c93ca49bc78c195427",
+      "status": "verified",
+      "transcript": "Mã cơ quan thuế cấp: 0087E5C5524995450FAFBCED57916D0154",
+      "reviewed_at": "2026-11-02T02:57:59.3315624Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0cd4779e2ede7ec34e03",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:57:59.3316186Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6a2baca4c077ab1cc25e",
+      "status": "verified",
+      "transcript": "tiền",
+      "reviewed_at": "2026-11-02T02:57:59.3316452Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cbfb8fb0d154273fe453",
+      "status": "verified",
+      "transcript": "Thiết bị định tuyến MikroTik; Ký hiệu:",
+      "reviewed_at": "2026-11-02T02:57:59.3316785Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dd398477915d267d3c41",
+      "status": "verified",
+      "transcript": "Bộ",
+      "reviewed_at": "2026-11-02T02:57:59.3317005Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "071c6d40a8d3a22d2bad",
+      "status": "verified",
+      "transcript": "Thiết bị chuyển mạch RG-ES116G-L",
+      "reviewed_at": "2026-11-02T02:57:59.3317314Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b70e36f90548ef9e6cda",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:10%",
+      "reviewed_at": "2026-11-02T02:57:59.3317572Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "962d2630f96aefa86668",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT:",
+      "reviewed_at": "2026-11-02T02:57:59.3317818Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6b23ccb7d3616702d9a9",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "reviewed_at": "2026-11-02T02:57:59.3318071Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "00a45a92a25b30c9a944",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "reviewed_at": "2026-11-02T02:57:59.3318296Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3fe58af8222af727b4ad",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T02:57:59.3318597Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8812fc65fa71e9d11bc6",
+      "status": "verified",
+      "transcript": "Đơn vị cung cấp dịch vụ hóa đơn điện tử: CÔNG TY CỔ PHẦN CYBERLOTUS, MST: 0105232093",
+      "reviewed_at": "2026-11-02T02:57:59.3318938Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

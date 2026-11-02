@@ -1,0 +1,66 @@
+{
+  "evidence": "Đã xem riêng từng crop PNG và đối chiếu đúng tọa độ trên ảnh render trang 1 của HD_014. Tất cả chữ trong crop rõ, đầy đủ và khớp transcript.",
+  "invoice": "HD_014",
+  "count": 8,
+  "skipped": [],
+  "confirmed": [
+    {
+      "transcript": "Tiền thuế GTGT",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d534576120af7ee6cb18",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7925269Z"
+    },
+    {
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "10a840f45388b47934e0",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7982938Z"
+    },
+    {
+      "transcript": "Cáp lập trình USB-SC09-FX",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "73fb7e882e9fc17ea111",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7983440Z"
+    },
+    {
+      "transcript": "Tiền thuế GTGT",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5887bd7dbfefa61b5ef7",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7983496Z"
+    },
+    {
+      "transcript": "Thành tiền trước thuế GTGT",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9fb6d2e98265094c6ee3",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7983540Z"
+    },
+    {
+      "transcript": "Cộng tiền thanh toán",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "662e1ee1ca4e994e8946",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7983618Z"
+    },
+    {
+      "transcript": "Thuế suất 0% (VAT rate 0%):",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "fafba122a6584d8ca9dd",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7983660Z"
+    },
+    {
+      "transcript": "Thuế suất 8% (VAT rate 8%):",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "bdb4d6c30b41bf784fca",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T00:35:05.7983702Z"
+    }
+  ],
+  "created_at_utc": "2026-11-02T00:35:05.7983989Z",
+  "method": "manual_visual_review"
+}

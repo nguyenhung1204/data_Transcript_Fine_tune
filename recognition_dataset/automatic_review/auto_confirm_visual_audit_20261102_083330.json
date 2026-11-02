@@ -1,0 +1,143 @@
+{
+  "annotations": [
+    {
+      "status": "verified",
+      "crop_id": "4c99db5e7f8ddeb0b8f5",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "9 = 6 + 8",
+      "review_note": "WEB_037 page 2: matching formula clearly printed in final amount column."
+    },
+    {
+      "status": "verified",
+      "crop_id": "46013821a6febf66dc3a",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "9 = 6 + 8",
+      "review_note": "WEB_056 page 1: formula clearly legible in table."
+    },
+    {
+      "status": "verified",
+      "crop_id": "231a825291a84b1504cb",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "9 = 6 + 8",
+      "review_note": "WEB_056 page 2: formula clearly legible in table."
+    },
+    {
+      "status": "verified",
+      "crop_id": "1a4dc4d2ce14ace405dd",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "9 = 6 + 8",
+      "review_note": "WEB_069 page 2: formula clearly legible."
+    },
+    {
+      "status": "verified",
+      "crop_id": "418e2af929ac0a65add9",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "8 = 6 x 7",
+      "review_note": "WEB_069 page 2: formula clearly legible."
+    },
+    {
+      "status": "verified",
+      "crop_id": "e8957cc3ce338a0e7a0a",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "7 = 5 x 6",
+      "review_note": "WEB_070 page 1: formula legible; normalized spacing between printed symbols."
+    },
+    {
+      "status": "verified",
+      "crop_id": "92ca015faeeaa8258099",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6 = 4 x 5",
+      "review_note": "WEB_086 page 1: formula clearly legible in table."
+    },
+    {
+      "status": "verified",
+      "crop_id": "5584756f2874efd466e9",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6=4x5",
+      "review_note": "WEB_176 page 1: formula legible in crop despite low resolution."
+    },
+    {
+      "status": "verified",
+      "crop_id": "283375b830f0d9fe8204",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6=4x5",
+      "review_note": "WEB_216 page 1: formula legible in crop despite mild blur."
+    },
+    {
+      "status": "verified",
+      "crop_id": "92eca3d3b054feb47a0f",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6=4x5",
+      "review_note": "WEB_217 page 1: formula legible in crop despite mild blur."
+    },
+    {
+      "status": "verified",
+      "crop_id": "4e143bf2c2999911efb8",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6 = 4 x 5",
+      "review_note": "WEB_218 page 1: formula legible in crop despite pixelation."
+    },
+    {
+      "status": "verified",
+      "crop_id": "dfe71eafe4fc355bd580",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6=4x5",
+      "review_note": "WEB_219 page 1: formula legible in crop despite blur."
+    },
+    {
+      "status": "verified",
+      "crop_id": "bee7dd9e36dfb8961b50",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "3=1x2",
+      "review_note": "WEB_231 page 1: formula clearly legible."
+    },
+    {
+      "status": "verified",
+      "crop_id": "9aeb50f2a8297c809b85",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6 = 4 x 5",
+      "review_note": "WEB_236 page 1: formula clearly legible."
+    },
+    {
+      "status": "verified",
+      "crop_id": "23cd0607f1b7d7b34c36",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6=4x5",
+      "review_note": "WEB_237 page 1: formula legible despite red tint."
+    },
+    {
+      "status": "verified",
+      "crop_id": "f8ebaf0cd71f804429df",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6 = 4x5",
+      "review_note": "WEB_252 page 1: formula legible; crop touches a table rule but text is clear."
+    },
+    {
+      "status": "verified",
+      "crop_id": "3a36e4ce2cdc3e0fa3bd",
+      "reviewed_at": "2026-11-02T01:33:30.9658489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "3=1x2",
+      "review_note": "WEB_260 page 1: formula clearly legible."
+    }
+  ],
+  "created_at_utc": "2026-11-02T01:33:30.9658489Z",
+  "policy": "manual visual confirmation: crop visually checked against corresponding rendered invoice page",
+  "run_id": "visual_20261102_083330"
+}

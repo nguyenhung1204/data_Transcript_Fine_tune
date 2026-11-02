@@ -1,0 +1,31 @@
+{
+  "run_id": "visual_20261102_082550",
+  "created_at_utc": "2026-11-02T01:25:50.7907778Z",
+  "policy": "manual visual confirmation: crop checked against matching invoice page",
+  "annotations": [
+    {
+      "reviewed_at": "2026-11-02T01:25:50.7907778Z",
+      "review_note": "WEB_005 trang 1: crop khớp công thức cột thành tiền; chữ X in hoa rõ.",
+      "crop_id": "47c503a144e665bbec37",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "3 = 1 X 2"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:25:50.7907778Z",
+      "review_note": "WEB_027 trang 1: crop khớp công thức cột thành tiền.",
+      "crop_id": "ba34be554fe9b9dd736e",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "3 = 1 x 2"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:25:50.7907778Z",
+      "review_note": "WEB_049 trang 1: crop khớp công thức cột thành tiền.",
+      "crop_id": "2b79909153be43087954",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "7 = 5 x 6"
+    }
+  ]
+}

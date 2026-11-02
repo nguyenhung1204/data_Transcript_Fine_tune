@@ -1,0 +1,151 @@
+{
+  "created_at_utc": "2026-11-02T01:40:08.6210086Z",
+  "run_id": "visual_20261102_084008",
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page",
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "status": "verified",
+      "review_note": "WEB_026 invoice title crop fully legible.",
+      "crop_id": "fbda0575b86fb15c92d7"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Ký hiệu (Serial No): 2C25TTT",
+      "status": "verified",
+      "review_note": "WEB_026 serial and value clearly legible.",
+      "crop_id": "5507cda1d3ddd395705a"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Số (No): 167",
+      "status": "verified",
+      "review_note": "WEB_026 invoice number and leading zeros preserved as printed.",
+      "crop_id": "1e0634237e50bc53fe65"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Mã cơ quan thuế: 0029BC6AAAA2554B42863940EE61B6F025",
+      "status": "verified",
+      "review_note": "WEB_026 tax authority code line clearly legible.",
+      "crop_id": "d60988440e218674525e"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "status": "verified",
+      "review_note": "WEB_026 subtitle crop fully legible.",
+      "crop_id": "c8826b44a32bcb2c2585"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Tên người bán (Seller): Hộ Kinh Doanh Tú Cường",
+      "status": "verified",
+      "review_note": "WEB_026 seller name line fully legible.",
+      "crop_id": "6fb5c29e705e8674d31d"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Mã số thuế (Tax code): 2200241655",
+      "status": "verified",
+      "review_note": "WEB_026 seller tax code line fully legible.",
+      "crop_id": "c0e42594c87531157581"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Điện thoại (Tel): 0913.813.359",
+      "status": "verified",
+      "review_note": "WEB_026 telephone line fully legible.",
+      "crop_id": "6dd1a8ee5844ee693eab"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Số tài khoản (Acount no.): 0321000622268",
+      "status": "verified",
+      "review_note": "WEB_026 bank account line legible; original printed spelling Acount retained.",
+      "crop_id": "2102484e51ae3450b7ba"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Họ tên người mua (Customer):",
+      "status": "verified",
+      "review_note": "WEB_026 buyer label fully legible.",
+      "crop_id": "00916875b3d7b4478135"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "status": "verified",
+      "review_note": "WEB_026 buyer tax code line fully legible.",
+      "crop_id": "94d89c423337cef7ad5e"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Đồng tiền thanh toán (Currency): VND",
+      "status": "verified",
+      "review_note": "WEB_026 currency line fully legible.",
+      "crop_id": "59b9bb6db01c68836ae8"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Số tài khoản (Acount no.):",
+      "status": "verified",
+      "review_note": "WEB_026 bank account label fully legible; printed spelling retained.",
+      "crop_id": "5cbe32ff6ece613e076e"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "status": "verified",
+      "review_note": "WEB_026 payment method line fully legible.",
+      "crop_id": "cbdda5f2268b9fb27b86"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "review_note": "WEB_026 table header fully legible.",
+      "crop_id": "4d4c448fc4af7facdbdd"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "review_note": "WEB_026 table header fully legible.",
+      "crop_id": "13bc83dca7b690900eef"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Đvt",
+      "status": "verified",
+      "review_note": "WEB_026 table header clearly reads Đvt.",
+      "crop_id": "457617200915ccc5f445"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:40:08.6210086Z",
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "review_note": "WEB_026 table header fully legible.",
+      "crop_id": "64a3ca2a1196285f36c0"
+    }
+  ]
+}

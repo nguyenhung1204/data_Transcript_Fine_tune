@@ -1,0 +1,292 @@
+{
+  "annotations": [
+    {
+      "transcript": "Mã số thuế: 3600456424",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d971fb1cf25b456eb175",
+      "reviewed_at": "2026-11-02T09:25:35.0023238Z"
+    },
+    {
+      "transcript": "Gà Tre",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b13e961cc4ca0e05850a",
+      "reviewed_at": "2026-11-02T09:25:35.0086585Z"
+    },
+    {
+      "transcript": "Điện thoại: 0913882892",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "00c0fde2527eda03321d",
+      "reviewed_at": "2026-11-02T09:25:35.0088034Z"
+    },
+    {
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "85b8d0d9da7a50f6381f",
+      "reviewed_at": "2026-11-02T09:25:35.0088548Z"
+    },
+    {
+      "transcript": "Khoai Tây chiên giòn",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b39abfaf9724657328f2",
+      "reviewed_at": "2026-11-02T09:25:35.0088934Z"
+    },
+    {
+      "transcript": "Mã số thuế: 8474993150",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "51a67d830b2212ddc79a",
+      "reviewed_at": "2026-11-02T09:25:35.0089491Z"
+    },
+    {
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1f7b4e1eba23e3e07c10",
+      "reviewed_at": "2026-11-02T09:25:35.0089912Z"
+    },
+    {
+      "transcript": "Người bán hàng",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3c8f020c1c679d0690f7",
+      "reviewed_at": "2026-11-02T09:25:35.0090696Z"
+    },
+    {
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "636a7729416c10ed48c2",
+      "reviewed_at": "2026-11-02T09:25:35.0091184Z"
+    },
+    {
+      "transcript": "Email: huynhminhhuong@gmail.com",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "847532f69be0d39ba539",
+      "reviewed_at": "2026-11-02T09:25:35.0091633Z"
+    },
+    {
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "debd7a0403db252535b1",
+      "reviewed_at": "2026-11-02T09:25:35.0092026Z"
+    },
+    {
+      "transcript": "Cơm chiên Dương Châu",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e87b2d72e17b2e9e42d8",
+      "reviewed_at": "2026-11-02T09:25:35.0092414Z"
+    },
+    {
+      "transcript": "Khăn lạnh",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5d5f248dc35d5fe1fdf3",
+      "reviewed_at": "2026-11-02T09:25:35.0092782Z"
+    },
+    {
+      "transcript": "Đậu Phộng",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8a7c93fd8ea7c7333484",
+      "reviewed_at": "2026-11-02T09:25:35.0093135Z"
+    },
+    {
+      "transcript": "Cải xào dầu Hào",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e7600e601fa6f3517bb0",
+      "reviewed_at": "2026-11-02T09:25:35.0093569Z"
+    },
+    {
+      "transcript": "Bò xào lăn",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "bda9e2a18ffb8bdf87e6",
+      "reviewed_at": "2026-11-02T09:25:35.0093982Z"
+    },
+    {
+      "transcript": "Gỏi cá Mai",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "79074a339487fd7337e8",
+      "reviewed_at": "2026-11-02T09:25:35.0094864Z"
+    },
+    {
+      "transcript": "Ngày (date) 25 tháng (month) 06 năm (year) 2025",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e6f77f26665240ddbfe8",
+      "reviewed_at": "2026-11-02T09:25:35.0095567Z"
+    },
+    {
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "eec6539c198117e6f55d",
+      "reviewed_at": "2026-11-02T09:25:35.0096228Z"
+    },
+    {
+      "transcript": "Người mua hàng",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "7d6873290dae651f87d8",
+      "reviewed_at": "2026-11-02T09:25:35.0097151Z"
+    },
+    {
+      "transcript": "Trứng chiên",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4121c78118520d415894",
+      "reviewed_at": "2026-11-02T09:25:35.0098217Z"
+    },
+    {
+      "transcript": "Nước khoáng có ga",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3c33231243ed7a7998e7",
+      "reviewed_at": "2026-11-02T09:25:35.0099300Z"
+    },
+    {
+      "transcript": "Đơn vị tính",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "53f9dbf86868dc1e47d9",
+      "reviewed_at": "2026-11-02T09:25:35.0100461Z"
+    },
+    {
+      "transcript": "Ngày (date) 25 tháng (month) 06 năm (year) 2025",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "329c421a590578583cc6",
+      "reviewed_at": "2026-11-02T09:25:35.0101009Z"
+    },
+    {
+      "transcript": "Đơn vị bán hàng: HỘ KINH DOANH QUÁN ĂN UỐNG HƯƠNG DỪA",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4eef0b669867ecb34526",
+      "reviewed_at": "2026-11-02T09:25:35.0102210Z"
+    },
+    {
+      "transcript": "Điện thoại: 0913882892",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "7399b4a22e55b90eef48",
+      "reviewed_at": "2026-11-02T09:25:35.0103338Z"
+    },
+    {
+      "transcript": "2C25MHD",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9024f308b3bb77d8de78",
+      "reviewed_at": "2026-11-02T09:25:35.0103887Z"
+    },
+    {
+      "transcript": "Tôm nướng Muối ớt",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "a6eaf9ad2c65685cf5c5",
+      "reviewed_at": "2026-11-02T09:25:35.0104248Z"
+    },
+    {
+      "transcript": "Email: huynhminhhuong@gmail.com",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9a21f3ad7526dcf2bba7",
+      "reviewed_at": "2026-11-02T09:25:35.0104698Z"
+    },
+    {
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "057d312e1d43c02fc779",
+      "reviewed_at": "2026-11-02T09:25:35.0105152Z"
+    },
+    {
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "87e5ba31d15eea87c307",
+      "reviewed_at": "2026-11-02T09:25:35.0105616Z"
+    },
+    {
+      "transcript": "Gỏi Bò bóp thấu",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2f5d6e2fd35c864e73d9",
+      "reviewed_at": "2026-11-02T09:25:35.0105974Z"
+    },
+    {
+      "transcript": "Số tài khoản: 0621.000.407.217 tại Ngân hàng Vietcombank",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "32b1619e53310bf55115",
+      "reviewed_at": "2026-11-02T09:25:35.0106306Z"
+    },
+    {
+      "transcript": "Cơm chiên Cá mặn",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "921a36e7381980df9fc3",
+      "reviewed_at": "2026-11-02T09:25:35.0106653Z"
+    },
+    {
+      "transcript": "Số:",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8de7e593ea3292df9324",
+      "reviewed_at": "2026-11-02T09:25:35.0107005Z"
+    },
+    {
+      "transcript": "Ký hiệu:",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d52f8ab96963b7813849",
+      "reviewed_at": "2026-11-02T09:25:35.0107347Z"
+    },
+    {
+      "transcript": "Ếch xào lăn",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8997f2346b4df3ae1a78",
+      "reviewed_at": "2026-11-02T09:25:35.0107637Z"
+    },
+    {
+      "transcript": "Số tài khoản: 0621.000.407.217 tại Ngân hàng Vietcombank",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "13b62b9980ac6a1ed45f",
+      "reviewed_at": "2026-11-02T09:25:35.0107955Z"
+    },
+    {
+      "transcript": "Mã số thuế: 8474993150",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6e3bc22324a55d43465f",
+      "reviewed_at": "2026-11-02T09:25:35.0108361Z"
+    },
+    {
+      "transcript": "Đơn vị bán hàng: HỘ KINH DOANH QUÁN ĂN UỐNG HƯƠNG DỪA",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "0e734ce6c169e3635331",
+      "reviewed_at": "2026-11-02T09:25:35.0108718Z"
+    },
+    {
+      "transcript": "Sườn Heo nướng giả Cầy",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ac4657d48a8991009376",
+      "reviewed_at": "2026-11-02T09:25:35.0109126Z"
+    }
+  ],
+  "version": 1
+}

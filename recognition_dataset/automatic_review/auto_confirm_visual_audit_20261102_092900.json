@@ -1,0 +1,20 @@
+{
+  "invoice": "WEB_052",
+  "method": "manual_visual_review",
+  "confirmed": [
+    {
+      "crop_id": "3388e3242a599a08a6c2",
+      "transcript": "Phần"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "e9f0c30d752f0e214168",
+      "reason": "chữ SIGNATURE VALID bị dấu phủ; để chờ"
+    },
+    {
+      "crop_id": "42c9d93338d9bf4ca671",
+      "reason": "chữ ký đỏ bị dấu mộc che; để chờ"
+    }
+  ]
+}

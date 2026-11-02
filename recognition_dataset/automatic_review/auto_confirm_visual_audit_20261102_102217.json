@@ -1,0 +1,150 @@
+{
+  "invoice": "WEB_117",
+  "timestamp_utc": "2026-11-02T03:22:17.2488055Z",
+  "reviewed_count": 20,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Đối chiếu crop, đọc riêng mã tra cứu; nối chuỗi mã số thuế theo các chữ số rõ ràng trên ảnh, chuẩn hóa một dấu cách.",
+  "annotations": [
+    {
+      "crop_id": "76f14cb02ad3566cb19e",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T03:22:17.2432048Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bf683528d2b9abed1e8f",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C26TCU",
+      "reviewed_at": "2026-11-02T03:22:17.2469543Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "26e56521950741afd637",
+      "status": "verified",
+      "transcript": "Ngày 27 tháng 01 năm 2026",
+      "reviewed_at": "2026-11-02T03:22:17.2482030Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ffe84b01584a881faf07",
+      "status": "verified",
+      "transcript": "Địa chỉ: C6/24 đường Võ Văn Vân, Xã Tân Vĩnh Lộc, TP Hồ Chí Minh, Việt Nam.",
+      "reviewed_at": "2026-11-02T03:22:17.2482805Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "460083bf3bf95e5794a3",
+      "status": "verified",
+      "transcript": "Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.",
+      "reviewed_at": "2026-11-02T03:22:17.2483237Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ea4489fd38e24cd6a297",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "reviewed_at": "2026-11-02T03:22:17.2483524Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "be833deff1bf59c1316d",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0310765873",
+      "reviewed_at": "2026-11-02T03:22:17.2483842Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3887166636d858317746",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "reviewed_at": "2026-11-02T03:22:17.2484158Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8aa3cd49cf76257cc1ba",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:22:17.2484412Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fff57d27321d5b1fc1aa",
+      "status": "verified",
+      "transcript": "Khuôn trụ 50x100mm VN",
+      "reviewed_at": "2026-11-02T03:22:17.2484702Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "016567b8abfcdcb2769a",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "reviewed_at": "2026-11-02T03:22:17.2484952Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "90bfd8d81ec1c8187f44",
+      "status": "verified",
+      "transcript": "8% Tiền thuế GTGT:",
+      "reviewed_at": "2026-11-02T03:22:17.2485227Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dcc2187b7416f878fdc7",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "reviewed_at": "2026-11-02T03:22:17.2485485Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2c944577e0c5e5857f4d",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán:",
+      "reviewed_at": "2026-11-02T03:22:17.2485743Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "22af92af0df75b5f4409",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ: Mười bốn triệu năm trăm tám mươi nghìn đồng.",
+      "reviewed_at": "2026-11-02T03:22:17.2486094Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cf5d16b17bba1aa7ea53",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T03:22:17.2486345Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "76df8dd2ac14319e48bb",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:22:17.2486947Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0b44f9f4c84927c9c614",
+      "status": "verified",
+      "transcript": "THỊNH",
+      "reviewed_at": "2026-11-02T03:22:17.2487217Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "31c404c8b9a63c1e0a96",
+      "status": "verified",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: VLFWI_Z9XBNX",
+      "reviewed_at": "2026-11-02T03:22:17.2487581Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7f3adbf4f652c6f26fb4",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:22:17.2487926Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

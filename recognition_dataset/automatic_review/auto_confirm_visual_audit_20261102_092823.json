@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-11-02T09:28:23.651958+07:00",
+  "method": "manual_visual_review",
+  "confirmed": [
+    {
+      "crop_id": "1a4e94ce9811c15bb4c5",
+      "invoice": "WEB_026",
+      "transcript": "thương Việt Nam ( Vietcombank )"
+    },
+    {
+      "crop_id": "1b9f16d4dfdda428e0a5",
+      "invoice": "WEB_027",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "6a65d36faddd91948ed6",
+      "invoice": "WEB_027",
+      "transcript": "PHẦN"
+    },
+    {
+      "crop_id": "85100f704a115c93972e",
+      "invoice": "WEB_028",
+      "transcript": "Tra cứu tại website: https://8730438344-001-tt78.vnpt-invoice.com.vn"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "be7e80c874dc6ac5bc65",
+      "reason": "chữ đỏ bị dấu mộc che, không đủ chắc chắn"
+    },
+    {
+      "crop_id": "390e9a19d729e76c6bf9",
+      "reason": "vùng tên/chữ bị dấu mộc phủ, transcript không chắc"
+    }
+  ]
+}

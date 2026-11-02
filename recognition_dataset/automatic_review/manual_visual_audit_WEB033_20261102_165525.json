@@ -1,0 +1,23 @@
+{
+  "reviewed": [
+    {
+      "evidence": "Complete lookup line is clear in crop; each page independently shows identical full text.",
+      "transcript": "Tra cứu hóa đơn tại website: https://tracuuhoadon.minvoice.com.vn/ - Mã tra cứu: 180C4198",
+      "page": 1,
+      "length": 89,
+      "invoice": "WEB_033",
+      "crop_id": "3ad92a35f08290249b57"
+    },
+    {
+      "evidence": "Complete lookup line is clear in crop; each page independently shows identical full text.",
+      "transcript": "Tra cứu hóa đơn tại website: https://tracuuhoadon.minvoice.com.vn/ - Mã tra cứu: 180C4198",
+      "page": 2,
+      "length": 89,
+      "invoice": "WEB_033",
+      "crop_id": "0eda2fe3d5496ffa0b0d"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_165525.json",
+  "created_at_utc": "2026-11-02T09:55:29.6816119Z",
+  "skipped": "Long addresses/footers and crop clipped at seller signature remain pending."
+}

@@ -1,0 +1,71 @@
+{
+  "annotations": [
+    {
+      "review_note": "HD_192 total before VAT label fully legible.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "Cộng tiền hàng (Total amount excl. VAT):",
+      "crop_id": "f10ca7e88b5c3cd725a0",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    },
+    {
+      "review_note": "HD_192 VAT amount label fully legible.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "crop_id": "038d5d0cbb667a0218f9",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    },
+    {
+      "review_note": "HD_192 VAT rate line fully legible; spacing retained.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "Thuế suất GTGT (VAT rate): 8 %",
+      "crop_id": "479566422e05611a9588",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    },
+    {
+      "review_note": "HD_192 total payment label fully legible.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "Tổng tiền thanh toán (Total amount):",
+      "crop_id": "c6f3fe3b6ce771fceff9",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    },
+    {
+      "review_note": "HD_192 buyer label occurrence fully legible.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "35733a07ff5798d06cfd",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    },
+    {
+      "review_note": "HD_192 second buyer label occurrence fully legible.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "fed006070e02b34238b4",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    },
+    {
+      "review_note": "HD_192 signature note fully legible.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "(Chữ ký số (nếu có))",
+      "crop_id": "6b4626f6489e27e66052",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    },
+    {
+      "review_note": "HD_192 second signature note fully legible.",
+      "reviewed_at": "2026-11-02T01:39:25.9202820Z",
+      "transcript": "(Chữ ký số (nếu có))",
+      "crop_id": "2c13c63aa00621fabb8b",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    }
+  ],
+  "created_at_utc": "2026-11-02T01:39:25.9202820Z",
+  "run_id": "visual_20261102_083925",
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page"
+}

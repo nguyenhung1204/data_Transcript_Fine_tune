@@ -1,0 +1,84 @@
+{
+  "created_at": "2026-11-02T09:39:18.970504+07:00",
+  "invoice": "WEB_066",
+  "method": "manual_visual_review",
+  "count": 19,
+  "annotations": [
+    {
+      "crop_id": "8e45ab09af844a1ae252",
+      "transcript": "Ký hiệu (Serial): 1C24TAD"
+    },
+    {
+      "crop_id": "800d0977bf31427ddff7",
+      "transcript": "Số (No.): 40"
+    },
+    {
+      "crop_id": "cfd0d906f1a5ad34bd9c",
+      "transcript": "Bản thể hiện của hóa đơn điện tử"
+    },
+    {
+      "crop_id": "84fe985e17959f442a3e",
+      "transcript": "Mã số thuế (Tax code): 0109569475"
+    },
+    {
+      "crop_id": "932e94f2d5d9681d0eac",
+      "transcript": "Điện thoại (Tel):"
+    },
+    {
+      "crop_id": "2589891c31436ae83253",
+      "transcript": "Số tài khoản (Account No.):"
+    },
+    {
+      "crop_id": "3a78baf4189eb06db1f9",
+      "transcript": "Số tài khoản (Account No.):"
+    },
+    {
+      "crop_id": "dae479bb714d36bf5f0b",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK"
+    },
+    {
+      "crop_id": "7d5a73d7beabaabda534",
+      "transcript": "Đơn vị tính"
+    },
+    {
+      "crop_id": "19afe0af3898098067c5",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "26c450f5d472b9d279ce",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "d562c060ac97cf3f91a1",
+      "transcript": "Hộp"
+    },
+    {
+      "crop_id": "d05da3513c6358eef3db",
+      "transcript": "Sữa 9 loại hạt VNM Super Nut hộp 180ml"
+    },
+    {
+      "crop_id": "22159a4c02538ea6afc3",
+      "transcript": "Cộng tiền hàng (Total amount):"
+    },
+    {
+      "crop_id": "8e2006ce7113dcc640c7",
+      "transcript": "Tiền thuế GTGT (VAT amount):"
+    },
+    {
+      "crop_id": "a408bca33cea1fe79748",
+      "transcript": "Người bán hàng (Seller)"
+    },
+    {
+      "crop_id": "763b2d4409a4ab35bff2",
+      "transcript": "(Ký, ghi rõ họ, tên)(Sign, full name)"
+    },
+    {
+      "crop_id": "c6049b1a3c87cc2ad56c",
+      "transcript": "(Ký, ghi rõ họ, tên)(Sign, full name)"
+    },
+    {
+      "crop_id": "7ea10369a9de1c0ee2c2",
+      "transcript": "SOLRYEDKZY8HBO5. Mã của cơ quan thuế: 006BBB8F3D824747AE919A6BF837CBDA8B"
+    }
+  ]
+}

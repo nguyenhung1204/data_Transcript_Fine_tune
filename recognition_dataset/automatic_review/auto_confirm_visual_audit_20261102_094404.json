@@ -1,0 +1,421 @@
+{
+  "invoice": "WEB_069",
+  "created_at": "2026-11-02T02:44:07.2028388Z",
+  "method": "manual_visual_review",
+  "count": 59,
+  "annotations": [
+    {
+      "crop_id": "8ba8006494f500c598e0",
+      "status": "verified",
+      "transcript": "Ký hiệu (Form no): 1C25MSE",
+      "reviewed_at": "2026-11-02T02:44:07.1914012Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f84b634f60e447cd1f49",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T02:44:07.1984682Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "06214827caf6994affe7",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0303808501-002",
+      "reviewed_at": "2026-11-02T02:44:07.1986611Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e3e1bafc23efc55eadda",
+      "status": "verified",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "reviewed_at": "2026-11-02T02:44:07.1987973Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "849e478b3d6fb0cab157",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address): 14 Einstein, Phường Bình Thọ, Thành phố Thủ Đức,",
+      "reviewed_at": "2026-11-02T02:44:07.1989094Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c44a5596228dd532ba2b",
+      "status": "verified",
+      "transcript": "Thành phố Hồ Chí Minh, Việt Nam.",
+      "reviewed_at": "2026-11-02T02:44:07.1989758Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b37960f238e6c00532da",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel): (028) 3722 8558",
+      "reviewed_at": "2026-11-02T02:44:07.1990414Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "89d8e5f21b2cc1b517de",
+      "status": "verified",
+      "transcript": "Số tài khoản (Bank account): 0381000437601 Ngân hàng Vietcombank",
+      "reviewed_at": "2026-11-02T02:44:07.1991036Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c9d438fc9faa478516a9",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T02:44:07.1991567Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "979eb37db36d7d24ad15",
+      "status": "verified",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "reviewed_at": "2026-11-02T02:44:07.1992150Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b2cf42453dc2ec906984",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "reviewed_at": "2026-11-02T02:44:07.1992668Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fc8b6665fff497ae284f",
+      "status": "verified",
+      "transcript": "Số tài khoản: (Bank account):",
+      "reviewed_at": "2026-11-02T02:44:07.1993272Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "31c3b2c6b91fed69d962",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "reviewed_at": "2026-11-02T02:44:07.1994004Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b47510a640f006fe1622",
+      "status": "verified",
+      "transcript": "Thuế",
+      "reviewed_at": "2026-11-02T02:44:07.1994587Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "02e9289a1d2d2fe476ee",
+      "status": "verified",
+      "transcript": "Tiền thuế",
+      "reviewed_at": "2026-11-02T02:44:07.1995163Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6a9513ec55765767abb0",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:44:07.1995689Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6b646708550bf49f362c",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:44:07.1996762Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "88e125fd85c9fd0fe61c",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:44:07.1997518Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6f7fb1bf5b5b0e6703c9",
+      "status": "verified",
+      "transcript": "suất",
+      "reviewed_at": "2026-11-02T02:44:07.1998127Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1fa850d49ae50e89d650",
+      "status": "verified",
+      "transcript": "Phần",
+      "reviewed_at": "2026-11-02T02:44:07.1998681Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f8e24dcad24e77440e56",
+      "status": "verified",
+      "transcript": "Phần",
+      "reviewed_at": "2026-11-02T02:44:07.1999288Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1cd50bd165eb0c152308",
+      "status": "verified",
+      "transcript": "Lẩu hải sản",
+      "reviewed_at": "2026-11-02T02:44:07.1999762Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2c9659a8fbc1061343ea",
+      "status": "verified",
+      "transcript": "Khăn lạnh",
+      "reviewed_at": "2026-11-02T02:44:07.2000311Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1b28858e0c0db1a38c6d",
+      "status": "verified",
+      "transcript": "Phần",
+      "reviewed_at": "2026-11-02T02:44:07.2000862Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f7def24730a583b8ad2c",
+      "status": "verified",
+      "transcript": "Phần",
+      "reviewed_at": "2026-11-02T02:44:07.2001423Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9a3efb676b67ca4bf157",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng hóa, dịch vụ: (Invoice total):",
+      "reviewed_at": "2026-11-02T02:44:07.2002459Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a402d97703c79b747f93",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán: (Total amount):",
+      "reviewed_at": "2026-11-02T02:44:07.2003464Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "02ea9ad79992c39acbde",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: M1-25-PCBPE-00000005622",
+      "reviewed_at": "2026-11-02T02:44:07.2004709Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "36e19d9e843d487703a0",
+      "status": "verified",
+      "transcript": "Ký hiệu (Form no): 1C25MSE",
+      "reviewed_at": "2026-11-02T02:44:07.2005416Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "715f987084ab2fd49502",
+      "status": "verified",
+      "transcript": "Số (No): 5622",
+      "reviewed_at": "2026-11-02T02:44:07.2006286Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d2880da1e52fa3c549e9",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T02:44:07.2007108Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7421a00c00b73d8a8d6e",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0303808501-002",
+      "reviewed_at": "2026-11-02T02:44:07.2007946Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ea70444f656c9037d500",
+      "status": "verified",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "reviewed_at": "2026-11-02T02:44:07.2008958Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "994f77bcbb4c1218326c",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address): 14 Einstein, Phường Bình Thọ, Thành phố Thủ Đức,",
+      "reviewed_at": "2026-11-02T02:44:07.2009636Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "712bea4570aea71332a7",
+      "status": "verified",
+      "transcript": "Thành phố Hồ Chí Minh, Việt Nam.",
+      "reviewed_at": "2026-11-02T02:44:07.2010151Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7bbdb24becefa1cd4726",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel): (028) 3722 8558",
+      "reviewed_at": "2026-11-02T02:44:07.2010635Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "13dac01904888e528983",
+      "status": "verified",
+      "transcript": "Số tài khoản (Bank account): 0381000437601 Ngân hàng Vietcombank",
+      "reviewed_at": "2026-11-02T02:44:07.2011159Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0775f092904e1caecf12",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T02:44:07.2011973Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "41298818e8839151a7b3",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "reviewed_at": "2026-11-02T02:44:07.2012860Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fa5886bee11476b69205",
+      "status": "verified",
+      "transcript": "Số tài khoản: (Bank account):",
+      "reviewed_at": "2026-11-02T02:44:07.2013555Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "be5fd0f0cc945d723664",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "reviewed_at": "2026-11-02T02:44:07.2014266Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ef3b11e5f6213009c01f",
+      "status": "verified",
+      "transcript": "Thuế",
+      "reviewed_at": "2026-11-02T02:44:07.2014840Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e62fc5edcd1afd982d27",
+      "status": "verified",
+      "transcript": "Tiền thuế",
+      "reviewed_at": "2026-11-02T02:44:07.2015398Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "78c5a63979d9de7dadfb",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:44:07.2015842Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "45f7e6b0cfd6d9eb5af0",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:44:07.2016280Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7ba2497bb2684eb6c1a8",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:44:07.2017053Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "142312500cae9981cf8e",
+      "status": "verified",
+      "transcript": "Đơn",
+      "reviewed_at": "2026-11-02T02:44:07.2018024Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f0e156bb258aa9176294",
+      "status": "verified",
+      "transcript": "suất",
+      "reviewed_at": "2026-11-02T02:44:07.2018988Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "97fe5689766d2eb6028b",
+      "status": "verified",
+      "transcript": "sau thuế",
+      "reviewed_at": "2026-11-02T02:44:07.2019753Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9af812809e7590f60731",
+      "status": "verified",
+      "transcript": "Tổng tiền không chịu thuế (Total amount exempt from tax):",
+      "reviewed_at": "2026-11-02T02:44:07.2020318Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d10f1bca53962a6424a6",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế 0%: (Total amount subject to 0% tax):",
+      "reviewed_at": "2026-11-02T02:44:07.2021224Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e7fdd156adfb3a0f166a",
+      "status": "verified",
+      "transcript": "Tổng tiền thuế GTGT 5%: (VAT amount 5%):",
+      "reviewed_at": "2026-11-02T02:44:07.2021904Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "46d0f9eae6d6502d0c99",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế 5%: (Total amount subject to 5% tax):",
+      "reviewed_at": "2026-11-02T02:44:07.2022473Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5a2c551c64b6c2175933",
+      "status": "verified",
+      "transcript": "Tổng tiền thuế GTGT 8%: (VAT amount 8%): 222.160",
+      "reviewed_at": "2026-11-02T02:44:07.2023173Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "41d83bdf06289563f6a9",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế 8%: (Total amount subject to 8% tax): 2.777.000",
+      "reviewed_at": "2026-11-02T02:44:07.2023708Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b2222f853c9813e71d94",
+      "status": "verified",
+      "transcript": "Tổng tiền thuế GTGT 10%: (VAT amount 10%):",
+      "reviewed_at": "2026-11-02T02:44:07.2024662Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ce251b087c0514bd572d",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế 10%: (Total amount subject to 10% tax):",
+      "reviewed_at": "2026-11-02T02:44:07.2025644Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f21e88146b6ebd2fb98d",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:44:07.2026241Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c1ea68aca963bf9ae697",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: M1-25-PCBPE-00000005622",
+      "reviewed_at": "2026-11-02T02:44:07.2027265Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

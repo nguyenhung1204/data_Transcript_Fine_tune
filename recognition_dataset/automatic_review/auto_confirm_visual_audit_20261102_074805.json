@@ -1,0 +1,42 @@
+{
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074805.json",
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:48:05.7408717Z",
+  "note": "Eight crop images visually inspected and compared with the invoice page; transcripts copied as visible.",
+  "method": "manual_visual_review_crop_images",
+  "invoice": "HD_036",
+  "confirmed": [
+    {
+      "crop_id": "aaf020f42bd75d07a769",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG"
+    },
+    {
+      "crop_id": "d82ed2312e57e4a0a1ef",
+      "transcript": "Ký hiệu (Serial): 1C25TKP"
+    },
+    {
+      "crop_id": "c2cfb1bf0ea3e2624411",
+      "transcript": "Số (No): 00000100"
+    },
+    {
+      "crop_id": "1379399b6948d88672d7",
+      "transcript": "Mã của cơ quan thuế: 003F8D71957F5B4249B0953A12ED208330"
+    },
+    {
+      "crop_id": "e133bd936964be7d9ae1",
+      "transcript": "Đơn vị bán (Seller): CÔNG TY TNHH NHỰA VÀ CAO SU KIẾN PHÁT VIỆT NAM"
+    },
+    {
+      "crop_id": "bf975af0ed643bfdb2e2",
+      "transcript": "Mã số thuế (Tax code): 3900335269"
+    },
+    {
+      "crop_id": "ec21bfb168edfacd68b0",
+      "transcript": "Địa chỉ (Address): Đường số 5, KCN Trảng Bàng, Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam"
+    },
+    {
+      "crop_id": "f7bc1c5b2e7dd9b65eed",
+      "transcript": "Điện thoại (Tel): 0276.3896847-8"
+    }
+  ]
+}

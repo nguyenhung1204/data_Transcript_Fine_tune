@@ -1,0 +1,136 @@
+{
+  "created_at_utc": "2026-11-02T00:20:36.1702927Z",
+  "method": "manual_visual_review",
+  "count": 8,
+  "confirmed": [
+    {
+      "crop_id": "33d658c13d24c60b2d7e",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        268,
+        1980,
+        876,
+        2037
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\33d658c13d24c60b2d7e.png",
+      "transcript": "Combo 3 Loại Bò Tươi Thương Hạng",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:35.8480936Z"
+    },
+    {
+      "crop_id": "23c71fd0faac0ebfbcc1",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        266,
+        2043,
+        442,
+        2099
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\23c71fd0faac0ebfbcc1.png",
+      "transcript": "Khăn lạnh",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:35.9205723Z"
+    },
+    {
+      "crop_id": "5e59a8528849cfaf249b",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        955,
+        2104,
+        1054,
+        2161
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\5e59a8528849cfaf249b.png",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:35.9653878Z"
+    },
+    {
+      "crop_id": "6fad84d8eec89e1f8676",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        268,
+        2110,
+        541,
+        2159
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\6fad84d8eec89e1f8676.png",
+      "transcript": "Kim chi cải thảo",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:36.0045214Z"
+    },
+    {
+      "crop_id": "3230216013e6af336dc4",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        952,
+        2167,
+        1056,
+        2226
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\3230216013e6af336dc4.png",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:36.0428849Z"
+    },
+    {
+      "crop_id": "5dc67791b3f1a40a9530",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        954,
+        2232,
+        1054,
+        2290
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\5dc67791b3f1a40a9530.png",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:36.0839782Z"
+    },
+    {
+      "crop_id": "a74c9ad485dfaa7351aa",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        268,
+        2239,
+        608,
+        2291
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\a74c9ad485dfaa7351aa.png",
+      "transcript": "Mực ống size jumbo",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:36.1219288Z"
+    },
+    {
+      "crop_id": "21cadb74cee37ac367c0",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        954,
+        2296,
+        1054,
+        2354
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\21cadb74cee37ac367c0.png",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:36.1598514Z"
+    }
+  ],
+  "note": "Compared crop image directly to PDF text candidate; transcript copied as visible after visual verification."
+}

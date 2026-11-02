@@ -1,0 +1,42 @@
+{
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:43:07.8516447Z",
+  "confirmed": [
+    {
+      "crop_id": "faa7bc467b79cfbbb098",
+      "transcript": "30/6A Khu phố 2, Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ"
+    },
+    {
+      "crop_id": "e282e07447195e171023",
+      "transcript": "Địa chỉ (Address):"
+    },
+    {
+      "crop_id": "9b92b96884dbc39daabf",
+      "transcript": "Điện thoại (Tel.):"
+    },
+    {
+      "crop_id": "357a8f85eecbd0233a8e",
+      "transcript": "0371000495873 tại Ngân hàng TMCP Ngoại Thương Việt Nam"
+    },
+    {
+      "crop_id": "e0c3fe891f43eedd0dd7",
+      "transcript": "Người mua (Buyer):"
+    },
+    {
+      "crop_id": "0088ba6606e34e3dc7f0",
+      "transcript": "CÔNG TY TNHH DỊCH VỤ TƯ VẤN KẾ TOÁN THUẾ THUẬN VIỆT"
+    },
+    {
+      "crop_id": "283a1bc77ddfd176167f",
+      "transcript": "Đơn vị (Co. name):"
+    },
+    {
+      "crop_id": "cb2a47429a443d04819f",
+      "transcript": "VP 3.04, Tòa Nhà ST.Moritz, 1014 Phạm Văn Đồng, Phường Hiệp Bình Chánh,"
+    }
+  ],
+  "note": "All eight crop images were visually inspected; visible text copied verbatim, including line-ending punctuation.",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074307.json",
+  "invoice": "HD_034",
+  "method": "manual_visual_review_crop_images"
+}

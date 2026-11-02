@@ -1,0 +1,191 @@
+{
+  "annotations": [
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "crop_id": "8fccadc5e6210bf4e182",
+      "status": "verified",
+      "review_note": "WEB_036: tiêu đề in rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Ký hiệu (Serial): 1C23MSG",
+      "crop_id": "66f9b8b440fb5d45d7ae",
+      "status": "verified",
+      "review_note": "WEB_036: ký hiệu đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Số (No.): 21073",
+      "crop_id": "2daa40de3d0a1b6f2d69",
+      "status": "verified",
+      "review_note": "WEB_036: số hóa đơn đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Đơn vị bán hàng (Seller): CÔNG TY CỔ PHẦN SOM TUM THAI",
+      "crop_id": "df568ac995adcdb76ed2",
+      "status": "verified",
+      "review_note": "WEB_036: tên bên bán in đỏ rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Mã số thuế (Tax code): 0 3 1 5 8 4 7 4 5 6",
+      "crop_id": "61f954d3bd94c742aa2d",
+      "status": "verified",
+      "review_note": "WEB_036: chữ số hiển thị cách nhau trên crop, giữ nguyên khoảng cách.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Địa chỉ (Address): 180 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "crop_id": "0aee2621c525e1a51542",
+      "status": "verified",
+      "review_note": "WEB_036: dòng địa chỉ đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "ĐỊA ĐIỂM KINH DOANH CÔNG TY CỔ PHẦN SOM TUM THAI",
+      "crop_id": "02cd4d635e36bedffa50",
+      "status": "verified",
+      "review_note": "WEB_036: tên địa điểm kinh doanh in rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Mã địa điểm kinh doanh (Code): 00001",
+      "crop_id": "8d990f7addc5c199b8af",
+      "status": "verified",
+      "review_note": "WEB_036: mã địa điểm đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Số điện thoại (Tel): 028 39151155, 028 39152266",
+      "crop_id": "f1945316f6f127e34f77",
+      "status": "verified",
+      "review_note": "WEB_036: hai số điện thoại đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "crop_id": "7a5da51d605c07b6540f",
+      "status": "verified",
+      "review_note": "WEB_036: nhãn người mua đầy đủ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH SIEMENS GAMESA RENEWABLE ENERGY",
+      "crop_id": "00a43393765598f33623",
+      "status": "verified",
+      "review_note": "WEB_036: tên đơn vị đọc rõ trên crop phóng to.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Mã số thuế (Tax code): 0314536810",
+      "crop_id": "3dc5cb33ccdf58c93985",
+      "status": "verified",
+      "review_note": "WEB_036: MST đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Điện thoại (Tel):",
+      "crop_id": "d46ff30fb086d504190b",
+      "status": "verified",
+      "review_note": "WEB_036: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Căn cước công dân (Citizen identity card):",
+      "crop_id": "896b9b5cf837346e3f5e",
+      "status": "verified",
+      "review_note": "WEB_036: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Đơn giá",
+      "crop_id": "dac8f6187c2dfb1788b6",
+      "status": "verified",
+      "review_note": "WEB_036: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Đơn vị tính",
+      "crop_id": "863f770287c551c43f61",
+      "status": "verified",
+      "review_note": "WEB_036: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "9aec6ac3d454506c7bf6",
+      "status": "verified",
+      "review_note": "WEB_036: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Phần",
+      "crop_id": "d3635da19ee45714736f",
+      "status": "verified",
+      "review_note": "WEB_036: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Cơm trắng",
+      "crop_id": "c8e28a1c83c87b6b1f80",
+      "status": "verified",
+      "review_note": "WEB_036: tên món đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Phần",
+      "crop_id": "7a6231ab5dbc60faed52",
+      "status": "verified",
+      "review_note": "WEB_036: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Đọt su su xào",
+      "crop_id": "19be25ad28d7b942bfbb",
+      "status": "verified",
+      "review_note": "WEB_036: tên món đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Phần",
+      "crop_id": "42f23f5860b19adc2ef9",
+      "status": "verified",
+      "review_note": "WEB_036: đơn vị tính đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:53:19.0776854Z",
+      "transcript": "Gà xiên nướng sốt sate",
+      "crop_id": "cd768bb4d01c243a201f",
+      "status": "verified",
+      "review_note": "WEB_036: tên món đọc rõ.",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "run_id": "visual_20261102_085319",
+  "created_at_utc": "2026-11-02T01:53:19.0776854Z",
+  "policy": "Each crop inspected visually; ambiguous product word in adjacent crop was left pending."
+}

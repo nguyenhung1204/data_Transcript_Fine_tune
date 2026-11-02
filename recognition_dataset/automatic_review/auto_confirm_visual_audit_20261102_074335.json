@@ -1,0 +1,42 @@
+{
+  "timestamp_utc": "2026-11-02T00:43:35.8762394Z",
+  "skipped": [],
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "transcript": "Địa chỉ (Address):",
+      "crop_id": "54eb4abaa62870f522a4"
+    },
+    {
+      "transcript": "Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "crop_id": "952525793697acc52a57"
+    },
+    {
+      "transcript": "HTTT (Pay. method): Tiền mặt",
+      "crop_id": "8fed97844d9b097ec0b1"
+    },
+    {
+      "transcript": "Tiền thuế",
+      "crop_id": "fd112199598cc1daa382"
+    },
+    {
+      "transcript": "Thuế suất",
+      "crop_id": "7a3f43fca01578924e87"
+    },
+    {
+      "transcript": "ĐVT",
+      "crop_id": "d35ab83d7463db2572a7"
+    },
+    {
+      "transcript": "Thành tiền",
+      "crop_id": "bf864f9638a7af86d7b5"
+    },
+    {
+      "transcript": "Đơn giá",
+      "crop_id": "2952f1d8c20f6733fb92"
+    }
+  ],
+  "invoice": "HD_034",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074335.json",
+  "note": "Eight crop images visually inspected; exact visible text confirmed."
+}

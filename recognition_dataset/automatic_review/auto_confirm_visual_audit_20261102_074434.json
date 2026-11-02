@@ -1,0 +1,42 @@
+{
+  "method": "manual_visual_review_crop_images",
+  "skipped": [],
+  "confirmed": [
+    {
+      "crop_id": "d5af4744802682e52552",
+      "transcript": "Lốc"
+    },
+    {
+      "crop_id": "7a0e1c178b8dc0e8b89f",
+      "transcript": "Cốc giấy 6oz-lốc 50 cái"
+    },
+    {
+      "crop_id": "f3cfd7af48d1758ad7de",
+      "transcript": "Mực dấu S62 hiệu Shiny"
+    },
+    {
+      "crop_id": "b8194155dc59667dc351",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG"
+    },
+    {
+      "crop_id": "e6f28a736a1c7c9c615f",
+      "transcript": "Mẫu số - Ký hiệu (Serial No.): 1C25TAA"
+    },
+    {
+      "crop_id": "67573820efbe1aa5fa6e",
+      "transcript": "Số (Invoice No.): 00001890"
+    },
+    {
+      "crop_id": "a1a5434ab4c273ae9d5f",
+      "transcript": "Mã của Cơ quan thuế: 000478E10562C443B280080E96D1199403"
+    },
+    {
+      "crop_id": "f85f6077fd358a26e181",
+      "transcript": "CÔNG TY TNHH TM DV HẢI HÀ"
+    }
+  ],
+  "invoice": "HD_034",
+  "timestamp_utc": "2026-11-02T00:44:34.9653646Z",
+  "note": "All eight crop images visually inspected; visible text confirmed.",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074434.json"
+}

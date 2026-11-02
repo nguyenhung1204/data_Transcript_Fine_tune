@@ -1,0 +1,140 @@
+{
+  "created_at_utc": "2026-11-02T02:04:09.480253+00:00",
+  "invoice": "WEB_047",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 22,
+  "items": [
+    {
+      "crop_id": "2dd536eb03ca4a339d21",
+      "transcript": "Tiền thuế",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "a3a876a36eeca2559783",
+      "transcript": "suất",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "d8a35969aa7f3894f6c4",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "38594afa4f1b9bd8346c",
+      "transcript": "Sò điệp hokkaido nướng giấy bạc",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "c635cbdedd7727cac312",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "e02794c664c462c19a36",
+      "transcript": "Trứng gà",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "81d693f53e69c023acf9",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "a7bcbe8181316553a0fd",
+      "transcript": "Xà lách cá trích ép trứng",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "e6b8cbe17cdedb5b7068",
+      "transcript": "Thuế",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "a4442deb07193746b054",
+      "transcript": "Tổng tiền thuế",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "ccb94c1d3cc00b8c740e",
+      "transcript": "Tổng tiền chưa thuế",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "c642a1ac889a567e20c6",
+      "transcript": "suất",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "82916e189882fff9ef19",
+      "transcript": "Tổng tiền thanh toán",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "6d4029dfc8d8b2fd892d",
+      "transcript": "Tổng tiền không chịu thuế:",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "d903e51b117c35988e09",
+      "transcript": "Tổng tiền chịu thuế suất:",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "0a09e480a476e463ccfb",
+      "transcript": "Tổng tiền chịu thuế suất:",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "1731eb4cf90559b04d98",
+      "transcript": "Tổng cộng (Total amount):",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "60a5d764de18952be4ba",
+      "transcript": "Người mua hàng (Buyer)",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "8f9bee83fb4576462519",
+      "transcript": "Người bán hàng (Seller)",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "a455afb5f281ae9f2e9a",
+      "transcript": "Mã của cơ quan thuế (Tax authority code): M1-25-NA4KU-71670009457",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "2bec24d8e34e04f2a5a3",
+      "transcript": "Trang tra cứu: http://0315852382hd.easyinvoice.com.vn Mã tra cứu: CAVL5RM2W",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    },
+    {
+      "crop_id": "1d301517f9b02f58765f",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop image; visible text is legible and transcript matches."
+    }
+  ]
+}

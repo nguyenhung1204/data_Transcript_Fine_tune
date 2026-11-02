@@ -1,0 +1,197 @@
+{
+  "invoice": "WEB_091",
+  "timestamp_utc": "2026-11-02T02:56:31.6597063Z",
+  "reviewed_count": 26,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "crop_id": "6a86717a07702550c8dd",
+      "reason": "Red seller signature text is cut at the right edge and continues below crop; cannot confirm complete transcript."
+    }
+  ],
+  "notes": "Three contact sheets visually checked; signatures, tax labels, values and product heading inspected at readable scale. Whitespace normalized to one space.",
+  "annotations": [
+    {
+      "crop_id": "10639cfe752c786ddfa4",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0312193244",
+      "reviewed_at": "2026-11-02T02:56:31.6520617Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ebaabea0446bfbe027ab",
+      "status": "verified",
+      "transcript": "Minh, Việt Nam Điện thoại: 0931544144",
+      "reviewed_at": "2026-11-02T02:56:31.6586888Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9226a41db03e7f747c78",
+      "status": "verified",
+      "transcript": "Số tài khoản: 1031 123288 - CT CP CONG NGHE DI DONG VIET - VCB CN",
+      "reviewed_at": "2026-11-02T02:56:31.6587949Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f5a7ea1f2d09a8aef67b",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T02:56:31.6588435Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dffc507ff93fbc73d23d",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25TDD",
+      "reviewed_at": "2026-11-02T02:56:31.6588807Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d9379a06cb5354493d89",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Customer's name):",
+      "reviewed_at": "2026-11-02T02:56:31.6589236Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0dc33bb265110132b1bd",
+      "status": "verified",
+      "transcript": "Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T02:56:31.6589642Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8ea3733eca7940df0fc8",
+      "status": "verified",
+      "transcript": "Tài khoản ngân hàng(Bank Account) :",
+      "reviewed_at": "2026-11-02T02:56:31.6590066Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "be457f892bc8d3ba8f18",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "reviewed_at": "2026-11-02T02:56:31.6590515Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c006e3128bf0aab0e9dd",
+      "status": "verified",
+      "transcript": "Thuế",
+      "reviewed_at": "2026-11-02T02:56:31.6590890Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a3a4b55f3f680a7c8095",
+      "status": "verified",
+      "transcript": "Số",
+      "reviewed_at": "2026-11-02T02:56:31.6591215Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "11b8405a32c959061501",
+      "status": "verified",
+      "transcript": "Tiền thuế",
+      "reviewed_at": "2026-11-02T02:56:31.6591536Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e28541b1e4b899633225",
+      "status": "verified",
+      "transcript": "suất",
+      "reviewed_at": "2026-11-02T02:56:31.6591825Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "42c25c702c6a3539f67d",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:56:31.6592180Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "69f04061b209a3dbc6f1",
+      "status": "verified",
+      "transcript": "tiền",
+      "reviewed_at": "2026-11-02T02:56:31.6592475Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1a1d329d2d70d6ef0bf3",
+      "status": "verified",
+      "transcript": "ĐIỆN THOẠI THÔNG MINH",
+      "reviewed_at": "2026-11-02T02:56:31.6592840Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fd6db6e29dae80add99e",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT",
+      "reviewed_at": "2026-11-02T02:56:31.6593714Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6825b664018faa3be427",
+      "status": "verified",
+      "transcript": "Cộng tiền thanh toán",
+      "reviewed_at": "2026-11-02T02:56:31.6594069Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "17b62aa273fd361548f8",
+      "status": "verified",
+      "transcript": "Thuế suất 5%:",
+      "reviewed_at": "2026-11-02T02:56:31.6594394Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f86c7de93cd1e22d5089",
+      "status": "verified",
+      "transcript": "Thuế suất 8%:",
+      "reviewed_at": "2026-11-02T02:56:31.6594715Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f49bdff37472e6787adb",
+      "status": "verified",
+      "transcript": "Thuế suất 10%:",
+      "reviewed_at": "2026-11-02T02:56:31.6595117Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9a610654f101d4d4318a",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:56:31.6595474Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "15e019c3cae650ec0f7c",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:56:31.6595823Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "41399c5b9d695719dcc0",
+      "status": "verified",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T02:56:31.6596166Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "573d0ad37fb622b5e523",
+      "status": "verified",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T02:56:31.6596503Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "800b317fb29b65f207c5",
+      "status": "verified",
+      "transcript": "Chữ ký có hiệu lực",
+      "reviewed_at": "2026-11-02T02:56:31.6596846Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

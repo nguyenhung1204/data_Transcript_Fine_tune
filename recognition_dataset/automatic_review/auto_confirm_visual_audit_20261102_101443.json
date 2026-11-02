@@ -1,0 +1,141 @@
+{
+  "invoice": "WEB_106",
+  "timestamp_utc": "2026-11-02T03:14:43.2355515Z",
+  "reviewed_count": 18,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "reason": "Crop cắt mất phần cuối từ “dịch vụ”, transcript không đầy đủ.",
+      "crop_id": "67532a7eb2e25f000056"
+    }
+  ],
+  "notes": "Đối chiếu trực tiếp contact sheet crop; xác nhận từng nội dung nhìn rõ, giữ chính tả và viết hoa như ảnh; chỉ chuẩn hóa khoảng trắng.",
+  "annotations": [
+    {
+      "crop_id": "2277d27f264728b80f22",
+      "status": "verified",
+      "transcript": "Ký hiệu: C22LYY",
+      "reviewed_at": "2026-11-02T03:14:43.2300300Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ef8346cd65e4e14a70df",
+      "status": "verified",
+      "transcript": "HOÁ ĐƠN BÁN HÀNG",
+      "reviewed_at": "2026-11-02T03:14:43.2337185Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3b891b8105dd36876300",
+      "status": "verified",
+      "transcript": "Mã hồ sơ: 8702220001427",
+      "reviewed_at": "2026-11-02T03:14:43.2337843Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e1e25b55fce03bfe7df3",
+      "status": "verified",
+      "transcript": "Điện thoại: 02773851422",
+      "reviewed_at": "2026-11-02T03:14:43.2338187Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9fb15a20a120500d6dc7",
+      "status": "verified",
+      "transcript": "Tên người mua: trần ngọc mẫn",
+      "reviewed_at": "2026-11-02T03:14:43.2350768Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cd1b1036b09a086ac939",
+      "status": "verified",
+      "transcript": "Mã số thuế: 1400992209",
+      "reviewed_at": "2026-11-02T03:14:43.2351383Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6567caaddaee9b6606ad",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Tiền mặt/Chuyển khoản",
+      "reviewed_at": "2026-11-02T03:14:43.2351775Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3b11c746862f9a4b1b8b",
+      "status": "verified",
+      "transcript": "Ngày bảng kê:",
+      "reviewed_at": "2026-11-02T03:14:43.2352075Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0fa41b87782c0a7abf4d",
+      "status": "verified",
+      "transcript": "Số",
+      "reviewed_at": "2026-11-02T03:14:43.2352333Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "65977a8dcadb019725f6",
+      "status": "verified",
+      "transcript": "Chiết",
+      "reviewed_at": "2026-11-02T03:14:43.2352602Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0e6675b80fbadb97c1af",
+      "status": "verified",
+      "transcript": "Tính chất",
+      "reviewed_at": "2026-11-02T03:14:43.2352862Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "22037036d96680689612",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:14:43.2353142Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9976df095d52e382daeb",
+      "status": "verified",
+      "transcript": "khấu",
+      "reviewed_at": "2026-11-02T03:14:43.2353616Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "95c7bdf682606e708c47",
+      "status": "verified",
+      "transcript": "Bộ",
+      "reviewed_at": "2026-11-02T03:14:43.2353928Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d9456e8dbbfd177cf268",
+      "status": "verified",
+      "transcript": "Tổng tiền phí",
+      "reviewed_at": "2026-11-02T03:14:43.2354202Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "20a9863e063753a17b1b",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán bằng số",
+      "reviewed_at": "2026-11-02T03:14:43.2354480Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "200e1136ba324da0e8b3",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán bằng chữ",
+      "reviewed_at": "2026-11-02T03:14:43.2355056Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9387b5cf103742efab52",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:14:43.2355422Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

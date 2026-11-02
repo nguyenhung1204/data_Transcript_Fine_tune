@@ -1,0 +1,248 @@
+{
+  "created_at_utc": "2026-11-02T02:24:05.201949+00:00",
+  "invoice": "WEB_037",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 40,
+  "items": [
+    {
+      "crop_id": "3892de65d064f1ea2b29",
+      "transcript": "Thuế",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "c99ac7f7a3ed06b0d329",
+      "transcript": "Thiết bị thu phát sóng mạng không",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "653153fbfa873e8fcb96",
+      "transcript": "Hộp mực đã có mực in CB435A/",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "301ffe8f8a40a92fc751",
+      "transcript": "Bộ",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "c2ea6291c71b2803eaba",
+      "transcript": "Máy bộ vi tính",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "e71b837a12ccba1ebe3f",
+      "transcript": "Màn hình của máy vi tính hiệu",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "d6615a758d8be131da59",
+      "transcript": "Ổ cắm điện LIOA",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "47c864e441799112b9dc",
+      "transcript": "Dây cáp mạng vi tính AMP cat 5E",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "c74c5e954c87c6c2641b",
+      "transcript": "Đầu cắm UTP, cat5e-AMP",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "faf856d1719960dd3b7c",
+      "transcript": "Hộp điện chống nước",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "3c71257a698811f0e2ce",
+      "transcript": "Mã của cơ quan thuế: 008E5B6A9736E949DB88EF948C80A960C8",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "473fccf2ab4dd791906d",
+      "transcript": "Ký hiệu:",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "d4d2d37b25706486d224",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "084d7e6106535243abb0",
+      "transcript": "Điện thoại: 0378.55.77.16",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "bf3f36ae5b15a577960e",
+      "transcript": "Họ tên người mua hàng (Customer's name):",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "b9f233329461291d3b5c",
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "ffc0c4da6103a73e08ae",
+      "transcript": "Số",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "b10d475e4dc45fe098b2",
+      "transcript": "Thuế",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "eb8be4fe7fa18516d89f",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "f4ec64f5f2583de77435",
+      "transcript": "Tiền thuế",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "05502b2c68513985e2e6",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "098ecbab1c544935f4d9",
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "ff524b50214e5a74819d",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "2cd467706329cfc67c2c",
+      "transcript": "sau thuế",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "378391dd1af21dcd5c3d",
+      "transcript": "Dây điện Cadivi 2x1.5",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "1d19a884342d10258475",
+      "transcript": "Nẹp SP 60x40",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "f64d32af2d0513544449",
+      "transcript": "Nẹp SP 24x14",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "1975688b0f9acfc2a8d6",
+      "transcript": "Nẹp SP 39x18",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "e0ab6f7b4dbd78cb5aa9",
+      "transcript": "Máy chấm công vân tay RJ-550",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "354a2b027b41132f328c",
+      "transcript": "Cấu hình hệ thống thiết bị",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "20cacf44441efe207fc3",
+      "transcript": "Chi phí lắp đặt hệ thống",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "08d7cc81d428c03c1ca1",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "3accd1140bbf134ce1a5",
+      "transcript": "Số tiền viết bằng chữ: Một trăm mười bảy triệu tám trăm sáu mươi sáu nghìn chín trăm đồng",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "6936634b55caebf79c29",
+      "transcript": "Tổng tiền không chịu thuế:",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "a7629c6bfaa07b8ea763",
+      "transcript": "Tổng tiền chịu thuế 0%:",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "eed7392dfda5f03482cb",
+      "transcript": "Tổng tiền chịu thuế 5%:",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "1d7e2e7414505cb81fc8",
+      "transcript": "Tổng tiền thuế GTGT 8%: 1.924.000",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "2df3e2fc2a52c6d32e9c",
+      "transcript": "Tổng tiền chịu thuế 8%: 24.050.000",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "b46f48986e4fc2091f5d",
+      "transcript": "Tổng tiền thuế GTGT 10%: 8.353.900",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    },
+    {
+      "crop_id": "bb965638852cd9270ea9",
+      "transcript": "Tổng tiền chịu thuế 10%: 83.539.000",
+      "status": "verified",
+      "visual_note": "Inspected contact sheet and detail crops; transcript matches visible text. Crop with clipped adjacent text omitted."
+    }
+  ]
+}

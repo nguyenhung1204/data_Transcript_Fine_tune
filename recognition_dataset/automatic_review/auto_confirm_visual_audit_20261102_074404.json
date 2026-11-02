@@ -1,0 +1,42 @@
+{
+  "note": "Eight crop images visually inspected; exact visible text confirmed.",
+  "invoice": "HD_034",
+  "skipped": [],
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074404.json",
+  "timestamp_utc": "2026-11-02T00:44:04.4962845Z",
+  "confirmed": [
+    {
+      "crop_id": "f144522876b5f3cf8023",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "c1e5d41ae0036fd855ea",
+      "transcript": "Giấy In 80 A4 (40)"
+    },
+    {
+      "crop_id": "e581eab7e87455f6e464",
+      "transcript": "Xấp"
+    },
+    {
+      "crop_id": "0209d787c808b4ec2e4c",
+      "transcript": "Bao thư 100 - A4, (100 cái/xấp)"
+    },
+    {
+      "crop_id": "371b825bdc44f5349c23",
+      "transcript": "Hộp"
+    },
+    {
+      "crop_id": "829c2ce1bcc96f7e0692",
+      "transcript": "Ghim dập dạng băng bằng sắt"
+    },
+    {
+      "crop_id": "43b658ef44c1fecde9ca",
+      "transcript": "1.650"
+    },
+    {
+      "crop_id": "832b7083ae0630796cd2",
+      "transcript": "Bút bi TL-027 xanh hộp 20"
+    }
+  ],
+  "method": "manual_visual_review_crop_images"
+}

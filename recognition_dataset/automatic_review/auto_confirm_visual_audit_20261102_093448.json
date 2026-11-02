@@ -1,0 +1,156 @@
+{
+  "created_at": "2026-11-02T09:34:48.225420+07:00",
+  "invoice": "WEB_063",
+  "method": "manual_visual_review",
+  "count": 37,
+  "annotations": [
+    {
+      "crop_id": "ae362a57a74857f6d27b",
+      "transcript": "Ký hiệu: 1C25THP"
+    },
+    {
+      "crop_id": "5bb8f238958926ee02ed",
+      "transcript": "VAT INVOICE"
+    },
+    {
+      "crop_id": "efe10209d37e5aab2530",
+      "transcript": "Ngày 07 tháng 06 năm 2025"
+    },
+    {
+      "crop_id": "a75beec33191c063a220",
+      "transcript": "Mã cơ quan thuế: 000B0AD994DB8746CEBB916EB04F269720"
+    },
+    {
+      "crop_id": "a704265e8db462401f93",
+      "transcript": "Số điện thoại: 0913239294"
+    },
+    {
+      "crop_id": "afacbbb4b90325b1eb73",
+      "transcript": "Số tài khoản: 7102201003961"
+    },
+    {
+      "crop_id": "50047bc5ac64036545e7",
+      "transcript": "Ngân hàng: Agribank chi nhánh Huyện Ba Tri"
+    },
+    {
+      "crop_id": "80f955797c540c2e930f",
+      "transcript": "Số tài khoản:"
+    },
+    {
+      "crop_id": "2ddf5bd21f07b74dae66",
+      "transcript": "Ngân hàng:"
+    },
+    {
+      "crop_id": "1f2ee070a2b06d47ea60",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "0a801af4dfd45114e0af",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "0caef9e8a5308fd952ca",
+      "transcript": "Đơn vị tính"
+    },
+    {
+      "crop_id": "cf376642cda855739d3c",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "1c783d417a94af60f432",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "77665372dc54259c5028",
+      "transcript": "Canh thác lác"
+    },
+    {
+      "crop_id": "5bab321cef68a8bfb202",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "1081c924de3d9f9c86ae",
+      "transcript": "Cá heo kho"
+    },
+    {
+      "crop_id": "7a9509e31d12497b2553",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "73df92f6dcad2c4f6242",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "dcfc08c85b7fce3b1a28",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "7620aaefb8134efb2983",
+      "transcript": "Bò xào bông cải"
+    },
+    {
+      "crop_id": "ba9c29e0880e955c37f0",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "9f8db44030281cc0d8ba",
+      "transcript": "Tôm càng"
+    },
+    {
+      "crop_id": "c3da0f662b0876bd1acb",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "b8a706a75d6b5524a6f1",
+      "transcript": "Thịt luộc"
+    },
+    {
+      "crop_id": "0cd1e728992dfe635e93",
+      "transcript": "Phần"
+    },
+    {
+      "crop_id": "cf3597355198c1414c07",
+      "transcript": "Tiền thuế GTGT:"
+    },
+    {
+      "crop_id": "2d9f82b8020c1e775b6c",
+      "transcript": "Thuế suất GTGT: 8%"
+    },
+    {
+      "crop_id": "bd1aae624fea0b5e7de0",
+      "transcript": "Tổng cộng tiền thanh toán:"
+    },
+    {
+      "crop_id": "214b14d7a55d7f91d6b1",
+      "transcript": "Số tiền bằng chữ:"
+    },
+    {
+      "crop_id": "e19ea7e4ab00479d9aa6",
+      "transcript": "CƠ QUAN THUẾ"
+    },
+    {
+      "crop_id": "6f1ad4887c46a1417bfe",
+      "transcript": "Signature Valid"
+    },
+    {
+      "crop_id": "15fb3adb195b6abe4322",
+      "transcript": "Signature Valid"
+    },
+    {
+      "crop_id": "6464a0aae6130a302095",
+      "transcript": "Ký ngày: 07/06/2025 22:02:52"
+    },
+    {
+      "crop_id": "b625c898e8420d28d661",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    },
+    {
+      "crop_id": "39c5e46cf91e0cae611e",
+      "transcript": "Tra tại website: https://1301035304-tt78.vnpt-invoice.com.vn"
+    },
+    {
+      "crop_id": "30962db0345aad4b3fd7",
+      "transcript": "Mã tra cứu: 93171001C25THP167743441"
+    }
+  ]
+}

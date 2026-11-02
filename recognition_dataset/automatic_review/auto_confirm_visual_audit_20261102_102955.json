@@ -1,0 +1,126 @@
+{
+  "invoice": "WEB_121",
+  "reviewed_at_utc": "2026-11-02T03:29:55.3630174Z",
+  "visual_review": "Each listed crop image was visually inspected. Confirmed only legible, complete labels; skipped the stamp-obscured company text.",
+  "confirmed": [
+    {
+      "crop_id": "d1751870d689d9c1ae42",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25TCU",
+      "reviewed_at": "2026-11-02T03:29:55.3081528Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8c2ce8ffa837aa8374ec",
+      "status": "verified",
+      "transcript": "Ngày 05 tháng 09 năm 2025",
+      "reviewed_at": "2026-11-02T03:29:55.3173301Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0c47e738db6d1cee2037",
+      "status": "verified",
+      "transcript": "Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.",
+      "reviewed_at": "2026-11-02T03:29:55.3196747Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f59a85e4b4e6f1c18473",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "reviewed_at": "2026-11-02T03:29:55.3209669Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "21e0522fa54d8135e310",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0310765873",
+      "reviewed_at": "2026-11-02T03:29:55.3221972Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "66b8e6a2504ee98d522e",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:29:55.3233099Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f82966ac395404aa842d",
+      "status": "verified",
+      "transcript": "Cát tiêu chuẩn",
+      "reviewed_at": "2026-11-02T03:29:55.3313488Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7230377cef55be52c172",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "reviewed_at": "2026-11-02T03:29:55.3327755Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fa5b6f2636ecbad6711f",
+      "status": "verified",
+      "transcript": "10% Tiền thuế GTGT:",
+      "reviewed_at": "2026-11-02T03:29:55.3345807Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "47e86526b886cbf3f5f1",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "reviewed_at": "2026-11-02T03:29:55.3360165Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "828e30c0f00973f2e3cc",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán:",
+      "reviewed_at": "2026-11-02T03:29:55.3383420Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "846341c1c3e8e2b5996d",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T03:29:55.3405401Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b37babb5a321f929d024",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:29:55.3431907Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c8ef2ea69e6349cbf66e",
+      "status": "verified",
+      "transcript": "THỊNH",
+      "reviewed_at": "2026-11-02T03:29:55.3452737Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6ffc780a954349c9097e",
+      "status": "verified",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: WGH9T18EM53A",
+      "reviewed_at": "2026-11-02T03:29:55.3473645Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e047e84f2c643d30825b",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:29:55.3496379Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [
+    {
+      "reason": "Green seal obscures characters in company text; left for manual review.",
+      "crop_id": "57038ba5a7ad86b1287b"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_102955.json"
+}

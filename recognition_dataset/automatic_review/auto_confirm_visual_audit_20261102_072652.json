@@ -1,0 +1,141 @@
+{
+  "created_at_utc": "2026-11-02T00:26:52.6291095Z",
+  "method": "manual_visual_review",
+  "count": 6,
+  "confirmed": [
+    {
+      "crop_id": "cecd4454488699d494a4",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coordinates": [
+        125,
+        112,
+        1374,
+        203
+      ],
+      "crop_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\cecd4454488699d494a4.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "pdf_text_candidate": "CÔNG TY TNHH THƯƠNG MẠI BỀN QUÝ",
+      "ocr_original": "CÔNG TY TNHH THUONG MI BÊN QUÝ",
+      "transcript": "CÔNG TY TNHH THƯƠNG MẠI BỀN QUÝ",
+      "confidence": "0.9842900633811951",
+      "reviewed_at": "2026-11-02T00:26:52.5261214Z",
+      "evidence": "Visually checked crop and corresponding rendered PDF page; text is legible and transcript candidate matches visible characters."
+    },
+    {
+      "crop_id": "9b4849d33c20777c7292",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coordinates": [
+        1582,
+        1266,
+        1802,
+        1321
+      ],
+      "crop_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\9b4849d33c20777c7292.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "pdf_text_candidate": "Thành tiền",
+      "ocr_original": "Thành tin",
+      "transcript": "Thành tiền",
+      "confidence": "0.9995070695877075",
+      "reviewed_at": "2026-11-02T00:26:52.5512433Z",
+      "evidence": "Visually checked crop and corresponding rendered PDF page; text is legible and transcript candidate matches visible characters."
+    },
+    {
+      "crop_id": "5bd892539e9d6c073a44",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coordinates": [
+        249,
+        1408,
+        512,
+        1469
+      ],
+      "crop_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\5bd892539e9d6c073a44.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "pdf_text_candidate": "Áo sơ mi nam",
+      "ocr_original": "Áo so mi nam",
+      "transcript": "Áo sơ mi nam",
+      "confidence": "0.9980276226997375",
+      "reviewed_at": "2026-11-02T00:26:52.5742259Z",
+      "evidence": "Visually checked crop and corresponding rendered PDF page; text is legible and transcript candidate matches visible characters."
+    },
+    {
+      "crop_id": "29215969df875e89b0bf",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coordinates": [
+        249,
+        1484,
+        521,
+        1536
+      ],
+      "crop_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\29215969df875e89b0bf.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "pdf_text_candidate": "Thảm inox SH",
+      "ocr_original": "Thåm inox SH",
+      "transcript": "Thảm inox SH",
+      "confidence": "0.9587152600288391",
+      "reviewed_at": "2026-11-02T00:26:52.5864788Z",
+      "evidence": "Visually checked crop and corresponding rendered PDF page; text is legible and transcript candidate matches visible characters."
+    },
+    {
+      "crop_id": "325f7f54f03611a47137",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coordinates": [
+        897,
+        1484,
+        1003,
+        1536
+      ],
+      "crop_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\325f7f54f03611a47137.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "pdf_text_candidate": "chiếc",
+      "ocr_original": "chiêc",
+      "transcript": "chiếc",
+      "confidence": "0.960070788860321",
+      "reviewed_at": "2026-11-02T00:26:52.6001358Z",
+      "evidence": "Visually checked crop and corresponding rendered PDF page; text is legible and transcript candidate matches visible characters."
+    },
+    {
+      "crop_id": "1ab67c936894355f1b47",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coordinates": [
+        128,
+        1622,
+        576,
+        1680
+      ],
+      "crop_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\1ab67c936894355f1b47.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "pdf_text_candidate": "Tỷ lệ CK(Discount rate)",
+      "ocr_original": "T l CK(Discount rate)",
+      "transcript": "Tỷ lệ CK(Discount rate)",
+      "confidence": "0.9999207854270935",
+      "reviewed_at": "2026-11-02T00:26:52.6125606Z",
+      "evidence": "Visually checked crop and corresponding rendered PDF page; text is legible and transcript candidate matches visible characters."
+    }
+  ],
+  "skipped": [
+    {
+      "state": "unchanged",
+      "reason": "One crop includes multiple adjacent fields",
+      "invoice": "HD_013",
+      "crop_id": "9a5459787d2cd49576dc"
+    },
+    {
+      "state": "unchanged",
+      "reason": "Text appears incomplete at crop boundary",
+      "invoice": "HD_013",
+      "crop_id": "971d3f2cbe7932bb850a"
+    }
+  ]
+}

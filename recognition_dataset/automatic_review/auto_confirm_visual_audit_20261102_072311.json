@@ -1,0 +1,136 @@
+{
+  "created_at_utc": "2026-11-02T00:23:11.1125074Z",
+  "method": "manual_visual_review",
+  "count": 8,
+  "confirmed": [
+    {
+      "crop_id": "137ea493ae3b78167bf1",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        141,
+        774,
+        706,
+        823
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\137ea493ae3b78167bf1.png",
+      "transcript": "Mã địa điểm kinh doanh (Code): 00008",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:10.7783155Z"
+    },
+    {
+      "crop_id": "e1cfc2aaf6eb841c6186",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        142,
+        878,
+        395,
+        923
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\e1cfc2aaf6eb841c6186.png",
+      "transcript": "Minh, Việt Nam",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:10.8530358Z"
+    },
+    {
+      "crop_id": "c2b7bfb4a26dcb21d9f0",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        142,
+        925,
+        915,
+        976
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\c2b7bfb4a26dcb21d9f0.png",
+      "transcript": "Số điện thoại (Tel): (028) 38387878 - (028) 36387878",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:10.8950026Z"
+    },
+    {
+      "crop_id": "7cef2e133557db91368f",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        142,
+        988,
+        507,
+        1036
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\7cef2e133557db91368f.png",
+      "transcript": "Người mua hàng (Buyer):",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:10.9480435Z"
+    },
+    {
+      "crop_id": "5d3078b90c796f24cbe0",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        139,
+        1032,
+        1732,
+        1088
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\5d3078b90c796f24cbe0.png",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:10.9861159Z"
+    },
+    {
+      "crop_id": "7757e828ffbbcc17243a",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        140,
+        1085,
+        654,
+        1137
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\7757e828ffbbcc17243a.png",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:11.0248116Z"
+    },
+    {
+      "crop_id": "26b3a4267e76dc1120c4",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        140,
+        1191,
+        379,
+        1239
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\26b3a4267e76dc1120c4.png",
+      "transcript": "Điện thoại (Tel):",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:11.0658063Z"
+    },
+    {
+      "crop_id": "eaa7e70ff8c90d39c000",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        143,
+        1245,
+        743,
+        1289
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\eaa7e70ff8c90d39c000.png",
+      "transcript": "Căn cước công dân (Citizen identity card):",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:11.1025335Z"
+    }
+  ],
+  "note": "Compared crop image directly to PDF text candidate; visually clear exact matches."
+}

@@ -1,0 +1,28 @@
+{
+  "invoice": "WEB_260",
+  "created_at": "2026-11-02T15:23:07.2472664+07:00",
+  "review_method": "manual_visual_review",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_152304.json",
+  "reviewed_crop_ids": [
+    "7944b73f04eff01b52d9",
+    "3408cbbfdb8d548643f5",
+    "03b1fc8fa97948f78965",
+    "f04d69a483a825594c34",
+    "659a96d9c6e688515ceb",
+    "3a36e4ce2cdc3e0fa3bd",
+    "180ab5655414c2c96de6",
+    "6522605f8728e51457dc",
+    "c51b141304b5160a798f",
+    "57af2344e3aa05610fb7",
+    "3b1af9bf4bad4f2baaed",
+    "8f191df1f21a9d5fea8b"
+  ],
+  "submitted_count": 10,
+  "existing_terminal_skipped": 1,
+  "deferred_crop_ids": [
+    "8f191df1f21a9d5fea8b"
+  ],
+  "readback_errors": [],
+  "verified_total": 11850,
+  "notes": "Address crop clipped at edge deferred; remaining 11 visibly transcribed, <=90 chars."
+}

@@ -1,0 +1,175 @@
+{
+  "created_at_utc": "2026-11-02T01:58:38.4739464Z",
+  "run_id": "visual_20261102_085838",
+  "annotations": [
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "7bcb4d60d2de1bdb6123",
+      "transcript": "Ký hiệu (Serial): 2C25MAA",
+      "review_note": "WEB_042: ký hiệu đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "3bbdaabcdce8fc1e3400",
+      "transcript": "Tài khoản (A/C number): 6002205280947 Ngân hàng Agribank, chi nhánh Xuyên Mộc",
+      "review_note": "WEB_042: dòng tài khoản phóng to đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "8c6f6789342893c65923",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "review_note": "WEB_042: nhãn người mua rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "beddc663067802ed664c",
+      "transcript": "Điện thoại (Tel):",
+      "review_note": "WEB_042: nhãn trường rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "1acfff4e321ecaf0a7ca",
+      "transcript": "Căn cước công dân (Citizen identity card):",
+      "review_note": "WEB_042: nhãn trường đủ dòng.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "e6cee3f890c7479b7773",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "review_note": "WEB_042: phương thức thanh toán đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "5b8c2d56a4940fe09d6d",
+      "transcript": "Thành tiền",
+      "review_note": "WEB_042: tiêu đề cột đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "8bc2e310ae193dfb9ce3",
+      "transcript": "Đơn vị tính",
+      "review_note": "WEB_042: tiêu đề cột đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "82a60790e0a5dbf4dfc9",
+      "transcript": "gà ta hấp lá chanh",
+      "review_note": "WEB_042: giữ nguyên chữ thường như bản in.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "d686aafb23dcc710cc46",
+      "transcript": "phần",
+      "review_note": "WEB_042: đơn vị tính in chữ thường.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "be337b5ab0fd7e1fdbd4",
+      "transcript": "cơm chiên cá mặn",
+      "review_note": "WEB_042: tên món in chữ thường.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "689c5f1c3f31f5b08b36",
+      "transcript": "phần",
+      "review_note": "WEB_042: đơn vị tính in chữ thường.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "9c7b34d0d497bd9c7eb5",
+      "transcript": "gỏi khô cá đù dưa leo",
+      "review_note": "WEB_042: giữ nguyên chữ thường như bản in.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "994e9eda03b0f6778cb6",
+      "transcript": "cá chình nấu măng chua",
+      "review_note": "WEB_042: giữ nguyên chữ thường như bản in.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "7cda22edceb7f78d1fe9",
+      "transcript": "khăn lạnh",
+      "review_note": "WEB_042: giữ nguyên chữ thường như bản in.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "00157fc06b853b337015",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "review_note": "WEB_042: nhãn tổng thanh toán rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "630f01061b1e24b80495",
+      "transcript": "Người mua hàng (Buyer)",
+      "review_note": "WEB_042: nhãn chữ ký đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "45e17f4fa911d23fce90",
+      "transcript": "Mã của cơ quan thu (Tax authority code): M2-25-CGRP4-65650000479",
+      "review_note": "WEB_042: mã cơ quan thuế đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "36cb2a4eb8f7e12739bd",
+      "transcript": "Mã tra cứu: KO43Z24QA",
+      "review_note": "WEB_042: mã tra cứu đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "218353f2c623daa02ad2",
+      "transcript": "Trang tra cứu: http://3502280476hd.easyinvoice.com.vn",
+      "review_note": "WEB_042: địa chỉ tra cứu đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:58:38.4739464Z",
+      "crop_id": "a66d818cdbfe357524bb",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "review_note": "WEB_042: chú thích cuối trang đọc rõ.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "policy": "Each crop inspected visually; verified printed text including original lowercase product names."
+}

@@ -1,0 +1,31 @@
+{
+  "policy": "manual visual confirmation: crop checked against matching invoice page",
+  "run_id": "visual_20261102_082343",
+  "created_at_utc": "2026-11-02T01:23:43.1414730Z",
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "3 = 1 x 2",
+      "crop_id": "041b85a3cd94e8554da8",
+      "review_note": "Đối chiếu crop và bảng công thức trên WEB_124 trang 1; ký tự rõ.",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:23:43.1414730Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "5 = 3 x 4",
+      "crop_id": "c61db652c9b8c129bb07",
+      "review_note": "Đối chiếu crop và bảng công thức trên WEB_124 trang 1; ký tự rõ.",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:23:43.1414730Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6 = 3 + 5",
+      "crop_id": "bceb871bbfaabe49d9ad",
+      "review_note": "Đối chiếu crop và bảng công thức trên WEB_124 trang 1; ký tự rõ.",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:23:43.1414730Z"
+    }
+  ]
+}

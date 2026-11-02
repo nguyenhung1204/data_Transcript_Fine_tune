@@ -1,0 +1,35 @@
+{
+  "created_at_utc": "2026-11-02T09:53:25.7341617Z",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_165321.json",
+  "skipped": "Long addresses/bank line/footer, clipped logo, blurry phone number, and ambiguous green text were left pending.",
+  "reviewed": [
+    {
+      "evidence": "Complete stylized logo text is fully legible.",
+      "crop_id": "25ec704148085996a249",
+      "transcript": "Flower Shop",
+      "invoice": "WEB_026",
+      "length": 11
+    },
+    {
+      "evidence": "Complete short text is legible in crop.",
+      "crop_id": "90259542d0b925324118",
+      "transcript": "Since 2004",
+      "invoice": "WEB_026",
+      "length": 10
+    },
+    {
+      "evidence": "Complete printed red company line is sharp and legible.",
+      "crop_id": "e1b8b00091c9cb920904",
+      "transcript": "Tên đơn vị (Company): CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)",
+      "invoice": "WEB_026",
+      "length": 64
+    },
+    {
+      "evidence": "Full amount-in-words line visibly legible; length under 90 and embedded PDF text agrees.",
+      "crop_id": "f3810472035193d0a2b5",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Sáu trăm chín mươi tám nghìn sáu trăm đồng./.",
+      "invoice": "WEB_026",
+      "length": 86
+    }
+  ]
+}

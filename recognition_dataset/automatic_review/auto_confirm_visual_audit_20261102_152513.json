@@ -1,0 +1,30 @@
+{
+  "invoice": "WEB_262",
+  "created_at": "2026-11-02T15:25:16.0067603+07:00",
+  "review_method": "manual_visual_review",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_152513.json",
+  "reviewed_crop_ids": [
+    "b3e38a588f7c0ffdf399",
+    "7d66f9185e6d7265dce8",
+    "331a8758a92696ab45d1",
+    "e0ae6746d0f13c54be9c",
+    "6b8af276cf380b0aa076",
+    "e790f18016b02333f156",
+    "cfb0a120054890a72875",
+    "7a52c4888ae64ebec85a",
+    "6f1c3185f88f963cb755",
+    "4447f103ed5581e9ae30",
+    "2f3e505eb4f2dee525d1",
+    "de2536e20fb264d4c74e",
+    "f9192493fe6c3baa3c5c",
+    "07436d2885b83ebd5471",
+    "5639748de5bb5aaab581",
+    "188809e2f53099f8c173"
+  ],
+  "submitted_count": 15,
+  "existing_terminal_skipped": 1,
+  "deferred_crop_ids": [],
+  "readback_errors": [],
+  "verified_total": 11869,
+  "notes": "All 16 clear crop images manually transcribed; <=90 chars."
+}

@@ -1,0 +1,14 @@
+{
+  "readback_errors": [],
+  "written_count": 1,
+  "timestamp": "20261102_144409",
+  "candidate_count": 2,
+  "deferred_crop_ids": [
+    "88d164552362ba0bc130",
+    "266464329b9a2833acd4",
+    "0bb6e731bf5537709ef3",
+    "42d360c6e458583846c1"
+  ],
+  "verified_total": 11433,
+  "invoice": "WEB_237"
+}

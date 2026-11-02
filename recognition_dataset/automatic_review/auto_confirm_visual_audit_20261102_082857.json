@@ -1,0 +1,15 @@
+{
+  "run_id": "visual_20261102_082857",
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:28:57.8307019Z",
+      "crop_id": "bbef519819a4c4224819",
+      "status": "verified",
+      "review_note": "WEB_060 trang 1: crop khớp rõ công thức thành tiền.",
+      "transcript": "7 = 5 x 6"
+    }
+  ],
+  "policy": "manual visual confirmation: crop checked against matching invoice page",
+  "created_at_utc": "2026-11-02T01:28:57.8307019Z"
+}

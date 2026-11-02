@@ -1,0 +1,103 @@
+{
+  "created_at_utc": "2026-11-02T00:33:29.8458626Z",
+  "method": "manual_visual_review",
+  "count": 5,
+  "confirmed": [
+    {
+      "crop_id": "1ba0744302e2dc7d72b0",
+      "invoice": "HD_012",
+      "pdf": "HD_012.pdf",
+      "page": 1,
+      "coords": [
+        260,
+        1467,
+        1013,
+        1526
+      ],
+      "before": "Gh quay có điu chnh đ cao M4S-ZAL",
+      "pdf_text": "Ghế quay có điều chỉnh độ cao M4S-ZAL￾",
+      "transcript": "Ghế quay có điều chỉnh độ cao M4S-ZAL-",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_012\\1ba0744302e2dc7d72b0.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_012\\page_001.png",
+      "evidence": "Inspected crop and matching product-row line on PDF. Hyphen is visible as line-ending continuation marker; transcript records exact visible crop, not next line.",
+      "reviewed_at": "2026-11-02T00:33:29.8094506Z"
+    },
+    {
+      "crop_id": "40feb5da6b1266be66d7",
+      "invoice": "HD_012",
+      "pdf": "HD_012.pdf",
+      "page": 1,
+      "coords": [
+        1637,
+        2744,
+        1986,
+        2799
+      ],
+      "before": "(Ký, ghi rõ h, tên)",
+      "pdf_text": "(Ký, ghi rõ họ, tên)",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_012\\40feb5da6b1266be66d7.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_012\\page_001.png",
+      "evidence": "Inspected clear crop in buyer/seller signature area and matching page; exact diacritics legible.",
+      "reviewed_at": "2026-11-02T00:33:29.8352200Z"
+    },
+    {
+      "crop_id": "f19870250ede481e10a4",
+      "invoice": "HD_012",
+      "pdf": "HD_012.pdf",
+      "page": 1,
+      "coords": [
+        1556,
+        3065,
+        1788,
+        3113
+      ],
+      "before": "TRUNG TRÄN",
+      "pdf_text": "TRUNG TRẦN",
+      "transcript": "TRUNG TRẦN",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_012\\f19870250ede481e10a4.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_012\\page_001.png",
+      "evidence": "Inspected red digital-signature text on crop and exact matching signature block on PDF.",
+      "reviewed_at": "2026-11-02T00:33:29.8357245Z"
+    },
+    {
+      "crop_id": "353d59fe12f9fc831d17",
+      "invoice": "HD_012",
+      "pdf": "HD_012.pdf",
+      "page": 1,
+      "coords": [
+        519,
+        3258,
+        1959,
+        3314
+      ],
+      "before": "Tra cúu ti Website: https://tracuu.vietinvoice.vn | Mã tra cúu hóa đon: 1D42C8CDB55C15EB",
+      "pdf_text": "Tra cứu tại Website: https://tracuu.vietinvoice.vn | Mã tra cứu hóa đơn: 1D42C8CDB55C15EB",
+      "transcript": "Tra cứu tại Website: https://tracuu.vietinvoice.vn | Mã tra cứu hóa đơn: 1D42C8CDB55C15EB",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_012\\353d59fe12f9fc831d17.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_012\\page_001.png",
+      "evidence": "Inspected complete footer crop and matching PDF; URL, separators, and lookup ID are clear.",
+      "reviewed_at": "2026-11-02T00:33:29.8361031Z"
+    },
+    {
+      "crop_id": "54a2e03230bf76330bd8",
+      "invoice": "HD_012",
+      "pdf": "HD_012.pdf",
+      "page": 1,
+      "coords": [
+        526,
+        3393,
+        1947,
+        3451
+      ],
+      "before": "Phát hành bi phn mm VietInvoice.vn - CÔNG TY CÔ PHÀN ICORP - MST: 0106870211",
+      "pdf_text": "Phát hành bởi phần mềm VietInvoice.vn - CÔNG TY CỔ PHẦN ICORP - MST: 0106870211",
+      "transcript": "Phát hành bởi phần mềm VietInvoice.vn - CÔNG TY CỔ PHẦN ICORP - MST: 0106870211",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_012\\54a2e03230bf76330bd8.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_012\\page_001.png",
+      "evidence": "Inspected complete footer crop and matching PDF; diacritics, company name and tax code legible.",
+      "reviewed_at": "2026-11-02T00:33:29.8364068Z"
+    }
+  ],
+  "skipped": []
+}

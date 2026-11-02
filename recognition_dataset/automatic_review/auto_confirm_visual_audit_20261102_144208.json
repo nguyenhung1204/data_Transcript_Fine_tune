@@ -1,0 +1,13 @@
+{
+  "timestamp": "20261102_144208",
+  "written_count": 12,
+  "verified_total": 11432,
+  "invoice": "WEB_236",
+  "candidate_count": 25,
+  "deferred_crop_ids": [
+    "a977785b8c6ba962ff06",
+    "50218a743fee132b2218",
+    "c1824dab6d29ca751588"
+  ],
+  "readback_errors": []
+}

@@ -1,0 +1,21 @@
+{
+  "created_at_utc": "2026-11-02T09:52:04.9811311Z",
+  "reviewed": [
+    {
+      "length": 23,
+      "transcript": "Tỉnh Đồng Nai, Việt Nam",
+      "invoice": "WEB_046",
+      "crop_id": "53a210bf9c5968e44185",
+      "evidence": "Complete short address continuation crop; visually clear and PDF text agrees."
+    },
+    {
+      "length": 53,
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "invoice": "WEB_046",
+      "crop_id": "86ed712fed301ae62289",
+      "evidence": "Complete printed instruction line; fully legible and PDF text agrees."
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_165201.json",
+  "skipped": "Long lines, cropped payment label, patterned-only crop, and green-mark-overlapped signature remain pending."
+}

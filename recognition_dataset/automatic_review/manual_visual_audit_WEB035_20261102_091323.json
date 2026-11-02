@@ -1,0 +1,113 @@
+{
+  "invoice": "WEB_035",
+  "method": "manual_visual_review",
+  "reviewed_at": "2026-11-02T09:13:25.9371566Z",
+  "count": 15,
+  "items": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ff5709ddcf94839b51ce",
+      "status": "verified",
+      "transcript": "Tên tài khoản: CHI NHÁNH CÔNG TY CỔ PHẦN THẾ GIỚI SỐ",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6cab78d99db6947cc0c9",
+      "status": "verified",
+      "transcript": "Số : 79710",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "bd7a2e36e0f845ad6fb3",
+      "status": "verified",
+      "transcript": "Đơn vị",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "97ce92e6ae94e9b0803a",
+      "status": "verified",
+      "transcript": "lượng",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d0c28a98a55bc452330c",
+      "status": "verified",
+      "transcript": "ĐIỆN THOẠI DI ĐỘNG (IPHONE) APPLE 14 PRO",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3004fb97e273d347e062",
+      "status": "verified",
+      "transcript": "đồng chẵn",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "95fd6310a0ea80326177",
+      "status": "verified",
+      "transcript": "Tổng tiền KKKNT: 0",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "98e8f865016c0cf34936",
+      "status": "verified",
+      "transcript": "Tổng tiền chịu thuế 5%: 0",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "484b7a51a6bc21564432",
+      "status": "verified",
+      "transcript": "Tổng tiền thuế GTGT 5%: 0",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "23c50c8fb75122800298",
+      "status": "verified",
+      "transcript": "Tổng tiền thuế GTGT 8%: 0",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6463eb1b5177418b249a",
+      "status": "verified",
+      "transcript": "Tổng tiền thuế GTGT 10%: 316.032.903",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1a828ec097398ae68c4e",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d056a980ef4413dd448a",
+      "status": "verified",
+      "transcript": "Người bán hàng",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "db224306b4bff7e43bd5",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu)",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "7a6c10da1340f50f4cc6",
+      "status": "verified",
+      "transcript": "(Được ký điện tử bởi)",
+      "reviewed_at": "2026-11-02T09:13:25.9371566Z"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "created_at_utc": "2026-11-02T00:23:41.8379271Z",
+  "method": "manual_visual_review",
+  "count": 8,
+  "confirmed": [
+    {
+      "crop_id": "3b7c84e7e4570aa4ad1c",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        142,
+        1297,
+        832,
+        1339
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\3b7c84e7e4570aa4ad1c.png",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.4931118Z"
+    },
+    {
+      "crop_id": "4300ec1ece2559501df0",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        1529,
+        1407,
+        1795,
+        1462
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\4300ec1ece2559501df0.png",
+      "transcript": "Thuế GTGT(VAT)",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.5834198Z"
+    },
+    {
+      "crop_id": "be069e707542db7602cc",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        1846,
+        1448,
+        2007,
+        1506
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\be069e707542db7602cc.png",
+      "transcript": "Tổng tiền",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.6238905Z"
+    },
+    {
+      "crop_id": "5962f825359cb085c0dd",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        1318,
+        1452,
+        1498,
+        1502
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\5962f825359cb085c0dd.png",
+      "transcript": "Thành tiền",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.6660335Z"
+    },
+    {
+      "crop_id": "d1fd409fe7c567840af7",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        828,
+        1455,
+        949,
+        1507
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\d1fd409fe7c567840af7.png",
+      "transcript": "Đơn vị",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.7054854Z"
+    },
+    {
+      "crop_id": "6f034869b96a38317720",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        1511,
+        1461,
+        1609,
+        1514
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\6f034869b96a38317720.png",
+      "transcript": "Thuế",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.7496756Z"
+    },
+    {
+      "crop_id": "6add5b11aba90c90915b",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        355,
+        1480,
+        696,
+        1528
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\6add5b11aba90c90915b.png",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.7899728Z"
+    },
+    {
+      "crop_id": "688ffab9b140002a55bd",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "coordinates": [
+        1319,
+        1498,
+        1497,
+        1548
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\688ffab9b140002a55bd.png",
+      "transcript": "trước thuế",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:23:41.8280676Z"
+    }
+  ],
+  "note": "Compared crop image directly to PDF text candidate; visually clear exact matches."
+}

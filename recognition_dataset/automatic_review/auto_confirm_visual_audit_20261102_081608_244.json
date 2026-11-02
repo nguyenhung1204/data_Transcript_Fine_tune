@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "annotations": [
+    {
+      "review_note": "Đối chiếu crop với hàng công thức cột thành tiền sau thuế trên trang PDF HD_037; chữ/số rõ.",
+      "reviewed_at": "2026-11-02T01:16:08.2603890Z",
+      "transcript": "9 = 6 + 8",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "adfbea611780379fc46c"
+    },
+    {
+      "review_note": "Đối chiếu crop với hàng công thức cột thành tiền chưa thuế trên trang PDF HD_037; chữ/số rõ.",
+      "reviewed_at": "2026-11-02T01:16:08.2603890Z",
+      "transcript": "6 = 4 x 5",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2a5003d7e8755c0a4695"
+    }
+  ]
+}

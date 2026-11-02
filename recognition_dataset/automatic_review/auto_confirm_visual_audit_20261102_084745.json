@@ -1,0 +1,199 @@
+{
+  "run_id": "visual_20261102_084745",
+  "policy": "Each crop visually inspected; only fully legible printed text confirmed.",
+  "created_at_utc": "2026-11-02T01:47:45.7009020Z",
+  "annotations": [
+    {
+      "review_note": "WEB_031: tiêu đề in rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3990f38853ffd65da626",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN BÁN HÀNG"
+    },
+    {
+      "review_note": "WEB_031: ký hiệu đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4e8baf175b7b4eef2803",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Ký hiệu (Series): 2C25MNS"
+    },
+    {
+      "review_note": "WEB_031: số màu đỏ đủ chữ số.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "fba641d117807a19a4d1",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Số (Invoice No): 00000841"
+    },
+    {
+      "review_note": "WEB_031: mã thuế đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5ecd432180688a12d498",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: M2-25-2G9DQ-00100000841"
+    },
+    {
+      "review_note": "WEB_031: tên đơn vị in rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5612097b00347726eb7d",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "BÒ TƠ TÂY NINH NĂM SÁNH 79"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e4a9d8dddd8e9f85e5bf",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Tên đơn vị bán hàng (ComName):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "aa34c7006e326fd5055c",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code):"
+    },
+    {
+      "review_note": "WEB_031: địa chỉ đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "42bb349793366f29afba",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Nhà Không Số, Đường Ninh Bình, Phường 2, Thành Phố Bạc Liêu, Tỉnh Bạc Liêu"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "a82c310cdcf92dec8454",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Số điện thoại (Tel):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8c19e6bd5321f02c130e",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Tên người mua hàng (Buyer):"
+    },
+    {
+      "review_note": "WEB_031: tên đơn vị in rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d86cc76f1045fd3990af",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e155f3f2f74c429c8dc4",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Tên đơn vị mua hàng (CusName):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "40fd1331520574675681",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "58a5b0b151db08465dc7",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Mã ĐVQHNS (Budget Relationship Unit Code):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "44ccfa386b94853f934d",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Số hộ chiếu (Passport No):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b92788274916a1ae00c5",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Căn cước công dân (Identity Card):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d7b717fd298de7b0a01a",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Số tài khoản (AC No):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "f8bcc7cf4df980a5aa75",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Số điện thoại (Tel):"
+    },
+    {
+      "review_note": "WEB_031: nhãn trường đủ dòng.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8caae32f9c1b8ea654df",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method):"
+    },
+    {
+      "review_note": "WEB_031: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "131d280518f055e447e8",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Thành tiền"
+    },
+    {
+      "review_note": "WEB_031: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6a4cf6dd6b74d312622a2",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "review_note": "WEB_031: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1cb9fe09181de109a5d6",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Đơn giá"
+    },
+    {
+      "review_note": "WEB_031: tên món in rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5d180a01dcff1e9dff20",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Gà Nấu Cay"
+    },
+    {
+      "review_note": "WEB_031: đơn vị tính trong crop đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "04515a0d1b52aa7627dd",
+      "reviewed_at": "2026-11-02T01:47:45.7009020Z",
+      "status": "verified",
+      "transcript": "Phần"
+    }
+  ]
+}

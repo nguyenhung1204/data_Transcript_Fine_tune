@@ -1,0 +1,167 @@
+{
+  "policy": "Each crop inspected visually; faint/partially cut column text, unclear product crop, and isolated unit crop were left pending.",
+  "run_id": "visual_20261102_085418",
+  "created_at_utc": "2026-11-02T01:54:18.4501696Z",
+  "annotations": [
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "4215e3b5bbee366758e8",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "review_note": "WEB_037: tiêu đề in rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "82b51d01af81599a3725",
+      "transcript": "Ký hiệu:",
+      "review_note": "WEB_037: nhãn ký hiệu rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "c9c5eecfc351631eb89f",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "review_note": "WEB_037: dòng chú thích rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "44b36beea812a5e9cfa7",
+      "transcript": "Điện thoại: 0378.55.77.16",
+      "review_note": "WEB_037: số điện thoại đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "9b4520b8a5a01d0af36b",
+      "transcript": "Họ tên người mua hàng (Customer's name):",
+      "review_note": "WEB_037: nhãn người mua đủ dòng."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "91e95ef86ba433ce44fa",
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "review_note": "WEB_037: phương thức thanh toán đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "3e9b3abf33f416e9a6bb",
+      "transcript": "Số",
+      "review_note": "WEB_037: chữ trong crop đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "43eaceb82079e9e7c1c5",
+      "transcript": "Thành tiền",
+      "review_note": "WEB_037: tiêu đề cột đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "b43e542cefd613c465e9",
+      "transcript": "Thành tiền",
+      "review_note": "WEB_037: tiêu đề cột đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "9ba0ce365b27a7875d21",
+      "transcript": "Tiền thuế",
+      "review_note": "WEB_037: tiêu đề cột đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "45507ad4b64e3ba98f67",
+      "transcript": "Đơn giá",
+      "review_note": "WEB_037: tiêu đề cột đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "c1fda7726a64df8d04cd",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "review_note": "WEB_037: tiêu đề cột đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "c50ac2f0c819e329ecf7",
+      "transcript": "suất",
+      "review_note": "WEB_037: phần tiêu đề cột đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "fae7c0c64aca72c888f5",
+      "transcript": "sau thuế",
+      "review_note": "WEB_037: phần tiêu đề cột đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "513bab07b263a6922745",
+      "transcript": "Đầu ghi J-Tech UHD8216",
+      "review_note": "WEB_037: tên sản phẩm đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "5ef8cb04a735bf3bc918",
+      "transcript": "4TB 3.5\" SATA3, màu tím (Purple)",
+      "review_note": "WEB_037: dòng sản phẩm đọc rõ trên crop."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "d3e2802543f4bc03bda4",
+      "transcript": "Thiết bị định tuyến băng tần",
+      "review_note": "WEB_037: chữ trên dòng sản phẩm đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "4be66aac7876b3fe9041",
+      "transcript": "AP11(RW)Access Point R2W96A",
+      "review_note": "WEB_037: mã và tên sản phẩm đọc rõ."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "c078104a22f123d06033",
+      "transcript": "Cổng nối mạng TL-SG1016D TP-",
+      "review_note": "WEB_037: chép đúng dấu gạch nối nhìn thấy ở cuối dòng."
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:54:18.4501696Z",
+      "crop_id": "2e6b012a96405ce0dd2b",
+      "transcript": "Dây tín hiệu HDMI có đầu giắc 20m",
+      "review_note": "WEB_037: dòng sản phẩm đọc rõ."
+    }
+  ]
+}

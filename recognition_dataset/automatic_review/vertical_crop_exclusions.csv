@@ -1,19 +1,9 @@
 ﻿crop_id,invoice_id,filename,width,height,aspect_ratio,old_status,new_status,reason
 92cd2cbe5e4ed13273ab,HD_001,HD_001.pdf,60.0,1443.0,0.0416,verified,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 5f15ccc454e74ff4b697,HD_001,HD_001.pdf,64.0,524.0,0.1221,rejected,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-36f3854996c15be08adc,HD_017,HD_017.pdf,59.0,1281.0,0.0461,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 49ffc731f4c842e49365,HD_022,HD_022.pdf,60.0,1443.0,0.0416,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 9101d305066fd9c06165,HD_022,HD_022.pdf,63.0,523.0,0.1205,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-ec5b678fa793b00aeefe,HD_024,HD_024.pdf,28.0,408.0,0.0686,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-9e956080293eba8a8358,HD_024,HD_024.pdf,37.0,266.0,0.1391,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-8d99ecaf82f6681f72d7,HD_026,HD_026.pdf,32.0,2697.0,0.0119,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-4f2171c34b86eeedaf4f,HD_026,HD_026.pdf,35.0,2695.0,0.013,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-979ef830e1cda573ab80,WEB_005,WEB_005.pdf,69.0,1195.0,0.0577,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 ef0691abc7b8912c8094,WEB_058,WEB_058.pdf,63.0,1928.0,0.0327,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-134e4d39c3146cebf5f1,WEB_076,WEB_076.pdf,62.0,387.0,0.1602,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-6c6fb03cb484c5350186,WEB_076,WEB_076.pdf,80.0,1694.0,0.0472,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-847fe66ad028cd28b946,WEB_086,WEB_086.pdf,58.0,1475.0,0.0393,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-180eec98fc08b41cf979,WEB_087,WEB_087.pdf,67.0,1443.0,0.0464,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 95e1a1c96c172d942474,WEB_105,WEB_105.pdf,59.0,1909.0,0.0309,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 c76d72f823cfa2f8e090,WEB_110,WEB_110.pdf,61.0,1431.0,0.0426,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 e65d593f4a7b7806f41c,WEB_110,WEB_110.pdf,62.0,517.0,0.1199,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
@@ -27,6 +17,3 @@ ecf36372c8fafb3512f7,WEB_114,WEB_114.pdf,62.0,1433.0,0.0433,needs_review,rejecte
 397122f6a18ffe34f06a,WEB_134,WEB_134.pdf,65.0,1709.0,0.038,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 fcdb20e953b051272f48,WEB_135,WEB_135.pdf,64.0,1710.0,0.0374,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
 f580b1859325cb647fe6,WEB_135,WEB_135.pdf,65.0,1709.0,0.038,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-b980bd53c052c2fe7c9a,WEB_219,WEB_219.pdf,39.0,97.0,0.4021,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-ae031207b8e20c7eef45,WEB_235,WEB_235.pdf,64.0,1336.0,0.0479,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set
-554d2988b2208a8a1c1c,WEB_248,WEB_248.pdf,67.0,1443.0,0.0464,needs_review,rejected,vertical/rotated or unusable narrow crop; excluded from horizontal-line recognition set

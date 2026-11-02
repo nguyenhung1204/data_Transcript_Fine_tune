@@ -1,0 +1,117 @@
+{
+  "accepted_count": 17,
+  "accepted": [
+    {
+      "transcript": "HÓA ĐƠN (GTGT)",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "e7e105cf347341d230d9"
+    },
+    {
+      "transcript": "Mẫu số: 01GTKT3/001",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "50cf8b0e4287d34007a1"
+    },
+    {
+      "transcript": "Số: 000654",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "e7565cab1b24a753344d"
+    },
+    {
+      "transcript": "Đơn vị bán hàng: Công ty TNHH Cơ Điện Thịnh Phát",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "88f22b459aa0afad7cee"
+    },
+    {
+      "transcript": "Mã số thuế: 4101546032",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "c91873eb291cd42903cb"
+    },
+    {
+      "transcript": "Tên đơn vị: Công ty CP DV& TM HDT Việt Nam- CN ình Định",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "d016137e86aa0dd4ec91"
+    },
+    {
+      "transcript": "Mã số thuế:0105878560002",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "83705cdd4dd7243283dd"
+    },
+    {
+      "transcript": "STK: 58110000123457",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "e8b68937e41f7140ed94"
+    },
+    {
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "2d59449bf58f3c3173d7"
+    },
+    {
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "fdb2c5ced2afbd5127a0"
+    },
+    {
+      "transcript": "ĐVT",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "811ef0634e0299e1f10f"
+    },
+    {
+      "transcript": "Hệ thống chống sét",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "33c337af0dbf76266dc7"
+    },
+    {
+      "transcript": "Cộng tiền hàng: 198.777.900",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "f9ea65777c96838be3e2"
+    },
+    {
+      "transcript": "Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "53a64d1c15a86002919b"
+    },
+    {
+      "transcript": "Tổng cộng tiền thanh toán: 218.655.690",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "8f65257e5b9bd75fd99f"
+    },
+    {
+      "transcript": "Ngƣời mua hàng",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "532dd9d1d90bd68487d9"
+    },
+    {
+      "transcript": "Thủ trƣởng đơn vị",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "b57e02d8f629454b8df8"
+    }
+  ],
+  "timestamp": "20261102_110815",
+  "invoice_ids": [
+    "WEB_224"
+  ],
+  "deferred": [
+    {
+      "reason": "Crop số tiền viết bằng chữ bị cắt giữa câu ở chữ trăm; chưa đủ nội dung để xác nhận.",
+      "crop_id": "4090ce61c19a597e68b6"
+    }
+  ]
+}

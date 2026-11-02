@@ -1,0 +1,92 @@
+{
+  "created_at_utc": "2026-11-02T02:20:06.990794+00:00",
+  "invoice": "WEB_035",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 14,
+  "items": [
+    {
+      "crop_id": "80468cf4a2630fd24fb6",
+      "transcript": "1198998999 -Ngân hàng TMCP Ngoại Thương Việt Nam - CN Tân Bình",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "aa2f86b62ddbdefe56d5",
+      "transcript": "03101010166054 -Ngân hàng TMCP Hàng Hải Việt Nam-CN Đống Đa (Hà Nội)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "130cde98d78f3a362ad9",
+      "transcript": "Nơi xuất hóa đơn : Chi nhánh Công ty cổ phần Thế Giới Số",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "fd6cdb3252d1cd26f83b",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "f07f564bd09c4d5a7d7d",
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "2dd757a0787c2d6dbe04",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "6b22bd34011f3ba03bb8",
+      "transcript": "suất(%)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "c76ea4346d357bd85f89",
+      "transcript": "3.476.361.933",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "bc8905800f36d2c19341",
+      "transcript": "Cộng tiền hàng :",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "26eaa917a5c8ca85f04a",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "e204817a7ae5167a1f98",
+      "transcript": "Tổng tiền không chịu thuế: 0",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "9d518c1f5b7838d00175",
+      "transcript": "Tổng tiền chịu thuế 0%: 0",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "03ffa77ec225aa94370e",
+      "transcript": "Tổng tiền chịu thuế 8%: 0",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    },
+    {
+      "crop_id": "b5b5213b3a00fd51734c",
+      "transcript": "Tổng tiền chịu thuế 10%: 3.160.329.030",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text and numeric grouping match."
+    }
+  ]
+}

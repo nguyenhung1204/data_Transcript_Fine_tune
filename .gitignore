@@ -6,3 +6,18 @@ venv/
 *.part
 .DS_Store
 Thumbs.db
+
+# Local recovery copies for excluded invoices/crops; keep them off the public repo.
+/excluded_invoice_backups/
+/recognition_dataset/excluded_invoice_backups/
+/recognition_dataset/excluded_crop_backups/
+
+# Local server output and temporary review snapshots.
+/recognition_dataset/automatic_review/server*.log
+/recognition_dataset/automatic_review/server*.err
+/recognition_dataset/automatic_review/run.log
+/recognition_dataset/automatic_review/*.before*.html
+/recognition_dataset/automatic_review/*.bak
+/recognition_dataset/automatic_review/*.bak.*
+/recognition_dataset/automatic_review/*.backup_*
+/recognition_dataset/automatic_review/manual_review_progress.backup_*

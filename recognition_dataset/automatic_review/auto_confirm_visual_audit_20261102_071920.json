@@ -1,0 +1,136 @@
+{
+  "created_at_utc": "2026-11-02T00:19:20.3451249Z",
+  "method": "manual_visual_review",
+  "count": 8,
+  "confirmed": [
+    {
+      "crop_id": "5819bc475efd3cf9b78d",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        161,
+        1455,
+        943,
+        1504
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\5819bc475efd3cf9b78d.png",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.0212472Z"
+    },
+    {
+      "crop_id": "eb0fc2d8a9175f35e2e4",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1733,
+        1527,
+        2030,
+        1584
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\eb0fc2d8a9175f35e2e4.png",
+      "transcript": "Thuế GTGT(VAT)",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.0900332Z"
+    },
+    {
+      "crop_id": "d1daeebb747915b2fba3",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        2090,
+        1575,
+        2270,
+        1636
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\d1daeebb747915b2fba3.png",
+      "transcript": "Tổng tiền",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.1309326Z"
+    },
+    {
+      "crop_id": "1cfe86f42799d1bc6a89",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1493,
+        1578,
+        1695,
+        1631
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\1cfe86f42799d1bc6a89.png",
+      "transcript": "Thành tiền",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.1689328Z"
+    },
+    {
+      "crop_id": "5a8ccb12ff7ea72d0e0a",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1711,
+        1584,
+        1820,
+        1645
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\5a8ccb12ff7ea72d0e0a.png",
+      "transcript": "Thuế",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.2126263Z"
+    },
+    {
+      "crop_id": "8e82ef8c176d15829448",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1293,
+        1602,
+        1451,
+        1662
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\8e82ef8c176d15829448.png",
+      "transcript": "Đơn giá",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.2583741Z"
+    },
+    {
+      "crop_id": "0ece358cc5e686d6e464",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        403,
+        1609,
+        787,
+        1658
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\0ece358cc5e686d6e464.png",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.2964866Z"
+    },
+    {
+      "crop_id": "f2fe8639d879f809be51",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1494,
+        1626,
+        1695,
+        1683
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\f2fe8639d879f809be51.png",
+      "transcript": "trước thuế",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:19:20.3349837Z"
+    }
+  ],
+  "note": "Compared crop image directly to PDF text candidate; transcript copied as visible after visual verification."
+}

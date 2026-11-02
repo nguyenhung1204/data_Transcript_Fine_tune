@@ -1,0 +1,126 @@
+{
+  "created_at_utc": "2026-11-02T00:12:43.641587+00:00",
+  "invoice": "WEB_128",
+  "method": "manual_visual_review",
+  "crops": [
+    {
+      "crop_id": "de8f65ef690480686f78",
+      "transcript": "CÔNG TY TNHH THIẾT BỊ KHOA HỌC KỸ THUẬT MỸ THÀNH",
+      "pdf_text": "CÔNG TY TNHH THIẾT BỊ KHOA HỌC KỸ THUẬT MỸ THÀNH",
+      "ocr1": "CÔNG TY TNHH THIÉT B! KHOA HC KÝ THUT MÝ THÀNH",
+      "image": "/crops/WEB_128/de8f65ef690480686f78.png",
+      "page": 1,
+      "coords": [
+        558,
+        94,
+        2125,
+        168
+      ]
+    },
+    {
+      "crop_id": "49c9f4e7106744c0eed4",
+      "transcript": "Mã số thuế (Tax code): 0 3 0 0 9 7 2 9 0 5",
+      "pdf_text": "Mã số thuế (Tax code): 0 3 0 0 9 7 2 9 0 5",
+      "ocr1": "Mã s thuê (Tax code): 0 3 0 0 9 7 2 9 0 5",
+      "image": "/crops/WEB_128/49c9f4e7106744c0eed4.png",
+      "page": 1,
+      "coords": [
+        904,
+        234,
+        1698,
+        292
+      ]
+    },
+    {
+      "crop_id": "264d5d223c2d97cda661",
+      "transcript": "Địa chỉ (Address): 445 Tô Hiến Thành, Phường 14, Quận 10, TP. Hồ Chí Minh, Việt Nam",
+      "pdf_text": "Địa chỉ (Address): 445 Tô Hiến Thành, Phường 14, Quận 10, TP. Hồ Chí Minh, Việt Nam",
+      "ocr1": "Đa ch (Address): 445 Tô Hin Thành, Phưng 14, Qun 10, TP. Hồ Chí Minh, Vit Nam",
+      "image": "/crops/WEB_128/264d5d223c2d97cda661.png",
+      "page": 1,
+      "coords": [
+        556,
+        298,
+        2214,
+        355
+      ]
+    },
+    {
+      "crop_id": "0c2efb43d261fcae2c6a",
+      "transcript": "Điện thoại (Telephone): 0903829226 * Fax: (028) 3864 4461",
+      "pdf_text": "Điện thoại (Telephone): 0903829226 * Fax: (028) 3864 4461",
+      "ocr1": "Đin thoai (Telephone): 0903829226 * Fax: (028) 3864 4461",
+      "image": "/crops/WEB_128/0c2efb43d261fcae2c6a.png",
+      "page": 1,
+      "coords": [
+        661,
+        363,
+        1836,
+        418
+      ]
+    },
+    {
+      "crop_id": "4f1f3e8833d59426634a",
+      "transcript": "Mã của Cơ quan thuế: 00C8A30E08D6D04D7384E741C5712EE1A9",
+      "pdf_text": "Mã của Cơ quan thuế: 00C8A30E08D6D04D7384E741C5712EE1A9",
+      "ocr1": "Mã ca Co quan thuê: 00C8A30E08D6D04D7384E741C5712EE1A9",
+      "image": "/crops/WEB_128/4f1f3e8833d59426634a.png",
+      "page": 1,
+      "coords": [
+        94,
+        512,
+        1390,
+        570
+      ]
+    },
+    {
+      "crop_id": "268af27b4574217cc003",
+      "transcript": "Mẫu số - Ký hiệu (Serial No.): 1C24TMT",
+      "pdf_text": "Mẫu số - Ký hiệu (Serial No.): 1C24TMT",
+      "ocr1": "Mu s - Ký hiu (Serial No.): 1C24TMT",
+      "image": "/crops/WEB_128/268af27b4574217cc003.png",
+      "page": 1,
+      "coords": [
+        1646,
+        644,
+        2384,
+        706
+      ]
+    },
+    {
+      "crop_id": "2f6230b79ed4c6f82ed5",
+      "transcript": "Số (Invoice No.): 00000717",
+      "pdf_text": "Số (Invoice No.): 0000071 7",
+      "ocr1": "Só (Invoice No.): 00000717",
+      "image": "/crops/WEB_128/2f6230b79ed4c6f82ed5.png",
+      "page": 1,
+      "coords": [
+        1646,
+        702,
+        2198,
+        767
+      ]
+    },
+    {
+      "crop_id": "93a5cfcd35fb317c99c9",
+      "transcript": "Họ tên người mua hàng (Customer name):",
+      "pdf_text": "Họ tên người mua hàng (Customer name):",
+      "ocr1": "Ho tên ngưòi mua hàng (Customer name):",
+      "image": "/crops/WEB_128/93a5cfcd35fb317c99c9.png",
+      "page": 1,
+      "coords": [
+        97,
+        957,
+        863,
+        1009
+      ]
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_071243.json",
+  "api_response": {
+    "saved": 8,
+    "total": 8576,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "readback_verified": true
+}

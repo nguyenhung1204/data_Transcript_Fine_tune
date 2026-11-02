@@ -1,0 +1,199 @@
+{
+  "run_id": "visual_20261102_085635",
+  "annotations": [
+    {
+      "review_note": "WEB_040: tiêu đề in rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "85b8d0d9da7a50f6381f",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: chú thích in rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "debd7a0403db252535b1",
+      "status": "verified",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: MST đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "51a67d830b2212ddc79a",
+      "status": "verified",
+      "transcript": "Mã số thuế: 8474993150",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: dòng tài khoản phóng to đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "13b62b9980ac6a1ed45f",
+      "status": "verified",
+      "transcript": "Số tài khoản: 0621.000.407.217 tại Ngân hàng Vietcombank",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: nhãn người mua rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "419eed82579845eaabb5",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tên đơn vị đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "b59e4b2ab6626afe3828",
+      "status": "verified",
+      "transcript": "Tên đơn vị: CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: phương thức thanh toán đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "87e5ba31d15eea87c307",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tiêu đề cột đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "bfd12f60f90cfd789a41",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tiêu đề cột đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "1f7b4e1eba23e3e07c10",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "a9ff7900131ae36452ca",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "8da7aff2cb75a75d79fb",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tên món in rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "921a36e7381980df9fc3",
+      "status": "verified",
+      "transcript": "Cơm chiên Cá mặn",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "b532201817f30ca38340",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "7a8b79c9e018e5f90bf6",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "470a9e285f4ebeb837ed",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tên món đọc rõ trên crop phóng to.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "c5e6facda4bf84cecac7",
+      "status": "verified",
+      "transcript": "Ếch chiên Mắm",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "ab10c74a3f279dcb0ce7",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "ff44de5b71bdda83c569",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tên món in rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "79074a339487fd7337e8",
+      "status": "verified",
+      "transcript": "Gỏi cá Mai",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "2d92192f4a12e22a7bb9",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tên món in rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "2f5d6e2fd35c864e73d9",
+      "status": "verified",
+      "transcript": "Gỏi Bò bóp thấu",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "32a64f8e96a4d63fb503",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: tên mặt hàng đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "5d5f248dc35d5fe1fdf3",
+      "status": "verified",
+      "transcript": "Khăn lạnh",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "review_note": "WEB_040: đơn vị tính đọc rõ.",
+      "reviewed_at": "2026-11-02T01:56:35.3262037Z",
+      "crop_id": "c8ba96e37fe065a62f92",
+      "status": "verified",
+      "transcript": "Phần",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "created_at_utc": "2026-11-02T01:56:35.3262037Z",
+  "policy": "Each crop visually inspected; text was confirmed only where directly legible."
+}

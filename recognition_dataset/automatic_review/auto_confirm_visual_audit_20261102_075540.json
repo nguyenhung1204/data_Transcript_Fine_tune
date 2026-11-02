@@ -1,0 +1,43 @@
+{
+  "timestamp_utc": "2026-11-02T00:55:40.1017761Z",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075540.json",
+  "invoice": "HD_039",
+  "skipped": [
+    {
+      "reason": "Stylized logo is blurry and partly covered by graphic.",
+      "crop_id": "d4ba0bc0c365e5be3f96"
+    },
+    {
+      "reason": "Small logo subtitle is blurry; exact characters uncertain.",
+      "crop_id": "c968eddc67e5d79a10c2"
+    },
+    {
+      "reason": "Bank-account label is followed by a dotted leader; exact transcript boundary is uncertain.",
+      "crop_id": "063b0bebbc4adc81f009"
+    }
+  ],
+  "method": "manual_visual_review_crop_images",
+  "note": "Five clear, legible crop images confirmed; blurry logo/dotted label are left pending.",
+  "confirmed": [
+    {
+      "transcript": "Công ty TNHH Dịch Vụ Tư Vấn Kế Toán Thuế Thuận Việt",
+      "crop_id": "316b10e511c13b710293"
+    },
+    {
+      "transcript": "Mã số thuế (Tax code): 0310415290",
+      "crop_id": "fe12d519c8a03eed788d"
+    },
+    {
+      "transcript": "Địa chỉ (Address): VP 3.04, Tòa Nhà ST.Moritz, 1014 Phạm Văn Đồng, Phường Hiệp",
+      "crop_id": "f594b9d697b80a4e2a9c"
+    },
+    {
+      "transcript": "Điện thoại (Tel):",
+      "crop_id": "8dc991bfe304346a5f04"
+    },
+    {
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG (VAT INVOICE)",
+      "crop_id": "1471bfe49f5d8827d4ba"
+    }
+  ]
+}

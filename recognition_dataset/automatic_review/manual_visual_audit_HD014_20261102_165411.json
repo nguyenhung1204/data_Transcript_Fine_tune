@@ -1,0 +1,14 @@
+{
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_165411.json",
+  "skipped": "Signature-overlapped slogans, long amount/footer and lookup lines remain pending.",
+  "reviewed": [
+    {
+      "evidence": "Complete stylized logo letters G-A-C are sharp and fully visible.",
+      "crop_id": "fb4dc6cbf9693f4363df",
+      "invoice": "HD_014",
+      "transcript": "GAC",
+      "length": 3
+    }
+  ],
+  "created_at_utc": "2026-11-02T09:54:14.8808181Z"
+}

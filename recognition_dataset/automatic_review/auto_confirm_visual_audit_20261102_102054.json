@@ -1,0 +1,185 @@
+{
+  "invoice": "WEB_115",
+  "timestamp_utc": "2026-11-02T03:20:54.8234412Z",
+  "reviewed_count": 25,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Đối chiếu crop; sửa lỗi khoảng trắng trong ngày, nhãn MST và các tiêu đề do PDF text extraction tách ký tự; mã MST được lưu liền.",
+  "annotations": [
+    {
+      "crop_id": "482d0f47cfee895187dd",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial): 1C25TKA",
+      "reviewed_at": "2026-11-02T03:20:54.8185322Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "69579b7d9ab2f3da51ce",
+      "status": "verified",
+      "transcript": "(VATI NVOICE)",
+      "reviewed_at": "2026-11-02T03:20:54.8226304Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "864df1dc62e4b601e942",
+      "status": "verified",
+      "transcript": "Ngày (Date) 02 tháng (month) 04 năm (year) 2025",
+      "reviewed_at": "2026-11-02T03:20:54.8227170Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6734dc0f1e09b624b7ca",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 4500651021",
+      "reviewed_at": "2026-11-02T03:20:54.8227564Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e4074f5fe11a5c6d3080",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel): 0909302034",
+      "reviewed_at": "2026-11-02T03:20:54.8227946Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "75af5faf1afca2bef8c2",
+      "status": "verified",
+      "transcript": "Họ t ên n gườimua h àng ( Buyer):",
+      "reviewed_at": "2026-11-02T03:20:54.8228330Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f4b09226db211482111b",
+      "status": "verified",
+      "transcript": "Số tài khoản (Account No):",
+      "reviewed_at": "2026-11-02T03:20:54.8228656Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "40e31515a9e589b175ac",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): CK",
+      "reviewed_at": "2026-11-02T03:20:54.8229013Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2077add58000167c92c5",
+      "status": "verified",
+      "transcript": "Ngân hàng (Bank):",
+      "reviewed_at": "2026-11-02T03:20:54.8229327Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2e346e9a3ee6c6ae81a8",
+      "status": "verified",
+      "transcript": "Thành t iền",
+      "reviewed_at": "2026-11-02T03:20:54.8229588Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7adab344a1c6fac10931",
+      "status": "verified",
+      "transcript": "Tiền t huế GTGT",
+      "reviewed_at": "2026-11-02T03:20:54.8229859Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9093f3f8b4486003ee9e",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "reviewed_at": "2026-11-02T03:20:54.8230105Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2610ef8aba28fb128ffb",
+      "status": "verified",
+      "transcript": "(VATa mount)",
+      "reviewed_at": "2026-11-02T03:20:54.8230375Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3bd1f6ef4367084a7498",
+      "status": "verified",
+      "transcript": "(Name o f goods, services)",
+      "reviewed_at": "2026-11-02T03:20:54.8230662Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3aafe42d424ccf8834f8",
+      "status": "verified",
+      "transcript": "(VATr ate)",
+      "reviewed_at": "2026-11-02T03:20:54.8230934Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7ac49b79de5d4c6738c5",
+      "status": "verified",
+      "transcript": "Tủ mát Sanaky VH-5089 K3",
+      "reviewed_at": "2026-11-02T03:20:54.8231238Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "415270dabfc55a51d6a2",
+      "status": "verified",
+      "transcript": "Thành t iền t rước t huế",
+      "reviewed_at": "2026-11-02T03:20:54.8231865Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7d543f8133144f213325",
+      "status": "verified",
+      "transcript": "Cộng t iền t hanh t oán",
+      "reviewed_at": "2026-11-02T03:20:54.8232177Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "75d3fcbf862d93b6187c",
+      "status": "verified",
+      "transcript": "(VATa mount)",
+      "reviewed_at": "2026-11-02T03:20:54.8232447Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "944098ace1d4afc95edf",
+      "status": "verified",
+      "transcript": "(Exchange r ate)",
+      "reviewed_at": "2026-11-02T03:20:54.8232724Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c438c35be6f75b88b1dc",
+      "status": "verified",
+      "transcript": "Tổng c ộng ( Total:)",
+      "reviewed_at": "2026-11-02T03:20:54.8233076Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7d52d82b3185dd7571aa",
+      "status": "verified",
+      "transcript": "Người mua h àng ( Buyer)",
+      "reviewed_at": "2026-11-02T03:20:54.8233372Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c318f6d0ef53675d0fbe",
+      "status": "verified",
+      "transcript": "Signature V alid",
+      "reviewed_at": "2026-11-02T03:20:54.8233642Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2442b44f3bfee230c475",
+      "status": "verified",
+      "transcript": "Ký ngày: 02/04/2025 14:03:01",
+      "reviewed_at": "2026-11-02T03:20:54.8233966Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b33e3cec373ff943334b",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:20:54.8234318Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

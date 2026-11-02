@@ -1,0 +1,113 @@
+{
+  "invoice": "WEB_072",
+  "created_at": "2026-11-02T02:46:09.8440587Z",
+  "method": "manual_visual_review",
+  "count": 15,
+  "annotations": [
+    {
+      "crop_id": "391622e324fbe96bcbf8",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T02:46:09.8343372Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3eff2e4acc3731ff870a",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25MTA",
+      "reviewed_at": "2026-11-02T02:46:09.8433197Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "82f0554b39ca56ae8f25",
+      "status": "verified",
+      "transcript": "Họ và tên người mua hàng:",
+      "reviewed_at": "2026-11-02T02:46:09.8435763Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "efac559924d905776255",
+      "status": "verified",
+      "transcript": "Tên đơn vị: CÔNG TY TNHH GROBEST LANDFOUND",
+      "reviewed_at": "2026-11-02T02:46:09.8436352Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c1ed5951515351fd39bc",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "reviewed_at": "2026-11-02T02:46:09.8437019Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "de1277f16cda3d93aa16",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:46:09.8437352Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "39ed9068f51cedbe4932",
+      "status": "verified",
+      "transcript": "Đơn vị tính",
+      "reviewed_at": "2026-11-02T02:46:09.8437649Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bf5a5e030132cf194bdb",
+      "status": "verified",
+      "transcript": "Dầu DO 0.05%S",
+      "reviewed_at": "2026-11-02T02:46:09.8437944Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "efe50e8803d4d52d638b",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "reviewed_at": "2026-11-02T02:46:09.8438259Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4a191cb37d14574f4248",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "reviewed_at": "2026-11-02T02:46:09.8438546Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b35b8857188be86c0e98",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T02:46:09.8438865Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f2ac87e87cc69c14df0b",
+      "status": "verified",
+      "transcript": "Người bán hàng",
+      "reviewed_at": "2026-11-02T02:46:09.8439161Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8650e4dd398462e0b6c6",
+      "status": "verified",
+      "transcript": "(Chữ ký điện tử, Chữ ký số)",
+      "reviewed_at": "2026-11-02T02:46:09.8439448Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "da9b6854b0c10f498941",
+      "status": "verified",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: ZLH7S281637Z",
+      "reviewed_at": "2026-11-02T02:46:09.8439760Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "295b0dcfa7300dce3566",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T02:46:09.8440044Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

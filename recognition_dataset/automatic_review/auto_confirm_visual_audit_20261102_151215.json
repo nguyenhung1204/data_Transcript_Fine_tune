@@ -1,0 +1,26 @@
+{
+  "invoice": "WEB_252",
+  "timestamp": "20261102_151215",
+  "visually_reviewed_crop_ids": [
+    "5259b090e5aa908b8970",
+    "43efcbb70f70a1accd74",
+    "ca26e3445e0d6cd82fed",
+    "123702cd61e15c15050f",
+    "a2a9eaa661330ce1a680",
+    "91662bb9c8cea1c198b3",
+    "9b2cd45e7db1d71885af",
+    "053ba4277e9b4c68fe03",
+    "c087890a245a5400a300",
+    "6985932517c586425d77",
+    "3b3ad046f83ab93a754b",
+    "438743573614b53c4489",
+    "7c87242dcb204f52de5e"
+  ],
+  "submitted_count": 13,
+  "already_terminal_skipped_count": 0,
+  "readback_errors": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_151215.json",
+  "verified_total": 11721,
+  "deferred_crop_ids": [],
+  "notes": "Compared all 13 crops visually; corrected OCR/PDF-layer character errors from the visible crop."
+}

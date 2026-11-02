@@ -1,0 +1,13 @@
+{
+  "annotations": [
+    {
+      "crop_id": "45d556ba680bf58dcd53",
+      "review_note": "Đối chiếu trực tiếp crop và vùng ngày ký trên trang PDF HD_028; toàn bộ ký tự rõ, dưới 90 ký tự.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:14:29.0507213Z",
+      "transcript": "Ngày ký: 25/06/2024"
+    }
+  ],
+  "version": 1
+}

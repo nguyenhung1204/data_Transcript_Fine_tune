@@ -1,0 +1,32 @@
+{
+  "timestamp_utc": "2026-11-02T01:12:13.5678691Z",
+  "policy": "Visual comparison of each crop against its source invoice; only legible exact text <=90 characters confirmed.",
+  "confirmed": [
+    {
+      "note": "Header clearly legible in crop and source page.",
+      "text": "Số lượng",
+      "id": "4124f90d6e3ed914f576",
+      "invoice": "HD_025"
+    },
+    {
+      "note": "Header clearly legible in crop and source page.",
+      "text": "Đơn giá",
+      "id": "331aaecfcb35cf535a8b",
+      "invoice": "HD_025"
+    }
+  ],
+  "skipped": [
+    {
+      "reason": "Multi-line tax/amount heading is clipped.",
+      "id": "79c5f1094a5a114c5946"
+    },
+    {
+      "reason": "Multi-line heading is clipped.",
+      "id": "34e120c4da36cdba64a1"
+    },
+    {
+      "reason": "Multi-line heading is clipped.",
+      "id": "88bbf02de8d48c4b6748"
+    }
+  ]
+}

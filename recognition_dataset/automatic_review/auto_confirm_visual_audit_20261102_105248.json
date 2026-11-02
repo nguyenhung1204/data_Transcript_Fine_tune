@@ -1,0 +1,383 @@
+{
+  "timestamp": "20261102_105248",
+  "invoice_ids": [
+    "WEB_197",
+    "WEB_198"
+  ],
+  "accepted_count": 58,
+  "accepted": [
+    {
+      "crop_id": "374f6bbe0c712067d225",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c86df72e4ca89663d938",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C24TDH",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "314c5051b85d7c56fcff",
+      "status": "verified",
+      "transcript": "Ngày 18 tháng 01 năm 2024",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dada52b820b4ae2a7149",
+      "status": "verified",
+      "transcript": "Tên đơn vị bán hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "16eae1afc39aed2d2f9d",
+      "status": "verified",
+      "transcript": "0764 0036 992 0002",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1d6400c4c5c40fc8ae1a",
+      "status": "verified",
+      "transcript": "Ngân hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3699a9dfae67734e7a4d",
+      "status": "verified",
+      "transcript": "Ngân hàng Industrial Bank of Korea, Chi nhánh T.P. Hồ Chí Minh",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9bda06565152819c92e0",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9ebffd8090b77824e6bf",
+      "status": "verified",
+      "transcript": "Tên đơn vị mua hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "388ef7923542de9a5665",
+      "status": "verified",
+      "transcript": "Mã số thuế:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c1fab10953621b0789bc",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3928701a136ac334b539",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Thanh toán chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "aa858284460d04ea5f20",
+      "status": "verified",
+      "transcript": "Ngân hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2bf74afe15644db8caf7",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3532bf4564d67caa74fb",
+      "status": "verified",
+      "transcript": "Thanh lý Terminal",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7c3e172bfd72b0e7e694",
+      "status": "verified",
+      "transcript": "Thanh lý dây điện",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "733c9b09af77154e6d78",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5fba08a71f4543670213",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3d546ed9a9c26da246c7",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "635ce3bb2b1d92b36fc0",
+      "status": "verified",
+      "transcript": "NGƯỜI BÁN HÀNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "16c570328bcdc8769a25",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d42ed8f96fa16d4be24c",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "08f688dd08cc3cae9016",
+      "status": "verified",
+      "transcript": "Signature Valid",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "907d94d64d44110f597f",
+      "status": "verified",
+      "transcript": "Signature Valid",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "33113a008c63817b1a82",
+      "status": "verified",
+      "transcript": "Ký ngày: 18/01/2024 15:42:03",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bf7137cbf5021a337584",
+      "status": "verified",
+      "transcript": "CHÍNH,L=HàNội,C=VN",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fde7d3cc95147d83c2fe",
+      "status": "verified",
+      "transcript": "Ký ngày: 18/01/2024 15:42:05",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "eb82e00ca483c130ad60",
+      "status": "verified",
+      "transcript": "Mã tra cứu: 84241001C24TDH70701774",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "64e68554756fcef42bf8",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "77679325abf8ce654e35",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cda06752fe2be6e9a82a",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C24TDH",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "07d9fe0bbb59f8eefcce",
+      "status": "verified",
+      "transcript": "Ngày 21 tháng 10 năm 2024",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8a9ec7c7bae4e1622f3e",
+      "status": "verified",
+      "transcript": "Tên đơn vị bán hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d191571b1caf04ee0fe9",
+      "status": "verified",
+      "transcript": "0764 0036 992 0002",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f00fef5a3a6471f4aabc",
+      "status": "verified",
+      "transcript": "Ngân hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4dfcfb038a821b8a03e6",
+      "status": "verified",
+      "transcript": "Ngân hàng Industrial Bank of Korea, Chi nhánh T.P. Hồ Chí Minh",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e84ddd7846ed98ad0c93",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c57f857ba0156ae997a2",
+      "status": "verified",
+      "transcript": "Tên đơn vị mua hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9959f5dd2aba6a6552c8",
+      "status": "verified",
+      "transcript": "Mã số thuế:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bb79f75f62a89db726f6",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "68456883595691486e8a",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Thanh toán chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7c92be29cd237fced926",
+      "status": "verified",
+      "transcript": "Ngân hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1f84dde4fc2164b5714d",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "27f124f341306951bc30",
+      "status": "verified",
+      "transcript": "Thanh lý Terminal",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c445e055dc8eb59faccd",
+      "status": "verified",
+      "transcript": "Thanh lý dây điện",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "42662d19e66d77f57210",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7d95d94afaf40d766ada",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "89d915d48e9f4dcbff75",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fa5b7bb8141d6bd9ad3c",
+      "status": "verified",
+      "transcript": "NGƯỜI BÁN HÀNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "be8fecedbfe7951aa7a8",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6164a4ba5a81fc76344d",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7646e68284b4932a2735",
+      "status": "verified",
+      "transcript": "Signature Valid",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "64726fdfc08d4c9aae76",
+      "status": "verified",
+      "transcript": "Signature Valid",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4b41e79343f1aecec7b8",
+      "status": "verified",
+      "transcript": "Ký ngày: 21/10/2024 09:59:09",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "56cb55a8d1c3985eade1",
+      "status": "verified",
+      "transcript": "CHÍNH,L=HàNội,C=VN",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "74644d12bfe22c9ba0c4",
+      "status": "verified",
+      "transcript": "Ký ngày: 21/10/2024 09:59:27",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "181600649e2c426f0556",
+      "status": "verified",
+      "transcript": "Mã tra cứu: 84241001C24TDH1248412652",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "13f91f3fa9f8a2b3cd75",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [
+    {
+      "crop_id": "bc9aa9ab5db1b8166170",
+      "reason": "Mã cơ quan thuế dài; cần kiểm từng ký tự.",
+      "invoice": "WEB_197"
+    },
+    {
+      "crop_id": "83bdac38992db15b2a6a",
+      "reason": "Vùng website bị lẫn ký tự lạ/cắt mép.",
+      "invoice": "WEB_197"
+    },
+    {
+      "crop_id": "e5355e93ec4f0872478e",
+      "reason": "Mã cơ quan thuế dài; cần kiểm từng ký tự.",
+      "invoice": "WEB_198"
+    },
+    {
+      "crop_id": "124e522d8f397d622f05",
+      "reason": "Vùng website bị lẫn ký tự lạ/cắt mép.",
+      "invoice": "WEB_198"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_105248.json",
+  "readback_count": 11236,
+  "readback_failures": 0
+}

@@ -1,0 +1,164 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "7424df07b7b98763dab8",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Ký hiu: 1K25TDN",
+      "transcript_after": "Ký hiệu: 1K25TDN",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "8ee8b3f7f549d3b71395",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "BÁCH HÓA XANH DÔNGNAI",
+      "transcript_after": "BÁCH HÓA XANH ĐỒNG NAI",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "95c1a7ef8bb8b06c5012",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "sô:10380815",
+      "transcript_after": "Số: 10380815",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "ac8094bc6088669857f1",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Mã só thuê: 0310471746-353",
+      "transcript_after": "Mã số thuế: 0310471746-353",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "bc65f5566ed7e1083e67",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Ho tên ngưi mua hàng:",
+      "transcript_after": "Họ tên người mua hàng:",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "ab307565d4ba247f5def",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Mã só Thué: 0310471746-353",
+      "transcript_after": "Mã số Thuế: 0310471746-353",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "62fc0ba28ce584e09693",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Đon v tính",
+      "transcript_after": "Đơn vị tính",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "11d2812d2608ff2651ac",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Só lưng",
+      "transcript_after": "Số lượng",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "6598fda9794a108ed6d9",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Tên hàng hoá, dch v",
+      "transcript_after": "Tên hàng hoá, dịch vụ",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "26d547831895e4d4b36e",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Tng công",
+      "transcript_after": "Tổng cộng",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "6d3768cd551b332e25b2",
+      "invoice": "WEB_051",
+      "pdf": "WEB_051.pdf",
+      "page": 1,
+      "transcript_before": "Ba trăm năm mươi ba nghìn đồng chăn",
+      "transcript_after": "Ba trăm năm mươi ba nghìn đồng chẵn",
+      "evidence": "This invoice’s crop was independently visually inspected; the complete printed words and digits are clear and match the PDF text after standardizing spaces.",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "aa4f13e94be41c60f0ca",
+      "reason": "Company name line ends with “CH” and continues in neighboring crops."
+    },
+    {
+      "crop_id": "9650617742101557f7c7",
+      "reason": "Company name text fragment ends mid-name."
+    },
+    {
+      "crop_id": "4a5156007f139ae44d67",
+      "reason": "Store name continuation fragment."
+    },
+    {
+      "crop_id": "69565aa5cc976a12bc4a",
+      "reason": "Store name continuation fragment."
+    },
+    {
+      "crop_id": "62d9ae8d5049803421b2",
+      "reason": "Address crop appears to continue into adjacent regions."
+    },
+    {
+      "crop_id": "356fe66218797ab7f977",
+      "reason": "Address fragment ends at “Biên”; continuation is outside crop."
+    },
+    {
+      "crop_id": "a8678765686c0cbac3ae",
+      "reason": "Address continuation fragment."
+    },
+    {
+      "crop_id": "28f2e0629e9e28d32c09",
+      "reason": "Address continuation fragment."
+    },
+    {
+      "crop_id": "59947d23ca14535dd072",
+      "reason": "Payment line is cut at end."
+    },
+    {
+      "crop_id": "b10f584a82c93878249b",
+      "reason": "Digital signature name is split across crops."
+    },
+    {
+      "crop_id": "9823b03979f47e6edd60",
+      "reason": "Digital signature continuation fragment."
+    },
+    {
+      "crop_id": "39d57dc208ee66ad207e",
+      "reason": "Digital signature continuation fragment."
+    }
+  ]
+}

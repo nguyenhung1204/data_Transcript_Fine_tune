@@ -1,0 +1,244 @@
+{
+  "created_at_utc": "2026-11-02T00:14:05.067630+00:00",
+  "invoice": "WEB_128",
+  "method": "manual_visual_review",
+  "crops": [
+    {
+      "crop_id": "0c623b16028c5134dff8",
+      "transcript": "Hóa chất Natri Sunfat (Na2SO4), TQ",
+      "pdf_text": "Hóa chất Natri Sunfat (Na2SO4), TQ",
+      "ocr1": "Hóa cht Natri Sunfat (Na2SO4), TQ",
+      "image": "/crops/WEB_128/0c623b16028c5134dff8.png",
+      "page": 1,
+      "coords": [
+        239,
+        2256,
+        932,
+        2314
+      ]
+    },
+    {
+      "crop_id": "3b0b42099ab15613b905",
+      "transcript": "Hóa chất Calci chloride (CaCl2), TQ",
+      "pdf_text": "Hóa chất Calci chloride (CaCl2), TQ",
+      "ocr1": "Hóa cht Calci chloride (CaCl2), TQ",
+      "image": "/crops/WEB_128/3b0b42099ab15613b905.png",
+      "page": 1,
+      "coords": [
+        239,
+        2348,
+        919,
+        2407
+      ]
+    },
+    {
+      "crop_id": "da489b2ef436a0b93f9e",
+      "transcript": "Hóa chất Natri Clorua (NaCl), TQ",
+      "pdf_text": "Hóa chất Natri Clorua (NaCl), TQ",
+      "ocr1": "Hóa cht Natri Clorua (NaCl), TQ",
+      "image": "/crops/WEB_128/da489b2ef436a0b93f9e.png",
+      "page": 1,
+      "coords": [
+        238,
+        2439,
+        868,
+        2498
+      ]
+    },
+    {
+      "crop_id": "fec4961908f688a49d26",
+      "transcript": "Hóa chất Kali Clorua (KCl), TQ",
+      "pdf_text": "Hóa chất Kali Clorua (KCl), TQ",
+      "ocr1": "Hóa cht Kali Clorua (KCI), TQ",
+      "image": "/crops/WEB_128/fec4961908f688a49d26.png",
+      "page": 1,
+      "coords": [
+        239,
+        2530,
+        825,
+        2588
+      ]
+    },
+    {
+      "crop_id": "f0a39ff141efa4f7b5aa",
+      "transcript": "Hóa chất Natri bicarbonate (NaHCO3), TQ",
+      "pdf_text": "Hóa chất Natri bicarbonate (NaHCO3), TQ",
+      "ocr1": "Hóa cht Natri bicarbonate (NaHCO3), TQ",
+      "image": "/crops/WEB_128/f0a39ff141efa4f7b5aa.png",
+      "page": 1,
+      "coords": [
+        239,
+        2623,
+        1039,
+        2681
+      ]
+    },
+    {
+      "crop_id": "b717577eccb82d5f39d2",
+      "transcript": "Hóa chất Ethanol (C2H5OH), TQ",
+      "pdf_text": "Hóa chất Ethanol (C2H5OH), TQ",
+      "ocr1": "Hóa cht Ethanol (C2H5OH), TQ",
+      "image": "/crops/WEB_128/b717577eccb82d5f39d2.png",
+      "page": 1,
+      "coords": [
+        239,
+        2713,
+        865,
+        2772
+      ]
+    },
+    {
+      "crop_id": "99e5efb9c257bc1c0924",
+      "transcript": "Hóa chất Natri cacbonat (Na2CO3), TQ",
+      "pdf_text": "Hóa chất Natri cacbonat (Na2CO3), TQ",
+      "ocr1": "Hóa cht Natri cacbonat (Na2CO3), TQ",
+      "image": "/crops/WEB_128/99e5efb9c257bc1c0924.png",
+      "page": 1,
+      "coords": [
+        239,
+        2806,
+        984,
+        2865
+      ]
+    },
+    {
+      "crop_id": "8041d51d92b2e2f4e095",
+      "transcript": "71.000",
+      "pdf_text": "71 .000",
+      "ocr1": "71.000",
+      "image": "/crops/WEB_128/8041d51d92b2e2f4e095.png",
+      "page": 1,
+      "coords": [
+        2238,
+        2806,
+        2384,
+        2862
+      ]
+    },
+    {
+      "crop_id": "a7e581904e80ac597594",
+      "transcript": "71.000",
+      "pdf_text": "71 .000",
+      "ocr1": "71.000",
+      "image": "/crops/WEB_128/a7e581904e80ac597594.png",
+      "page": 1,
+      "coords": [
+        1850,
+        2809,
+        1992,
+        2860
+      ]
+    },
+    {
+      "crop_id": "f7e57fa1bc1ec9c7d781",
+      "transcript": "Hóa chất Magnesium Sulfate(MgSO4), TQ",
+      "pdf_text": "Hóa chất Magnesium Sulfate(MgSO4), TQ",
+      "ocr1": "Hóa cht Magnesium Sulfate(MgSO4), TQ",
+      "image": "/crops/WEB_128/f7e57fa1bc1ec9c7d781.png",
+      "page": 1,
+      "coords": [
+        237,
+        2895,
+        1041,
+        2961
+      ]
+    },
+    {
+      "crop_id": "3461f724c44c4879a07c",
+      "transcript": "112.000",
+      "pdf_text": "1 12.000",
+      "ocr1": "112.000",
+      "image": "/crops/WEB_128/3461f724c44c4879a07c.png",
+      "page": 1,
+      "coords": [
+        1829,
+        2901,
+        1991,
+        2951
+      ]
+    },
+    {
+      "crop_id": "e2264d5b147a56a57aca",
+      "transcript": "112.000",
+      "pdf_text": "1 12.000",
+      "ocr1": "112.000",
+      "image": "/crops/WEB_128/e2264d5b147a56a57aca.png",
+      "page": 1,
+      "coords": [
+        2220,
+        2901,
+        2382,
+        2952
+      ]
+    },
+    {
+      "crop_id": "cdb7844efa9b617c712a",
+      "transcript": "Hóa chất Calci hydroxide Ca(OH)2, TQ",
+      "pdf_text": "Hóa chất Calci hydroxide Ca(OH)2, TQ",
+      "ocr1": "Hóa cht Calci hydroxide Ca(OH)2, TQ",
+      "image": "/crops/WEB_128/cdb7844efa9b617c712a.png",
+      "page": 1,
+      "coords": [
+        238,
+        2989,
+        978,
+        3049
+      ]
+    },
+    {
+      "crop_id": "f0140a63c5180146a8ff",
+      "transcript": "Hóa chất Amoni chloride (NH4Cl), TQ",
+      "pdf_text": "Hóa chất Amoni chloride (NH4Cl), TQ",
+      "ocr1": "Hóa cht Amoni chloride (NH4CI), TQ",
+      "image": "/crops/WEB_128/f0140a63c5180146a8ff.png",
+      "page": 1,
+      "coords": [
+        239,
+        3081,
+        951,
+        3139
+      ]
+    },
+    {
+      "crop_id": "ed7ef9f4f90a0142a432",
+      "transcript": "Hóa chất Zinc chloride (ZnCl2), TQ",
+      "pdf_text": "Hóa chất Zinc chloride (ZnCl2), TQ",
+      "ocr1": "Hóa cht Zinc chloride (ZnCl2), TQ",
+      "image": "/crops/WEB_128/ed7ef9f4f90a0142a432.png",
+      "page": 1,
+      "coords": [
+        238,
+        3173,
+        900,
+        3230
+      ]
+    },
+    {
+      "crop_id": "3354487d3e2e71f55eea",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "pdf_text": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "ocr1": "(Cn kim tra đi chiu khi lp, giao, nhn hóa đon)",
+      "image": "/crops/WEB_128/3354487d3e2e71f55eea.png",
+      "page": 1,
+      "coords": [
+        802,
+        3254,
+        1676,
+        3311
+      ]
+    }
+  ],
+  "deliberately_skipped": [
+    "53e8782877c10193bc52",
+    "6c89ff7199e3176c1f5c",
+    "f1f0e670b20d0ff0bb33",
+    "72f979da5ae5bef20e3c"
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_071405.json",
+  "api_response": {
+    "saved": 16,
+    "total": 8606,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "readback_verified": true
+}

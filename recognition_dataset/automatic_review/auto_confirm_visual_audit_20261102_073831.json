@@ -1,0 +1,43 @@
+{
+  "skipped": [
+    {
+      "reason": "Crop ở vùng chữ ký bị dấu xanh che nhiều ký tự, nội dung nhìn thấy không đủ để khôi phục chính xác.",
+      "crop_id": "e86d9c92440f5358dcb0"
+    }
+  ],
+  "method": "manual_visual_review",
+  "confirmed": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "21976e5600a5bf820eb1",
+      "reviewed_at": "2026-11-02T00:38:31.0813926Z",
+      "transcript": "Người bán hàng (Seller)",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3fb8b602469339252144",
+      "reviewed_at": "2026-11-02T00:38:31.0813926Z",
+      "transcript": "(Chữ ký số (nếu có))",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "af22360344960b7e2180",
+      "reviewed_at": "2026-11-02T00:38:31.0813926Z",
+      "transcript": "(Chữ ký điện tử, chữ ký số)",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d5d47a3bb45cec8c0407",
+      "reviewed_at": "2026-11-02T00:38:31.0813926Z",
+      "transcript": "Ký bởi (Signed By): CÔNG TY TNHH",
+      "status": "verified"
+    }
+  ],
+  "created_at_utc": "2026-11-02T00:38:31.0813926Z",
+  "evidence": "Bốn crop in rõ và đọc đầy đủ; crop cuối bị dấu xanh che nên để chờ.",
+  "invoice": "HD_023",
+  "count": 4
+}

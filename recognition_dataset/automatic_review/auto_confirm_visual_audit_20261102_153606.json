@@ -1,0 +1,81 @@
+{
+  "invoice": "WEB_267",
+  "reviewed_at": "2026-11-02T08:36:09.4251988Z",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_153606.json",
+  "submitted_count": 14,
+  "readback_verified_count": 14,
+  "confirmed": [
+    {
+      "crop_id": "d139603801d626d3392a",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "status": "verified"
+    },
+    {
+      "crop_id": "9f509f4b73c6f200c44f",
+      "transcript": "Kí hiệu: AC/19P",
+      "status": "verified"
+    },
+    {
+      "crop_id": "4256847485f35f7090b2",
+      "transcript": "Đơn vị bán hàng: Công ty TNHH Thương Mại và Dịch Vụ Anh Đức",
+      "status": "verified"
+    },
+    {
+      "crop_id": "cbcd467b8359ab3b87bd",
+      "transcript": "Mã số thuế:0102047119..",
+      "status": "verified"
+    },
+    {
+      "crop_id": "fcd31e00eb367cc39df3",
+      "transcript": "Stk:....",
+      "status": "verified"
+    },
+    {
+      "crop_id": "dc86de9601d6eac64e58",
+      "transcript": "Họ tên người mua hàng: ..",
+      "status": "verified"
+    },
+    {
+      "crop_id": "d745931a0e26fb357a0a",
+      "transcript": "Tên đơn vị: Cửa hàng Hà Sáu..",
+      "status": "verified"
+    },
+    {
+      "crop_id": "cf22c725418089b15b55",
+      "transcript": "Đơn giá",
+      "status": "verified"
+    },
+    {
+      "crop_id": "d45e7bcfd65bd498d2e1",
+      "transcript": "Thành tiền",
+      "status": "verified"
+    },
+    {
+      "crop_id": "453a1bbecda0a4dcaf82",
+      "transcript": "vị tính",
+      "status": "verified"
+    },
+    {
+      "crop_id": "9f5f327e37231d1dece2",
+      "transcript": "C.Cay 30 H.Nội",
+      "status": "verified"
+    },
+    {
+      "crop_id": "7ed70e3346ad8b2d18ff",
+      "transcript": "30 Bột Ngọt",
+      "status": "verified"
+    },
+    {
+      "crop_id": "9b50fc4d1a16255ca7ce",
+      "transcript": "Cộng tiền hàng: 11.081.819",
+      "status": "verified"
+    },
+    {
+      "crop_id": "702dbd217a0416fa30c6",
+      "transcript": "Tổng cộng tiền thanh toán: 12.190.000",
+      "status": "verified"
+    }
+  ],
+  "total_verified": 11921,
+  "note": "WEB_267 candidate list had verified records and unseen pending crop IDs; only 14 visually inspected pending crops were posted."
+}

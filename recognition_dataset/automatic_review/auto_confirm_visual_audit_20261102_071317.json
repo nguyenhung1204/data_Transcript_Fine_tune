@@ -1,0 +1,210 @@
+{
+  "created_at_utc": "2026-11-02T00:13:17.557075+00:00",
+  "invoice": "WEB_128",
+  "method": "manual_visual_review",
+  "crops": [
+    {
+      "crop_id": "313f4f1eaaf1ee3cc13c",
+      "transcript": "Tên đơn vị (Company): CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI VÀ THIẾT KẾ PHƯƠNG ANH",
+      "pdf_text": "Tên đơn vị (Company): CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI VÀ THIẾT KẾ PHƯƠNG ANH",
+      "ocr1": "Tên đo'n v! (Company): CÔNG TY CÔ PHÀN XÂY D'NG THU'O'NG MI VÀ THIÉT KÉ PHU'O'NG ANH",
+      "image": "/crops/WEB_128/313f4f1eaaf1ee3cc13c.png",
+      "page": 1,
+      "coords": [
+        92,
+        1007,
+        2022,
+        1075
+      ]
+    },
+    {
+      "crop_id": "6324bb286c534c816b38",
+      "transcript": "Mã số thuế (Tax code): 0 3 1 0 7 6 5 8 7 3",
+      "pdf_text": "Mã số thuế (Tax code): 0 3 1 0 7 6 5 8 7 3",
+      "ocr1": "Mã s thu (Tax code): 0 3 1 0 7 6 5 8 7 3",
+      "image": "/crops/WEB_128/6324bb286c534c816b38.png",
+      "page": 1,
+      "coords": [
+        94,
+        1076,
+        867,
+        1133
+      ]
+    },
+    {
+      "crop_id": "2e0eb45ec30d0d98b948",
+      "transcript": "Minh, Việt Nam",
+      "pdf_text": "Minh, Việt Nam",
+      "ocr1": "Minh, Vit Nam",
+      "image": "/crops/WEB_128/2e0eb45ec30d0d98b948.png",
+      "page": 1,
+      "coords": [
+        97,
+        1207,
+        395,
+        1256
+      ]
+    },
+    {
+      "crop_id": "c0895eda49b9106428b4",
+      "transcript": "Số tài khoản (Account No):",
+      "pdf_text": "Số tài khoản (Account No):",
+      "ocr1": "S tài khon (Account No):",
+      "image": "/crops/WEB_128/c0895eda49b9106428b4.png",
+      "page": 1,
+      "coords": [
+        1333,
+        1263,
+        1819,
+        1324
+      ]
+    },
+    {
+      "crop_id": "7b8c927d1acac5384c5c",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "pdf_text": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "ocr1": "Hình thc thanh toán (Payment method): Tin mt/Chuyn khon",
+      "image": "/crops/WEB_128/7b8c927d1acac5384c5c.png",
+      "page": 1,
+      "coords": [
+        93,
+        1265,
+        1289,
+        1324
+      ]
+    },
+    {
+      "crop_id": "1de52f4fbcb2a9aa5d21",
+      "transcript": "Số lượng",
+      "pdf_text": "Số lượng",
+      "ocr1": "Só lưng",
+      "image": "/crops/WEB_128/1de52f4fbcb2a9aa5d21.png",
+      "page": 1,
+      "coords": [
+        1396,
+        1345,
+        1603,
+        1414
+      ]
+    },
+    {
+      "crop_id": "875998259afbbd7c8512",
+      "transcript": "Thành tiền",
+      "pdf_text": "Thành tiền",
+      "ocr1": "Thành tièn",
+      "image": "/crops/WEB_128/875998259afbbd7c8512.png",
+      "page": 1,
+      "coords": [
+        2088,
+        1352,
+        2313,
+        1408
+      ]
+    },
+    {
+      "crop_id": "ce851d1dd011b7658412",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "pdf_text": "Tên hàng hóa, dịch vụ",
+      "ocr1": "Tên hàng hóa, dch v",
+      "image": "/crops/WEB_128/ce851d1dd011b7658412.png",
+      "page": 1,
+      "coords": [
+        440,
+        1353,
+        895,
+        1410
+      ]
+    },
+    {
+      "crop_id": "f969a48bf74a8707551b",
+      "transcript": "Đơn vị tính",
+      "pdf_text": "Đơn vị tính",
+      "ocr1": "Đon vi tính",
+      "image": "/crops/WEB_128/f969a48bf74a8707551b.png",
+      "page": 1,
+      "coords": [
+        1120,
+        1354,
+        1355,
+        1410
+      ]
+    },
+    {
+      "crop_id": "0cf38e13711b192a490e",
+      "transcript": "Đơn giá",
+      "pdf_text": "Đơn giá",
+      "ocr1": "Đon giá",
+      "image": "/crops/WEB_128/0cf38e13711b192a490e.png",
+      "page": 1,
+      "coords": [
+        1728,
+        1354,
+        1905,
+        1412
+      ]
+    },
+    {
+      "crop_id": "65ef331351cff4dce806",
+      "transcript": "Hóa chất Zinc oxyt (ZnO), TQ",
+      "pdf_text": "Hóa chất Zinc oxyt (ZnO), TQ",
+      "ocr1": "Hóa cht Zinc oxyt (ZnO), TQ",
+      "image": "/crops/WEB_128/65ef331351cff4dce806.png",
+      "page": 1,
+      "coords": [
+        239,
+        1565,
+        801,
+        1623
+      ]
+    },
+    {
+      "crop_id": "86b63b1814d1bf7e12b7",
+      "transcript": "Hóa chất Acetone (CH3)2CO, TQ",
+      "pdf_text": "Hóa chất Acetone (CH3)2CO, TQ",
+      "ocr1": "Hóa cht Acetone (CH3)2CO, TQ",
+      "image": "/crops/WEB_128/86b63b1814d1bf7e12b7.png",
+      "page": 1,
+      "coords": [
+        239,
+        1655,
+        875,
+        1715
+      ]
+    },
+    {
+      "crop_id": "2565afdf8231f9702a0a",
+      "transcript": "Hóa chất Acid acetic (CH3COOH), TQ",
+      "pdf_text": "Hóa chất Acid acetic (CH3COOH), TQ",
+      "ocr1": "Hóa cht Acid acetic (CH3COOH), TQ",
+      "image": "/crops/WEB_128/2565afdf8231f9702a0a.png",
+      "page": 1,
+      "coords": [
+        237,
+        1980,
+        978,
+        2040
+      ]
+    },
+    {
+      "crop_id": "5d13a8651ddcef0c8dc1",
+      "transcript": "Hóa chất Kali hydroxyt (KOH), TQ",
+      "pdf_text": "Hóa chất Kali hydroxyt (KOH), TQ",
+      "ocr1": "Hóa cht Kali hydroxyt (KOH), TQ",
+      "image": "/crops/WEB_128/5d13a8651ddcef0c8dc1.png",
+      "page": 1,
+      "coords": [
+        238,
+        2071,
+        882,
+        2132
+      ]
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_071317.json",
+  "api_response": {
+    "saved": 14,
+    "total": 8590,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "readback_verified": true
+}

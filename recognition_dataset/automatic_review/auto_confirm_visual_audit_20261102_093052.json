@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-11-02T09:30:52.891843+07:00",
+  "invoice": "WEB_057",
+  "method": "manual_visual_review",
+  "confirmed": [
+    {
+      "crop_id": "3a15b289f08c23ec6b18",
+      "transcript": "Mã số thuế :"
+    },
+    {
+      "crop_id": "c05d3ae9955f1c9507a7",
+      "transcript": "Loại SP"
+    },
+    {
+      "crop_id": "0e76fc7ece2f3cbbbcc5",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "eb915468d20a70e882ef",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "60e43027155139cf0a5c",
+      "transcript": "Đơn giá"
+    },
+    {
+      "crop_id": "7c107e7c0f434f87cb6e",
+      "transcript": "Vàng miếng siêu SJC 10chỉ"
+    },
+    {
+      "crop_id": "7fa7b8e79abeaf8b4646",
+      "transcript": "Cộng tiền hàng :"
+    },
+    {
+      "crop_id": "101da2d668f30ee1de1e",
+      "transcript": "Số tiền viết bằng chữ : Ba trăm sáu mươi tám triệu bốn trăm nghìn đồng chẵn"
+    },
+    {
+      "crop_id": "297f58e83ac868db520d",
+      "transcript": "Người bán hàng"
+    },
+    {
+      "crop_id": "a5c5a467035d07dc4a8d",
+      "transcript": "Người mua hàng"
+    },
+    {
+      "crop_id": "b1315526726a828a76dc",
+      "transcript": "Tra cứu thông tin hóa đơn điện tử tại https://eip.lcssoft.com.vn. Mã tra cứu: QU5AZ0"
+    }
+  ]
+}

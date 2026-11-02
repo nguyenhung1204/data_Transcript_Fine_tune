@@ -1,0 +1,96 @@
+{
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:53.2844651Z",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "status": "verified",
+      "crop_id": "05196d1fedb9e0b53776"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:53.6651305Z",
+      "transcript": "(KHỞI TẠO TỪ MÁY TÍNH TIỀN)",
+      "status": "verified",
+      "crop_id": "377223395accbb35a374"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:53.9564242Z",
+      "transcript": "Số (No.): 479",
+      "status": "verified",
+      "crop_id": "98468971637e45c8d582"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:54.3014815Z",
+      "transcript": "Chủ hộ kinh doanh (Seller): HỘ KINH DOANH PHAN THẾ HUY",
+      "status": "verified",
+      "crop_id": "59e18b2e1982d9758512"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:54.6788454Z",
+      "transcript": "Mã số thuế (Tax code): 3 5 0 2 2 8 0 4 7 6",
+      "status": "verified",
+      "crop_id": "182dd3c76c50661c1088"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:54.8912166Z",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)",
+      "status": "verified",
+      "crop_id": "1665110b8530c9aa73d0"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:55.0893742Z",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "status": "verified",
+      "crop_id": "6b0c2af75d02b86432da"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:55.2511428Z",
+      "transcript": "Số hộ chiếu (Passport number):",
+      "status": "verified",
+      "crop_id": "f3073c03bbb2383df93f"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:55.3721273Z",
+      "transcript": "Số tài khoản (A/C number):",
+      "status": "verified",
+      "crop_id": "0c702e405bb9a3d95dc6"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:55.4729149Z",
+      "transcript": "Số lượng",
+      "status": "verified",
+      "crop_id": "6d4c0a8a8871568d7b38"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:55.5769305Z",
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "crop_id": "058ce384775b84f110a3"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:55.6713627Z",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "crop_id": "a793b46e068d64789d3f"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:36:55.7639559Z",
+      "transcript": "Người bán hàng (Seller)",
+      "status": "verified",
+      "crop_id": "a71da937e8b5af35f1bf"
+    }
+  ],
+  "version": 1
+}

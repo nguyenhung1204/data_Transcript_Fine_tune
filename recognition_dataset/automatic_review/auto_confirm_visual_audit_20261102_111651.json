@@ -1,0 +1,128 @@
+{
+  "verified_count_after": 11307,
+  "deferred": [
+    {
+      "reason": "Crop có dấu chấm dẫn hoặc dấu câu sát mép; số dấu/ranh giới chính xác chưa đủ chắc để tự xác nhận.",
+      "crop_id": "e3d101fdab63269df865"
+    },
+    {
+      "reason": "Crop có dấu chấm dẫn hoặc dấu câu sát mép; số dấu/ranh giới chính xác chưa đủ chắc để tự xác nhận.",
+      "crop_id": "1ef59a5eb6cf0d53083c"
+    },
+    {
+      "reason": "Crop có dấu chấm dẫn hoặc dấu câu sát mép; số dấu/ranh giới chính xác chưa đủ chắc để tự xác nhận.",
+      "crop_id": "54f4ad579a312e8d0ff0"
+    },
+    {
+      "reason": "Crop có dấu chấm dẫn hoặc dấu câu sát mép; số dấu/ranh giới chính xác chưa đủ chắc để tự xác nhận.",
+      "crop_id": "e0af279a412376078c13"
+    },
+    {
+      "reason": "Crop có dấu chấm dẫn hoặc dấu câu sát mép; số dấu/ranh giới chính xác chưa đủ chắc để tự xác nhận.",
+      "crop_id": "937d15620dff97f8af1a"
+    },
+    {
+      "reason": "Crop có dấu chấm dẫn hoặc dấu câu sát mép; số dấu/ranh giới chính xác chưa đủ chắc để tự xác nhận.",
+      "crop_id": "3e538c57462a75676b6c"
+    }
+  ],
+  "verified_count_before": 11285,
+  "confirmed_new": 22,
+  "confirmed": [
+    {
+      "transcript": "ĐVT",
+      "crop_id": "1a3d34f719481b321b83"
+    },
+    {
+      "transcript": "Thuế suất: 10%",
+      "crop_id": "2e17eff856afe931b47e"
+    },
+    {
+      "transcript": "Mã số thuế: 0105 486 073",
+      "crop_id": "7b08f3436f2e51686b16"
+    },
+    {
+      "transcript": "kho(mẫu số 3.1). Sau khi bán hàng (mẫu số 3.4) sẽ được lập thành 3 liên: Liên",
+      "crop_id": "8492f48aa9f2134c6a6b"
+    },
+    {
+      "transcript": "đơn giá",
+      "crop_id": "12d1163cd27622f46914"
+    },
+    {
+      "transcript": "Tên đơn vị: công TNHH khai thác chế biến khoáng sản Núi Pháo",
+      "crop_id": "be2dd50344c4ffdafec6"
+    },
+    {
+      "transcript": "cái TK511(mẫu số 3.5)",
+      "crop_id": "c742c152b1706636b601"
+    },
+    {
+      "transcript": "Số: 000237",
+      "crop_id": "af18fcb908769b62d87e"
+    },
+    {
+      "transcript": "chiếc",
+      "crop_id": "bdf8af217abc633ad94f"
+    },
+    {
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "eabdd6948e2bce192175"
+    },
+    {
+      "transcript": "(ký, ghi rõ họ tên)",
+      "crop_id": "df87df3f0c76f2debb5c"
+    },
+    {
+      "transcript": "Cộng tiền hàng :",
+      "crop_id": "13c17a07e231e4aa9741"
+    },
+    {
+      "transcript": "1(tím) sẽ được lưu lại quyển gốc, liên 2(đỏ) giao cho khách hàng, liên 3(xanh)",
+      "crop_id": "d26298342b29afe8733c"
+    },
+    {
+      "transcript": "thu tiền của khách hàng, Cuối tháng, căn cứ vào hóa đơn GTGT kế toán lập sổ",
+      "crop_id": "7fe2af2a033de0d32d07"
+    },
+    {
+      "transcript": "Họ tên người mua hàng:",
+      "crop_id": "34e890638b5cd3360d26"
+    },
+    {
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "crop_id": "7c15c6d2003a954fbbd9"
+    },
+    {
+      "transcript": "thành tiền",
+      "crop_id": "3a8b215206ad4298ecba"
+    },
+    {
+      "transcript": "Người mua hàng",
+      "crop_id": "f33618b106966a40f0be"
+    },
+    {
+      "transcript": "(ký, ghi rõ họ tên)",
+      "crop_id": "21ab2be562c698ccbff2"
+    },
+    {
+      "transcript": "Ký hiệu:TM/11P",
+      "crop_id": "0021485f95358c69902d"
+    },
+    {
+      "transcript": "ống nổ cao su PT50",
+      "crop_id": "5b19bdd3ba3725d862e0"
+    },
+    {
+      "transcript": "Căn cứ vào yêu cầu của kế toán bán hàng, kế toán kho lập phiếu xuất",
+      "crop_id": "15b2df2dff77fc7c07a7"
+    }
+  ],
+  "preexisting_transcript_conflicts": [],
+  "reviewed_at": "2026-11-02T11:16:57.6264462+07:00",
+  "preserved_existing": 14,
+  "verification_errors": [],
+  "visually_reviewed": 42,
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_111651.json",
+  "invoice": "WEB_229"
+}

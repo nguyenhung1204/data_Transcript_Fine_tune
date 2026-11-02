@@ -1,0 +1,42 @@
+{
+  "invoice": "HD_034",
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "crop_id": "4ca94d7454e1a9542940",
+      "transcript": "ĐVT"
+    },
+    {
+      "crop_id": "f1b8e4ffea4ead5e964b",
+      "transcript": "Đơn giá"
+    },
+    {
+      "crop_id": "189220c4e2344fdbc198",
+      "transcript": "suất"
+    },
+    {
+      "crop_id": "ca54af3288d32fe4a53c",
+      "transcript": "Tổng hợp"
+    },
+    {
+      "crop_id": "665d25ccd8eb8f35f3a1",
+      "transcript": "Tiền thuế GTGT"
+    },
+    {
+      "crop_id": "2f9b8373e8e7c97a97bf",
+      "transcript": "Chiết khấu"
+    },
+    {
+      "crop_id": "6cd6001a41601cedb1b5",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "291cc4af31a2259b4a16",
+      "transcript": "Thành tiền sau thuế"
+    }
+  ],
+  "skipped": [],
+  "note": "Eight crop images visually inspected; exact visible text confirmed.",
+  "timestamp_utc": "2026-11-02T00:46:03.1347110Z",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074603.json"
+}

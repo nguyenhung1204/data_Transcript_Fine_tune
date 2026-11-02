@@ -1,0 +1,110 @@
+[
+  {
+    "crop_id": "7ec642add38323001631",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "S tài khon (A/C No): 333288 NGÂN HÀNG TMCP Á CHÂU (ACB)",
+    "transcript_after": "Số tài khoản (A/C No): 333288 NGÂN HÀNG TMCP Á CHÂU (ACB)",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2183636Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "c178651bd69e3c267d1b",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "Ho tên ngưi mua hàng (Buyer's fullname):",
+    "transcript_after": "Họ tên người mua hàng (Buyer's fullname):",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2517014Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "a770e6686d60fbd425b2",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "Tên đon v (Company's name): CÔNG TY CÔ PHÀN CÔNG NGH ARIUS VIT NAM",
+    "transcript_after": "Tên đơn vị (Company's name): CÔNG TY CỔ PHẦN CÔNG NGHỆ ARIUS VIỆT NAM",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2576197Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "2e3f5fea10fd8ba84b79",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "Mã s thu (Tax code): 0108588115",
+    "transcript_after": "Mã số thuế (Tax code): 0108588115",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2699267Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "fa2955c7f43a69edcc4e",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "Ni, Vit Nam",
+    "transcript_after": "Nội, Việt Nam",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2753128Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "db150117b0ce40ef2a0d",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "S tài khon (A/C No):",
+    "transcript_after": "Số tài khoản (A/C No):",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2825627Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "aff06b390adc6ee93709",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "Hinh thc thanh toán (Payment method): TM/CK",
+    "transcript_after": "Hình thức thanh toán (Payment method): TM/CK",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2880569Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "59657218de8fee978f1c",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "Thành tin",
+    "transcript_after": "Thành tiền",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.2931919Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  },
+  {
+    "crop_id": "c8423e42220cbdda0a6a",
+    "invoice": "HD_012",
+    "pdf": "HD_012.pdf",
+    "page": 1,
+    "transcript_before": "Đon giá",
+    "transcript_after": "Đơn giá",
+    "evidence": "Visually checked crop image; exact transcript matches coordinate-extracted PDF text; source PDF SHA-256 verified; one line; legible; <=90 chars",
+    "reviewed_at_utc": "2026-11-01T23:59:11.3003661Z",
+    "status": "verified",
+    "confirmation_method": "manual_visual_review"
+  }
+]

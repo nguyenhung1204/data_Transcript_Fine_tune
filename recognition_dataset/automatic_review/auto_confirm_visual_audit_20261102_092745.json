@@ -1,0 +1,16 @@
+{
+  "invoice": "WEB_046",
+  "method": "manual_visual_review",
+  "confirmed": [
+    {
+      "crop_id": "1dcf08f597d89da3d5fe",
+      "transcript": "Tra cứu tại website: https://8495426610-001-tt78.vnpt-invoice.com.vn"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "b392d6fbd4727eb333ac",
+      "reason": "crop bị cắt giữa cụm Hình thức thanh toán (Payment...)"
+    }
+  ]
+}

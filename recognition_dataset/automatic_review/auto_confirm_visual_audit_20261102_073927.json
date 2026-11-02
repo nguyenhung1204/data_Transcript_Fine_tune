@@ -1,0 +1,58 @@
+{
+  "created_at_utc": "2026-11-02T00:39:27.4227879Z",
+  "count": 5,
+  "invoice": "HD_025",
+  "skipped": [
+    {
+      "crop_id": "750f3747d6bed8f28a4c",
+      "reason": "Crop “Tiền thuế” bị cắt dọc; không đủ toàn bộ ký tự."
+    },
+    {
+      "crop_id": "79c5f1094a5a114c5946",
+      "reason": "Crop “tiền sau” bị cắt dọc."
+    },
+    {
+      "crop_id": "34e120c4da36cdba64a1",
+      "reason": "Crop “tiền trước” bị cắt dọc."
+    }
+  ],
+  "confirmed": [
+    {
+      "transcript": "Đơn hàng số (S.O.No): 488738682326630-",
+      "crop_id": "0d97e628ec5e89eea2f8",
+      "reviewed_at": "2026-11-02T00:39:27.4227879Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "transcript": "vị",
+      "crop_id": "8cd986558c36ab5983d3",
+      "reviewed_at": "2026-11-02T00:39:27.4227879Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "transcript": "thuế GTGT",
+      "crop_id": "b5ec4b9c594cc07cb1a2",
+      "reviewed_at": "2026-11-02T00:39:27.4227879Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "transcript": "thuế GTGT",
+      "crop_id": "24c64e16728b08ec9ad5",
+      "reviewed_at": "2026-11-02T00:39:27.4227879Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "transcript": "Khởi tạo bởi Công ty TNHH Recess - MST: 0308808575 - SĐT: 02873081188",
+      "crop_id": "2db0cb6171ee1f700b2e",
+      "reviewed_at": "2026-11-02T00:39:27.4227879Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "method": "manual_visual_review",
+  "evidence": "Đã kiểm tra ảnh crop và trang PDF HD_025. Năm crop xác nhận theo chữ đọc rõ; ba crop tiêu đề cột bị cụt chữ nên để chờ."
+}

@@ -1,0 +1,375 @@
+{
+  "confirmed": [
+    {
+      "reviewed_at": "2026-11-02T03:40:44.9541601Z",
+      "crop_id": "9ec6d8692d2835c559ce",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25TCU",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.0641374Z",
+      "crop_id": "80894d5cfa502c74ec61",
+      "status": "verified",
+      "transcript": "Ngày 07 tháng 06 năm 2 025",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.1714222Z",
+      "crop_id": "f72b6398cc59e93d0105",
+      "status": "verified",
+      "transcript": "Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.2674758Z",
+      "crop_id": "49ee69dba81ef214f7ed",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.3608352Z",
+      "crop_id": "8f43da1136a4755c5136",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.4607425Z",
+      "crop_id": "8fecb702d3f01218f728",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.5521783Z",
+      "crop_id": "43737bc3a8c6679b8b77",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.6474862Z",
+      "crop_id": "bc0079a780c5ed67db91",
+      "status": "verified",
+      "transcript": "Sàng đường kính 300mm",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.7871788Z",
+      "crop_id": "ad44cb255c524fba5207",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:45.8985734Z",
+      "crop_id": "e76635a640ddbfdc965a",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.0152496Z",
+      "crop_id": "129b13a5b0c53c775e63",
+      "status": "verified",
+      "transcript": "8% Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.1394711Z",
+      "crop_id": "16c840a62617b2c76b87",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.2685178Z",
+      "crop_id": "afef53c2440c61464110",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.3973252Z",
+      "crop_id": "fceffbea67a9fa729185",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.5211808Z",
+      "crop_id": "2be6f5879bdcdd8a9eea",
+      "status": "verified",
+      "transcript": "THỊNH",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.6426450Z",
+      "crop_id": "8ac56ee7a4d6fd38afd3",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.7673687Z",
+      "crop_id": "53e8782877c10193bc52",
+      "status": "verified",
+      "transcript": "Hóa chất Natri hydroxyt (NaOH), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:46.8901813Z",
+      "crop_id": "6c89ff7199e3176c1f5c",
+      "status": "verified",
+      "transcript": "Hóa chất Amoni hydroxide (NH4OH)/(NH3),",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.0008170Z",
+      "crop_id": "f1f0e670b20d0ff0bb33",
+      "status": "verified",
+      "transcript": "Hóa chất Kẽm sunfat (ZnSO4.7H2O), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.0946155Z",
+      "crop_id": "730a21ed23392a9390f4",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.1791818Z",
+      "crop_id": "5a34a387b6da8c98c934",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.2590918Z",
+      "crop_id": "cc44b06abe9e33743ead",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.3462248Z",
+      "crop_id": "6a03426f17be8b70cbb9",
+      "status": "verified",
+      "transcript": "Hóa chất Amoni thioxianat (NH4SCN), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.4300204Z",
+      "crop_id": "1487b55ebbc4f827288e",
+      "status": "verified",
+      "transcript": "Hóa chất Acid citric (C6H8O7H2O), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.4931400Z",
+      "crop_id": "303dd1e25d5c4d737348",
+      "status": "verified",
+      "transcript": "Hóa chất Etylen glycol (C2H6O2), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.5479289Z",
+      "crop_id": "fde4aefe3be8d83b429e",
+      "status": "verified",
+      "transcript": "Hóa chất Oxalic Acid dehydrate",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.5964397Z",
+      "crop_id": "19651ced685323744499",
+      "status": "verified",
+      "transcript": "Hóa chất Natri nitrit(NaNO2), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.6643387Z",
+      "crop_id": "c3c4718573e9960192db",
+      "status": "verified",
+      "transcript": "Hóa chất Natri salicylate (C7H5NaO3), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.7622930Z",
+      "crop_id": "34556900ec10c731cdff",
+      "status": "verified",
+      "transcript": "Hóa chất Natri kali tatrat",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.8131980Z",
+      "crop_id": "322026e639b16a9fc431",
+      "status": "verified",
+      "transcript": "Hóa chất Kali Permanganate (KMnO4), VN",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.8611153Z",
+      "crop_id": "8310a6479243e11a17ec",
+      "status": "verified",
+      "transcript": "Hóa chất Kali cromat (K2CrO4), TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.9123158Z",
+      "crop_id": "2c189198c3eac0ee5cbe",
+      "status": "verified",
+      "transcript": "Chỉ thị muối NH4Fe(SO4)2.12H2O 10 %, TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:47.9663077Z",
+      "crop_id": "7db649d0643b0ca0a2e2",
+      "status": "verified",
+      "transcript": "Dung dịch xanh methylen (C16H18CIN3S),",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.0182312Z",
+      "crop_id": "7f5864b1954a0a26ca66",
+      "status": "verified",
+      "transcript": "Hóa chất Metyl da cam (C14H14N3NaO3S),",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.0661462Z",
+      "crop_id": "8b44df253257a6644fd5",
+      "status": "verified",
+      "transcript": "1 12.000",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.1168688Z",
+      "crop_id": "87278833fd18ab29923e",
+      "status": "verified",
+      "transcript": "1 12.000",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.1688372Z",
+      "crop_id": "a486e284c486e8d13543",
+      "status": "verified",
+      "transcript": "Hóa chất Urea, TQ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.2181138Z",
+      "crop_id": "26ba9754fe4fe5f0613b",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.2666769Z",
+      "crop_id": "5a0bb0810f327f9ca176",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.3061074Z",
+      "crop_id": "2f5f8e6e0d2bd3dce318",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.3472805Z",
+      "crop_id": "461529d02811ab403e6f",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.3900411Z",
+      "crop_id": "553b668b0c260ac57eb6",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.4318521Z",
+      "crop_id": "b4b21c9012ef8aa34709",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT (VAT rate): 10%",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.4749682Z",
+      "crop_id": "8ce2437cca03c2fdd730",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.5168599Z",
+      "crop_id": "20ef7b1679236cb70257",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.5575242Z",
+      "crop_id": "268599446d189dd521b7",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.5991347Z",
+      "crop_id": "a34494c0b19cfb388014",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH THIẾT BỊ KHOA",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T03:40:48.6406783Z",
+      "crop_id": "28299a7be2cc4fe002a0",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "skipped_existing": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_104042.json",
+  "visual_review": "Candidate crops inspected directly; only clear visible content confirmed",
+  "deferred": [
+    {
+      "invoice": "WEB_127",
+      "crop_id": "de07ea203107845e4c0c",
+      "reason": "Tên mặt hàng bị cắt/không đủ ngữ cảnh ở mép crop"
+    },
+    {
+      "invoice": "WEB_127",
+      "crop_id": "b4894d17c4dec165f467",
+      "reason": "Dòng số tiền bằng chữ nhỏ, chưa đủ chắc để chép chính xác"
+    },
+    {
+      "invoice": "WEB_127",
+      "crop_id": "42665cdfbabbc3d3f301",
+      "reason": "Mã tra cứu dài, ký tự nhỏ; để người dùng rà"
+    },
+    {
+      "invoice": "WEB_128",
+      "crop_id": "72f979da5ae5bef20e3c",
+      "reason": "Crop số có khoảng cách giữa hai chữ số không chắc chắn"
+    },
+    {
+      "invoice": "WEB_128",
+      "crop_id": "ea306aa26e2b758423c6",
+      "reason": "Crop bị chữ watermark/khung chồng lên, không xác định nội dung gốc"
+    }
+  ],
+  "created_at": "2026-11-02T03:40:48.6407110Z",
+  "batches": [
+    "WEB_127",
+    "WEB_128"
+  ]
+}

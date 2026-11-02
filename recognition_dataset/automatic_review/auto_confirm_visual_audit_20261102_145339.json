@@ -1,0 +1,180 @@
+{
+  "timestamp": "20261102_145339",
+  "backup_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_145339.json",
+  "attempted_write_count": 33,
+  "uninspected_crop_ids": [
+    "cbda49a6a7ca3f0f89f8",
+    "e94cda0519a7c911806a",
+    "d8f3a4ef6be7c0ea4c95",
+    "26d787d0e32e46bd7d8a",
+    "05f3f0ee4141d1ed7d66",
+    "fdecbdcfad86a026c92c",
+    "7001db35f7c5adf3f275",
+    "4097be7f8492cd06b06a",
+    "60e67900f6d36d297aa7",
+    "f2320319d905c68f913e",
+    "7894ff922459b2e14f14",
+    "66283f51b3c918e9e068",
+    "c2c23768ad548091dcd4",
+    "58bb2e573a7c4cf33709",
+    "9b5564b85418f6031826",
+    "ae5e2480f65932b66853",
+    "9adb8b7221881de2edd5",
+    "bd5690caa4a0623072e4",
+    "23e485f446455a25a740",
+    "6a0d040e27312c667f00",
+    "8c5ab64343346dcc0f3e"
+  ],
+  "visual_basis": "Inspected all 70 eligible high-confidence crop previews from WEB_240; two potentially ambiguous/clipped crops were intentionally deferred.",
+  "pdf": "WEB_240.pdf",
+  "deferred_crop_ids": [
+    "26d787d0e32e46bd7d8a",
+    "05f3f0ee4141d1ed7d66"
+  ],
+  "verified_total": 11514,
+  "invoice": "WEB_240",
+  "readback_errors": [],
+  "visually_inspected_count": 68,
+  "skipped": [
+    {
+      "crop_id": "bf6fb39abf53dd2c0730",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "58b4f3d4622ecc32f8ff",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "c959030d7d62c5276e54",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "03cc69f889c496cd3526",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "affb2debb9a6d988db6c",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "15aaf8a879bbcfbc373b",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "ae3268ace325898d1f94",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "8faef8d18b4bf949a382",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "5a01ae7c95f380d7fd28",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "a1603784107f30765562",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "9bf826a228db943293d8",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "a110e73fb7dc5d81c622",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "1900426fb97850806757",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "6462c4ba0d06e53fea69",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "54f3e522af2b8fbef96b",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "86562c64af91721ff326",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "eba30d03cbba66d2a798",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "25b76fd505d66afad0b9",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "333780c10d25c579c650",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "b3b142057e29e7e18583",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "2375abf6aa5f00ff5e4e",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "501eaa0b9f38b927fe69",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "d21be190d38683995a28",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "71c94e1c51e482ba3b7c",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "1168603d0feb06b71847",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "23a7aed51bb8fe15cf35",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "1414b9a8aad10be39501",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "987cf219d2bf28792e08",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "b8e6f76b57482299679e",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "f23756095ff4b85de54b",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "19605ca9dea8d96b319b",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "fdef67fb8fe0028759e7",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "95e0a9bac4dcf8efaacb",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "62fe16c04123da932b21",
+      "reason": "existing_terminal_status_preserved"
+    },
+    {
+      "crop_id": "aa40d274d219fb65ecec",
+      "reason": "existing_terminal_status_preserved"
+    }
+  ]
+}

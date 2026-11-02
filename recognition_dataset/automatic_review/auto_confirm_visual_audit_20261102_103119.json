@@ -1,0 +1,246 @@
+{
+  "invoice": "WEB_122",
+  "reviewed_at_utc": "2026-11-02T03:31:19.7451512Z",
+  "visual_review": "Reviewed all 40 candidate crop images at enlarged size. Text, digits, product descriptions, amounts and lookup code were legible. Labels normalized to single spaces; no ambiguous crop found.",
+  "confirmed": [
+    {
+      "crop_id": "052053e533a6d13a7cf5",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25TCU",
+      "reviewed_at": "2026-11-02T03:31:19.6185258Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cecf6619f681c48faa5d",
+      "status": "verified",
+      "transcript": "Ngày 11 tháng 11 năm 2025",
+      "reviewed_at": "2026-11-02T03:31:19.6420647Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f5b50213cb9f5b0f339d",
+      "status": "verified",
+      "transcript": "Địa chỉ: C6/24 đường Võ Văn Vân, Xã Tân Vĩnh Lộc, TP Hồ Chí Minh, Việt Nam.",
+      "reviewed_at": "2026-11-02T03:31:19.6462805Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8a35a42eb291e898e527",
+      "status": "verified",
+      "transcript": "Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.",
+      "reviewed_at": "2026-11-02T03:31:19.6482885Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c52fd8c3bb4de339f785",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "reviewed_at": "2026-11-02T03:31:19.6503482Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fa88da9fee571bf438b8",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:31:19.6523094Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f0da7dc496154131fa3d",
+      "status": "verified",
+      "transcript": "Khuôn vữa kép 3 50x50x50mm _VN",
+      "reviewed_at": "2026-11-02T03:31:19.6625199Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0703471dc723c83c0c05",
+      "status": "verified",
+      "transcript": "Bộ",
+      "reviewed_at": "2026-11-02T03:31:19.6840384Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ed4d01b4d9ea2395d8b8",
+      "status": "verified",
+      "transcript": "Bộ gá uốn mẫu xi măng 40x40x160mm",
+      "reviewed_at": "2026-11-02T03:31:19.6916642Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a37a3702cb3f9ced24a4",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "reviewed_at": "2026-11-02T03:31:19.7031635Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9ae5cbe3fa4466063194",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "reviewed_at": "2026-11-02T03:31:19.7087722Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a5352c8e42406c8510ca",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán:",
+      "reviewed_at": "2026-11-02T03:31:19.7133941Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "742d35cfb0a8ba045748",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ: Ba triệu tám trăm hai mươi ba nghìn hai trăm đồng.",
+      "reviewed_at": "2026-11-02T03:31:19.7168836Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "73a75351731da479ca34",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T03:31:19.7182641Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d364a21924595435d1c4",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:31:19.7196652Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "93263950f0025d8408ec",
+      "status": "verified",
+      "transcript": "THỊNH",
+      "reviewed_at": "2026-11-02T03:31:19.7227961Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "93fb7707bf7ad8496a70",
+      "status": "verified",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: RVHXH1BVGPR0",
+      "reviewed_at": "2026-11-02T03:31:19.7255380Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b5459f092318b321563d",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:31:19.7271450Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "already_decided": [
+    {
+      "status": "verified",
+      "crop_id": "f59d6b00ccd378ebab43",
+      "existing_transcript": "00000529"
+    },
+    {
+      "status": "verified",
+      "crop_id": "840911a59b4cbc5c41c7",
+      "existing_transcript": "Mã CQT: 00B1CB920EDDFA44FEAB295A98565E750F"
+    },
+    {
+      "status": "verified",
+      "crop_id": "400759ee155019db28a2",
+      "existing_transcript": "STT"
+    },
+    {
+      "status": "verified",
+      "crop_id": "cd805605bf0fb640ee77",
+      "existing_transcript": "Cái"
+    },
+    {
+      "status": "verified",
+      "crop_id": "fd80308b347028513fa3",
+      "existing_transcript": "3,00"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7e94dbf4ca1b86b95cd4",
+      "existing_transcript": "1"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b98efa46dd1c60fc4ef7",
+      "existing_transcript": "380.000,00"
+    },
+    {
+      "status": "verified",
+      "crop_id": "d5c136fd23fddf64f31d",
+      "existing_transcript": "1.140.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "04b75259a4c1f38ed6ac",
+      "existing_transcript": "Cái"
+    },
+    {
+      "status": "verified",
+      "crop_id": "91aa32b7ba8c357dd5cd",
+      "existing_transcript": "2,00"
+    },
+    {
+      "status": "verified",
+      "crop_id": "caabde544ab2687cfda8",
+      "existing_transcript": "2"
+    },
+    {
+      "status": "verified",
+      "crop_id": "c3fc9b3ccdb36ddb6d35",
+      "existing_transcript": "900.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b6ae692677ec98659d92",
+      "existing_transcript": "450.000,00"
+    },
+    {
+      "status": "verified",
+      "crop_id": "27fe4c30572d8d6b1534",
+      "existing_transcript": "1,00"
+    },
+    {
+      "status": "verified",
+      "crop_id": "5c887f13c5a14f4c4e37",
+      "existing_transcript": "3"
+    },
+    {
+      "status": "verified",
+      "crop_id": "26306662c8a606bd67d1",
+      "existing_transcript": "1.500.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "ac866b63ee211d61cee7",
+      "existing_transcript": "1.500.000,00"
+    },
+    {
+      "status": "verified",
+      "crop_id": "dc789d6824cb0943b76c",
+      "existing_transcript": "3.540.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "770b7630e62870f3d391",
+      "existing_transcript": "283.200"
+    },
+    {
+      "status": "verified",
+      "crop_id": "908e3b4a145a89fa83fa",
+      "existing_transcript": "3.823.200"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b6a250a3a97344b820cf",
+      "existing_transcript": "Signature Valid"
+    },
+    {
+      "status": "verified",
+      "crop_id": "04e3ceb3ee24113b3853",
+      "existing_transcript": "Ký ngày:  11/11/2025"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_103119.json"
+}

@@ -1,0 +1,23 @@
+{
+  "run_id": "visual_20261102_082209",
+  "created_at_utc": "2026-11-02T01:22:09.3929510Z",
+  "annotations": [
+    {
+      "review_note": "Crop đọc rõ và khớp hàng chú giải bảng trên PDF WEB_104.",
+      "status": "verified",
+      "transcript": "6 = 4 x 5",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:22:09.3929510Z",
+      "crop_id": "00b1bf7ed4dd600bab31"
+    },
+    {
+      "review_note": "Crop đọc rõ và khớp hàng chú giải bảng trên PDF WEB_109.",
+      "status": "verified",
+      "transcript": "6 = 4 x 5",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:22:09.3929510Z",
+      "crop_id": "fd978cd784ee54155eeb"
+    }
+  ],
+  "policy": "manual visual confirmation: crop checked against matching invoice page"
+}

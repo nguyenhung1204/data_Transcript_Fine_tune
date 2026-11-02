@@ -1,0 +1,117 @@
+{
+  "api_saved": 11,
+  "skipped": [
+    {
+      "reason": "Blue text is overprinted/overlapped and not reliably legible",
+      "crop_id": "14eb05ad395b765ae650"
+    },
+    {
+      "reason": "Address line overlaps blue overprint near the end",
+      "crop_id": "8fd1538bafc3e9708044"
+    },
+    {
+      "reason": "Invoice number overlaps underlying blue characters",
+      "crop_id": "cdecd11d90284a2f4352"
+    },
+    {
+      "reason": "Crop clips adjacent label/row; transcript boundary not clean",
+      "crop_id": "55e8f87d609bccf7831d"
+    }
+  ],
+  "confirmed": [
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "6ca98b56905a62783c00",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "03 năm 2013"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "83944b9a794b4bce0378",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "Ngày 04 tháng"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "e3662bba0c19c2507b6b",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "Mẫu số: 01GTKT3/003"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "7c32f93261f05e2347da",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "Nguyễn Kim"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "edaa7b4795753e3beb99",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "4f188b35db890f15ace9",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "NỒI CƠM (PHÚ NHUẬN)"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "cc9202d0a3f5ca8fdb52",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "Ký hiệu (Serial): AA/12P"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "3596f971b2f8482fbf5b",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "Bộ phận:"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "7c8a66e9514ef786e403",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "0905441"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "615542d55e0d31b6914d",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "VAT INVOICE"
+    },
+    {
+      "status": "verified",
+      "basis": "Visual comparison of crop and corresponding page image",
+      "invoice": "WEB_011",
+      "crop_id": "2b17d01d52ede7d04fe3",
+      "reviewed_at_utc": "2026-11-02T01:01:44.2432085Z",
+      "transcript": "Số (No)"
+    }
+  ],
+  "task": "visual_transcript_confirmation",
+  "created_at_utc": "2026-11-02T01:01:44.2432085Z",
+  "api_total": 8979,
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_080144_224.json",
+  "invoice": "WEB_011",
+  "verification": "All 11 entries read back from API with exact transcript match"
+}

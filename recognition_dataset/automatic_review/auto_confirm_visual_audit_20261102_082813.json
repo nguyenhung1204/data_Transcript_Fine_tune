@@ -1,0 +1,15 @@
+{
+  "run_id": "visual_20261102_082813",
+  "created_at_utc": "2026-11-02T01:28:13.3690373Z",
+  "policy": "manual visual confirmation: crop checked against matching invoice page",
+  "annotations": [
+    {
+      "crop_id": "4f939dea1d7e8652a544",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "WEB_055 trang 1: crop khớp rõ công thức cột thành tiền sau thuế.",
+      "reviewed_at": "2026-11-02T01:28:13.3690373Z",
+      "status": "verified",
+      "transcript": "9 = 6 + 8"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "created_at_utc": "2026-11-02T09:01:31.108670+00:00",
+  "invoice": "WEB_029",
+  "review_basis": "Visually inspected each crop image against the matching region on rendered page 1 of WEB_029.pdf; all listed text was clear and <=90 characters.",
+  "confirmed": [
+    {
+      "crop_id": "c8313c2e77faa70363ab",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        674,
+        405,
+        918,
+        455
+      ],
+      "ocr_before": "VÙ THI HUÊ",
+      "transcript_after": "VŨ THỊ HUỆ",
+      "status": "verified"
+    },
+    {
+      "crop_id": "9ad898c079c75685a1c8",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        674,
+        521,
+        1916,
+        583
+      ],
+      "ocr_before": "S 304, Khu Tân Mai, Phuòng Đông Mai, Th xã Qung Yên, tinh Qung Ninh",
+      "transcript_after": "Số 304, Khu Tân Mai, Phường Đông Mai, Thị xã Quảng Yên, tỉnh Quảng Ninh",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f2ada46b628b065f0926",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        51,
+        526,
+        351,
+        578
+      ],
+      "ocr_before": "Đia chí (Address):",
+      "transcript_after": "Địa chỉ (Address):",
+      "status": "verified"
+    },
+    {
+      "crop_id": "aa095ec41d9da0f2c50c",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        51,
+        581,
+        372,
+        639
+      ],
+      "ocr_before": "S đin thoi (Tel):",
+      "transcript_after": "Số điện thoại (Tel):",
+      "status": "verified"
+    },
+    {
+      "crop_id": "5c889d448464d5a56ac3",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        676,
+        819,
+        2030,
+        880
+      ],
+      "ocr_before": "CÔNG TY TRÁCH NHIĘM HÜU HAN GROBEST INDUSTRIAL (VIĘT NAM)",
+      "transcript_after": "CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "status": "verified"
+    },
+    {
+      "crop_id": "5019b4af41ead94f7cc4",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        52,
+        827,
+        613,
+        877
+      ],
+      "ocr_before": "Tên đon vi mua hàng (CusName):",
+      "transcript_after": "Tên đơn vị mua hàng (CusName):",
+      "status": "verified"
+    },
+    {
+      "crop_id": "6157511c89225a590fab",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        674,
+        880,
+        2201,
+        942
+      ],
+      "ocr_before": "S 9, đưòng 3A, KCN Biên Hòa 2, Phưòng Long Bình Tân, Thành ph Biên Hòa, Tinh Đồng Nai",
+      "transcript_after": "Số 9, đường 3A, KCN Biên Hòa 2, Phường Long Bình Tân, Thành phố Biên Hòa, Tỉnh Đồng Nai",
+      "status": "verified"
+    },
+    {
+      "crop_id": "9bc4f3f62f3d6580ba7b",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        50,
+        886,
+        351,
+        938
+      ],
+      "ocr_before": "Đia chi (Address):",
+      "transcript_after": "Địa chỉ (Address):",
+      "status": "verified"
+    },
+    {
+      "crop_id": "7229afea5e16bf118eff",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        1670,
+        1146,
+        1839,
+        1210
+      ],
+      "ocr_before": "Só luơng",
+      "transcript_after": "Số lượng",
+      "status": "verified"
+    },
+    {
+      "crop_id": "4e444a204403c2916e14",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        1908,
+        1150,
+        2060,
+        1207
+      ],
+      "ocr_before": "Đon giá",
+      "transcript_after": "Đơn giá",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e3cd10fa22e4d5f04411",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        216,
+        1326,
+        483,
+        1380
+      ],
+      "ocr_before": "Chim xào muóp",
+      "transcript_after": "Chim xào mướp",
+      "status": "verified"
+    },
+    {
+      "crop_id": "b597fa0e8532e24eb4c6",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        215,
+        1444,
+        452,
+        1505
+      ],
+      "ocr_before": "Óc hưong hp",
+      "transcript_after": "Ốc hương hấp",
+      "status": "verified"
+    },
+    {
+      "crop_id": "25f5e0441ac128640fb3",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        1508,
+        1450,
+        1585,
+        1501
+      ],
+      "ocr_before": "Día",
+      "transcript_after": "Đĩa",
+      "status": "verified"
+    },
+    {
+      "crop_id": "b6ad8247a25dab0bc8e0",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        217,
+        1514,
+        546,
+        1565
+      ],
+      "ocr_before": "Canh ngán mồng toi",
+      "transcript_after": "Canh ngán mồng tơi",
+      "status": "verified"
+    },
+    {
+      "crop_id": "ca528ce4411c2c9c5182",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        1507,
+        1575,
+        1585,
+        1625
+      ],
+      "ocr_before": "Dĩa",
+      "transcript_after": "Đĩa",
+      "status": "verified"
+    },
+    {
+      "crop_id": "909e47d6ebee88658093",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        215,
+        1636,
+        377,
+        1693
+      ],
+      "ocr_before": "Thit rang",
+      "transcript_after": "Thịt rang",
+      "status": "verified"
+    },
+    {
+      "crop_id": "eace207c3c1f66205a75",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        1507,
+        1638,
+        1585,
+        1688
+      ],
+      "ocr_before": "Dĩa",
+      "transcript_after": "Đĩa",
+      "status": "verified"
+    },
+    {
+      "crop_id": "9b826682e9c1aeb2812d",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        1508,
+        1825,
+        1586,
+        1875
+      ],
+      "ocr_before": "Dĩa",
+      "transcript_after": "Đĩa",
+      "status": "verified"
+    },
+    {
+      "crop_id": "304d6902067108bbf832",
+      "pdf": "WEB_029.pdf",
+      "page": 1,
+      "coords": [
+        1777,
+        2389,
+        2178,
+        2438
+      ],
+      "ocr_before": "Ngưòi bán hàng (Seller)",
+      "transcript_after": "Người bán hàng (Seller)",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "7409c09703aa660bb74e",
+      "reason": "Transcript exceeds 90 characters."
+    },
+    {
+      "crop_id": "d056559e8275f0fc4a18",
+      "reason": "Transcript exceeds 90 characters."
+    },
+    {
+      "crop_id": "47b5eb9a56751a4ac3b5",
+      "reason": "Green signature/check mark obscures the final part of the crop."
+    }
+  ]
+}

@@ -1,26 +1,25 @@
 {
   "policy_version": "pdf_ocr_agreement_v1",
-  "token": "534d4599c7c5a5fd62b1b512f0743adc90734310d0bd6f429c26535e352d082b",
-  "created_at": "2026-11-01T16:42:26.744809+00:00",
-  "total": 17961,
+  "token": "2bfc433ee89fbee9da8145d2ca45bb5487816bb96e0b366ea72cd341a29e9903",
+  "created_at": "2026-11-02T20:41:26.050367+00:00",
+  "total": 14469,
   "eligible_count": 0,
-  "pending_count": 10570,
-  "manual_preserved_count": 866,
-  "already_auto_confirmed_count": 6525,
+  "pending_count": 1104,
+  "manual_preserved_count": 6989,
+  "already_auto_confirmed_count": 6376,
   "missing_manifest_count": 0,
   "warning_counts": {
-    "overlength": 356,
-    "pdf_ocr_disagree": 10521,
-    "pdf_text_missing": 3206,
-    "confidence_below_threshold": 618,
-    "multiple_lines": 63,
-    "control_character": 82,
-    "pending_draft_differs": 7
+    "overlength": 336,
+    "pdf_ocr_disagree": 1102,
+    "pending_draft_differs": 10,
+    "multiple_lines": 15,
+    "control_character": 22,
+    "confidence_below_threshold": 64
   },
   "inputs": {
-    "manifest_sha256": "9517392c8594ddae57e2fbccdb044c80ba1673476a1a4f17265cc52b08166672",
-    "progress_sha256": "5a64c51921831b8e4284b6994f0c8a11dffabc6152f77d0e95856e06c3885777",
-    "source_pdf_set_sha256": "80685671144567607e84921230ef0781524104bf48d9b4f1721ede951d77ffb6"
+    "manifest_sha256": "484768111823fadb7b47d58dd98199f7ab2ce2e7a7adab114400c82c42eb059d",
+    "progress_sha256": "97dd540af137d2dccd803a71ed52c6825b9ec700a30e1f8f8ae304f1eeb6b62f",
+    "source_pdf_set_sha256": "fabec58a4028314f5cb482839124a0586f7b21193f1647adf3bdceb4f4c37aed"
   },
   "ocr2_available": false,
   "candidate_ids": []

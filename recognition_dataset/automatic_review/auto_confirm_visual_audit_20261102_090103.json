@@ -1,0 +1,199 @@
+{
+  "annotations": [
+    {
+      "transcript": "Địa chỉ (Address): Lầu 3, 180 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "crop_id": "d201bb9717ac94480dd0",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: địa chỉ đọc rõ."
+    },
+    {
+      "transcript": "Tiền thuế",
+      "crop_id": "2dd536eb03ca4a339d21",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề cột đọc rõ."
+    },
+    {
+      "transcript": "suất",
+      "crop_id": "a3a876a36eeca2559783",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: phần tiêu đề cột đọc rõ."
+    },
+    {
+      "transcript": "Phần",
+      "crop_id": "d8a35969aa7f3894f6c4",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: đơn vị tính đọc rõ."
+    },
+    {
+      "transcript": "Sò điệp hokkaido nướng giấy bạc",
+      "crop_id": "38594afa4f1b9bd8346c",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tên món đọc rõ."
+    },
+    {
+      "transcript": "Phần",
+      "crop_id": "c635cbdedd7727cac312",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: đơn vị tính đọc rõ."
+    },
+    {
+      "transcript": "Trứng gà",
+      "crop_id": "e02794c664c462c19a36",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tên mặt hàng đọc rõ."
+    },
+    {
+      "transcript": "Phần",
+      "crop_id": "81d693f53e69c023acf9",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: đơn vị tính đọc rõ."
+    },
+    {
+      "transcript": "Xà lách cá trích ép trứng",
+      "crop_id": "a7bcbe8181316553a0fd",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tên món đọc rõ."
+    },
+    {
+      "transcript": "Thuế",
+      "crop_id": "e6b8cbe17cdedb5b7068",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề cột đọc rõ."
+    },
+    {
+      "transcript": "Tổng tiền thuế",
+      "crop_id": "a4442deb07193746b054",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề dòng tổng đọc rõ."
+    },
+    {
+      "transcript": "Tổng tiền chưa thuế",
+      "crop_id": "ccb94c1d3cc00b8c740e",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề dòng tổng đọc rõ."
+    },
+    {
+      "transcript": "suất",
+      "crop_id": "c642a1ac889a567e20c6",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: phần tiêu đề dòng đọc rõ."
+    },
+    {
+      "transcript": "Tổng tiền thanh toán",
+      "crop_id": "82916e189882fff9ef19",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề dòng tổng đọc rõ."
+    },
+    {
+      "transcript": "Tổng tiền không chịu thuế:",
+      "crop_id": "6d4029dfc8d8b2fd892d",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề dòng đọc rõ."
+    },
+    {
+      "transcript": "Tổng tiền chịu thuế suất:",
+      "crop_id": "d903e51b117c35988e09",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề dòng đọc rõ."
+    },
+    {
+      "transcript": "Tổng tiền chịu thuế suất:",
+      "crop_id": "0a09e480a476e463ccfb",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề dòng đọc rõ."
+    },
+    {
+      "transcript": "Tổng cộng (Total amount):",
+      "crop_id": "1731eb4cf90559b04d98",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: tiêu đề tổng tiền đọc rõ."
+    },
+    {
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Ba triệu bảy trăm lẻ hai nghìn năm trăm bốn mươi chín đồng",
+      "crop_id": "560e2b24b406172c2c49",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: dòng số tiền bằng chữ đọc trực tiếp trên crop phóng to."
+    },
+    {
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "60a5d764de18952be4ba",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: nhãn chữ ký rõ."
+    },
+    {
+      "transcript": "Người bán hàng (Seller)",
+      "crop_id": "8f9bee83fb4576462519",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: nhãn chữ ký rõ."
+    },
+    {
+      "transcript": "Mã của cơ quan thuế (Tax authority code): M1-25-NA4KU-71670009457",
+      "crop_id": "a455afb5f281ae9f2e9a",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: mã thuế đọc rõ."
+    },
+    {
+      "transcript": "Trang tra cứu: http://0315852382hd.easyinvoice.com.vn Mã tra cứu: CAVL5RM2W",
+      "crop_id": "2bec24d8e34e04f2a5a3",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: URL và mã tra cứu đọc trên crop phóng to."
+    },
+    {
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "crop_id": "1d301517f9b02f58765f",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T02:01:03.7706968Z",
+      "review_note": "WEB_047: chú thích cuối hóa đơn đọc rõ."
+    }
+  ],
+  "run_id": "visual_20261102_090103",
+  "created_at_utc": "2026-11-02T02:01:03.7706968Z",
+  "policy": "Each crop visually inspected; text confirmed where legible, including full-width lines checked enlarged."
+}

@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-11-02T02:14:32.034337+00:00",
+  "invoice": "WEB_030",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 11,
+  "items": [
+    {
+      "crop_id": "5277a135e357879f13fa",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "5c674b8dd2723d32a689",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "757fd61622694b5eb54b",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "d14efa312b44ab6c95e4",
+      "transcript": "Mì Xào Hải Sản",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "27d684b14f953f0aee33",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "5c14737872a61859abfe",
+      "transcript": "Bún Gạo Cháy Kho Quẹt",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "064e9f050332db222a4f",
+      "transcript": "Khăn Lạnh",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "327e7d4527eca282d092",
+      "transcript": "Tổng tiền thanh toán (Total Amount):",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "e4358e81e538da318bd2",
+      "transcript": "Số tiền viết bằng chữ (Total amount in words):Ba triệu đồng",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "d3891dec157e56209479",
+      "transcript": "Người mua hàng (Buyer)",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    },
+    {
+      "crop_id": "0cc86ceb17850c86a078",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop; all visible text legible including amount-in-words line."
+    }
+  ]
+}

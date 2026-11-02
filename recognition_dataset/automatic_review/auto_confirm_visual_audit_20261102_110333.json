@@ -1,0 +1,93 @@
+{
+  "accepted": [
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "10f67e40b0268dd44c81",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6be149171db57827f294",
+      "transcript": "Ký hiệu: ST/20E"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "29d0d4165a99375e34ea",
+      "transcript": "Liên 2 : Giao cho người mua"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8b06e4bb30d374069ac5",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH Sản Xuất Và Thương Mại VinaTrain"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "7d08d2ce89a092fa8376",
+      "transcript": "Điện thoại"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e2bd6e9f3fe932866a5f",
+      "transcript": "HCM - Phòng giao dịch Hai Bà Trưng"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8418cc76c267477664da",
+      "transcript": "Họ tên người mua hàng :"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d5dd644a8022db607b35",
+      "transcript": "Thành tiền"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e46bcb1738d96e002ccb",
+      "transcript": "Đơn giá"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "cefad582d1c16b85432c",
+      "transcript": "Cộng tiền hàng:"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "adc9dbcb73d5a40c7665",
+      "transcript": "ổng cộng tiền thanh toán:"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "10acdff2f8681289620b",
+      "transcript": "Người mua hàng"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "63e91c5a4f4bd401e44b",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    }
+  ],
+  "invoice_ids": [
+    "WEB_207"
+  ],
+  "deferred": [
+    {
+      "reason": "Dòng tài khoản/ngân hàng bị cắt sau CN. TP.; cần kiểm tra bản đầy đủ trên PDF.",
+      "crop_id": "b136e06a6ac625367ad6"
+    }
+  ],
+  "timestamp": "20261102_110333",
+  "accepted_count": 13
+}

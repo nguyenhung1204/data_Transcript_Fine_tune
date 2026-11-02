@@ -1,0 +1,143 @@
+{
+  "created_at_utc": "2026-11-02T00:29:02.7645059Z",
+  "method": "manual_visual_review",
+  "count": 6,
+  "confirmed": [
+    {
+      "crop_id": "5d445440413c66993065",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coords": [
+        943,
+        1686,
+        1276,
+        1738
+      ],
+      "before": "Thành tin truóc",
+      "pdf_text": "Thành tiền trước",
+      "transcript": "Thành tiền trước",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\5d445440413c66993065.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "evidence": "Visually inspected crop and matching PDF page; one complete clear line.",
+      "reviewed_at": "2026-11-02T00:29:02.7029132Z"
+    },
+    {
+      "crop_id": "669327e714f40a74073d",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coords": [
+        1486,
+        1708,
+        1814,
+        1767
+      ],
+      "before": "Tin thu GTGT",
+      "pdf_text": "Tiền thuế GTGT",
+      "transcript": "Tiền thuế GTGT",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\669327e714f40a74073d.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "evidence": "Visually inspected crop and matching PDF page; one complete clear line.",
+      "reviewed_at": "2026-11-02T00:29:02.7534663Z"
+    },
+    {
+      "crop_id": "f7a11be6e6deba839197",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coords": [
+        991,
+        1740,
+        1225,
+        1793
+      ],
+      "before": "thu GTGT",
+      "pdf_text": "thuế GTGT",
+      "transcript": "thuế GTGT",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\f7a11be6e6deba839197.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "evidence": "Visually inspected crop and matching PDF page; visible continuation line fragment is complete within this crop.",
+      "reviewed_at": "2026-11-02T00:29:02.7539738Z"
+    },
+    {
+      "crop_id": "6369f4b659bee443be13",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coords": [
+        126,
+        1994,
+        850,
+        2052
+      ],
+      "before": "Không chu thu GTGT(VAT exemption)",
+      "pdf_text": "Không chịu thuế GTGT(VAT exemption)",
+      "transcript": "Không chịu thuế GTGT(VAT exemption)",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\6369f4b659bee443be13.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "evidence": "Visually inspected crop and matching PDF page; complete bilingual label.",
+      "reviewed_at": "2026-11-02T00:29:02.7542810Z"
+    },
+    {
+      "crop_id": "a16f9c9930beeb8d62f2",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coords": [
+        126,
+        2061,
+        637,
+        2122
+      ],
+      "before": "Thu sut 0%(VAT rate 0%)",
+      "pdf_text": "Thuế suất 0%(VAT rate 0%)",
+      "transcript": "Thuế suất 0%(VAT rate 0%)",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\a16f9c9930beeb8d62f2.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "evidence": "Visually inspected crop and matching PDF page; complete bilingual label.",
+      "reviewed_at": "2026-11-02T00:29:02.7545559Z"
+    },
+    {
+      "crop_id": "d68cb64ab884960073e9",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coords": [
+        126,
+        2198,
+        651,
+        2259
+      ],
+      "before": "Thu sut 8%(VAT rate 8%) :",
+      "pdf_text": "Thuế suất 8%(VAT rate 8%) :",
+      "transcript": "Thuế suất 8%(VAT rate 8%) :",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\d68cb64ab884960073e9.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "evidence": "Visually inspected crop and matching PDF page; complete bilingual label including visible colon.",
+      "reviewed_at": "2026-11-02T00:29:02.7548219Z"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "9a5459787d2cd49576dc",
+      "invoice": "HD_013",
+      "reason": "Crop spans multiple adjacent fields; left pending."
+    },
+    {
+      "crop_id": "971d3f2cbe7932bb850a",
+      "invoice": "HD_013",
+      "reason": "Text is clipped/incomplete at crop boundary; left pending."
+    },
+    {
+      "crop_id": "185de82b59d7052db5f9",
+      "invoice": "HD_013",
+      "reason": "English continuation is visibly cut at the right edge; left pending."
+    },
+    {
+      "crop_id": "50587e0915f05a560df5",
+      "invoice": "HD_013",
+      "reason": "Trailing colon is clipped at crop boundary; left pending."
+    }
+  ]
+}

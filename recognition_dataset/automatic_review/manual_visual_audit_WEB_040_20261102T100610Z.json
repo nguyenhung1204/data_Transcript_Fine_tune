@@ -1,0 +1,40 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "9c70ac521632e75d174f",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Đin thoąi:",
+      "transcript_after": "Điện thoại:",
+      "evidence": "Visually checked the complete visible text on the crop; characters and Vietnamese accents match the PDF text layer. The transcript is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "9f0ed777bd51951a34a8",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "S tin vit bng ch: Ba triu sáu trăm tám mươi mt nghìn by trăm by mưoi sáu đng",
+      "transcript_after": "Số tiền viết bằng chữ: Ba triệu sáu trăm tám mươi một nghìn bảy trăm bảy mươi sáu đồng",
+      "evidence": "Visually checked the complete visible text on the crop; characters and Vietnamese accents match the PDF text layer. The transcript is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "3942103783d851e3b348",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 1,
+      "transcript_before": "Đã gim 22.224 đng tương ng 20% mc t l % đ",
+      "transcript_after": "Đã giảm 22.224 đồng tương ứng 20% mức tỷ lệ % để",
+      "evidence": "Visually checked the complete visible text on the crop; characters and Vietnamese accents match the PDF text layer. The transcript is <=90 characters.",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "84976e8c58ebf2b4b00c",
+      "reason": "Crop ends after “174/2024/”; likely clipped before the remaining code, so left pending."
+    }
+  ]
+}

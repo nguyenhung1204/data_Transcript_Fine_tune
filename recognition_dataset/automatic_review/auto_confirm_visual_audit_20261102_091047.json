@@ -1,0 +1,122 @@
+{
+  "created_at_utc": "2026-11-02T02:10:47.666347+00:00",
+  "invoice": "WEB_053",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 19,
+  "items": [
+    {
+      "crop_id": "602a12333e1bc1ac2e0a",
+      "transcript": "CHI NHÁNH CÔNG TY TNHH MAY THÊU GIÀY AN PHƯỚC",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "fcdb3fc7e5251f31533d",
+      "transcript": "Mã số thuế (VAT Code): 0301241545-042",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "f5697c16f038e570093f",
+      "transcript": "Sacombank - Chi Nhánh Hoa Việt",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "37b6a979395f3c045010",
+      "transcript": "Ký hiệu (Serial): 1C25MAP",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "f1cf31e56b69598e99d8",
+      "transcript": "Số (No.): 6882",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "640c1797900ac774c9d5",
+      "transcript": "Họ tên người mua hàng (Customer's name):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "b1e9fe6bfd07e8c6b1e5",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "af5ff2ae8c2fae33eebc",
+      "transcript": "Mã số thuế (VAT Code): 3600456424",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "a6d37c923fe49d075c6f",
+      "transcript": "Căn cước công dân (ID):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "9d5ee8f9abba8a6c03c1",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "9372434018ca448609e8",
+      "transcript": "Tại Ngân hàng (Bank Account Name):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "3e7ba9f8d05aa8cb670a",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "18c42c8fd52e78f83c17",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "5466c4442a546513f8d7",
+      "transcript": "Áo Thun Nam ngắn AP",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "b2ffdbb9950277023303",
+      "transcript": "Cộng tiền hàng (Total amount) (7)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "a30285471b83d531371c",
+      "transcript": "Chiết khấu (Discount) (8)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "9fd87157e00566d58254",
+      "transcript": "Tổng cộng (Total amount after discount) (9) = (7) - (8)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "f93e628417daf60fcdb3",
+      "transcript": "Thuế suất GTGT (VAT rate): 8% X (9) = Tiền thuế GTGT (VAT) (10)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    },
+    {
+      "crop_id": "3ecae8f9cdc8e0d3daa7",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment) (11) = (9) + (10)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; visible text is legible. Stamp-obscured signature crop left pending."
+    }
+  ]
+}

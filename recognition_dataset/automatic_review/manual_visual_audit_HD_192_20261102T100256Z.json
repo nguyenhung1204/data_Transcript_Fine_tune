@@ -1,0 +1,35 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "a6b4cd90f9cb3d3d5c91",
+      "invoice": "HD_192",
+      "pdf": "HD_192.pdf",
+      "page": 1,
+      "transcript_before": "S tài khon (Bank account): 76985769 - TMCP Á Châu - Chi nhánh Hà Ni",
+      "transcript_after": "Số tài khoản (Bank account): 76985769 - TMCP Á Châu - Chi nhánh Hà Nội",
+      "evidence": "Crop visually inspected at full resolution; complete Vietnamese line and characters are legible; matches PDF text layer; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "2a1c5ea391d8795295f7",
+      "invoice": "HD_192",
+      "pdf": "HD_192.pdf",
+      "page": 1,
+      "transcript_before": "Đon vį tính",
+      "transcript_after": "Đơn vị tính",
+      "evidence": "Crop visually inspected at full resolution; complete Vietnamese line and characters are legible; matches PDF text layer; <=90 chars.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f19fcb38235894d34fd5",
+      "invoice": "HD_192",
+      "pdf": "HD_192.pdf",
+      "page": 1,
+      "transcript_before": "Só luong",
+      "transcript_after": "Số lượng",
+      "evidence": "Crop visually inspected at full resolution; complete Vietnamese line and characters are legible; matches PDF text layer; <=90 chars.",
+      "status": "verified"
+    }
+  ],
+  "skipped": []
+}

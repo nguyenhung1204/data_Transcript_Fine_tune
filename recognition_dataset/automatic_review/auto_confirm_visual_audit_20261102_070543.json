@@ -1,0 +1,316 @@
+{
+  "reviewed_at_utc": "2026-11-02T00:05:43.458202+00:00",
+  "invoice": "HD_014",
+  "method": "manual_visual_review",
+  "evidence": "Visually inspected each stored crop image; compared with coordinate-extracted PDF text; normalized repeated spacing only. OCR2 unavailable; no OCR-consensus claim.",
+  "saved_count": 20,
+  "items": [
+    {
+      "crop_id": "52c22ffe6e7fa48dac77",
+      "transcript": "Mã số thuế :",
+      "image": "/crops/HD_014/52c22ffe6e7fa48dac77.png",
+      "page": 1,
+      "coordinates": [
+        697,
+        189,
+        927,
+        246
+      ],
+      "pdf_text": "Mã số thuế  :",
+      "ocr1": "Mã s thu :",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "9944b075fab2b6ba3d2b",
+      "transcript": "Số 59/53, Phố Đức Giang, Tổ 20, P. Việt Hưng, Thành phố Hà Nội, Việt Nam",
+      "image": "/crops/HD_014/9944b075fab2b6ba3d2b.png",
+      "page": 1,
+      "coordinates": [
+        1028,
+        261,
+        2305,
+        322
+      ],
+      "pdf_text": "Số 59/53, Phố Đức Giang, Tổ 20, P. Việt Hưng, Thành phố Hà Nội, Việt Nam",
+      "ocr1": "S 59/53, Ph Đc Giang, T 20, P. Vit Hưng, Thành ph Hà Ni, Vit Nam",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "e943a03a8e31ca17159f",
+      "transcript": "Trụ sở chính :",
+      "image": "/crops/HD_014/e943a03a8e31ca17159f.png",
+      "page": 1,
+      "coordinates": [
+        700,
+        269,
+        953,
+        319
+      ],
+      "pdf_text": "Trụ sở chính  :",
+      "ocr1": "Tr s chính :",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "61e702d3de2cf2d4961f",
+      "transcript": "VPGD tại HN :",
+      "image": "/crops/HD_014/61e702d3de2cf2d4961f.png",
+      "page": 1,
+      "coordinates": [
+        699,
+        338,
+        980,
+        387
+      ],
+      "pdf_text": "VPGD tại HN  :",
+      "ocr1": "VPGD ti HN :",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "17c0fa7bb00ab91f41ec",
+      "transcript": "Lô 17-F1, KĐT Đại Kim, P.Định Công, TP. Hà Nội",
+      "image": "/crops/HD_014/17c0fa7bb00ab91f41ec.png",
+      "page": 1,
+      "coordinates": [
+        1025,
+        341,
+        1869,
+        390
+      ],
+      "pdf_text": "Lô 17-F1, KĐT Đại Kim, P.Định Công, TP. Hà Nội",
+      "ocr1": "Lô 17-F1, KĐT Đi Kim, P.Dnh Công, TP. Hà Ni",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "bdd0fb240e4749a03bf1",
+      "transcript": "VPGD tại HCM : Số 65F6-66F6, đường DD9-KDC An Sương, P. Đông Hưng Thuận, TP HCM",
+      "image": "/crops/HD_014/bdd0fb240e4749a03bf1.png",
+      "page": 1,
+      "coordinates": [
+        691,
+        392,
+        2304,
+        478
+      ],
+      "pdf_text": "VPGD tại HCM  : Số 65F6-66F6, đường DD9-KDC An Sương, P. Đông Hưng Thuận, TP HCM",
+      "ocr1": "VPGD ti HCM : S 65F6-66F6, đưòng DD9-KDC An Suong, P. Đông Hưng Thun, TP HCM",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "c12cf562f943b73592a0",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "image": "/crops/HD_014/c12cf562f943b73592a0.png",
+      "page": 1,
+      "coordinates": [
+        637,
+        619,
+        1450,
+        696
+      ],
+      "pdf_text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "ocr1": "HÓA DON GIÁ TRI GIA TĂNG",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "5135274381a3d96a566f",
+      "transcript": "Ký hiệu (Serial): 1C26TTC",
+      "image": "/crops/HD_014/5135274381a3d96a566f.png",
+      "page": 1,
+      "coordinates": [
+        1720,
+        636,
+        2179,
+        692
+      ],
+      "pdf_text": "Ký hiệu (Serial): 1C26TTC",
+      "ocr1": "Ký hiu (Serial): 1C26TTC",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "cba713445e63a2051f1e",
+      "transcript": "Số (No.):",
+      "image": "/crops/HD_014/cba713445e63a2051f1e.png",
+      "page": 1,
+      "coordinates": [
+        1719,
+        701,
+        1885,
+        766
+      ],
+      "pdf_text": "Số  (No.):",
+      "ocr1": "S (No.):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "9e1995b3b6852b39edb7",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "image": "/crops/HD_014/9e1995b3b6852b39edb7.png",
+      "page": 1,
+      "coordinates": [
+        121,
+        931,
+        654,
+        982
+      ],
+      "pdf_text": "Họ tên người mua hàng  (Buyer):",
+      "ocr1": "Ho tên ngưi mua hàng (Buyer):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "aab46afe393b89e78825",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH TM & DV KỸ THUẬT VINAMAIN",
+      "image": "/crops/HD_014/aab46afe393b89e78825.png",
+      "page": 1,
+      "coordinates": [
+        118,
+        995,
+        1520,
+        1057
+      ],
+      "pdf_text": "Tên đơn vị (Company's name): CÔNG TY TNHH TM & DV KỸ THUẬT VINAMAIN",
+      "ocr1": "Tên đon v (Company's name): CÔNG TY TNHH TM & DV KÝ THUT VINAMAIN",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "ebd777c97976544c3cd1",
+      "transcript": "Mã số thuế (Tax code): 0901031902",
+      "image": "/crops/HD_014/ebd777c97976544c3cd1.png",
+      "page": 1,
+      "coordinates": [
+        119,
+        1068,
+        743,
+        1128
+      ],
+      "pdf_text": "Mã số thuế (Tax code): 090103 1 902",
+      "ocr1": "Mã s thu (Tax code): 0901031902",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "1b75b5257f4a73a70a77",
+      "transcript": "MSĐVCQHVNS (Budgetary unit code):",
+      "image": "/crops/HD_014/1b75b5257f4a73a70a77.png",
+      "page": 1,
+      "coordinates": [
+        120,
+        1141,
+        772,
+        1199
+      ],
+      "pdf_text": "MSĐVCQHVNS  (Budgetary unit code):",
+      "ocr1": "MSDVCQHVNS (Budgetary unit code):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "cd7c76e2dd845a0a79a7",
+      "transcript": "Địa chỉ (Address): Tổ dân phố Văn Nhuế, Phường Mỹ Hào, Tỉnh Hưng Yên, Việt Nam",
+      "image": "/crops/HD_014/cd7c76e2dd845a0a79a7.png",
+      "page": 1,
+      "coordinates": [
+        120,
+        1216,
+        1523,
+        1268
+      ],
+      "pdf_text": "Địa chỉ (Address): Tổ dân phố Văn Nhuế, Phường Mỹ Hào, Tỉnh Hưng Yên, Việt Nam",
+      "ocr1": "Đa chi (Address): T dân ph Văn Nhu, Phưng M Hào, Tnh Hưng Yên, Vit Nam",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "d3ccd6394bd686682515",
+      "transcript": "Số tài khoản (Bank account):",
+      "image": "/crops/HD_014/d3ccd6394bd686682515.png",
+      "page": 1,
+      "coordinates": [
+        1077,
+        1284,
+        1557,
+        1342
+      ],
+      "pdf_text": "Số tài khoản  (Bank account):",
+      "ocr1": "S tài khon (Bank account):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "4986246023d3021ae865",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "image": "/crops/HD_014/4986246023d3021ae865.png",
+      "page": 1,
+      "coordinates": [
+        121,
+        1290,
+        920,
+        1339
+      ],
+      "pdf_text": "Hình thức thanh toán  (Payment method):  TM/CK",
+      "ocr1": "Hinh thc thanh toán (Payment method): TM/CK",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "58efdd3a33f6a030ba18",
+      "transcript": "Đồng tiền thanh toán (Payment Currency): VND",
+      "image": "/crops/HD_014/58efdd3a33f6a030ba18.png",
+      "page": 1,
+      "coordinates": [
+        119,
+        1357,
+        904,
+        1414
+      ],
+      "pdf_text": "Đồng tiền thanh toán  (Payment Currency):  VND",
+      "ocr1": "Đồng tin thanh toán (Payment Currency): VND",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "e417ade2e16c176055ec",
+      "transcript": "Thuế suất",
+      "image": "/crops/HD_014/e417ade2e16c176055ec.png",
+      "page": 1,
+      "coordinates": [
+        1823,
+        1427,
+        2016,
+        1484
+      ],
+      "pdf_text": "Thuế suất",
+      "ocr1": "Thu sut",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "5ef1df96833bb547e77f",
+      "transcript": "Đơn vị",
+      "image": "/crops/HD_014/5ef1df96833bb547e77f.png",
+      "page": 1,
+      "coordinates": [
+        929,
+        1433,
+        1068,
+        1488
+      ],
+      "pdf_text": "Đơn vị",
+      "ocr1": "Đon v",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "206eab61337e6e50441b",
+      "transcript": "Thành tiền",
+      "image": "/crops/HD_014/206eab61337e6e50441b.png",
+      "page": 1,
+      "coordinates": [
+        1543,
+        1456,
+        1751,
+        1513
+      ],
+      "pdf_text": "Thành tiền",
+      "ocr1": "Thành tin",
+      "status_after": "verified"
+    }
+  ],
+  "api_response": {
+    "saved": 20,
+    "total": 8501,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_070543.json",
+  "recheck_errors": []
+}

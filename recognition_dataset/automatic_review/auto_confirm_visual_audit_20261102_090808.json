@@ -1,0 +1,158 @@
+{
+  "created_at_utc": "2026-11-02T02:08:08.395280+00:00",
+  "invoice": "WEB_051",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 25,
+  "items": [
+    {
+      "crop_id": "e953b2039c5a30dfa443",
+      "transcript": "HÓA ĐƠN",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "729fbf31303a6808066a",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "1f757a24541138e72441",
+      "transcript": "Địa Chỉ: 4-6 Nguyễn Văn Tiên, khu phố 9, Phường Tân Phong, Thành phố Biên Hòa,",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "80e6285d53cbfbef0f5a",
+      "transcript": "Tỉnh Đồng Nai, Việt Nam",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "730e34766955972a345a",
+      "transcript": "Điện thoại: 19001908",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "4ea68ca7fc3d88e7a6ee",
+      "transcript": "(VIỆT NAM)",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "07ca9bc9ab228595902a",
+      "transcript": "Mã số thuế:3600456424",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "16486413779b1bff96cd",
+      "transcript": "ĐT: 0989822201",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "a07bdffbbd648d2b8fa0",
+      "transcript": "Thuế suất",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "4837f424e83c1c6a11d7",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "af41274227ac27d392fa",
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "0d249067682656eaa5f9",
+      "transcript": "Hàng hóa / Dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "bef7a6eaf83b1d9b2d45",
+      "transcript": "Thuế suất 5%",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "7380a5ee745e258335c8",
+      "transcript": "Thuế suất 8%",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "6c4bdd5ab6586cf67524",
+      "transcript": "Thuế suất 0%",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "1f9a4421f500cd27f3d9",
+      "transcript": "Không chịu thuế",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "031e4bbf1bbf6d183ce4",
+      "transcript": "Thuế suất 10%",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "8248c9bb4172092bfefc",
+      "transcript": "Tiền hàng:",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "9915271c8d77439d071c",
+      "transcript": "Tiền thuế:",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "ac12bc54305c76649f04",
+      "transcript": "Tiền thanh toán:",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "c951fb503fb4f4155f92",
+      "transcript": "Số tiền bằng chữ:",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "7710bbc1b29a1214c27f",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "9d10a76c107e66e83490",
+      "transcript": "Ký ngày: 11/06/2025",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "a8e3a5e2f5b6a17c10d6",
+      "transcript": "Khách hàng vào web https://hddt.bachhoaxanh.com để tải về hóa đơn điện tử",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    },
+    {
+      "crop_id": "a3040e19da1474499a44",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop in contact sheet; readable text transcribed from visible image. Clipped seller and second address crops left pending."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "preexisting_transcript_conflicts": [],
+  "verification_errors": [],
+  "deferred": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_142752.json",
+  "visually_reviewed": 29,
+  "invoice": "WEB_233",
+  "verified_count_after": 11387,
+  "preserved_existing": 11,
+  "reviewed_at": "2026-11-02T14:28:02.8858364+07:00",
+  "verified_count_before": 11369,
+  "confirmed_new": 18,
+  "confirmed": [
+    {
+      "transcript": "Ngày 11 tháng 12 Năm 2019",
+      "crop_id": "fa73f980a6bf09d08c18"
+    },
+    {
+      "transcript": "Địa chỉ: Tổ 17, Thị trấn Đông Anh, Huyện Đông Anh, Hà Nội",
+      "crop_id": "ed7fd656540e91cd1222"
+    },
+    {
+      "transcript": "Địa chỉ: Thôn 3, Xã Phú Cát, Huyện Quốc Oai, Hà Nội, Thành phố Hà Nội",
+      "crop_id": "efffd4543e0db7fd9147"
+    },
+    {
+      "transcript": "Liên 1: Lưu",
+      "crop_id": "4192b2f3a26667e67f38"
+    },
+    {
+      "transcript": "HÓA ĐƠN",
+      "crop_id": "80c67c2f87b30277f220"
+    },
+    {
+      "transcript": "(Ký, đóng dấu, ghi rõ họ tên)",
+      "crop_id": "114634cff70fcd30c8a6"
+    },
+    {
+      "transcript": "Tên đơn vị: Công ty TNHH Đầu tư Thương mại và Xây dựng Phú Gia",
+      "crop_id": "088bf2a0ca6bf64856cb"
+    },
+    {
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "crop_id": "66b45d49138899c4c9df"
+    },
+    {
+      "transcript": "Họ tên người mua hàng:",
+      "crop_id": "f6770cde360fdf2ba8e5"
+    },
+    {
+      "transcript": "Ký hiệu: VX/12P",
+      "crop_id": "a0c7dd269a3f854bc340"
+    },
+    {
+      "transcript": "Phụ biểu 02. Mẫu hóa đơn GTGT đầu vào",
+      "crop_id": "7c1ae95898d30d44939b"
+    },
+    {
+      "transcript": "Đơn giá",
+      "crop_id": "89f03f06eb3c28ba7376"
+    },
+    {
+      "transcript": "Thành tiền",
+      "crop_id": "9cced6b8ee75aea318e5"
+    },
+    {
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "9f12ccc2818f080fde6b"
+    },
+    {
+      "transcript": "Cộng tiền hàng:",
+      "crop_id": "d0babf078bf7ef70083f"
+    },
+    {
+      "transcript": "Tiền thuế GTGT:",
+      "crop_id": "2aa1b842fbc68156ecd9"
+    },
+    {
+      "transcript": "Tổng cộng tiền hàng:",
+      "crop_id": "19eab2a536f1bb03f605"
+    },
+    {
+      "transcript": "Đơn vị bán hàng: Công ty TNHH Vạn Xuân",
+      "crop_id": "f306583029aad3618d09"
+    }
+  ]
+}

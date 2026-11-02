@@ -1,0 +1,42 @@
+{
+  "confirmed": [
+    {
+      "crop_id": "f08f2b2805b9dca84414",
+      "transcript": "Số lượng"
+    },
+    {
+      "crop_id": "ce5a66bfbb94f2013ed6",
+      "transcript": "Đơn vị tính"
+    },
+    {
+      "crop_id": "e199facfe378d82bc36e",
+      "transcript": "Đơn giá"
+    },
+    {
+      "crop_id": "7cbb2b2cf155f965ffa2",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "272b362ec5a9c0600055",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "d962f834974ccbacfeaa",
+      "transcript": "Xuất khẩu áo thun đồng phục"
+    },
+    {
+      "crop_id": "39af8491da90017519d5",
+      "transcript": "theo tờ khai số : 302931243440"
+    },
+    {
+      "crop_id": "dde20c924480aa5f30bd",
+      "transcript": "Cộng tiền hàng (Total amount):"
+    }
+  ],
+  "note": "Eight crop images visually inspected; visible Vietnamese and tabular text confirmed.",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075646.json",
+  "invoice": "HD_039",
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:56:46.1173218Z",
+  "method": "manual_visual_review_crop_images"
+}

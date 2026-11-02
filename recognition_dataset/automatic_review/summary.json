@@ -1,34 +1,80 @@
 {
-  "generated_utc": "2026-11-01T09:07:40.204853+00:00",
+  "generated_utc": "2026-11-02T20:38:12.312432+00:00",
   "source_manifest": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crop_manifest.csv",
   "source_pdf_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\source_300_invoices\\pdfs",
-  "crop_manifest_rows": 17961,
-  "source_documents": 208,
+  "crop_manifest_rows": 14469,
+  "source_documents": 177,
   "dpi": 300,
   "ocr1_source": "raw_ocr_text (fallback: transcript) from the existing crop manifest",
   "ocr2_status": "unavailable_or_not_configured; no independent engine inference run",
   "pdf_text_extraction": "pypdfium2 embedded glyphs selected by crop coordinates and ordered by visual geometry",
   "status_counts": {
     "human_verified_preserved": 2,
-    "needs_review": 17959
+    "needs_review": 14467
   },
   "split_crop_counts": {
-    "val": 3160,
-    "train": 11124,
-    "test": 3677
+    "val": 2708,
+    "train": 8832,
+    "test": 2929
   },
-  "pdf_text_found_count": 14656,
-  "pdf_text_matches_ocr1_count": 6803,
+  "pdf_text_found_count": 14469,
+  "pdf_text_matches_ocr1_count": 6713,
   "geometry_invalid_count": 0,
   "multi_line_pdf_crop_count": 90,
   "machine_consensus_count": 0,
   "reason_counts": {
-    "independent_ocr2_unavailable": 17959,
-    "pdf_text_and_ocr1_disagree": 7853,
-    "pdf_text_layer_empty_or_crop_has_no_text": 3305,
+    "source_label_already_human_verified_preserved": 2,
+    "independent_ocr2_unavailable": 14467,
+    "pdf_text_and_ocr1_disagree": 7756,
     "pdf_crop_contains_multiple_text_lines": 90
   },
   "verified_zip_created": false,
   "test_candidates_exported_separately": true,
-  "packages_not_installed": true
+  "packages_not_installed": true,
+  "excluded_invoice": "WEB_076, WEB_077, WEB_078, WEB_079, WEB_080, WEB_081",
+  "excluded_crop_count": 408,
+  "active_invoice_count": 189,
+  "latest_exclusion": {
+    "invoice_id": "WEB_242",
+    "crop_count": 56,
+    "removed_annotation_count": 36,
+    "backup_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\excluded_invoice_backups\\WEB_242_20261102T203812312432Z",
+    "excluded_at_utc": "2026-11-02T20:38:12.312432+00:00"
+  },
+  "latest_crop_exclusion": {
+    "count": 1524,
+    "invoice_count": 97,
+    "removed_annotation_count": 536,
+    "removed_annotation_status_counts": {
+      "verified": 231,
+      "rejected": 305
+    },
+    "reason": "pdf_text is empty within crop",
+    "backup_directory": "excluded_crop_backups/PDF_TEXT_UNAVAILABLE_20261102T193455Z",
+    "excluded_at_utc": "2026-11-02T19:35:25.410565+00:00"
+  },
+  "source_pdf_count": 188,
+  "invoices_with_active_crops": 177,
+  "invoices_without_active_crops": 11,
+  "invoice_ids_without_active_crops": [
+    "WEB_039",
+    "WEB_074",
+    "WEB_075",
+    "WEB_082",
+    "WEB_109",
+    "WEB_176",
+    "WEB_182",
+    "WEB_216",
+    "WEB_217",
+    "WEB_218",
+    "WEB_219"
+  ],
+  "active_crop_ids_with_empty_pdf_text": 0,
+  "current_manual_annotation_progress": {
+    "active_records": 13401,
+    "verified": 13323,
+    "rejected": 42,
+    "needs_review": 36,
+    "without_progress_record": 1068
+  }
 }

@@ -1,0 +1,143 @@
+{
+  "invoice": "WEB_118",
+  "timestamp_utc": "2026-11-02T03:23:30.7394754Z",
+  "reviewed_count": 19,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Đối chiếu từng crop; kiểm tra mã tra cứu có dấu gạch dưới cuối; chuẩn hóa khoảng trắng, giữ nguyên model sản phẩm.",
+  "annotations": [
+    {
+      "crop_id": "a5a1431f2662ad551a53",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25TCU",
+      "reviewed_at": "2026-11-02T03:23:30.7351320Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9762ee7ae0a01ba27088",
+      "status": "verified",
+      "transcript": "Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.",
+      "reviewed_at": "2026-11-02T03:23:30.7388954Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a987ff735c10f1261308",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "reviewed_at": "2026-11-02T03:23:30.7389610Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "820a283b11762b477d7c",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "reviewed_at": "2026-11-02T03:23:30.7389963Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c58bcb5cd153a32f0f5d",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:23:30.7390273Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a0bd5937facfa641e6f3",
+      "status": "verified",
+      "transcript": "Máy thí nghiệm đầm tạo mẫu đất CBR tự động",
+      "reviewed_at": "2026-11-02T03:23:30.7390604Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "40a522de5d16d76b8b0b",
+      "status": "verified",
+      "transcript": "Tủ sấy 101-2A",
+      "reviewed_at": "2026-11-02T03:23:30.7390907Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "70467261761ed58d98c7",
+      "status": "verified",
+      "transcript": "Đế từ 60kgf 6201-60",
+      "reviewed_at": "2026-11-02T03:23:30.7391213Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "15aef75d63ef212f3547",
+      "status": "verified",
+      "transcript": "Sàng đường kính 300mm",
+      "reviewed_at": "2026-11-02T03:23:30.7391510Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a13bf66b5f8c3f96897a",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "reviewed_at": "2026-11-02T03:23:30.7391763Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c8263d3ba3c465ab0e17",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT:",
+      "reviewed_at": "2026-11-02T03:23:30.7392022Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "57414f714b02c2853581",
+      "status": "verified",
+      "transcript": "8% Tiền thuế GTGT:",
+      "reviewed_at": "2026-11-02T03:23:30.7392296Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "249df1cd0f9cf227bacb",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán:",
+      "reviewed_at": "2026-11-02T03:23:30.7392567Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9a05bdd8436e1aa7f53d",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T03:23:30.7392816Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c09f1d87f0fdec92ffd8",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:23:30.7393101Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e0e748ba28cd059ccdff",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:23:30.7393358Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dcbbdcba62ec73557a4b",
+      "status": "verified",
+      "transcript": "THỊNH",
+      "reviewed_at": "2026-11-02T03:23:30.7393916Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b45f9890cfdfebb3d7af",
+      "status": "verified",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: DEHKT02JKXK_",
+      "reviewed_at": "2026-11-02T03:23:30.7394311Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "19720d5dc6eefcbf6ce0",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:23:30.7394674Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

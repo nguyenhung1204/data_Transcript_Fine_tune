@@ -1,0 +1,68 @@
+{
+  "created_at_utc": "2026-11-02T02:15:19.106132+00:00",
+  "invoice": "WEB_031",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 10,
+  "items": [
+    {
+      "crop_id": "efc578a97f0cacb23f54",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "cc2f5618f92829e3d3d0",
+      "transcript": "Lẩu Ghẹ",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "8c53bd02a57c4d5148fd",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "ddec1f373c7fc5eb71fc",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "c33bb60063047db9d58a",
+      "transcript": "Cơm Xào Bò",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "83f9404ed138d54ce72b",
+      "transcript": "Tổng tiền thanh toán (Total Amount):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "668c1e28f33f67564c03",
+      "transcript": "Số tiền viết bằng chữ (Total amount in words):Ba triệu đồng",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "374224878b94810e0ad6",
+      "transcript": "Người mua hàng (Buyer)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "0472d3ece5bee14b9bfd",
+      "transcript": "Người bán hàng (Seller)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    },
+    {
+      "crop_id": "922c2ba938c397ab6ea0",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; legible text confirmed. Date crop under stamp was left pending."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "skipped": "Logo mark was ambiguous; not confirmed.",
+  "created_at_utc": "2026-11-02T09:45:24.4989586Z",
+  "reviewed": [
+    {
+      "crop_id": "c968eddc67e5d79a10c2",
+      "evidence": "Full short English line is legible in crop.",
+      "invoice": "HD_039",
+      "transcript": "Accounting - Tax Services"
+    },
+    {
+      "crop_id": "063b0bebbc4adc81f009",
+      "evidence": "Full label and three visible dots at end appear in crop.",
+      "invoice": "HD_039",
+      "transcript": "Số tài khoản (Account No):..."
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_164520.json"
+}

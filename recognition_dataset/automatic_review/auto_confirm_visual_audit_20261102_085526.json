@@ -1,0 +1,199 @@
+{
+  "policy": "Each crop visually inspected; readable printed text confirmed as shown.",
+  "run_id": "visual_20261102_085526",
+  "created_at_utc": "2026-11-02T01:55:26.9329062Z",
+  "annotations": [
+    {
+      "review_note": "WEB_038: tiêu đề in rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "crop_id": "3ef8c6b172cdd7783471",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: ký hiệu đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ký hiệu (Serial): 1C25MAA",
+      "crop_id": "018e14e92f13054fa17b",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn số hóa đơn rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số (No.):",
+      "crop_id": "01b92d36531039ca9dea",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: MST bên bán đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế (Tax code): 1801651333-001",
+      "crop_id": "d86dc54e7e476b117cb7",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn người mua rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "crop_id": "8a21ea2e00def9ca9fcf",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: tên công ty đọc rõ trên crop phóng to.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)",
+      "crop_id": "836f5b18b67bd27df178",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: MST bên mua đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "crop_id": "a9361a39a9eff56bb87c",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn trường rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Điện thoại (Tel):",
+      "crop_id": "2af10b3606029bf56970",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn trường rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tài khoản (A/C number):",
+      "crop_id": "e1695928ad91fc6c56a5",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nội dung phương thức thanh toán đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "crop_id": "bdf6f2793d5cc0ad4a56",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: đơn vị tiền tệ đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn vị tiền tệ (Currency): VND",
+      "crop_id": "324f5c1ba348435a5941",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "crop_id": "8aeee156d06be6ee1363",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn giá",
+      "crop_id": "e3a0e0b200c021e9b988",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "99202ce033a26e0ec9a9",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: tiêu đề cột đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn vị tính",
+      "crop_id": "536e32d60a166afd825f",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: con số đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "114.286",
+      "crop_id": "e1e463e057ee65abe90a",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: tên mặt hàng chép đúng chữ in trên crop.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Hồng giòn Newzeand",
+      "crop_id": "76db4b6b41eab309b0a1",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn tổng tiền hàng đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "crop_id": "224dbfa5e5f2892e2206",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: thuế suất đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất GTGT (VAT rate): 5%",
+      "crop_id": "2af6ca2376feb89aeb38",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn tiền thuế đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "crop_id": "6cfa62b24abc062370e4",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn tổng thanh toán đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "crop_id": "7da9a87c78a215788686",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: dòng số tiền bằng chữ đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Một triệu bốn trăm nghìn đồng.",
+      "crop_id": "986d2feb77ca7406f37d",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn chữ ký đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "d9faaadf683558e17e9a",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    },
+    {
+      "review_note": "WEB_038: nhãn chữ ký đọc rõ.",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người bán hàng (Seller)",
+      "crop_id": "cc36eb3113b3172168be",
+      "reviewed_at": "2026-11-02T01:55:26.9329062Z",
+      "status": "verified"
+    }
+  ]
+}

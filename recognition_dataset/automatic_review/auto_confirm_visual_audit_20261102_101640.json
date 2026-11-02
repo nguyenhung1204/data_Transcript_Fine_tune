@@ -1,0 +1,122 @@
+{
+  "invoice": "WEB_108",
+  "timestamp_utc": "2026-11-02T03:16:40.3328122Z",
+  "reviewed_count": 16,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Đối chiếu ảnh crop; mã số thuế được ghép về chuỗi số liền theo chữ số in trên ảnh.",
+  "annotations": [
+    {
+      "crop_id": "755c04cb63938829d96a",
+      "status": "verified",
+      "transcript": "HỘ KINH DOANH DÊ CUA 245",
+      "reviewed_at": "2026-11-02T03:16:40.3279272Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a71aba8e4e5eabdd7c75",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 8069367273",
+      "reviewed_at": "2026-11-02T03:16:40.3322321Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b0f86cfbed2eee9e7b42",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address): 91 Hoàng Sa, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T03:16:40.3323492Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c56225fa810bf9ffb078",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel):",
+      "reviewed_at": "2026-11-02T03:16:40.3323838Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "afae00135e5ce10a8cbb",
+      "status": "verified",
+      "transcript": "Số tài khoản (Bank account):",
+      "reviewed_at": "2026-11-02T03:16:40.3324178Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "23dad137191807dfea1b",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial): 2C22TAA",
+      "reviewed_at": "2026-11-02T03:16:40.3324492Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d075b3a46ab968d05cbd",
+      "status": "verified",
+      "transcript": "Số (No.):",
+      "reviewed_at": "2026-11-02T03:16:40.3324790Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "32cf1ec0183bda3f8710",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T03:16:40.3325312Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3d04fc8a111dd682253f",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0316833907",
+      "reviewed_at": "2026-11-02T03:16:40.3325740Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "39344992f679ed7aeb6b",
+      "status": "verified",
+      "transcript": "Đồng tiền thanh toán (Payment Currency): VND",
+      "reviewed_at": "2026-11-02T03:16:40.3326077Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "89e29a55ef76d497a846",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:16:40.3326342Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "50c40ff5475a1ca038c6",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:16:40.3326627Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b18baaa81b5733bed6c9",
+      "status": "verified",
+      "transcript": "Cộng tiền bán hàng hóa, dịch vụ (Total amount):",
+      "reviewed_at": "2026-11-02T03:16:40.3326954Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "32f4c3fb7f095ad5ef76",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T03:16:40.3327233Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "70be7537426d4843750e",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:16:40.3327533Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7c33b485f03664e2de52",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:16:40.3327806Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

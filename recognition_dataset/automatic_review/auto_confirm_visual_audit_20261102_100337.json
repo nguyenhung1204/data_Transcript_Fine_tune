@@ -1,0 +1,177 @@
+{
+  "invoice": "WEB_099",
+  "timestamp_utc": "2026-11-02T03:03:37.8414027Z",
+  "reviewed_count": 22,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "crop_id": "65a575af9401ac486ea6",
+      "reason": "Account label crop includes the start of the next text at the right edge."
+    },
+    {
+      "crop_id": "618b68229fb591bd62ee",
+      "reason": "Alphanumeric invoice lookup code has ambiguous l/1 characters."
+    },
+    {
+      "crop_id": "d686f03aa1ff797b223f",
+      "reason": "Quotation mark style in 10-inch product description is ambiguous in crop."
+    }
+  ],
+  "notes": "Three contact sheets inspected; long code, clipped account label and quote marks deliberately left pending. Corrected PDF text-layer spacing in seller name and product hyphen based on crop.",
+  "annotations": [
+    {
+      "crop_id": "787801aa55a2f51a9e1a",
+      "status": "verified",
+      "transcript": "Ký hiệu (Series): 1C25TAA",
+      "reviewed_at": "2026-11-02T03:03:37.8361470Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "244cb05fb544cc9f642a",
+      "status": "verified",
+      "transcript": "Bản thể hiện hóa đơn điện tử",
+      "reviewed_at": "2026-11-02T03:03:37.8403803Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "29f272cb59195a389ae5",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng (Seller): CÔNG TY TNHH TAJAGI",
+      "reviewed_at": "2026-11-02T03:03:37.8404637Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6b45a5468bf3aea4b324",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code)",
+      "reviewed_at": "2026-11-02T03:03:37.8404928Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2536367d4fa14d9a428f",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address)",
+      "reviewed_at": "2026-11-02T03:03:37.8405195Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2af5fa491aa6135eb195",
+      "status": "verified",
+      "transcript": "Thành phố Hồ Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T03:03:37.8405474Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0cebcd38de9571a8d6a3",
+      "status": "verified",
+      "transcript": "Điện thoại (Phone)",
+      "reviewed_at": "2026-11-02T03:03:37.8405730Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6846daf9d6cc01e8ccbc",
+      "status": "verified",
+      "transcript": "Số tài khoản (Acc No.)",
+      "reviewed_at": "2026-11-02T03:03:37.8405984Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9fb659753c0fbf7f482a",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T03:03:37.8406233Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "db65009aa4d09e1f5b8e",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 3500102414",
+      "reviewed_at": "2026-11-02T03:03:37.8406484Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f6ac12382e16c5029d48",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:03:37.8406763Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1a0f168fc3ae9a0caf21",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:03:37.8406991Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1492af267e7eaa878703",
+      "status": "verified",
+      "transcript": "Cung cấp bộ truyền động cho van điều khiển PCV-",
+      "reviewed_at": "2026-11-02T03:03:37.8410846Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "444530ad5e9315c3f876",
+      "status": "verified",
+      "transcript": "XL.TM/TAJAGI ký ngày 18 tháng 02 năm 2025 thuộc",
+      "reviewed_at": "2026-11-02T03:03:37.8411394Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "aedc5e93b18859207ea8",
+      "status": "verified",
+      "transcript": "Phần hàng hóa miễn thuế",
+      "reviewed_at": "2026-11-02T03:03:37.8411651Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a414f9400d791969345f",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "reviewed_at": "2026-11-02T03:03:37.8411910Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4e538f1ea3ece750fbb4",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT (VAT rate): /",
+      "reviewed_at": "2026-11-02T03:03:37.8412473Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "41a80b05924e22add689",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "reviewed_at": "2026-11-02T03:03:37.8412735Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2ce2305af879b55e1e2a",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "reviewed_at": "2026-11-02T03:03:37.8413008Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bfb96ebff52cd4ceae79",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T03:03:37.8413243Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "92e98b905770999f64e6",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)",
+      "reviewed_at": "2026-11-02T03:03:37.8413519Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "596d74c798cbc829e13e",
+      "status": "verified",
+      "transcript": "Trang tra cứu (Search on Website): https://tracuuhoadon.fpt.com.vn/search.html",
+      "reviewed_at": "2026-11-02T03:03:37.8413819Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

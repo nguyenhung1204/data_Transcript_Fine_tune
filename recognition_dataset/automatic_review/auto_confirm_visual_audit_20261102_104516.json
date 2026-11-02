@@ -1,0 +1,582 @@
+{
+  "created_at": "2026-11-02T03:45:23.7544495Z",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_104516.json",
+  "deferred": [
+    {
+      "invoice": "WEB_134",
+      "crop_id": "21e109abe8889221646e",
+      "reason": "Mã tra cứu có ký tự 1/I dễ nhầm"
+    },
+    {
+      "invoice": "WEB_135",
+      "crop_id": "6cf5d22d7049435d3764",
+      "reason": "Hai chữ số 1 trong crop có khoảng cách/ranh cột không rõ"
+    },
+    {
+      "invoice": "WEB_135",
+      "crop_id": "8ac352345a0424429849",
+      "reason": "Tên đơn vị ở dòng Ký bởi có vẻ bị cắt ở mép crop"
+    }
+  ],
+  "batches": [
+    "WEB_134",
+    "WEB_135"
+  ],
+  "skipped_existing": [],
+  "visual_review": "Direct crop images inspected; numeric spacing normalized where visually clear; ambiguous lookup code, split digits, and clipped signature line deferred",
+  "confirmed": [
+    {
+      "status": "verified",
+      "crop_id": "b0f29ed75b61edf29300",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "CÔNG TY TNHH SX TM - THIẾT BỊ KHOA HỌC HƯNG THỊNH",
+      "reviewed_at": "2026-11-02T03:45:18.6189478Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "6c9ae4b36c335122bdd2",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế: 0315307852",
+      "reviewed_at": "2026-11-02T03:45:18.7452762Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "ba0192dc14eae143dfde",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T03:45:18.8541038Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "88d1e9931b3424234d8b",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ký hiệu: 1C24THT",
+      "reviewed_at": "2026-11-02T03:45:18.9531726Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7fd435b6c0378350a821",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "reviewed_at": "2026-11-02T03:45:19.0572683Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "1824b30a6ed5e5629d46",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ngày 11 tháng 4 năm 2024",
+      "reviewed_at": "2026-11-02T03:45:19.1574892Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "4d8f4f1970f5b099d0bb",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế: 0310765873",
+      "reviewed_at": "2026-11-02T03:45:19.2445452Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "13aa579f45068f9d2906",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Địa chỉ: 237 đường Nam Hòa, Tổ 4, Khu phố 1, Phường Phước Long A, Thành phố Thủ Đức, TP Hồ",
+      "reviewed_at": "2026-11-02T03:45:19.3289440Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "67f8d1de49b0f43b694a",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Chuyển khoản",
+      "reviewed_at": "2026-11-02T03:45:19.4145448Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "70a388df9250e50e4dca",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:45:19.5002872Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "91888ab8c1bfc00ff485",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Dụng cụ thử va đập kính",
+      "reviewed_at": "2026-11-02T03:45:19.5887873Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "23a46c84c4c0778df44e",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Dụng cụ thử bi rơi kính",
+      "reviewed_at": "2026-11-02T03:45:19.6809829Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "53f4c6851d9fe83e7677",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.200.000",
+      "reviewed_at": "2026-11-02T03:45:19.8111799Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9515f8002d3e22b95574",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.200.000,00",
+      "reviewed_at": "2026-11-02T03:45:19.9441795Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "56a2923c2178237070f3",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bộ",
+      "reviewed_at": "2026-11-02T03:45:20.0794756Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "13936b803a438067323f",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.200.000,00",
+      "reviewed_at": "2026-11-02T03:45:20.2419571Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "45e0fd50c32fa01ba7ea",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.200.000",
+      "reviewed_at": "2026-11-02T03:45:20.3889619Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "396a54e1ba05c0f3a605",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thiết bị thử thấm của gạch - cỡ to -",
+      "reviewed_at": "2026-11-02T03:45:20.5121380Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a8b82c98e4ce476f0cf4",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bộ",
+      "reviewed_at": "2026-11-02T03:45:20.6364805Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "74701707acee087b4e20",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.500.000,00",
+      "reviewed_at": "2026-11-02T03:45:20.7571400Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "91bbe23dd02f52bae598",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.500.000",
+      "reviewed_at": "2026-11-02T03:45:20.8603745Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "4f2703953ed18ae169b0",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Việt Nam",
+      "reviewed_at": "2026-11-02T03:45:20.9673367Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "49c1233f0f4af014bd73",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bộ dao vòng lấy mẫu đất -VN",
+      "reviewed_at": "2026-11-02T03:45:21.0679143Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "49087613254a6e880d67",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bộ",
+      "reviewed_at": "2026-11-02T03:45:21.1536539Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "c2fb41c16d27a79ae9d2",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.600.000,00",
+      "reviewed_at": "2026-11-02T03:45:21.2356067Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7ede5c8cbb6e1117ebcd",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "1.600.000",
+      "reviewed_at": "2026-11-02T03:45:21.2975178Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9c27ff9bfb9c8e4be299",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Cộng tiền hàng:",
+      "reviewed_at": "2026-11-02T03:45:21.3443975Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "d1dc60501bd90fc32cb4",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "31.500.000",
+      "reviewed_at": "2026-11-02T03:45:21.3909287Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "babb45ec282af93d6e64",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất GTGT:",
+      "reviewed_at": "2026-11-02T03:45:21.4380900Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "94e110adfdb966f4822c",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "10 % Tiền thuế GTGT:",
+      "reviewed_at": "2026-11-02T03:45:21.4859905Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "e552c3eba7c058d049b8",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "3.150.000",
+      "reviewed_at": "2026-11-02T03:45:21.5292562Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "ae59c527546d5bdabca8",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ba mươi bốn triệu sáu trăm năm mươi nghìn đồng chẵn.",
+      "reviewed_at": "2026-11-02T03:45:21.5734821Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7606d828c8c658bd5f61",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T03:45:21.6195015Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a43c344407e972dc31a1",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:45:21.6640819Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "1f0f25363a0fb477f002",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:45:21.7086134Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "38959ebcce15c135fba9",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "KHOA HỌC HƯNG THỊNH",
+      "reviewed_at": "2026-11-02T03:45:21.7545858Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "52b89a2929d9c681561f",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:45:21.7964478Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "c286089eda7ccd49df2c",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu/",
+      "reviewed_at": "2026-11-02T03:45:21.8423970Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "f00fd2e1961e2eacb5fd",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "CÔNG TY TNHH SX TM - THIẾT BỊ KHOA HỌC HƯNG THỊNH",
+      "reviewed_at": "2026-11-02T03:45:21.8859074Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7ac6d813fc51e27701f7",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T03:45:21.9280104Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "87a950534b2c074e1113",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ký hiệu: 1C24THT",
+      "reviewed_at": "2026-11-02T03:45:21.9712235Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "573eb0ed8a1961d1dd8e",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "reviewed_at": "2026-11-02T03:45:22.0184210Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "d3f0dd968a5a8ff9d2fe",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ngày 11 tháng 4 năm 2024",
+      "reviewed_at": "2026-11-02T03:45:22.0627884Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b91e66cf9becc0d5c0a5",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Họ tên người mua hàng:",
+      "reviewed_at": "2026-11-02T03:45:22.1054742Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "c6e9ffc92262042b7423",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế: 0310765873",
+      "reviewed_at": "2026-11-02T03:45:22.1488057Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "d974d488f2b9bdded8be",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Địa chỉ: 237 đường Nam Hòa, Tổ 4, Khu phố 1, Phường Phước Long A, Thành phố Thủ Đức, TP Hồ",
+      "reviewed_at": "2026-11-02T03:45:22.1906419Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "e2466ba084b73b569074",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:45:22.2332297Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9fb14985738dbdafd0b2",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thiết bị thử cường độ bám dính vữa",
+      "reviewed_at": "2026-11-02T03:45:22.3037792Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "82e80a795c24a79c3026",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "10.000.000,00",
+      "reviewed_at": "2026-11-02T03:45:22.3664530Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "2aff2f7d64fb1ad224cf",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "10.000.000",
+      "reviewed_at": "2026-11-02T03:45:22.4111730Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "fa47ce09171f971bc846",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "đường Model: LA-302E",
+      "reviewed_at": "2026-11-02T03:45:22.4561240Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "f041d44c57fbe641b9e7",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thiết bị đo chiều dày sơn kẻ đường",
+      "reviewed_at": "2026-11-02T03:45:22.4998879Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "c0d66724e157643e3b63",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thiết bị đo độ nhám mặt đường bằng",
+      "reviewed_at": "2026-11-02T03:45:22.5429991Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "49228ebabdd1b2bb0954",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "con lắc Anh Model: BM - III",
+      "reviewed_at": "2026-11-02T03:45:22.5907684Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "1bc1e9dbb0dcd93d6e66",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Sàng đường kính 300mm",
+      "reviewed_at": "2026-11-02T03:45:22.6359113Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "cce9b67d7ce7f59be95e",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thiết bị giãn dài nhựa Model: LYS -",
+      "reviewed_at": "2026-11-02T03:45:22.6814116Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "bfa41a4c96ac81ef44c7",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy thí nghiệm xác định hàm lượng",
+      "reviewed_at": "2026-11-02T03:45:22.7275779Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b7d32e37fcdfc149bf8f",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy thí nghiệm Nhớt kế động học",
+      "reviewed_at": "2026-11-02T03:45:22.7711099Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9fb83ae8690c847ddab3",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Lò Nung 1000 độ C SX2-4-10",
+      "reviewed_at": "2026-11-02T03:45:22.8145175Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "37e13b33a6d295d88b55",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thiết bị kim lún nhựa Model: SZR-3",
+      "reviewed_at": "2026-11-02T03:45:22.8566415Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "80fe3eeb8b3e1b982155",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy mài mòn gạch men",
+      "reviewed_at": "2026-11-02T03:45:22.9054271Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7082021f90e37c4bdfc7",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy thử mài mòn đá tự nhiên Model:",
+      "reviewed_at": "2026-11-02T03:45:22.9515498Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "68cb1919539cc69c1d68",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "16.000.000",
+      "reviewed_at": "2026-11-02T03:45:22.9966602Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "582a66228286cefcdf21",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "16.000.000,00",
+      "reviewed_at": "2026-11-02T03:45:23.0423920Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "4e47cbec3919e3d8d142",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy lắc sàng Model: SJ - FKY",
+      "reviewed_at": "2026-11-02T03:45:23.0862884Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "5098d9724bbed4289262",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu/",
+      "reviewed_at": "2026-11-02T03:45:23.1296849Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "d367dbba95be62c7d941",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T03:45:23.1851803Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "1f50c4f74aa22fbf08df",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T03:45:23.2629314Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "74d20181df23ff5dfe4e",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ngày 11 tháng 4 năm 2024",
+      "reviewed_at": "2026-11-02T03:45:23.3160885Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b7ba0397fd5ec26a5b66",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Họ tên người mua hàng:",
+      "reviewed_at": "2026-11-02T03:45:23.3648843Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "4eda068c3b4b710db709",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Địa chỉ: 237 đường Nam Hòa, Tổ 4, Khu phố 1, Phường Phước Long A, Thành phố Thủ Đức, TP Hồ",
+      "reviewed_at": "2026-11-02T03:45:23.4091709Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "01f6160e2358edb42a0e",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:45:23.4530579Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "34b02309aeb06f23b90a",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:45:23.4973220Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "394af3c86ee8b121dd14",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất GTGT:",
+      "reviewed_at": "2026-11-02T03:45:23.5438731Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9d6be02571d9662ec3b1",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T03:45:23.5862370Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "6fe8938fdb2dc5cf53bf",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:45:23.6288132Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7056e3b76dc31078db41",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:45:23.6717618Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "bf7be91fce2002734539",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:45:23.7124748Z"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a57147d95dafb046fd8b",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu/",
+      "reviewed_at": "2026-11-02T03:45:23.7544150Z"
+    }
+  ]
+}

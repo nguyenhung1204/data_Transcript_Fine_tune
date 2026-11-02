@@ -1,0 +1,130 @@
+[
+  {
+    "confirmed_transcript": "Địa chỉ (Address):",
+    "invoice": "WEB_031",
+    "source_text": "Đia chí (Address):",
+    "source_image": "/crops/WEB_031/7e2f9984e34d20e2af5e.png",
+    "reviewed_at": "2026-11-02T09:07:25.6330592Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "7e2f9984e34d20e2af5e",
+    "coords": [
+      50,
+      555,
+      352,
+      609
+    ]
+  },
+  {
+    "confirmed_transcript": "Địa chỉ (Address):",
+    "invoice": "WEB_031",
+    "source_text": "Đia chí (Address):",
+    "source_image": "/crops/WEB_031/6ad3017ad8dd4ac44529.png",
+    "reviewed_at": "2026-11-02T09:07:25.6969202Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "6ad3017ad8dd4ac44529",
+    "coords": [
+      51,
+      840,
+      351,
+      892
+    ]
+  },
+  {
+    "confirmed_transcript": "Số lượng",
+    "invoice": "WEB_031",
+    "source_text": "Só luơng",
+    "source_image": "/crops/WEB_031/6fdae8c5bd6f5366804b.png",
+    "reviewed_at": "2026-11-02T09:07:25.7781495Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "6fdae8c5bd6f5366804b",
+    "coords": [
+      1679,
+      1165,
+      1847,
+      1226
+    ]
+  },
+  {
+    "confirmed_transcript": "Đơn vị tính",
+    "invoice": "WEB_031",
+    "source_text": "Đon vi tính",
+    "source_image": "/crops/WEB_031/5363cf20c4b05190876e.png",
+    "reviewed_at": "2026-11-02T09:07:25.8368185Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "5363cf20c4b05190876e",
+    "coords": [
+      1451,
+      1171,
+      1656,
+      1223
+    ]
+  },
+  {
+    "confirmed_transcript": "Combo Nướng",
+    "invoice": "WEB_031",
+    "source_text": "Combo Nuóng",
+    "source_image": "/crops/WEB_031/8c81d100004bc95e94d0.png",
+    "reviewed_at": "2026-11-02T09:07:25.9370291Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "8c81d100004bc95e94d0",
+    "coords": [
+      217,
+      1404,
+      463,
+      1458
+    ]
+  },
+  {
+    "confirmed_transcript": "Bò Tơ Hấp Rau Rừng",
+    "invoice": "WEB_031",
+    "source_text": "Bò To Hp Rau Rng",
+    "source_image": "/crops/WEB_031/8eadaeff5596c1a6e968.png",
+    "reviewed_at": "2026-11-02T09:07:26.0066504Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "8eadaeff5596c1a6e968",
+    "coords": [
+      214,
+      1588,
+      571,
+      1646
+    ]
+  },
+  {
+    "confirmed_transcript": "Nước Suối",
+    "invoice": "WEB_031",
+    "source_text": "Nuóc Sui",
+    "source_image": "/crops/WEB_031/808030f187082ecb7ea2.png",
+    "reviewed_at": "2026-11-02T09:07:26.0546312Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "808030f187082ecb7ea2",
+    "coords": [
+      215,
+      1714,
+      400,
+      1766
+    ]
+  },
+  {
+    "confirmed_transcript": "Dĩa",
+    "invoice": "WEB_031",
+    "source_text": "Dia",
+    "source_image": "/crops/WEB_031/31f38f6eeedc424ea055.png",
+    "reviewed_at": "2026-11-02T09:07:26.1148347Z",
+    "page_image": "/rendered_pages/WEB_031/page_001.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "crop_id": "31f38f6eeedc424ea055",
+    "coords": [
+      1516,
+      1778,
+      1593,
+      1829
+    ]
+  }
+]

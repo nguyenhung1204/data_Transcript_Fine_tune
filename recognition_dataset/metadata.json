@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-31T06:18:58.601013+00:00",
+  "generated_utc": "2026-10-31T13:18:58.601013+07:00",
   "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
   "paddleocr": "reused outputs; baseline metadata 3.7.0",
   "paddlepaddle": "reused outputs; baseline metadata 3.2.0",
@@ -18,10 +18,98 @@
     1152
   ],
   "source_directory": "E:\\KhoaLuanTotNghiep\\PaddleOCR_Field_Improvement\\recognition_dataset\\source_300_invoices\\pdfs",
-  "source_invoice_count": 208,
-  "processed_invoice_count": 208,
-  "ocr_candidate_crops": 17959,
+  "source_invoice_count": 203,
+  "processed_invoice_count": 203,
+  "ocr_candidate_crops": 17330,
   "verified_manual_crops": 2,
   "source_checksums_verified": true,
-  "training_run": false
+  "training_run": false,
+  "active_exclusion": {
+    "invoice_id": "WEB_005",
+    "crop_count": 107,
+    "excluded_at_utc": "2026-11-02T17:10:37.4625027+00:00",
+    "backup_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\excluded_invoice_backups\\WEB_005_20261103T000944164"
+  },
+  "active_dataset_state": {
+    "updated_utc": "2026-11-02T20:38:12.312432+00:00",
+    "active_invoice_count": 188,
+    "active_crop_count": 14469,
+    "active_candidate_count": 14467,
+    "excluded_invoice_ids": [
+      "WEB_076",
+      "WEB_077",
+      "WEB_078",
+      "WEB_079",
+      "WEB_080",
+      "WEB_081",
+      "WEB_242"
+    ],
+    "excluded_crop_count": 464,
+    "excluded_manual_progress_records": 39,
+    "backup_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\excluded_invoice_backups\\WEB_242_20261102T203812312432Z",
+    "active_invoice_split_counts": {
+      "val": 40,
+      "train": 111,
+      "test": 37
+    },
+    "active_pdf_text_available_crop_count": 14469,
+    "latest_crop_exclusion": {
+      "count": 1524,
+      "invoice_count": 97,
+      "removed_annotation_count": 536,
+      "removed_annotation_status_counts": {
+        "verified": 231,
+        "rejected": 305
+      },
+      "reason": "pdf_text is empty within crop",
+      "backup_directory": "excluded_crop_backups/PDF_TEXT_UNAVAILABLE_20261102T193455Z",
+      "excluded_at_utc": "2026-11-02T19:35:25.410565+00:00"
+    },
+    "source_pdf_count": 188,
+    "invoices_with_active_crops": 177,
+    "invoices_without_active_crops": 11,
+    "invoice_ids_without_active_crops": [
+      "WEB_039",
+      "WEB_074",
+      "WEB_075",
+      "WEB_082",
+      "WEB_109",
+      "WEB_176",
+      "WEB_182",
+      "WEB_216",
+      "WEB_217",
+      "WEB_218",
+      "WEB_219"
+    ],
+    "manual_annotation_progress": {
+      "active_records": 13401,
+      "verified": 13323,
+      "rejected": 42,
+      "needs_review": 36,
+      "without_progress_record": 1068
+    },
+    "crop_split_counts": {
+      "val": 2708,
+      "train": 8832,
+      "test": 2985
+    },
+    "invoice_split_counts": {
+      "val": 40,
+      "train": 111,
+      "test": 38
+    }
+  },
+  "latest_crop_exclusion": {
+    "count": 1524,
+    "reason": "pdf_text is empty within crop",
+    "backup_directory": "excluded_crop_backups/PDF_TEXT_UNAVAILABLE_20261102T193455Z",
+    "excluded_at_utc": "2026-11-02T19:35:28.694005+00:00"
+  },
+  "latest_exclusion": {
+    "invoice_id": "WEB_242",
+    "crop_count": 56,
+    "removed_annotations": 36,
+    "excluded_at_utc": "2026-11-02T20:38:12.312432+00:00",
+    "backup_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\excluded_invoice_backups\\WEB_242_20261102T203812312432Z"
+  }
 }

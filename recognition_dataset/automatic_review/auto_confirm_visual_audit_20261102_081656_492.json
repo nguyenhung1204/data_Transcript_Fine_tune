@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "annotations": [
+    {
+      "review_note": "Crop khớp công thức in rõ trong hàng chú giải cột thành tiền trên trang PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "6 = 4 x 5",
+      "crop_id": "3bc1b41cf1a5c34c1935",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    },
+    {
+      "review_note": "Crop khớp công thức in rõ trong hàng chú giải cột tiền thuế trên trang PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "8 = 6 x 7",
+      "crop_id": "e91f158afa95a8ba7490",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    },
+    {
+      "review_note": "Crop đọc rõ Đĩa; khớp ô đơn vị tính ở dòng hàng trên PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đĩa",
+      "crop_id": "22b3e160a6fae3b12177",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    },
+    {
+      "review_note": "Crop đọc rõ Đĩa; khớp ô đơn vị tính ở dòng hàng trên PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đĩa",
+      "crop_id": "fc7a54fe00fc87d16953",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    },
+    {
+      "review_note": "Crop đọc rõ Đĩa; khớp ô đơn vị tính ở dòng hàng trên PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đĩa",
+      "crop_id": "7b2cc1547fb74f13cb8c",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    },
+    {
+      "review_note": "Crop đọc rõ Đĩa; khớp ô đơn vị tính ở dòng hàng trên PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đĩa",
+      "crop_id": "14ba97e7de949f2d06d4",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    },
+    {
+      "review_note": "Crop đọc rõ Đĩa; khớp ô đơn vị tính ở dòng hàng trên PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đĩa",
+      "crop_id": "9a90c9587d9fb5dc0d4a",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    },
+    {
+      "review_note": "Crop đọc rõ Đĩa; khớp ô đơn vị tính ở dòng hàng trên PDF WEB_055.",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đĩa",
+      "crop_id": "a3f75f0e2b5796f2a46d",
+      "reviewed_at": "2026-11-02T01:16:56.5029356Z"
+    }
+  ]
+}

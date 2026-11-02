@@ -1,0 +1,100 @@
+{
+  "deferred": [],
+  "accepted": [
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn vị bán hàng: Công ty TNHH Cơ Điện Thịnh Phát",
+      "crop_id": "6fb0ff890ba485d5feb0"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế: 4101546032",
+      "crop_id": "13a47b64074c8b738ecf"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Điện thoại: 02563815879",
+      "crop_id": "31ed228dc37475b7cb56"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Họ tên ngƣời mua hàng: Nguyễn Thị Lan",
+      "crop_id": "f5039e407295c97bd0a5"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên đơn vị: Công ty TNHH Trí Hân",
+      "crop_id": "cb0b80431ac35ee4ce3e"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "STK: 58110000123654",
+      "crop_id": "e5c917a2929ef721dba9"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "crop_id": "3e212f1ae0c664b7979a"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "7c8834501381d39ae048"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn giá",
+      "crop_id": "30a6113bd4cebdb2ffb7"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "ĐVT",
+      "crop_id": "febb9f8abbc77dd3ea1f"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bán bình chữa cháy",
+      "crop_id": "c8e465d9afbdd208a5b1"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền thuế GTGT:",
+      "crop_id": "faf56b839c8e13f3f03a"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "crop_id": "3f6ac0d450e03942dd7b"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ngƣời bán hàng",
+      "crop_id": "62a287ab8598891d6d5e"
+    },
+    {
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ngƣời mua hàng",
+      "crop_id": "7703cbaf0a5f669fa2e8"
+    }
+  ],
+  "timestamp": "20261102_110559",
+  "accepted_count": 15,
+  "invoice_ids": [
+    "WEB_221"
+  ]
+}

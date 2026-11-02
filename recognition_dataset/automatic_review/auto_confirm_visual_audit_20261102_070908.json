@@ -1,0 +1,391 @@
+{
+  "reviewed_at_utc": "2026-11-02T00:09:08.038745+00:00",
+  "invoice": "HD_023",
+  "method": "manual_visual_review",
+  "evidence": "Visually inspected each crop and compared the transcript with the visible characters; normalized PDF text spacing only where confirmed by image. OCR2 unavailable.",
+  "saved_count": 25,
+  "items": [
+    {
+      "crop_id": "929255915f3df71b95e7",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "image": "/crops/HD_023/929255915f3df71b95e7.png",
+      "page": 1,
+      "coordinates": [
+        813,
+        138,
+        1651,
+        219
+      ],
+      "pdf_text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "ocr1": "HÓA DON GIÁ TRI GIA TĂNG",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "6e30b63d44600952665b",
+      "transcript": "Ký hiệu (Serial): 1C24TTM",
+      "image": "/crops/HD_023/6e30b63d44600952665b.png",
+      "page": 1,
+      "coordinates": [
+        1760,
+        157,
+        2257,
+        215
+      ],
+      "pdf_text": "Ký hiệu (Serial) : 1C24TTM",
+      "ocr1": "Ký hiu (Serial): 1C24TTM",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "f2a4b2564a77b11bf679",
+      "transcript": "Số (No.):",
+      "image": "/crops/HD_023/f2a4b2564a77b11bf679.png",
+      "page": 1,
+      "coordinates": [
+        1757,
+        225,
+        1931,
+        296
+      ],
+      "pdf_text": "Số (No.) :",
+      "ocr1": "S (No.):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "7f68fc08db9d449046d1",
+      "transcript": "Ngày (Date) 26 tháng (month) 09 năm (year) 2024",
+      "image": "/crops/HD_023/7f68fc08db9d449046d1.png",
+      "page": 1,
+      "coordinates": [
+        785,
+        302,
+        1680,
+        358
+      ],
+      "pdf_text": "Ngày (Date) 2 6 tháng (month) 09 năm (year) 2024",
+      "ocr1": "Ngày (Date) 26 tháng (month) 09 năm (year) 2024",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "e90620dbcb615a634245",
+      "transcript": "Mã CQT (Code):",
+      "image": "/crops/HD_023/e90620dbcb615a634245.png",
+      "page": 1,
+      "coordinates": [
+        1071,
+        374,
+        1378,
+        433
+      ],
+      "pdf_text": "Mã CQ T (Code):",
+      "ocr1": "Mã CQT (Code):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "2359d09fba936fa3ed34",
+      "transcript": "Đơn vị bán hàng (Seller):CÔNG TY TNHH TÍCH HỢP HỆ THỐNG THẾ MINH",
+      "image": "/crops/HD_023/2359d09fba936fa3ed34.png",
+      "page": 1,
+      "coordinates": [
+        111,
+        474,
+        1791,
+        558
+      ],
+      "pdf_text": "Đơn vị bán hàng (Seller):CÔNG TY TNHH TÍCH HỢP HỆ THỐNG THẾ MINH",
+      "ocr1": "Đon v bán hàng (Seller):CÔNG TY TNHH TÍCH HP H THÓNG THÉ MINH",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "280b4d53a064ec9639a3",
+      "transcript": "Mã số thuế (Tax code): 0105081454",
+      "image": "/crops/HD_023/280b4d53a064ec9639a3.png",
+      "page": 1,
+      "coordinates": [
+        120,
+        567,
+        787,
+        625
+      ],
+      "pdf_text": "Mã số thuế (Tax code) : 0105081454",
+      "ocr1": "Mã s thu (Tax code): 0105081454",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "c454405c3d73ad24cb0d",
+      "transcript": "Hà Nội, Việt Nam",
+      "image": "/crops/HD_023/c454405c3d73ad24cb0d.png",
+      "page": 1,
+      "coordinates": [
+        424,
+        717,
+        757,
+        770
+      ],
+      "pdf_text": "Hà Nội, Việt Nam",
+      "ocr1": "Hà Ni, Vit Nam",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "56c9d943f2de44132123",
+      "transcript": "Điện thoại (Tel):",
+      "image": "/crops/HD_023/56c9d943f2de44132123.png",
+      "page": 1,
+      "coordinates": [
+        119,
+        788,
+        405,
+        843
+      ],
+      "pdf_text": "Điện thoạ i (Tel) :",
+      "ocr1": "Đin thoi (Tel):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "6c1a4a6fa02bcbd6f9f9",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "image": "/crops/HD_023/6c1a4a6fa02bcbd6f9f9.png",
+      "page": 1,
+      "coordinates": [
+        119,
+        942,
+        675,
+        996
+      ],
+      "pdf_text": "Họ tên ngườ i mua hàng (Buyer):",
+      "ocr1": "Ho tên ngưi mua hàng (Buyer):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "eba984889b4bdae8334a",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY CỔ PHẦN AFF",
+      "image": "/crops/HD_023/eba984889b4bdae8334a.png",
+      "page": 1,
+      "coordinates": [
+        118,
+        1007,
+        1156,
+        1074
+      ],
+      "pdf_text": "Tên đơn v ị (Company's name): CÔNG TY CỔ PHẦN AFF",
+      "ocr1": "Tên đon v (Company's name): CÔNG TY CÔ PHN AFF",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "54a63fffb9c48746b322",
+      "transcript": "Mã số thuế (Tax code): 0107836855",
+      "image": "/crops/HD_023/54a63fffb9c48746b322.png",
+      "page": 1,
+      "coordinates": [
+        119,
+        1085,
+        786,
+        1145
+      ],
+      "pdf_text": "Mã số thuế (Tax code) : 0107836855",
+      "ocr1": "Mã s thu (Tax code): 0107836855",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "39b6f6230c31a603507c",
+      "transcript": "Số tài khoản (Bank account):",
+      "image": "/crops/HD_023/39b6f6230c31a603507c.png",
+      "page": 1,
+      "coordinates": [
+        1234,
+        1234,
+        1728,
+        1298
+      ],
+      "pdf_text": "Số tài khoản (Bank account):",
+      "ocr1": "S tài khon (Bank account):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "d73a21d0f2ee6cd0d44d",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "image": "/crops/HD_023/d73a21d0f2ee6cd0d44d.png",
+      "page": 1,
+      "coordinates": [
+        118,
+        1237,
+        963,
+        1294
+      ],
+      "pdf_text": "Hình thức thanh toán (Payment method) : TM/CK",
+      "ocr1": "Hinh thc thanh toán (Payment method): TM/CK",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "71f86e484689ef6771cb",
+      "transcript": "Đồng tiền thanh toán (Payment Currency): VND",
+      "image": "/crops/HD_023/71f86e484689ef6771cb.png",
+      "page": 1,
+      "coordinates": [
+        118,
+        1311,
+        937,
+        1372
+      ],
+      "pdf_text": "Đồng tiền thanh toán (Payment Currency) : VND",
+      "ocr1": "Đng tin thanh toán (Payment Currency):VND",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "ae8bbebadeaf2e937a29",
+      "transcript": "Thuế suất",
+      "image": "/crops/HD_023/ae8bbebadeaf2e937a29.png",
+      "page": 1,
+      "coordinates": [
+        1817,
+        1381,
+        2022,
+        1440
+      ],
+      "pdf_text": "Thuế suất",
+      "ocr1": "Thu sut",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "48c7eaa455c9d987e7a3",
+      "transcript": "Tiền thuế",
+      "image": "/crops/HD_023/48c7eaa455c9d987e7a3.png",
+      "page": 1,
+      "coordinates": [
+        2092,
+        1381,
+        2291,
+        1440
+      ],
+      "pdf_text": "Tiền thuế",
+      "ocr1": "Tin thu",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "ce2e5e2266fc5cca9ee9",
+      "transcript": "Đơn vị",
+      "image": "/crops/HD_023/ce2e5e2266fc5cca9ee9.png",
+      "page": 1,
+      "coordinates": [
+        913,
+        1384,
+        1060,
+        1446
+      ],
+      "pdf_text": "Đơn vị",
+      "ocr1": "Đon v",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "960be0a1f5ee2e5498ad",
+      "transcript": "Số lượng",
+      "image": "/crops/HD_023/960be0a1f5ee2e5498ad.png",
+      "page": 1,
+      "coordinates": [
+        1079,
+        1406,
+        1268,
+        1479
+      ],
+      "pdf_text": "Số lượng",
+      "ocr1": "S lung",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "f6c9bee26f3b7995b8f0",
+      "transcript": "Thành tiền",
+      "image": "/crops/HD_023/f6c9bee26f3b7995b8f0.png",
+      "page": 1,
+      "coordinates": [
+        1543,
+        1411,
+        1759,
+        1470
+      ],
+      "pdf_text": "Thành tiền",
+      "ocr1": "Thành tin",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "ba63c49e7a9c45439c33",
+      "transcript": "Đơn giá",
+      "image": "/crops/HD_023/ba63c49e7a9c45439c33.png",
+      "page": 1,
+      "coordinates": [
+        1299,
+        1412,
+        1466,
+        1477
+      ],
+      "pdf_text": "Đơn giá",
+      "ocr1": "Đon giá",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "882ace2a3fff194b5e7d",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "image": "/crops/HD_023/882ace2a3fff194b5e7d.png",
+      "page": 1,
+      "coordinates": [
+        356,
+        1415,
+        779,
+        1472
+      ],
+      "pdf_text": "Tên hàng hóa, dịch vụ",
+      "ocr1": "Tên hàng hóa, dch v",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "d7d93da458468f53db12",
+      "transcript": "Chân gà đông lạnh",
+      "image": "/crops/HD_023/d7d93da458468f53db12.png",
+      "page": 1,
+      "coordinates": [
+        241,
+        1572,
+        570,
+        1627
+      ],
+      "pdf_text": "Chân gà đông lạnh",
+      "ocr1": "Chân gà đông lnh",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "0845fdffd181b69f8a1d",
+      "transcript": "Tiền thuế",
+      "image": "/crops/HD_023/0845fdffd181b69f8a1d.png",
+      "page": 1,
+      "coordinates": [
+        1680,
+        1639,
+        1879,
+        1699
+      ],
+      "pdf_text": "Tiền thuế",
+      "ocr1": "Tin thu",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "10e10e543df59924886d",
+      "transcript": "Thành tiền trước thuế",
+      "image": "/crops/HD_023/10e10e543df59924886d.png",
+      "page": 1,
+      "coordinates": [
+        1216,
+        1643,
+        1638,
+        1698
+      ],
+      "pdf_text": "Thành tiền trước thuế",
+      "ocr1": "Thành tin trưóc thu",
+      "status_after": "verified"
+    }
+  ],
+  "api_response": {
+    "saved": 25,
+    "total": 8542,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_070908.json",
+  "recheck_errors": []
+}

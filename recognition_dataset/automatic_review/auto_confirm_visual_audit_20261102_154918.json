@@ -1,0 +1,93 @@
+{
+  "created_at": "2026-11-02T08:49:18.960558+00:00",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_before_manual_visual_20261102_154918.json",
+  "source": "manual_visual_review",
+  "saved_count": 5,
+  "confirmed": [
+    {
+      "crop_id": "7ace63af1567d2520a0a",
+      "invoice_id": "WEB_026",
+      "pdf": "WEB_026.pdf",
+      "page": 1,
+      "transcript": "Số lượng",
+      "coords": [
+        1426,
+        1399,
+        1624,
+        1475
+      ],
+      "crop": "/crops/WEB_026/7ace63af1567d2520a0a.png",
+      "page_image": "/rendered_pages/WEB_026/page_001.png",
+      "evidence": "Crop chữ rõ; cùng heading “Số lượng” tại cột số lượng trên PDF.",
+      "readback_verified": true
+    },
+    {
+      "crop_id": "9826a28f38cb494bc487",
+      "invoice_id": "WEB_026",
+      "pdf": "WEB_026.pdf",
+      "page": 1,
+      "transcript": "Giỏ",
+      "coords": [
+        1273,
+        1638,
+        1349,
+        1688
+      ],
+      "crop": "/crops/WEB_026/9826a28f38cb494bc487.png",
+      "page_image": "/rendered_pages/WEB_026/page_001.png",
+      "evidence": "Crop đọc rõ; PDF cho thấy mặt hàng “Giỏ hoa tươi ngày 14/4/2025” và đơn vị “Giỏ”.",
+      "readback_verified": true
+    },
+    {
+      "crop_id": "9d4449de5087cdd4bae3",
+      "invoice_id": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript": "Số:",
+      "coords": [
+        1757,
+        142,
+        1845,
+        214
+      ],
+      "crop": "/crops/WEB_027/9d4449de5087cdd4bae3.png",
+      "page_image": "/rendered_pages/WEB_027/page_001.png",
+      "evidence": "Crop sạch, dấu và chữ rõ; khớp nhãn số hóa đơn “Số:” trên PDF.",
+      "readback_verified": true
+    },
+    {
+      "crop_id": "e4e74966604b819419fb",
+      "invoice_id": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript": "Số lượng",
+      "coords": [
+        1537,
+        1232,
+        1722,
+        1305
+      ],
+      "crop": "/crops/WEB_027/e4e74966604b819419fb.png",
+      "page_image": "/rendered_pages/WEB_027/page_001.png",
+      "evidence": "Crop chữ rõ; khớp tiêu đề cột “Số lượng” trên PDF.",
+      "readback_verified": true
+    },
+    {
+      "crop_id": "dd7712112f019b072bea",
+      "invoice_id": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript": "NƯỚC NGỌT",
+      "coords": [
+        180,
+        1391,
+        442,
+        1447
+      ],
+      "crop": "/crops/WEB_027/dd7712112f019b072bea.png",
+      "page_image": "/rendered_pages/WEB_027/page_001.png",
+      "evidence": "Crop chữ in hoa rõ; khớp dòng hàng “NƯỚC NGỌT” trên PDF.",
+      "readback_verified": true
+    }
+  ]
+}

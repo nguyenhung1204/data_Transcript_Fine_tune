@@ -1,0 +1,24 @@
+{
+  "invoice": "WEB_264",
+  "created_at": "2026-11-02T15:27:26.9020854+07:00",
+  "review_method": "manual_visual_review",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_152724.json",
+  "reviewed_crop_ids": [
+    "e27b78d89b7c231e1d85",
+    "84f76242106e7306b92a",
+    "00f63fe92fcb0f24fa62",
+    "c0b52ebcd77500178073",
+    "366c83d9c2e78a42e3c3",
+    "4dbcc37b24dc78925cef",
+    "f4aed918985333af251f",
+    "b74139a19137029bf812"
+  ],
+  "submitted_count": 7,
+  "existing_terminal_skipped": 0,
+  "deferred_crop_ids": [
+    "b74139a19137029bf812"
+  ],
+  "readback_errors": [],
+  "verified_total": 11891,
+  "notes": "Date crop includes clipped adjacent text at bottom, deferred; remaining seven visibly transcribed."
+}

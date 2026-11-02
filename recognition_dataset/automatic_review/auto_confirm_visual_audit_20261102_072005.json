@@ -1,0 +1,144 @@
+{
+  "created_at_utc": "2026-11-02T00:20:05.2501816Z",
+  "method": "manual_visual_review",
+  "count": 8,
+  "confirmed": [
+    {
+      "crop_id": "167df41e1e67417352a7",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1843,
+        1633,
+        2027,
+        1690
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\167df41e1e67417352a7.png",
+      "pdf_text_candidate": "Tiền thuế",
+      "transcript": "Tiền thuế",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:04.9056676Z"
+    },
+    {
+      "crop_id": "6be70416dde8c912d300",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1716,
+        1634,
+        1816,
+        1696
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\6be70416dde8c912d300.png",
+      "pdf_text_candidate": "suất",
+      "transcript": "suất",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:04.9797417Z"
+    },
+    {
+      "crop_id": "6e5e94100709e000a8e3",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        955,
+        1848,
+        1054,
+        1905
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\6e5e94100709e000a8e3.png",
+      "pdf_text_candidate": "Phần",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:05.0220075Z"
+    },
+    {
+      "crop_id": "b31461f87589c6932830",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        955,
+        1917,
+        1053,
+        1969
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\b31461f87589c6932830.png",
+      "pdf_text_candidate": "Phần",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:05.0654942Z"
+    },
+    {
+      "crop_id": "a00f78574d18721910e0",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1330,
+        1918,
+        1473,
+        1968
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\a00f78574d18721910e0.png",
+      "pdf_text_candidate": "1 16.450",
+      "transcript": "116.450",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:05.1093114Z"
+    },
+    {
+      "crop_id": "6ad76c1af53e1a94ec87",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1564,
+        1918,
+        1706,
+        1968
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\6ad76c1af53e1a94ec87.png",
+      "pdf_text_candidate": "1 16.450",
+      "transcript": "116.450",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:05.1518231Z"
+    },
+    {
+      "crop_id": "a954b6a5e3702c645d4a",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        271,
+        1921,
+        573,
+        1967
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\a954b6a5e3702c645d4a.png",
+      "pdf_text_candidate": "Cơm chiên hải sản",
+      "transcript": "Cơm chiên hải sản",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:05.1946171Z"
+    },
+    {
+      "crop_id": "e8d2ddd36b5338ced8a1",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        954,
+        1977,
+        1055,
+        2034
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\e8d2ddd36b5338ced8a1.png",
+      "pdf_text_candidate": "Phần",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:20:05.2376340Z"
+    }
+  ],
+  "note": "Compared crop images directly; manually corrected two PDF text-layer whitespace errors to visually confirmed 116.450."
+}

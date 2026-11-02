@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-11-02T09:26:07.525292+07:00",
+  "invoice": "WEB_038",
+  "method": "manual_visual_review",
+  "count": 3,
+  "annotations": [
+    {
+      "crop_id": "c0866f63bb7dc78133b9",
+      "transcript": "Mã của cơ quan thuế(Tax authority code): M1-25-TK5KF-65650000036",
+      "source_transcript": "Mã của cơ quan thuế(Tax authority code): M1-25-TK5KF-65650000036",
+      "image": "/crops/WEB_038/c0866f63bb7dc78133b9.png"
+    },
+    {
+      "crop_id": "f59fa1d25a2263e62ee8",
+      "transcript": "Trang tra cứu: http://1801651333001hd.easyinvoice.com.vn Mã tra cứu: LJUF9W4IA",
+      "source_transcript": "Trang tra cứu: http://1801651333001hd.easyinvoice.com.vn Mã tra cứu: LJUF9W4IA",
+      "image": "/crops/WEB_038/f59fa1d25a2263e62ee8.png"
+    },
+    {
+      "crop_id": "3ec569db1051ab574967",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "source_transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "image": "/crops/WEB_038/3ec569db1051ab574967.png"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "reviewed_at_utc": "2026-11-02T00:04:45.887112+00:00",
+  "invoice": "HD_013",
+  "method": "manual_visual_review",
+  "evidence": "Visually inspected each stored crop image; compared to coordinate-extracted PDF text; exact visible characters verified with whitespace normalized only. OCR2 unavailable; no OCR-consensus claim.",
+  "saved_count": 19,
+  "items": [
+    {
+      "crop_id": "f3faa2aca5e5c43b4d57",
+      "transcript": "Mã số thuế (Tax code): 0202317754",
+      "image": "/crops/HD_013/f3faa2aca5e5c43b4d57.png",
+      "page": 1,
+      "coordinates": [
+        116,
+        196,
+        763,
+        261
+      ],
+      "pdf_text": "Mã số thuế (Tax code) : 0 2 0 2 3 1 7 7 5 4",
+      "ocr1": "Mã s thu (Tax code): 0202317754",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "a53a44c230f7588deb34",
+      "transcript": "Địa chỉ (Address): Số 138 đường Trần Nguyên Hãn, Phường An Biên, TP Hải Phòng, Việt Nam",
+      "image": "/crops/HD_013/a53a44c230f7588deb34.png",
+      "page": 1,
+      "coordinates": [
+        116,
+        264,
+        1808,
+        326
+      ],
+      "pdf_text": "Địa chỉ (Address) : Số 1 3 8 đường Trần Nguyên Hãn, Phường An Biên, TP Hải Phòng, Việt Nam",
+      "ocr1": "Đa chi (Address): S 138 đưng Trn Nguyên Hãn, Phưòng An Biên, TP Hi Phòng, Vit Nam",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "6a6cf3ac6be392c5f849",
+      "transcript": "Điện thoại (Tel): 0225.3717174",
+      "image": "/crops/HD_013/6a6cf3ac6be392c5f849.png",
+      "page": 1,
+      "coordinates": [
+        119,
+        335,
+        679,
+        390
+      ],
+      "pdf_text": "Điện thoại (Tel) : 0 2 2 5 . 3 7 1 7 1 7 4",
+      "ocr1": "Đin thoi (Tel): 0225.3717174",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "8a83d629f0822c0e6e69",
+      "transcript": "Số tài khoản (Bank account): 13899996666 - Ngân hàng TMCP Á CHÂU - CN Hải Phòng",
+      "image": "/crops/HD_013/8a83d629f0822c0e6e69.png",
+      "page": 1,
+      "coordinates": [
+        117,
+        395,
+        1722,
+        461
+      ],
+      "pdf_text": "Số tài khoản (Bank account) : 1 3 8 9 9 9 9 6 6 6 6 - Ngân hàng TMCP Á CHÂU - CN Hải Phòng",
+      "ocr1": "S tài khon (Bank account): 13899996666 - Ngân hàng TMCP Á CHÂU - CN Hi Phòng",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "0fc936e359fce9a6c421",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "image": "/crops/HD_013/0fc936e359fce9a6c421.png",
+      "page": 1,
+      "coordinates": [
+        705,
+        463,
+        1607,
+        551
+      ],
+      "pdf_text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "ocr1": "HÓA DON GIÁ TRI GIA TĂNG",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "4f528974c00f6fa7e23d",
+      "transcript": "Ký hiệu (Serial): 1C25TBQ",
+      "image": "/crops/HD_013/4f528974c00f6fa7e23d.png",
+      "page": 1,
+      "coordinates": [
+        1796,
+        481,
+        2311,
+        545
+      ],
+      "pdf_text": "Ký hiệu (Serial) : 1C25TBQ",
+      "ocr1": "Ký hiu (Serial): 1C25TBQ",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "8d104ff9a822ec67af05",
+      "transcript": "Số (No.):",
+      "image": "/crops/HD_013/8d104ff9a822ec67af05.png",
+      "page": 1,
+      "coordinates": [
+        1795,
+        544,
+        1973,
+        619
+      ],
+      "pdf_text": "Số (No.) :",
+      "ocr1": "S (No.):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "d60a426351b4cd6b6164",
+      "transcript": "<Chưa cấp",
+      "image": "/crops/HD_013/d60a426351b4cd6b6164.png",
+      "page": 1,
+      "coordinates": [
+        2096,
+        550,
+        2321,
+        618
+      ],
+      "pdf_text": "<Chưa cấp",
+      "ocr1": "<Chua cp",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "6131b1ad51f88d470e87",
+      "transcript": "số>",
+      "image": "/crops/HD_013/6131b1ad51f88d470e87.png",
+      "page": 1,
+      "coordinates": [
+        2096,
+        614,
+        2182,
+        680
+      ],
+      "pdf_text": "số>",
+      "ocr1": "só>",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "2bba4fa188cf8e6bee4c",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "image": "/crops/HD_013/2bba4fa188cf8e6bee4c.png",
+      "page": 1,
+      "coordinates": [
+        115,
+        770,
+        697,
+        828
+      ],
+      "pdf_text": "Họ tên người mua hàng (Buyer) :",
+      "ocr1": "Ho tên ngưi mua hàng (Buyer):",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "cb8dd0127e8240d00dd2",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH MỘT THÀNH VIÊN THIẾT BỊ VĂN PHÒNG THANH",
+      "image": "/crops/HD_013/cb8dd0127e8240d00dd2.png",
+      "page": 1,
+      "coordinates": [
+        112,
+        825,
+        2019,
+        897
+      ],
+      "pdf_text": "Tên đơn vị (Company's name) : CÔNG TY TNHH MỘT THÀNH VIÊN THIẾT BỊ VĂN PHÒNG THANH",
+      "ocr1": "Tên đon v (Company's name): CÔNG TY TNHH MT THÀNH VIÊN THIÉT B VĂN PHÒNG THANH",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "0c989f540fb3d6463fe7",
+      "transcript": "NGỌC",
+      "image": "/crops/HD_013/0c989f540fb3d6463fe7.png",
+      "page": 1,
+      "coordinates": [
+        662,
+        899,
+        805,
+        958
+      ],
+      "pdf_text": "NGỌC",
+      "ocr1": "NGQC",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "3739f0654db93614fc75",
+      "transcript": "Mã số thuế (Tax code): 0200412177",
+      "image": "/crops/HD_013/3739f0654db93614fc75.png",
+      "page": 1,
+      "coordinates": [
+        113,
+        964,
+        759,
+        1029
+      ],
+      "pdf_text": "Mã số thuế (Tax code) : 0 2 0 0 4 1 2 1 7 7",
+      "ocr1": "Mã s thu (Tax code): 0200412177",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "2ca1d68c619c7432b059",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "image": "/crops/HD_013/2ca1d68c619c7432b059.png",
+      "page": 1,
+      "coordinates": [
+        115,
+        1104,
+        992,
+        1159
+      ],
+      "pdf_text": "Hình thức thanh toán (Payment method) : TM/CK",
+      "ocr1": "Hinh thúc thanh toán (Payment method): TM/CK",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "8d1ef73fa6c58feeb38d",
+      "transcript": "Đồng tiền thanh toán (Payment Currency): VND",
+      "image": "/crops/HD_013/8d1ef73fa6c58feeb38d.png",
+      "page": 1,
+      "coordinates": [
+        1114,
+        1104,
+        1981,
+        1162
+      ],
+      "pdf_text": "Đồng tiền thanh toán (Payment Currency) : VNĐ",
+      "ocr1": "Đồng tin thanh toán (Payment Currency): VND",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "79e57114390e4560f0ca",
+      "transcript": "Số tài khoản (Bank account):",
+      "image": "/crops/HD_013/79e57114390e4560f0ca.png",
+      "page": 1,
+      "coordinates": [
+        116,
+        1168,
+        629,
+        1230
+      ],
+      "pdf_text": "Số tài khoản (Bank account) :",
+      "ocr1": "S tài khon (Bank account)",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "406151a28d8772a773a7",
+      "transcript": "Tiền thuế",
+      "image": "/crops/HD_013/406151a28d8772a773a7.png",
+      "page": 1,
+      "coordinates": [
+        2105,
+        1234,
+        2301,
+        1295
+      ],
+      "pdf_text": "Tiền thuế",
+      "ocr1": "Tin thu",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "9f4dc9398ff5b7970a5a",
+      "transcript": "Thuế suất",
+      "image": "/crops/HD_013/9f4dc9398ff5b7970a5a.png",
+      "page": 1,
+      "coordinates": [
+        1846,
+        1236,
+        2051,
+        1293
+      ],
+      "pdf_text": "Thuế suất",
+      "ocr1": "Thu sut",
+      "status_after": "verified"
+    },
+    {
+      "crop_id": "26cb69b1c00c38ca5c5a",
+      "transcript": "Đơn vị",
+      "image": "/crops/HD_013/26cb69b1c00c38ca5c5a.png",
+      "page": 1,
+      "coordinates": [
+        878,
+        1240,
+        1023,
+        1294
+      ],
+      "pdf_text": "Đơn vị",
+      "ocr1": "Đon vi",
+      "status_after": "verified"
+    }
+  ],
+  "api_response": {
+    "saved": 19,
+    "total": 8481,
+    "path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.json"
+  },
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_070445.json",
+  "recheck_errors": []
+}

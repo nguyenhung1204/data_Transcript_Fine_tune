@@ -1,0 +1,199 @@
+{
+  "invoice": "WEB_098",
+  "timestamp_utc": "2026-11-02T03:01:57.3364029Z",
+  "reviewed_count": 27,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Three contact sheets visually checked; tax ID grouping represented as compact digits 0317177711 because image has character spacing rather than spaces. Long tax authority and lookup codes opened full-size.",
+  "annotations": [
+    {
+      "crop_id": "739cc1836013330621db",
+      "status": "verified",
+      "transcript": "Ký hiệu/(Serial): 1C26TVN",
+      "reviewed_at": "2026-11-02T03:01:57.3318888Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1b3056f23d2ae07bc87d",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: 00B96D5EC344F74314B15B2B8FBD9BD911",
+      "reviewed_at": "2026-11-02T03:01:57.3356961Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b7a09a6688e3ec50534e",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng / (Issued)",
+      "reviewed_at": "2026-11-02T03:01:57.3357602Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0be48e6349b3f0691558",
+      "status": "verified",
+      "transcript": "Mã số thuế / (Tax code)",
+      "reviewed_at": "2026-11-02T03:01:57.3357932Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b1e615a915c50980f9e8",
+      "status": "verified",
+      "transcript": "0317177711",
+      "reviewed_at": "2026-11-02T03:01:57.3358260Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6030b28bf82dc6c45e92",
+      "status": "verified",
+      "transcript": "Địa chỉ / (Address)",
+      "reviewed_at": "2026-11-02T03:01:57.3358485Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "12caae0d9f54e4195664",
+      "status": "verified",
+      "transcript": "Điện thoại / (Tel)",
+      "reviewed_at": "2026-11-02T03:01:57.3358731Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e5d7bf5129ddc44efb1c",
+      "status": "verified",
+      "transcript": "Số tài khoản / (Acc.No)",
+      "reviewed_at": "2026-11-02T03:01:57.3358990Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "603b6e858a72fd7d01fa",
+      "status": "verified",
+      "transcript": "697697979 tại Ngân hàng TMCP Quân đội - CN Tây Sài Gòn - PGD Bà Điểm",
+      "reviewed_at": "2026-11-02T03:01:57.3359290Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "eb50398a773fcef51d55",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng / (Customer) :",
+      "reviewed_at": "2026-11-02T03:01:57.3359542Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "35dac61f090edaa19643",
+      "status": "verified",
+      "transcript": "Tên đơn vị / (Enterprise)",
+      "reviewed_at": "2026-11-02T03:01:57.3359772Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "907afec4c8cdc71a05f9",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán / (Payment method) : TM/CK",
+      "reviewed_at": "2026-11-02T03:01:57.3360029Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b79a1d408f89ef046079",
+      "status": "verified",
+      "transcript": "Số tài khoản / (Bank No):",
+      "reviewed_at": "2026-11-02T03:01:57.3360254Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3bb00e7d203c5f197736",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-02T03:01:57.3360446Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "94f9de9e3e2f8a202d63",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:01:57.3360657Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3c182858f4c32ff3cc31",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:01:57.3361024Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "922392620385642fdb60",
+      "status": "verified",
+      "transcript": "Đơn vị tính",
+      "reviewed_at": "2026-11-02T03:01:57.3361563Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "553d28d180cf03ed43e3",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "reviewed_at": "2026-11-02T03:01:57.3361819Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "afc7a2518cd55ac0cd86",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "reviewed_at": "2026-11-02T03:01:57.3362034Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5abfd1cfab3be68e4a9a",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT (VAT rate):",
+      "reviewed_at": "2026-11-02T03:01:57.3362257Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "44e38262fa7931559604",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "reviewed_at": "2026-11-02T03:01:57.3362531Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0269227009674992e71d",
+      "status": "verified",
+      "transcript": "NGƯỜI MUA HÀNG (Buyer)",
+      "reviewed_at": "2026-11-02T03:01:57.3362743Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4069f56c48e34cd8eb6f",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu, ghi rõ họ tên)",
+      "reviewed_at": "2026-11-02T03:01:57.3362968Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5db6048f0b3f552f23a2",
+      "status": "verified",
+      "transcript": "Nội,C=VN",
+      "reviewed_at": "2026-11-02T03:01:57.3363154Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "996b25f57b2de5a5d46f",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:01:57.3363425Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "50565b1c6f230bf97720",
+      "status": "verified",
+      "transcript": "Mã tra cứu hóa đơn: 3F1BFDE5FF724C4A8271D258E95799E5",
+      "reviewed_at": "2026-11-02T03:01:57.3363678Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "96818807e03524e08143",
+      "status": "verified",
+      "transcript": "Tra cứu tại website: https://portal-hst.vnpt-invoice.com.vn/",
+      "reviewed_at": "2026-11-02T03:01:57.3363942Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

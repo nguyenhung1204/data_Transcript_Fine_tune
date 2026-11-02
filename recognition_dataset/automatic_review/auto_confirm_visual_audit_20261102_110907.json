@@ -1,0 +1,99 @@
+{
+  "accepted_count": 14,
+  "invoice_ids": [
+    "WEB_225"
+  ],
+  "timestamp": "20261102_110907",
+  "deferred": [
+    {
+      "crop_id": "863c4c95a89ecd37b9ed",
+      "reason": "Dòng số tiền bằng chữ dài và crop kết thúc giữa câu ở chữ trăm; để người dùng rà."
+    }
+  ],
+  "accepted": [
+    {
+      "status": "verified",
+      "transcript": "HÓA ĐƠN (GTGT)",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "39c61be4462f2d1f4e30"
+    },
+    {
+      "status": "verified",
+      "transcript": "Số: 000655",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1945b3bda3045c37b62f"
+    },
+    {
+      "status": "verified",
+      "transcript": "Mã số thuế: 4101546032",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2e763817340003f2c733"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tên đơn vị: Công ty CP DV& TM HDT Việt Nam- CN ình Định",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "773682b90baa67ec3d28"
+    },
+    {
+      "status": "verified",
+      "transcript": "Mã số thuế:0105878560002",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "518ccd877f50e7a75a4d"
+    },
+    {
+      "status": "verified",
+      "transcript": "STK: 58110000123457",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8cd4a056f80364f3d6d1"
+    },
+    {
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "0a4d125a006adb7aac9e"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "c2ca1fbc388676e63578"
+    },
+    {
+      "status": "verified",
+      "transcript": "ĐVT",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "7436d0d70b70d3ef6bac"
+    },
+    {
+      "status": "verified",
+      "transcript": "Hệ thống chống sét",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9cc5dddee225356b42ce"
+    },
+    {
+      "status": "verified",
+      "transcript": "Cộng tiền hàng: 298.166.850",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8bac32b29dafd7674e9c"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán: 327.983.353",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "f1daad5fbf74e8779b88"
+    },
+    {
+      "status": "verified",
+      "transcript": "Ngƣời mua hàng",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4fd31c8f58cedfc20e65"
+    },
+    {
+      "status": "verified",
+      "transcript": "Thủ trƣởng đơn vị",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "636d5e7616aa6cbdc286"
+    }
+  ]
+}

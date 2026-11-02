@@ -1,0 +1,194 @@
+[
+  {
+    "source_image": "/crops/WEB_032/24ab23cda35e9cbfdf2f.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "CÙU VÂN LONG",
+    "crop_id": "24ab23cda35e9cbfdf2f",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:39.9002185Z",
+    "coords": [
+      158,
+      447,
+      577,
+      516
+    ],
+    "confirmed_transcript": "CỬU VÂN LONG",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/af3dc2e93ec9945113f1.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "PREMIUM",
+    "crop_id": "af3dc2e93ec9945113f1",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:39.9509080Z",
+    "coords": [
+      270,
+      514,
+      463,
+      550
+    ],
+    "confirmed_transcript": "PREMIUM",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/1ba40559ab7dfd3e1fa2.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Đon v bán hàng (Seller): CÔNG TY CÔ PHÀN HUONG SÁC ÂM THÚC SAO PHUONG NAM",
+    "crop_id": "1ba40559ab7dfd3e1fa2",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.0200855Z",
+    "coords": [
+      107,
+      643,
+      2015,
+      719
+    ],
+    "confirmed_transcript": "Đơn vị bán hàng (Seller): CÔNG TY CỔ PHẦN HƯƠNG SẮC ẨM THỰC SAO PHƯƠNG NAM",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/e6dc06bdb8f3defbe8b2.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Ho tên ngưòi mua hàng (Buyer's fullname):",
+    "crop_id": "e6dc06bdb8f3defbe8b2",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.0664442Z",
+    "coords": [
+      113,
+      1085,
+      849,
+      1138
+    ],
+    "confirmed_transcript": "Họ tên người mua hàng (Buyer's fullname):",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/997f4a5553c4c7cba19b.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Só luơng",
+    "crop_id": "997f4a5553c4c7cba19b",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.1185098Z",
+    "coords": [
+      970,
+      1644,
+      1159,
+      1714
+    ],
+    "confirmed_transcript": "Số lượng",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/befeebc3191d133203da.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Đon giá",
+    "crop_id": "befeebc3191d133203da",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.1995821Z",
+    "coords": [
+      1228,
+      1651,
+      1393,
+      1712
+    ],
+    "confirmed_transcript": "Đơn giá",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/064dc657b71a6e9adca1.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Sut Buffet Cui Tun",
+    "crop_id": "064dc657b71a6e9adca1",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.2861040Z",
+    "coords": [
+      238,
+      1939,
+      634,
+      1994
+    ],
+    "confirmed_transcript": "Suất Buffet Cuối Tuần",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/074c37677a56d50cbb89.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Nưc sui FuJiwa",
+    "crop_id": "074c37677a56d50cbb89",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.3575010Z",
+    "coords": [
+      235,
+      2018,
+      567,
+      2076
+    ],
+    "confirmed_transcript": "Nước suối FuJiwa",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/b361bf1cd414d8357c3d.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Tng hop",
+    "crop_id": "b361bf1cd414d8357c3d",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.4249145Z",
+    "coords": [
+      424,
+      2339,
+      616,
+      2410
+    ],
+    "confirmed_transcript": "Tổng hợp",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/25c756582d7422e643d6.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Tng tin thu",
+    "crop_id": "25c756582d7422e643d6",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.4768538Z",
+    "coords": [
+      1565,
+      2342,
+      1854,
+      2404
+    ],
+    "confirmed_transcript": "Tổng tiền thuế",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/58d994d462ef7cc6655d.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Giá tri thanh toán",
+    "crop_id": "58d994d462ef7cc6655d",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.5490613Z",
+    "coords": [
+      1941,
+      2350,
+      2286,
+      2401
+    ],
+    "confirmed_transcript": "Giá trị thanh toán",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  },
+  {
+    "source_image": "/crops/WEB_032/11e18c2bef5eb052105e.png",
+    "visual_review": "matched directly against crop image; clearly legible",
+    "source_text": "Tng tin chu thu sut (Total amount) :",
+    "crop_id": "11e18c2bef5eb052105e",
+    "invoice": "WEB_032",
+    "reviewed_at": "2026-11-02T09:08:40.6233362Z",
+    "coords": [
+      103,
+      2513,
+      830,
+      2571
+    ],
+    "confirmed_transcript": "Tổng tiền chịu thuế suất (Total amount) :",
+    "page_image": "/rendered_pages/WEB_032/page_001.png"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "SOM in THAI",
+      "crop_id": "50eca1f774052d1b13db"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "AUTHENTIC THAI CUISINE",
+      "crop_id": "686b4b0b163b67fe15cc"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số lượng",
+      "crop_id": "cb5df2ccace6920bacb5"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "crop_id": "a958470b982367fa86a3"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Xôi sầu riêng",
+      "crop_id": "e8abc2c5af49f7475982"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "crop_id": "39067c63825f94277191"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "AUTHENTIC THAI CUISINE",
+      "crop_id": "bba5120f2adf353f8414"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn vị bán hàng (Seller): CÔNG TY CỔ PHẦN SOM TUM THAI",
+      "crop_id": "f450b5d4cdcb8988322e"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế (Tax code): 0315847456",
+      "crop_id": "479803174ca4b01d16f4"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "ĐỊA ĐIỂM KINH DOANH CÔNG TY CỔ PHẦN SOM TUM THAI",
+      "crop_id": "6d0ba6bd016aaf4a9742"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số điện thoại (Tel): 028 39151155, 028 39152266",
+      "crop_id": "c7a7f67e12ef9256b62c"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH SIEMENS GAMESA RENEWABLE ENERGY",
+      "crop_id": "576e46e166f13f1241b0"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế (Tax code): 0314536810",
+      "crop_id": "31e2f995385fd842082e"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số lượng",
+      "crop_id": "b4189f8fb514e3fc99c2"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:14:36.6648180Z",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người bán hàng (Seller)",
+      "crop_id": "a2634769ad81e2c96494"
+    }
+  ],
+  "count": 15,
+  "invoice": "WEB_036",
+  "method": "manual_visual_review",
+  "reviewed_at": "2026-11-02T09:14:36.6648180Z"
+}

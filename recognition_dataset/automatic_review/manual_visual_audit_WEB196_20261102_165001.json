@@ -1,0 +1,35 @@
+{
+  "created_at_utc": "2026-11-02T09:50:05.6214543Z",
+  "skipped": "Amount in words is 97 chars; both footer lines exceed 90 chars.",
+  "reviewed": [
+    {
+      "crop_id": "24a0a9d3bf0146b5c532",
+      "evidence": "Complete sharp title; crop and PDF text agree.",
+      "invoice": "WEB_196",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "length": 24
+    },
+    {
+      "crop_id": "a1ca0e7078429d867ff4",
+      "evidence": "Complete sharp tax-authority code; every character visually legible and PDF text agrees.",
+      "invoice": "WEB_196",
+      "transcript": "Mã của Cơ quan thuế: 00794CBF7AC424463EB177DB5E8900174C",
+      "length": 55
+    },
+    {
+      "crop_id": "8351e1c35a3fec3e3e14",
+      "evidence": "Complete printed company name; repeated word PHẦN is visibly present and retained.",
+      "invoice": "WEB_196",
+      "transcript": "CÔNG TY CỔ PHẦN PHẦN MỀM ĐIỂM",
+      "length": 29
+    },
+    {
+      "crop_id": "b908b4795ad0ea5e22a3",
+      "evidence": "Complete sharp label and colon.",
+      "invoice": "WEB_196",
+      "transcript": "Đơn vị bán (Seller):",
+      "length": 20
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_165001.json"
+}

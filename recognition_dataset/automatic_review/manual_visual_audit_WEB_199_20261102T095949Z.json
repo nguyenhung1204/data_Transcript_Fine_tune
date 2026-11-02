@@ -1,0 +1,15 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "d804b5c6d403e61a3435",
+      "invoice": "WEB_199",
+      "pdf": "WEB_199.pdf",
+      "transcript_before": "(Ký, đóng du ghi rõ h, tên)",
+      "transcript_after": "(Ký, đóng dấu ghi rõ họ, tên)",
+      "evidence": "Crop visibly shows the complete Vietnamese line “(Ký, đóng dấu ghi rõ họ, tên)”; letters and diacritics are clear; 29 chars; matches source PDF text.",
+      "status": "verified",
+      "reviewed_at": "20261102T095949Z"
+    }
+  ],
+  "skipped": []
+}

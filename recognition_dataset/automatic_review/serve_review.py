@@ -4,6 +4,7 @@ from datetime import datetime, timezone
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from auto_confirm import build_preview, write_preview_artifacts
+from whitespace_audit import build_and_write_report, save_review_status
 
 OUT = Path(__file__).resolve().parent
 ROOT = OUT.parent
@@ -35,6 +36,13 @@ class Handler(SimpleHTTPRequestHandler):
 
     def do_GET(self):
         path = self.path.split('?', 1)[0]
+        if path == '/api/whitespace-audit/report':
+            try:
+                with LOCK:
+                    report = build_and_write_report(out=OUT)
+                return self._json(200, report)
+            except (OSError, ValueError, KeyError, json.JSONDecodeError) as exc:
+                return self._json(500, {'error': f'Không tạo được báo cáo khoảng trắng: {exc}'})
         if path == '/api/annotations':
             with LOCK:
                 if PROGRESS.is_file():
@@ -55,6 +63,28 @@ class Handler(SimpleHTTPRequestHandler):
 
     def do_POST(self):
         path = self.path.split('?', 1)[0]
+        if path == '/api/whitespace-audit/review':
+            try:
+                length = int(self.headers.get('Content-Length', '0'))
+                if length < 1 or length > 100_000:
+                    return self._json(413, {'error': 'Kích thước dữ liệu không hợp lệ.'})
+                request = json.loads(self.rfile.read(length))
+                if not isinstance(request, dict):
+                    return self._json(400, {'error': 'Yêu cầu không hợp lệ.'})
+                with LOCK:
+                    result = save_review_status(
+                        crop_id=str(request.get('crop_id') or ''),
+                        status=str(request.get('status') or ''),
+                        transcript=request.get('transcript'),
+                        out=OUT,
+                    )
+                return self._json(200, result)
+            except KeyError as exc:
+                return self._json(404, {'error': str(exc).strip("'")})
+            except (ValueError, TypeError, json.JSONDecodeError) as exc:
+                return self._json(400, {'error': str(exc) or 'Yêu cầu không hợp lệ.'})
+            except OSError as exc:
+                return self._json(500, {'error': f'Không lưu được lượt rà: {exc}'})
         if path == '/api/auto-confirm/apply':
             try:
                 length = int(self.headers.get('Content-Length', '0'))

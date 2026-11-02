@@ -1,0 +1,63 @@
+{
+  "policy": "manual visual confirmation: crop checked against matching invoice page; skip uncertain, duplicate-coordinate candidates, and >90-char text",
+  "annotations": [
+    {
+      "reviewed_at": "2026-11-02T01:20:42.4744935Z",
+      "review_note": "Crop khớp rõ với công thức chú giải trong bảng hàng hóa trên PDF WEB_069.",
+      "status": "verified",
+      "crop_id": "507a7f332adb80e15925",
+      "transcript": "9 = 6 + 8",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:20:42.4744935Z",
+      "review_note": "Crop khớp rõ với công thức chú giải trong bảng hàng hóa trên PDF WEB_069.",
+      "status": "verified",
+      "crop_id": "ddaee03dd01b025edc06",
+      "transcript": "8 = 6 x 7",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:20:42.4744935Z",
+      "review_note": "Crop khớp rõ với công thức trong hàng chú giải trên PDF WEB_073.",
+      "status": "verified",
+      "crop_id": "77aae1cd9f397c6e59f3",
+      "transcript": "7 = 5 x 6",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:20:42.4744935Z",
+      "review_note": "Crop khớp rõ với công thức trong bảng hàng hóa trên PDF WEB_088.",
+      "status": "verified",
+      "crop_id": "f1409cf9ac3c7caf9324",
+      "transcript": "6 = 4 x 5",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:20:42.4744935Z",
+      "review_note": "Crop khớp rõ với công thức trong hàng chú giải trên PDF WEB_094.",
+      "status": "verified",
+      "crop_id": "7c87f946834c1fe2360d",
+      "transcript": "7 = 5 x 6",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:20:42.4744935Z",
+      "review_note": "Crop khớp rõ với công thức trong bảng hàng hóa trên PDF WEB_099.",
+      "status": "verified",
+      "crop_id": "2eb0364653ccfc90ff41",
+      "transcript": "6 = 4 x 5",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "reviewed_at": "2026-11-02T01:20:42.4744935Z",
+      "review_note": "Crop khớp rõ với công thức trong bảng hàng hóa trên PDF WEB_100.",
+      "status": "verified",
+      "crop_id": "71d7bba48b9ea5531566",
+      "transcript": "6 = 4 x 5",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "run_id": "visual_20261102_082042",
+  "created_at_utc": "2026-11-02T01:20:42.4744935Z"
+}

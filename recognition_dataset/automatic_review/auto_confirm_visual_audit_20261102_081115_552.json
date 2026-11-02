@@ -1,0 +1,50 @@
+{
+  "confirmed": [
+    {
+      "note": "Logo text is clear in crop and source invoice page.",
+      "id": "d1c2e8863606b4e9d6d2",
+      "text": "MINH FOOD",
+      "invoice": "HD_023"
+    },
+    {
+      "note": "Tagline is legible in crop and source page.",
+      "id": "71678e132f345872dab0",
+      "text": "Tận tâm một chút!",
+      "invoice": "HD_023"
+    },
+    {
+      "note": "Summary-table heading is clearly legible.",
+      "id": "deeae69784ee7be0eb54",
+      "text": "Tổng hợp",
+      "invoice": "HD_023"
+    },
+    {
+      "note": "Digital-signature stamp heading is unobscured and legible.",
+      "id": "40b4b63d9d2387fc8099",
+      "text": "Signature Valid",
+      "invoice": "HD_023"
+    },
+    {
+      "note": "Signature date line is clear in crop and on source page.",
+      "id": "b30c0c34e7b96b2a93fd",
+      "text": "Ký ngày (Signing Date): 11/09/2024",
+      "invoice": "HD_023"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "f5e1f9c3e6f3e3203ee0",
+      "reason": "Faint partial tagline crop, not fully legible."
+    },
+    {
+      "id": "ad1a576b48a1801d8cd9",
+      "reason": "Signature text fragment; kept pending for context."
+    },
+    {
+      "id": "ca99622892ff633348c8",
+      "reason": "Red signature text is overlapped by a green check mark."
+    }
+  ],
+  "policy": "Visual comparison of each crop against its source invoice; only legible exact text <=90 characters confirmed.",
+  "timestamp_utc": "2026-11-02T01:11:15.5681869Z"
+}

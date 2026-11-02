@@ -1,0 +1,42 @@
+{
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075336.json",
+  "timestamp_utc": "2026-11-02T00:53:36.2888489Z",
+  "skipped": [],
+  "note": "Eight text crops visually inspected; the header fragments are transcribed exactly as visible.",
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "crop_id": "eaba1fe18c9f224ade42",
+      "transcript": "lượng"
+    },
+    {
+      "crop_id": "2f44771a156abc3c6d1f",
+      "transcript": "vị"
+    },
+    {
+      "crop_id": "1a564dff971d61de3f59",
+      "transcript": "tiền"
+    },
+    {
+      "crop_id": "a2e004a2eff4ae383ea0",
+      "transcript": "ĐIỆN THOẠI THÔNG"
+    },
+    {
+      "crop_id": "004bc614a27f4b0d3f2b",
+      "transcript": "Thành tiền trước thuế"
+    },
+    {
+      "crop_id": "be9aa575aec851c36de7",
+      "transcript": "Tổng hợp"
+    },
+    {
+      "crop_id": "0c50b96cb3bc1b76f7c4",
+      "transcript": "Tiền thuế GTGT"
+    },
+    {
+      "crop_id": "cf7599bd0448d5c083d7",
+      "transcript": "Cộng tiền thanh toán"
+    }
+  ],
+  "invoice": "HD_037"
+}

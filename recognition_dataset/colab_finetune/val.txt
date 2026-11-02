@@ -1,6 +1,5 @@
 verified/images/val/manual_da1757bb61c14a27a355ffa595915570.png	CHUỘT KHÔNG DÂY
 crops/HD_001/c72f4e9b246291567f6e.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
-crops/HD_001/35125095850f29dd09d9.png	cellphoneS
 crops/HD_001/9879b05c24150ac0ac9b.png	Ký hiệu (Serial): 1C22THT
 crops/HD_001/a8cf7cb2c7c8945c46d6.png	VAT INVOICE
 crops/HD_001/ecfd715712c3d67b372e.png	Số (No.): 506572
@@ -11,6 +10,7 @@ crops/HD_001/0de8f78a03adfe18d185.png	Mã số thuế (VAT code): 0108075931
 crops/HD_001/3769a862071f2b3f0613.png	:Số 543 Đường Nguyễn Trãi - Phường Thanh Xuân Nam - Quận Thanh Xuân - TP Hà Nội - Việt
 crops/HD_001/0300b6199c5b76b1c70f.png	Địa chỉ (Address)
 crops/HD_001/d846b428a0264b07a5dc.png	Nam
+crops/HD_001/92cd2cbe5e4ed13273ab.png	Công ty TNHH Phát triển công nghệ Thái Sơn - MST: 0101300842 - www.einvoice.vn)
 crops/HD_001/2a68536a84ed55558b3a.png	Điện thoại (Tel)
 crops/HD_001/65e87cdecffe0f5129f8.png	:0967645164
 crops/HD_001/013ea68558c22cf611ea.png	Số tài khoản (A/C No.)
@@ -1062,7 +1062,7 @@ crops/WEB_121/6d8afde2c97b9d51cee1.png	675.000
 crops/WEB_121/86ad307941db28635e50.png	67.500
 crops/WEB_121/cf0b6389772a2ede1d2c.png	742.500
 crops/WEB_121/933a506942de09dab816.png	Signature Valid
-crops/WEB_121/38e6929a60ba9d18d32b.png	Ký ngày:  05/09/2025
+crops/WEB_121/38e6929a60ba9d18d32b.png	Ký ngày: 05/09/2025
 crops/WEB_122/f59d6b00ccd378ebab43.png	00000529
 crops/WEB_122/840911a59b4cbc5c41c7.png	Mã CQT: 00B1CB920EDDFA44FEAB295A98565E750F
 crops/WEB_122/400759ee155019db28a2.png	STT
@@ -1084,7 +1084,7 @@ crops/WEB_122/dc789d6824cb0943b76c.png	3.540.000
 crops/WEB_122/770b7630e62870f3d391.png	283.200
 crops/WEB_122/908e3b4a145a89fa83fa.png	3.823.200
 crops/WEB_122/b6a250a3a97344b820cf.png	Signature Valid
-crops/WEB_122/04e3ceb3ee24113b3853.png	Ký ngày:  11/11/2025
+crops/WEB_122/04e3ceb3ee24113b3853.png	Ký ngày: 11/11/2025
 crops/WEB_123/90a178530295ff9f4d4a.png	00000596
 crops/WEB_123/f1a5a8605a329dccaaee.png	Mã CQT: 009C6EBB8FBD7F46EAAD47D258AE4F4A4D
 crops/WEB_123/24f8204bedb19fbeef0e.png	STT
@@ -1281,7 +1281,6 @@ crops/HD_003/fbdc13d7d0852ac97cf7.png	Tặng phiếu mua hàng 500.000đ mua đ�
 crops/HD_003/b5a30c544b2be01df16c.png	Robot hút bụi/ máy lọc nước trên 5,000,000đ
 crops/HD_003/f8fd4ba4b0d5e9a6ac2f.png	Dịch vụ - Mobifone - Tặng phiếu mua hàng
 crops/HD_003/925a402d95be71830112.png	Tổng cộng
-crops/HD_003/eca3dcac4386bb9655ed.png	Shop.com.vn
 crops/HD_003/786dc2eb24e96a900e6b.png	Thuế suất
 crops/HD_003/c391cad72454395dae76.png	Cộng tiền hàng
 crops/HD_003/4289214d807a1ab01849.png	/
@@ -1299,3 +1298,1062 @@ crops/HD_004/31f9293dc49d08d607e3.png	CÔNG TY CP BÁN LẺ KỸ THUẬT SỐ FP
 crops/HD_004/3e96dcf316e0641eb491.png	HÓA ĐƠN
 crops/HD_004/08275b091a9411d55757.png	Mẫu số : 01GTKT0/001
 crops/HD_004/ef4d6f76ea2e24223598.png	Địa chỉ : 261-263 Khánh Hội, P5, Q4, TP HCM, VN
+crops/HD_004/20ca61eb952bedad6f1a.png	GIÁ TRI GIA TĂNG
+crops/HD_004/c14af49a38a62b7e107e.png	Ký hiệu : BL/20E
+crops/HD_004/fb36b41aa5de833ede2f.png	Mã số thuế : 0311609355
+crops/HD_004/62dc30ed56edcebc1984.png	Số : 1699745
+crops/HD_004/8b400b4f1ce9a9e3e2f8.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_004/ddc703e94dd087933e02.png	Điện thoại : 19006606 (Tư vấn) – 19006616 (Khiếu nại
+crops/HD_004/229ad2ee2882f16d6e5c.png	̀ Tài khoản : 1902201049923 ṭai Ngân hang NN&PTNN
+crops/HD_004/92276e2788d178e4f6aa.png	Đơn vị bán hàng : Chi Nhánh Công Ty Cổ Phần Bán Lẻ
+crops/HD_004/1b334ccff043056dc23a.png	Kỹ Thuật Số FPT Tại Hà Nội
+crops/HD_004/2647eae6ff2a1ceaab40.png	Địa chỉ : Tòa nhà FPT Cầu Giấy, Số 17 Phố Duy Tân,
+crops/HD_004/9b391b8fb3b0b7f11e35.png	Tên đơn vị :
+crops/HD_004/67d2681327489ac75bd3.png	Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP Hà Nội, Vi
+crops/HD_004/45d840a872432edf43eb.png	Mã số thuế :
+crops/HD_004/4cd70c6d97e305358fbd.png	Mã số thuế : 031 1609355-001
+crops/HD_004/18df40b27d1af0860096.png	Địa chỉ : 100 Nguyễn Thị Lưu, P. Ngô Quyền, Thành phố Bắc Giang, Bắc Giang
+crops/HD_004/02ee34a1984f4ae7bda9.png	Hình thức thanh toán : Thẻ
+crops/HD_004/725b63a6c62f719e04e3.png	Thuế suất
+crops/HD_004/5425028fd465fca5b0ec.png	Đơn vị
+crops/HD_004/c0c2afcb13ad09d06302.png	Số lượng
+crops/HD_004/fd14f0b90878bbd922eb.png	Thành tiền
+crops/HD_004/6f810ae39f5308e668ae.png	Đơn giá
+crops/HD_004/274b57a2d039452e95f1.png	Tên hàng hóa, dịch vụ
+crops/HD_004/152eb697cca6cfcefac3.png	iPhone 12 Mini 64GB Xanh dương
+crops/HD_004/5e01abc7e57359c83252.png	Chiếc
+crops/HD_004/bc6040763dbb23f6e45d.png	Số Seri : 353021 1 13297377
+crops/HD_004/5a5be6b0d83ab02f5669.png	Hạn bảo hành : 03/04/2023
+crops/HD_004/7d15fba970523d819a78.png	Chiếc
+crops/HD_004/6419285772c5482e2d3b.png	Dịch vụ bảo hành mở rộng năm thứ 2
+crops/HD_004/a9f806a23871b5b6bc30.png	Tổng cộng
+crops/HD_004/55843308c70502c6d8ac.png	Thuế suất 0%
+crops/HD_004/08ce8784ba46f136ba81.png	Thuế suất 5%
+crops/HD_004/ed8c9280c1d13bb6d9de.png	Thuế suất 10%
+crops/HD_004/6437a0e951dca5d37e97.png	Tiền hàng hóa, dịch vụ
+crops/HD_004/d6a57888be7d6b0566bb.png	Tiền thuế
+crops/HD_004/2bcdbcab24a1168f0eb6.png	Tiền thanh toán
+crops/HD_004/23bd0797f7a9ce216229.png	Số tiền bằng chữ : Mười bảy triệu chín trăm chín mươi nghìn đồng
+crops/HD_004/893deef317e50b5eed22.png	Ký, ghi rõ họ tên
+crops/HD_004/7a392d64046f4a58d434.png	Ký bởi: Chi Nhánh Công Ty Cổ
+crops/HD_004/bd91cd26e35c738d25cb.png	Phần Bán Lẻ Kỹ Thuật Số FPT Tại
+crops/HD_004/4d04c05ad8984f65f9ce.png	Hà Nội
+crops/HD_004/be10d5d3ffdab193fa38.png	Mã nhận hóa đơn: 329382011699745
+crops/HD_005/6a11fb90407aa2f737bc.png	CÔNG TY CP BÁN LẺ KỸ THUẬT SỐ FPT
+crops/HD_005/8ba684dce6fbab53051e.png	HÓA ĐƠN
+crops/HD_005/fec6bbb61b6beab1c9cf.png	Mẫu số : 01GTKT0/001
+crops/HD_005/4dae819debc2a1867120.png	Địa chỉ : 261-263 Khánh Hội, P5, Q4, TP HCM, VN
+crops/HD_005/ed72fad1941fabb52e3d.png	Ký hiệu : BL/20E
+crops/HD_005/0d4515bc0d74fc9b1c89.png	GIÁ TRỊ GIA TĂNG
+crops/HD_005/d74baa043851522857f0.png	Mã số thuế : 031 1609355
+crops/HD_005/d06c87e4fa821b50ffeb.png	Số : 1027315
+crops/HD_005/7891bed4ebb5b9e9ae1e.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)
+crops/HD_005/498c3cc7b006a8d217fc.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_005/6066347a5212ede86807.png	Tài khoản : 1902201049923 tại Ngân hàng NN&PTNN
+crops/HD_005/269d2a2359c2ad3384d8.png	Đơn vị bán hàng : CHI NHÁNH CÔNG TY CỔ PHẦN
+crops/HD_005/1eac415825dde2e53191.png	Tên khách hàng : chị Nguyệt
+crops/HD_005/3120440c63a4c8c1f6b7.png	BÁN LẺ KỸ THUẬT SỐ FPT TẠI HÀ NỘI
+crops/HD_005/432e89fac7599b2ad35a.png	́ Địa chỉ : Tòa nhà FPT Cầu Giấy, sô 17, Đường Duy Tân,
+crops/HD_005/bf4c862bf1164ac2c66f.png	Tên đơn vị :
+crops/HD_005/aa8e6d6488d55e44cd3c.png	P.Dịch Vọng Hậu, Q.Cầu Giấy, TP Hà Nội, Việt Nam
+crops/HD_005/657db829e736cdd3f698.png	Mã số thuế :
+crops/HD_005/0fa63b3e429cf178af78.png	Mã số thuế : 031 1609355-001
+crops/HD_005/4585d83fe624ae942a68.png	Địa chỉ : 47 nguyễn tuân
+crops/HD_005/2a4568c828d1758471e3.png	Hình thức thanh toán : TM
+crops/HD_005/b083dc4ba2386fbc8960.png	Thuế suất
+crops/HD_005/6076524da500e1b5c308.png	Đơn vị
+crops/HD_005/ab132b7c734b824d3b1a.png	Số lượng
+crops/HD_005/ca5f2c7f86824724195b.png	Thành tiền
+crops/HD_005/37196b234a383ecd5dd7.png	Đơn giá
+crops/HD_005/af6c4c799126c153d363.png	Tên hàng hóa, dịch vụ
+crops/HD_005/f3a746f0abadd3440217.png	Apple ĐTDĐ iPhone 12 Pro Max 256GB Gold
+crops/HD_005/cefd8226fb04f15dc06a.png	Chiếc
+crops/HD_005/8788783eeb80b8613aef.png	Số Seri : 356731 1 15421752
+crops/HD_005/a66d08dbbc51ca98b883.png	Hạn bảo hành : 26/11/2021
+crops/HD_005/4f17f83d2b71739a2f19.png	Apple - Ưu đãi giảm thêm đến 2 triệu khi mua
+crops/HD_005/fd6fb9ba10bec5d20139.png	Chiếc
+crops/HD_005/c701de7bdb3635a28506.png	kèm phụ kiện chính hãng
+crops/HD_005/8730f3c91ad15b1a046a.png	00725272 - Apple - Tặng PMH 1,000,000đ
+crops/HD_005/abbf891666e7369e6e29.png	Tổng cộng
+crops/HD_005/3cae5fd5805c16258d5f.png	Thuế suất 0%
+crops/HD_005/a9fb7b6879230348fd17.png	Thuế suất 5%
+crops/HD_005/70bb9ec8e32a74eafca0.png	Thuế suất 10%
+crops/HD_005/2a7cdfcbf7f92a979e71.png	Tiền hàng hóa, dịch vụ
+crops/HD_005/5710068e58429638a33c.png	Tiền thuế
+crops/HD_005/1068dcf79f57c053d600.png	Tiền thanh toán
+crops/HD_005/3e2025096bcd8902c485.png	Số tiền bằng chữ : Ba mươi lăm triệu chín trăm chín mươi nghìn đồng
+crops/HD_005/31b76198a429cc6aa0ec.png	Ký, ghi rõ họ tên
+crops/HD_005/a950a4bf70121dc6aafa.png	Ký bởi: CHI NHÁNH CÔNG TY
+crops/HD_005/4e4e9c3ec899093aab59.png	CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ
+crops/HD_005/36ecc7f05b3a1ddb27df.png	FPT TẠI HÀ NỘI
+crops/HD_005/9a741fac08e547bbabfc.png	Mã nhận hóa đơn: 306313441027315
+crops/HD_008/ffadce7d0df48ce8708d.png	CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT
+crops/HD_008/a7c895de8c6c11f29317.png	HÓA ĐƠN
+crops/HD_008/eaa1873e1fcfed1561c6.png	Mẫu số : 01GTKT0/002
+crops/HD_008/b61447ff13ce5fcc3be7.png	Địa chỉ: 261 – 263 Khánh Hội, Phường 02, Quận 4,
+crops/HD_008/63258d18486dfc554aaa.png	Thành phố Hồ Chí Minh, Việt Nam
+crops/HD_008/265d8ba6b8240e2ec64d.png	Ký hiệu : BL/21E
+crops/HD_008/5faf722ca54a38aa01bd.png	GIÁ TRỊ GIA TĂNG
+crops/HD_008/4a2be197e0c375d70b96.png	Mã số thuế: 0311609355
+crops/HD_008/4a48eb1998bdad22ce0c.png	Số : 0542535
+crops/HD_008/c7bea23b0767310b06e6.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_008/ea30da4977634c4526df.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)
+crops/HD_008/48a5e0e3769414d65e8c.png	Tài khoản : 1902201049923 tại NH NN&PTNT-CN 4
+crops/HD_008/9ddf9e3cc87ddd92095d.png	Tên người mua hàng: Anh Hùng
+crops/HD_008/26d17ff4d70e30f0148a.png	Tên đơn vị mua hàng:
+crops/HD_008/055fd311cb19cf70e674.png	Địa chỉ: Hcm
+crops/HD_008/e6374ac7f18df5c7d5dd.png	Mã số thuế:
+crops/HD_008/0eace2f48651203e05d6.png	Kho xuất: HCM 189 Nguyễn Sơn
+crops/HD_008/23d8cba5386a5d6dd1a2.png	Đồng tiền thanh toán: VNĐ
+crops/HD_008/d8e0b7b4ecc230b7273d.png	Hình thức thanh toán : Thẻ
+crops/HD_008/42473fde4b20a132d8c1.png	Số
+crops/HD_008/ca4130ad20a9264c6c9e.png	Thuế suất
+crops/HD_008/4d3ed7e6b3ff78e2ae17.png	Đơn giá
+crops/HD_008/588261add545f5a97f91.png	Thành tiền
+crops/HD_008/36e920936ad0053c5f22.png	Tên hàng hóa, dịch vụ
+crops/HD_008/ebc4dc08f180f6f9890c.png	Đơn vị
+crops/HD_008/a5e750c41d0b1363fe29.png	lượng
+crops/HD_008/b17adea0bfa8239a8be3.png	Apple ĐTDĐ iPhone 13 Pro 128GB Sierra
+crops/HD_008/62c5c7fe8c301e88da25.png	Chiếc
+crops/HD_008/195a13feb304863e60ae.png	Số Seri : 352544470118358
+crops/HD_008/422ac678bc9318cb02df.png	Hạn bảo hành : 06/03/2023
+crops/HD_008/b8bb7cc505f7373ff182.png	Apple ĐTDĐ iPhone 13 Pro 128GB Gold
+crops/HD_008/ebaf65197847c17e29ab.png	Chiếc
+crops/HD_008/6450c90e951f0b10afaf.png	Số Seri : 359206400443917
+crops/HD_008/a264776c4334a7035e4b.png	Hạn bảo hành : 06/03/2023
+crops/HD_008/1e9d38dd129ec8eb54c8.png	Apple ĐTDĐ iPhone 13 Pro 128GB Gold
+crops/HD_008/8446f98202e259d68432.png	Chiếc
+crops/HD_008/dfaa0ce8c6acaf92fe23.png	Số Seri : 355786377927186
+crops/HD_008/fd550b9d4a487b79c647.png	Hạn bảo hành : 06/03/2023
+crops/HD_008/8bf8384f8fb5e54ff034.png	Apple - Tặng PMH 200,000đ mua Sạc Magsafe
+crops/HD_008/6bf564c9d448fb66fdbc.png	Chiếc
+crops/HD_008/bcd21a476a271f1fb1f3.png	(0791 129) (HSD 7 ngày)
+crops/HD_008/c941b9e80e42aed56e54.png	Apple - Tặng PMH 300,000đ mua Ốp lưng
+crops/HD_008/3cf3f7cae98fc91dbebd.png	Chiếc
+crops/HD_008/d3f4503116b5c4871334.png	Chiếc
+crops/HD_008/dfe693bc8c06e1581670.png	Dịch vụ bảo hành mở rộng năm thứ 2
+crops/HD_008/a3a1ba4a9b10e91bae54.png	I can Kid (Từ 2-6 tuổi )
+crops/HD_008/7783e475610534ae98cd.png	Tổng cộng
+crops/HD_008/133ac1e8a9b065f8ab4e.png	Thuế suất
+crops/HD_008/a0639c18ca02efa2bb8b.png	Không chịu thuế
+crops/HD_008/7cd10ffb13099662184e.png	Cộng tiền hàng
+crops/HD_008/ef94f5841ce11d06c290.png	Tiền thuế GTGT
+crops/HD_008/28fd5d4c325aabffcf1d.png	Tổng cộng tiền thanh toán
+crops/HD_008/d72ea43795120506a8c5.png	Số tiền bằng chữ : Tám mươi ba triệu chín trăm bảy mươi nghìn đồng
+crops/HD_008/bb89ecfc576e16dc0682.png	Tích điểm
+crops/HD_008/b8b80ac5a58fc3036fc4.png	Tiêu điểm
+crops/HD_008/88c0f464dd44dec2c315.png	(Chữ ký số (nếu có))
+crops/HD_008/40949ab6699778b9da04.png	(Chữ ký điện tử, chữ ký số)
+crops/HD_008/7d20bcfb9c3aed0b4304.png	Ký bởi: Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT
+crops/HD_008/62d060fed394e055189e.png	Mã nhận hóa đơn: 379619620542535
+crops/HD_009/484a4528e9b35e5f3fbb.png	CÔNG TY CP BÁN LẺ KỸ THUẬT SỐ FPT
+crops/HD_009/edf313fee928ce557cf1.png	HÓA ĐƠN
+crops/HD_009/9be2b37683458bb339c0.png	Mẫu số : 01GTKT0/001
+crops/HD_009/0e498ba4d7e8e0066073.png	Địa chỉ : Tòa nhà FPT Cầu Giấy, Số 17 Phố Duy Tân,
+crops/HD_009/86eeb3cd6a9609d47795.png	Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP Hà Nội, V
+crops/HD_009/903731f48c57a5bc9c3f.png	GIÁ TRỊ GIA TĂNG
+crops/HD_009/5db33106c5632c6e0272.png	Ký hiệu : BL/18E
+crops/HD_009/071b25f3d83305824a18.png	Mã số thuế : 0311609355-001
+crops/HD_009/34a1afd28acb2194f261.png	Số : 0508403
+crops/HD_009/f4428b45a701a8ad8e2f.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_009/033e68b9e750f5b156cc.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại
+crops/HD_009/aa719ad2b45353b0552d.png	̀ Tài khoản : 09120912001 ṭai Ngân hang TMCP Tiên
+crops/HD_009/f9bca0ad7881724707cf.png	Phong (TPbank) - CN Phạm Hùng
+crops/HD_009/118cca1d88c3a7200075.png	Đơn vị bán hàng : CHI NHÁNH CÔNG TY CỔ PHẦN
+crops/HD_009/2595c09c64e340bca0ee.png	Tên khách hàng : Chị thanh
+crops/HD_009/07585d31297220a83787.png	BÁN LẺ KỸ THUẬT SỐ FPT TẠI HÀ NỘI
+crops/HD_009/1b1e0ff5080b5ce28c4c.png	́ Địa chỉ : Tòa nhà FPT Cầu Giấy, sô 17, Phố Duy Tân,
+crops/HD_009/66e1a439d613aa61401d.png	Tên đơn vị :
+crops/HD_009/72f53bc81910584729ea.png	P.Dịch Vọng Hậu, Q.Cầu Giấy, TP Hà Nội, Việt Nam
+crops/HD_009/e63275b9d91f05a082f9.png	Mã số thuế :
+crops/HD_009/8494e4e022a88b249ed3.png	Mã số thuế : 0311609355-001
+crops/HD_009/64550a7ec6cfa9834e8e.png	Địa chỉ : Hn
+crops/HD_009/b3473fbefab765e467ba.png	Hình thức thanh toán :
+crops/HD_009/d48bf4a86b5577f57454.png	Thuế suất
+crops/HD_009/614a7fe847d3493ea932.png	Đơn vị
+crops/HD_009/340171b5cdb18b3ce0ff.png	Số lượng
+crops/HD_009/d3fe68c38eebc745ff0d.png	Thành tiền
+crops/HD_009/d4090a98d3a4838b2e25.png	Đơn giá
+crops/HD_009/0df0a8e8f126ace82225.png	Tên hàng hóa, dịch vụ
+crops/HD_009/efee0b308a9171001c5f.png	Apple ĐTDĐ iPhone Xs Max 512GB Vàng
+crops/HD_009/77674aedc0c723fb2e54.png	chiếc
+crops/HD_009/87159e43ae9dfc298a92.png	Số Seri : 357288093237287
+crops/HD_009/da23cd047309d522339e.png	Hạn bảo hành : 09/06/2020
+crops/HD_009/576a45e15a02c61cb6a0.png	Voucher 500,000đ mua Apple Watch (thời gian
+crops/HD_009/bfee18f986b3d94301df.png	Chiếc
+crops/HD_009/6ac3f3b76e1aa63a1b8b.png	hiệu lực 7 ngày) - T6
+crops/HD_009/67fea738de9dfc435d4b.png	Voucher 500,000đ mua Airpods (thời gian hiệu
+crops/HD_009/ba9080d3dfd6a5511ddc.png	Chiếc
+crops/HD_009/ac1f8885697e5efe51eb.png	lực 7 ngày) - T6
+crops/HD_009/2c737fe7434477e738a6.png	Tổng cộng
+crops/HD_009/5bc9fe365a68c8b6fa0c.png	Thuế suất 10%
+crops/HD_009/e5f67f328b0c159bda22.png	Thuế suất 0%
+crops/HD_009/a5c6bfb7e2b9b8165560.png	Thuế suất 5%
+crops/HD_009/c0316139de9e9ffb9c3a.png	Tiền hàng hóa, dịch vụ
+crops/HD_009/b595be208b0e0b2e55c1.png	Tiền thuế
+crops/HD_009/9dd74e433daa3b7e4dc2.png	Tiền thanh toán
+crops/HD_009/701ed59a8b03cb054e28.png	Số tiền bằng chữ : Ba mươi chín triệu chín trăm chín mươi nghìn đồng
+crops/HD_009/2bdb9087ce01f263bc6e.png	Ký, ghi rõ họ tên
+crops/HD_009/366d079979c1428d244e.png	Ký bởi: CHI NHÁNH CÔNG TY
+crops/HD_009/6f4fcebf6e9ccff54782.png	CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ
+crops/HD_009/07e332dcf97d1f295cbc.png	FPT TẠI HÀ NỘI
+crops/HD_009/dbfb0639bc8e5ce8e3d3.png	Mã nhận hóa đơn: 223266670508403
+crops/HD_022/22d83c5ab32db047fbe2.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/HD_022/e3c52ffb8da82acf797e.png	Ký hiệu (Serial): 1C24TDP
+crops/HD_022/3d586afaeb3e63a44012.png	(HÓA ĐƠN CHUYỂN ĐỔI TỪ HÓA ĐƠN ĐIỆN TỬ)
+crops/HD_022/05568bdbf87a056f07dc.png	Số (No.): 1610861
+crops/HD_022/d3eafae3056f2e3416bb.png	Mã của CQT: 000E7FB3730B8C473091E29630DCBE7D47
+crops/HD_022/fffb4e33e442c8f64e46.png	Đơn vị bán hàng (Seller) : CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ KỸ THUẬT DIỆU PHÚC
+crops/HD_022/bf5fc100461e91075036.png	Mã số thuế (VAT code) : 0316172372
+crops/HD_022/f44634f8d5a8e8787a10.png	: 350-352 Võ Văn Kiệt, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh
+crops/HD_022/8c46c1b0e70954211e67.png	Địa chỉ (Address)
+crops/HD_022/5d49cb8f96f750135060.png	Điện thoại (Tel)
+crops/HD_022/a1f7ec28722e8cdea2a1.png	Số tài khoản (A/C No.)
+crops/HD_022/7414fc17a72691ce46dc.png	Họ tên người mua hàng (Buyer): Hồ Quang Chánh
+crops/HD_022/88018980ea228e4643d5.png	Tên đơn vị (Company's name)
+crops/HD_022/7db5c7585f6049d3afc4.png	Mã số thuế (Tax code)
+crops/HD_022/03d6ef53aee31423cd45.png	Hình thức thanh toán (Payment method): TM, CK
+crops/HD_022/bfebe351e7bd73a2132d.png	: 147/2E ấp Tân Thới 1, Xã Tân Hiệp, Huyện Hóc Môn, Hồ Chí Minh
+crops/HD_022/abbf9b47b63b8f5c1a87.png	Địa chỉ (Address)
+crops/HD_022/681edeb51ec20115e0d2.png	Thành tiền
+crops/HD_022/80f378e162d8de9a8f6b.png	Thành tiền
+crops/HD_022/8f1cc9128e2e6c8261a7.png	(Chưa thuế
+crops/HD_022/788fa84260d1b5a2ac76.png	Đơn vị
+crops/HD_022/cff231627ed66154c836.png	(Gồm thuế
+crops/HD_022/5f35511730e3ca9b6eb9.png	Số lượng
+crops/HD_022/4a9faf79ea513a107be3.png	Tiền thuế
+crops/HD_022/bfbbd4f97d62200729a7.png	Đơn giá
+crops/HD_022/d66d366f9f78976f8d33.png	Tên hàng hóa, dịch vụ
+crops/HD_022/0e4dca1fd4e56d847de3.png	2TR5_4TR_BẢO HÀNH RƠI
+crops/HD_022/3be268e02c87b7f59241.png	VỠ - RƠI NƯỚC - 12 THÁNG￾
+crops/HD_022/a76b08229809a793fe65.png	OPPO A96 8GB 128GB ĐEN
+crops/HD_022/e3f1b7c76ca5e61e073d.png	(CPH2333) CŨ - ĐẸP- IMEI:
+crops/HD_022/353292a02ce5ca69f873.png	Cộng tiền hàng (Total amount):
+crops/HD_022/30d573e3d37a26929ca6.png	Số tiền viết bằng chữ (Amount in words): Ba triệu ba trăm chín mươi nghìn đồng
+crops/HD_022/ee027dbf14d0ce9419ef.png	Người thực hiện chuyển đổi (Converter)
+crops/HD_022/587e6d26d63441148ae8.png	Người mua hàng (Buyer)
+crops/HD_022/8b237e09ce6a57969eeb.png	Người bán hàng (Seller)
+crops/HD_022/e8c543af42f28faffdaa.png	Ký, đóng dấu, ghi rõ họ tên
+crops/HD_022/6ead4c94680b57e391cf.png	Ký, ghi rõ họ tên
+crops/HD_022/28791b8979feacca5290.png	Ký, ghi rõ họ tên
+crops/HD_022/460a307eeb67df17b139.png	Ký bởi: CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH
+crops/HD_022/5c5e93e583869342f8aa.png	VỤ KỸ THUẬT DIỆU PHÚC
+crops/HD_022/d7f1c5ddc34e6c46c8ff.png	Ngày in chuyển đổi (Printing date): 27/10/2024
+crops/HD_022/d0b265cf1260eb3dece8.png	Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/
+crops/HD_022/ac4e6c67fd2f846f6ce5.png	Mã nhận hóa đơn (Code for checking): BCJCINJD3
+crops/HD_029/45a9843d07c5e9bc5d4f.png	CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT
+crops/HD_029/baabcdb38d32c170189f.png	HÓA ĐƠN
+crops/HD_029/ab86d2d770f123adc7db.png	Mẫu số : 01GTKT0/002
+crops/HD_029/73ebea59537211376396.png	Địa chỉ: 261 – 263 Khánh Hội, Phường 02, Quận 4,
+crops/HD_029/bcd10a5c0f6bb9f25be8.png	Thành phố Hồ Chí Minh, Việt Nam
+crops/HD_029/39222d44cad865e7b742.png	Ký hiệu : BL/21E
+crops/HD_029/f7972c4dfce3b011960c.png	GIÁ TRỊ GIA TĂNG
+crops/HD_029/a8458c887ad930313b2a.png	Mã số thuế: 0311609355
+crops/HD_029/2276b26d30e0509e2e9f.png	Số : 0006017
+crops/HD_029/5499d676584c41e24bd4.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_029/78eef60a5a033e764c28.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)
+crops/HD_029/fc00d22680c7981c9efd.png	Tài khoản : 00063456005 tại Ngân hàng TMCP Tiên
+crops/HD_029/adf9f1a15e8605422348.png	Phong (TPbank) - CN Hoàn Kiếm
+crops/HD_029/3d1ac94052837e6134e6.png	Tên người mua hàng: TRƯƠNG THÙY TRANG
+crops/HD_029/eea70eb54a5448df92e0.png	Tên đơn vị mua hàng:
+crops/HD_029/6161cbf0e22876f4ec5b.png	Địa chỉ: tv
+crops/HD_029/e549d04e8ec7f8824701.png	Mã số thuế:
+crops/HD_029/795d92a2e53cece78eb3.png	Kho xuất: TVH 289 Nguyễn Đáng
+crops/HD_029/c773b0cddeb9eecfb4d9.png	Đồng tiền thanh toán: VNĐ
+crops/HD_029/6473c79036f4c013c119.png	Hình thức thanh toán : TM
+crops/HD_029/08f3dca8605f28eeb382.png	Số
+crops/HD_029/0e35ea57df2fcbed77c4.png	Thuế suất
+crops/HD_029/180cc25a5e909ff1aa67.png	Đơn vị
+crops/HD_029/3e40a05b4f3a5001547b.png	Đơn giá
+crops/HD_029/c3da1d391ffb105afc14.png	Thành tiền
+crops/HD_029/a619fd1d503101c13db1.png	Tên hàng hóa, dịch vụ
+crops/HD_029/0e92d3127e343c9f1da0.png	lượng
+crops/HD_029/4579e2382ed5c0d1fff3.png	Apple ĐTDĐ iPhone 13 Pro Max 128GB
+crops/HD_029/3b600a3db025396c05ba.png	Sierra Blue MLL93VN/A; Số
+crops/HD_029/de9b8f976636adea2219.png	serial:359481985065480; Hạn bảo hành:
+crops/HD_029/6e8f00fe4a4c2f268c64.png	Chiếc
+crops/HD_029/2bff0e5118c2c37b19bc.png	Số Seri : 359481985065480
+crops/HD_029/2e2aa8033c0563f48c38.png	Hạn bảo hành : 02/12/2023
+crops/HD_029/720abe4d769de460d9cd.png	Chiếc
+crops/HD_029/5fbabeabe2dccb7a78a8.png	Dịch vụ bảo hành mở rộng năm thứ 2
+crops/HD_029/e45b2f9135e75cf47e59.png	Apple - Tặng PMH 300,000đ mua sim iTel 79
+crops/HD_029/0f14e8a01b9274d1f2c7.png	Chiếc
+crops/HD_029/3c2714f9eef961c386b1.png	Tổng cộng
+crops/HD_029/a1c9a81c2867bd6491a3.png	Thuế suất
+crops/HD_029/a9e3ca8c7c00b292fee9.png	Không chịu thuế
+crops/HD_029/2cc44ffc5d6539a11aca.png	Cộng tiền hàng
+crops/HD_029/c56cde5842b083e5964f.png	Tiền thuế GTGT
+crops/HD_029/f4e7ad0e3626cc14ae2d.png	Tổng cộng tiền thanh toán
+crops/HD_029/c2ef1241ad1790a7ac9b.png	Số tiền bằng chữ : Ba mươi ba triệu chín trăm chín mươi nghìn đồng
+crops/HD_029/5ce0c0333f09037ec620.png	Tích điểm
+crops/HD_029/c60f42f2b5ce1d638b9b.png	Tiêu điểm
+crops/HD_029/ff228ce4340ee65e3326.png	(Chữ ký số (nếu có))
+crops/HD_029/bd398813d81e95f08510.png	(Chữ ký điện tử, chữ ký số)
+crops/HD_029/e2db7615ca61e0a0d081.png	Ký bởi: Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT
+crops/HD_029/f4ddb415c34f90f0ea22.png	Mã nhận hóa đơn: 363807280006017
+crops/HD_030/c387ddeedd6041b80b39.png	Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT Tại Hà Nội
+crops/HD_030/d467504c214a93e0898a.png	HÓA ĐƠN
+crops/HD_030/a48820ebade90f428f25.png	Địa chỉ: Tòa nhà FPT Cầu Giấy, Số 17 Phố Duy Tân,
+crops/HD_030/41fa876853f1b685e881.png	Ký hiệu : 1K24THN
+crops/HD_030/e71d3e5b5285388c3ce8.png	Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP Hà Nội,
+crops/HD_030/42ae41d05bc4abc41f2c.png	Số : 01085743
+crops/HD_030/bf5cdb58160b330ec24d.png	GIÁ TRỊ GIA TĂNG
+crops/HD_030/e81eab921d7a601e2c6b.png	Việt Nam
+crops/HD_030/37414e73451879fba981.png	Mã số thuế: 0311609355-001
+crops/HD_030/b4704510e8d0a725580e.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_030/2f7316eb59e25cdf34a5.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)
+crops/HD_030/acd8116df554821d8471.png	Tài khoản : 09120912005 tại Ngân hàng TMCP Tiên
+crops/HD_030/8fbf6261dff682356767.png	Phong (TPbank) - CN Hoàn Kiếm
+crops/HD_030/12e785a8e8968506aa9a.png	Tên người mua hàng: chị hiền
+crops/HD_030/aed194e14242e2bf1e5e.png	Tên đơn vị mua hàng:
+crops/HD_030/db083b05117c58bdb457.png	Địa chỉ:
+crops/HD_030/b2825ae41d46b44112bf.png	Mã số thuế:
+crops/HD_030/0ce682287febdf22415f.png	Kho xuất: HTH 43 Trần Phú
+crops/HD_030/207e364877ad1490eeaf.png	Hình thức thanh toán : Tiền mặt/Chuyển khoản
+crops/HD_030/1277b5ac566e90a9bbc2.png	Đồng tiền thanh toán: VND
+crops/HD_030/07f64ef7168b83043df5.png	Số
+crops/HD_030/25f50bee656a4c38b6ab.png	Thuế suất
+crops/HD_030/afbf03f183c49794f255.png	Đơn vị
+crops/HD_030/159bf5d7e85f3520e59b.png	Đơn giá
+crops/HD_030/4be9f61b8ac1234afdae.png	Thành tiền
+crops/HD_030/47ee7e5b42767fa3da3f.png	Tên hàng hóa, dịch vụ
+crops/HD_030/8bf7cda20dc63eb5a3e8.png	lượng
+crops/HD_030/5ff02c2bd859637f9133.png	Điện thoại iPhone 16 Pro Max 256GB Titan Sa
+crops/HD_030/89614c879b872a4d45ae.png	Chiếc
+crops/HD_030/e6a8d5a8a6d28af64458.png	Mạc MYWX3VN/A; Số serial: SH7QV613966;
+crops/HD_030/0aea362fa10c7435d5bf.png	Hạn bảo hành: 26/09/2026
+crops/HD_030/1cd065ab3827361e8372.png	Adapter sạc nhanh 1 cổng Belkin 25W USB-C
+crops/HD_030/f8722543cd8461879681.png	Chiếc
+crops/HD_030/e73d9124ff6c07dc51db.png	chuẩn PD/PPS Trắng; Hạn bảo hành: 26/09/2025
+crops/HD_030/0bfb4a8c812f0d2e81e5.png	Đặc quyền Bảo hành thêm 1 năm iPhone 16
+crops/HD_030/a7662ba7b0cf5a1fef2a.png	Miếng dán màn hình kính cường lực iPhone 16 Pro
+crops/HD_030/00340e2aab81efbd69e8.png	Miếng
+crops/HD_030/764e933ce1d91eaf3679.png	Ốp lưng magsafe iPhone 1 6 Pro Max nhựa cứng
+crops/HD_030/6b2eca70f5a1309fd1e5.png	Chiếc
+crops/HD_030/6f8e2c71c23f8e5abba9.png	chống sốc ESR Trong suốt
+crops/HD_030/e433a1a0960cd06a9afc.png	Pin sạc dự phòng Magsafe Innostyle PowerMag
+crops/HD_030/522aa652db72ba4d6ec6.png	Slim QC 3.0/PD 20W 10000mAh Tím; Hạn bảo
+crops/HD_030/b3a06180a7c960a5e0f8.png	SIM - iPhone 16 - Tặng mã giảm giá 200,000đ mua
+crops/HD_030/a290fb95228c714a67e2.png	dịch vụ chọn số đẹp
+crops/HD_030/4785f9f423d91ccc73f6.png	Apple - Phiếu mua hàng 100,000đ mua Tai nghe
+crops/HD_030/8f0cf5d29f8e0aaddaf2.png	Chiếc
+crops/HD_030/dd1ae3c41c8551adabf0.png	AirPods (Hạn sử dụng 7 ngày)
+crops/HD_030/f7b1ee853a2992b9ad08.png	Tổng cộng
+crops/HD_030/ca208359010f2401063e.png	Thuế suất
+crops/HD_030/81fb083fecc1dd4faa41.png	Cộng tiền hàng
+crops/HD_030/2e8e0198de87c5d62c1b.png	Tiền thuế GTGT
+crops/HD_030/0251a45cc161b0630398.png	119,185
+crops/HD_030/10b1ec7c163339d9e714.png	Tổng cộng tiền thanh toán
+crops/HD_030/9f22fd2354ffe179cca3.png	Số tiền bằng chữ : Ba mươi tám triệu hai trăm tám mươi chín nghìn đồng.
+crops/HD_030/3bbcb0dfcd4fa0ac6d51.png	Tích điểm
+crops/HD_030/ca7cf17e1844bbe0f1e7.png	Tiêu điểm
+crops/HD_030/d977407ee6a3be9628c1.png	(Chữ ký số (nếu có))
+crops/HD_030/20c8985229f915424ee8.png	(Chữ ký điện tử, chữ ký số)
+crops/HD_030/c657a39fccea177fce11.png	Ký bởi: Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ
+crops/HD_030/222c50a6de6e52e3cef5.png	Thuật Số FPT Tại Hà Nội
+crops/HD_030/1be39c8d9f6ff53335b6.png	Mã nhận hóa đơn: 5016541301085743
+crops/HD_030/0776a870e448380f2b7c.png	Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT Tại Hà Nội
+crops/HD_030/d8f4cf4907e1e2c415e2.png	HÓA ĐƠN
+crops/HD_030/4f6533f76cdbbee302c2.png	Địa chỉ: Tòa nhà FPT Cầu Giấy, Số 17 Phố Duy Tân,
+crops/HD_030/08abfa38e368b36bb09a.png	Ký hiệu : 1K24THN
+crops/HD_030/8d90191e53b3ee28cfa9.png	Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP Hà Nội,
+crops/HD_030/621bc65ce66fe71dd339.png	Số : 01085743
+crops/HD_030/621dbf48d72ab07917a5.png	GIÁ TRỊ GIA TĂNG
+crops/HD_030/6f4dc5fd5a5b1f8d43bc.png	Việt Nam
+crops/HD_030/355300117c5996c4833f.png	Mã số thuế: 0311609355-001
+crops/HD_030/86e3f92bfacb68adb594.png	(Bản thể hiện của hóa đơn điện tử)
+crops/HD_030/b75a87d4493bf9e0a6b0.png	Điện thoại : 18006601 (Tư vấn) – 18006616 (Khiếu nại)
+crops/HD_030/3b84088290cbb4311cd1.png	Tài khoản : 09120912005 tại Ngân hàng TMCP Tiên
+crops/HD_030/eb15777df1ba0ec96a96.png	Phong (TPbank) - CN Hoàn Kiếm
+crops/HD_030/d04d44b180a272467f49.png	Tên người mua hàng: chị hiền
+crops/HD_030/6e3cea5d4c597d2dc517.png	Tên đơn vị mua hàng:
+crops/HD_030/f4a35013b497b37a122b.png	Địa chỉ:
+crops/HD_030/b5462ed8f392c8ac6dcf.png	Mã số thuế:
+crops/HD_030/7de0e8082e7575a40ca4.png	Kho xuất: HTH 43 Trần Phú
+crops/HD_030/4f63eb608bc3735818d1.png	Hình thức thanh toán : Tiền mặt/Chuyển khoản
+crops/HD_030/5218778f436fb1f7b143.png	Đồng tiền thanh toán: VND
+crops/HD_030/e43a5f8990c4a3cd1286.png	Số
+crops/HD_030/9cc107aa377bb332a580.png	Thuế suất
+crops/HD_030/aebd80232ae45b41ad69.png	Thành tiền
+crops/HD_030/152ccf35a69bb4f72518.png	Đơn vị
+crops/HD_030/8b3351a0a44d1ef177a1.png	Tên hàng hóa, dịch vụ
+crops/HD_030/9fc6a767afb8c7d307c1.png	Đơn giá
+crops/HD_030/c8efb381fdd90c154a96.png	lượng
+crops/HD_030/b74bc23ae36b5803fb39.png	Apple - Tặng mã giảm giá đến 1,000,000đ mua
+crops/HD_030/75071d5356a046a4b611.png	Macbook/AppleWatch/iPad (Hạn sử dụng 7 ngày)
+crops/HD_030/d1c1bf9117442e5137d6.png	Tổng cộng
+crops/HD_030/0b2a9333fb89c5397c59.png	Thuế suất
+crops/HD_030/1e2b4d2be5ed3cf844c6.png	Cộng tiền hàng
+crops/HD_030/abb1769c3d026ea4c07f.png	Tiền thuế GTGT
+crops/HD_030/76d707832354a9e44215.png	119,185
+crops/HD_030/4706312897dc49e2956e.png	Tổng cộng tiền thanh toán
+crops/HD_030/f6d95e08e63a7a2d8d00.png	Số tiền bằng chữ : Ba mươi tám triệu hai trăm tám mươi chín nghìn đồng.
+crops/HD_030/3848ac0a3dd4a5a053f8.png	Tiêu điểm
+crops/HD_030/47e7014ab1d6ae12e24e.png	Tích điểm
+crops/HD_030/ff3dd562545225ae9389.png	(Chữ ký điện tử, chữ ký số)
+crops/HD_030/42d7d65f973450332e3c.png	(Chữ ký số (nếu có))
+crops/HD_030/a697b9eeb1542ed433ae.png	Ký bởi: Chi Nhánh Công Ty Cổ Phần Bán Lẻ Kỹ
+crops/HD_030/5cdef0259bbf2b39769e.png	Thuật Số FPT Tại Hà Nội
+crops/HD_030/7af31c87f56daa942374.png	Mã nhận hóa đơn: 5016541301085743
+crops/WEB_034/5f6dbf77600cd2dc327e.png	CHI NHÁNH CÔNG TY CỔ PHẦN THẾ GIỚI SỐ
+crops/WEB_034/1875362c9c509c29f1fb.png	Mã số thuế: 0302861742-001
+crops/WEB_034/4c26f4c6b45c47969c45.png	Tầng 16, Số 1, Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội, Việt Nam
+crops/WEB_034/c7d712d555f127dac76c.png	Điện thoại: (024) 3537 6888 - Fax : (024) 3537 5888
+crops/WEB_034/28fd63bd8827cf339108.png	Tên tài khoản: Chi Nhánh Công Ty Cổ Phần Thế Giới Số
+crops/WEB_034/16f59ffd4dd343fb5679.png	0581100457008 -Ngân hàng TMCP Quân Đội-CN Đống Đa (Hà Nội).
+crops/WEB_034/734e4aa7e1be9a1e68c9.png	Số tài khoản:
+crops/WEB_034/58dcd907011a5eaf17f5.png	03101010166054 -Ngân hàng TMCP Hàng Hải Việt Nam-CN Đống Đa (Hà
+crops/WEB_034/5c8c25840e5bbdf9d9fd.png	Nội).
+crops/WEB_034/33dcf2a5b5bc2dc3b526.png	Mẫu số : 01GTKT0/002
+crops/WEB_034/1972fcf53899956ffa43.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_034/16f9c93f2b355f9aded2.png	Ký hiệu : HN/21E
+crops/WEB_034/b6159b84d3bb5d783892.png	Số : 0091356
+crops/WEB_034/211ad2abc61dc26fbfa7.png	Ngày 20 tháng 03 năm 2022
+crops/WEB_034/04697d505e95b1b6db63.png	Nơi xuất hóa đơn : Chi nhánh Công ty cổ phần Thế Giới Số
+crops/WEB_034/90772f54711173d76cca.png	Mã số thuế : 0302861742-001
+crops/WEB_034/6210b1ffc45a72a8b3ab.png	Họ tên người mua hàng :
+crops/WEB_034/c2e7362da0cc47d42b8b.png	Tên đơn vị : Nguyễn Xuân Tiến
+crops/WEB_034/ff6f37f60d230b49a9f2.png	Mã số thuế :
+crops/WEB_034/1f507c54e98f9bdd3d30.png	Số 1 ngõ 95 Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội, Việt Nam
+crops/WEB_034/7012b9cc1fce3898be22.png	Địa chỉ giao hàng:
+crops/WEB_034/9fa3e8f37abb63642264.png	Hình thức thanh toán : TM/CK
+crops/WEB_034/f0e39f9e3c6dae7a6485.png	Số tài khoản/Hợp đồng :
+crops/WEB_034/634ef231faa1f69392d1.png	Số
+crops/WEB_034/efa112442e132eff99ea.png	Đơn vị
+crops/WEB_034/1bb33ae225cafc4c2e48.png	Thành tiền
+crops/WEB_034/9bae62c4f96d27558eaa.png	Đơn giá
+crops/WEB_034/5c4725d3c3d350948f4d.png	Tên hàng hóa, dịch vụ
+crops/WEB_034/8a751a1d5a8df514eae6.png	lượng
+crops/WEB_034/7ac87b0cbc5fedcbf938.png	ĐIỆN THOẠI DI ĐỘNG APPLE IPHONE 13 PRO MAX
+crops/WEB_034/fa3395edda8e96c35465.png	Cộng tiền hàng :
+crops/WEB_034/a39f891ea5480879ba14.png	Tiền thuế GTGT :
+crops/WEB_034/eb7e646cb6dddb9f3fba.png	Thuế suất GTGT :
+crops/WEB_034/475a3c48f79592153f87.png	Tổng cộng tiền thanh toán :
+crops/WEB_034/d4b5d854c364db3c63ff.png	Số tiền viết bằng chữ : Hai mươi chín triệu ba trăm nghìn đồng
+crops/WEB_034/e8d770a39c6d03785ea9.png	Người mua hàng
+crops/WEB_034/485d9727f5481409c9fb.png	Người bán hàng
+crops/WEB_034/ff0c0c89fd3aa4e55b2d.png	(Ký, ghi rõ họ tên)
+crops/WEB_034/b219462c4f51434b605b.png	(Được ký điện tử bởi)
+crops/WEB_034/b4e02412ec922c60236c.png	Bán hàng qua điện thoại
+crops/WEB_034/fe9a618f9961d41797d4.png	Ký bởi: CHI NHÁNH CÔNG TY CỔ PHẦN
+crops/WEB_034/02f0dd8046c7dc1e09b8.png	THẾ GIỚI SỐ
+crops/WEB_043/d6f68df4cc46524cf791.png	CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU
+crops/WEB_043/7da12e3717dbd5dd9e47.png	HÓA ĐƠN
+crops/WEB_043/d2963cb4b15f2d60fd50.png	Địa chỉ: 379-381 Hai Bà Trưng, Phường Võ Thị Sáu,
+crops/WEB_043/0bc5bd894f4cde04355b.png	Ký hiệu (Series): 1C24MHS
+crops/WEB_043/4cb6caec5f641f8429ab.png	Quận 3, Thành phố Hồ Chí Minh, Việt Nam
+crops/WEB_043/8e2008adf7fdb58fa94f.png	Số (No.): 01774384
+crops/WEB_043/9e01afde22126b65e995.png	GIÁ TRỊ GIA TĂNG
+crops/WEB_043/ac76497e00eb329fd802.png	Mã số thuế: 0315275368
+crops/WEB_043/2ed6af062d97c3a16420.png	(Hóa đơn điện tử khởi tạo từ máy tính tiền)
+crops/WEB_043/65cecdfba13924b48d39.png	Điện thoại: 18006928 (Tư vấn) – 18006928 Nhánh 2
+crops/WEB_043/31da047be6030452cde2.png	(TT Vaccine) - 18006928 Nhánh 3 (Khiếu nại)
+crops/WEB_043/73892ee50c8c827e2532.png	Tài khoản: 12210002339054 Tại Ngân hàng Đầu Tư và
+crops/WEB_043/6eb0a9942ccec964efba.png	Phát Triển Việt Nam (BIDV)-CN Hà Thành
+crops/WEB_043/e0d61a44d6b905c7bde4.png	Tên người mua hàng: CHI NHÁNH ĐỒNG NAI CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU
+crops/WEB_043/2cda3f09552f5a479cf6.png	CHI NHÁNH ĐỒNG NAI CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU
+crops/WEB_043/679922f9aebb40d3e311.png	Tên đơn vị mua hàng:
+crops/WEB_043/bc5d7986a1a645784e38.png	Địa chỉ: Số 562, Quốc Lộ 1A, Khu Phố 10 - Phường Tân Biên - Thành phố Biên Hoà - Đồng Nai.
+crops/WEB_043/ae258603e4e5a19ef245.png	Mã số thuế:
+crops/WEB_043/9f746e2decbbc1a25c07.png	Xuất tại kho: 80350
+crops/WEB_043/61210149af2d15ae3b47.png	Đồng tiền thanh toán:
+crops/WEB_043/02ee5a45c3623b2fe20c.png	Hình thức thanh toán:
+crops/WEB_043/8c36cc4a7d128f2a6717.png	Số lượng
+crops/WEB_043/c3ca8763e239cd2e155b.png	Thành tiền
+crops/WEB_043/dce19717ba903b307f4f.png	Đơn vị
+crops/WEB_043/a2a74e0ec54af666408d.png	Thuế suất
+crops/WEB_043/9e2ac8471f0519226285.png	Đơn giá
+crops/WEB_043/390ba9aaf716071d057a.png	Tên hàng hóa, dịch vụ
+crops/WEB_043/d40b47e14d46e97cf0d9.png	Hộp
+crops/WEB_043/1ec326e15a4b4d99fade.png	Thuế suất
+crops/WEB_043/4999e0693ce1aa130f98.png	Tổng cộng
+crops/WEB_043/7c8f951087d477752d1e.png	Không chịu thuế
+crops/WEB_043/c3e1471fe02842bd64c8.png	Tiền hàng hóa, DV
+crops/WEB_043/39baee1d663e50088d4c.png	Tiền thuế
+crops/WEB_043/977b180c4df7a5aa293d.png	Tiền thanh toán
+crops/WEB_043/35d5a10dfe7c58c8a5d9.png	Số tiền viết bằng chữ: Tám mươi bảy nghìn năm trăm đồng
+crops/WEB_043/dd880cb2f96bb7886f88.png	Tiêu điểm:
+crops/WEB_043/664b2c61a26b61cd6474.png	Tích điểm:
+crops/WEB_043/69bfc7b09d1d068431ef.png	(Cần kiểm tra, đối chiếu khi giao và nhận hóa đơn)
+crops/WEB_044/c2a34b39a1e7de836470.png	CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU
+crops/WEB_044/a5b31fd47284bf812dca.png	HÓA ĐƠN
+crops/WEB_044/41794b69cd754443d5a6.png	Địa chỉ: 379-381 Hai Bà Trưng, Phường Võ Thị Sáu,
+crops/WEB_044/45445b143c5d752880ed.png	Ký hiệu (Series): 1C24MHS
+crops/WEB_044/49c876c1afb660b00914.png	Quận 3, Thành phố Hồ Chí Minh, Việt Nam
+crops/WEB_044/dfd42df39c7167b1dbd3.png	Số (No.): 17654043
+crops/WEB_044/9a2416bdfcd2b4b522bf.png	GIÁ TRỊ GIA TĂNG
+crops/WEB_044/a94f0a6c47e46554c6cd.png	Mã số thuế: 0315275368
+crops/WEB_044/c5c0b5ccb1127b2e722f.png	(Hóa đơn điện tử khởi tạo từ máy tính tiền)
+crops/WEB_044/3531bb8437d0b84b7414.png	Điện thoại: 18006928 (Tư vấn) – 18006928 Nhánh 2
+crops/WEB_044/e747af988eed999a8719.png	(TT Vaccine) - 18006928 Nhánh 3 (Khiếu nại)
+crops/WEB_044/0963ce678d4d7acf9145.png	Tài khoản: 12210002339054 Tại Ngân hàng Đầu Tư và
+crops/WEB_044/9968177ac748b9e73f9d.png	Phát Triển Việt Nam (BIDV)-CN Hà Thành
+crops/WEB_044/f6bcbccde489f0e505bb.png	Tên người mua hàng: ông lê
+crops/WEB_044/9c9a3e80fdebdcd35d1e.png	Tên đơn vị mua hàng:
+crops/WEB_044/68e3911dfbc3c77b3941.png	Địa chỉ: bồ sơn bn, Phường Võ Cường, Thành phố Bắc Ninh, Tỉnh Bắc Ninh
+crops/WEB_044/e4fe75cebb93b55b6b13.png	Mã số thuế:
+crops/WEB_044/ecf767de7f60fb0c4930.png	Xuất tại kho: 80105
+crops/WEB_044/daa3410978211fa39f3c.png	Hình thức thanh toán:
+crops/WEB_044/d5c5081e92f2eaec0f99.png	Số lượng
+crops/WEB_044/97de0cda4ef70aadc1a0.png	Thuế suất
+crops/WEB_044/d07d87fe09f8590bac09.png	Thành tiền
+crops/WEB_044/ab1b2638e330435f1c3f.png	Đơn giá
+crops/WEB_044/e82194b9be6182827ee1.png	Tên hàng hóa, dịch vụ
+crops/WEB_044/caacfa4e45d193a7b88c.png	Đơn
+crops/WEB_044/a48075b9f4293328a636.png	VIÊN UỐNG TRƯỜNG THỌ, TRẺ HOÁ
+crops/WEB_044/a85069a96ec542c0e885.png	Hộp
+crops/WEB_044/648a40aeeb3223bd4441.png	Thuế suất
+crops/WEB_044/580e57b4bf3fb22b869c.png	Tổng cộng
+crops/WEB_044/162d74b0fda0a5f76359.png	Không chịu thuế
+crops/WEB_044/fba7ee4f146661301b39.png	Tiền hàng hóa, DV
+crops/WEB_044/f8f513ff59a56e6520af.png	Tiền thuế
+crops/WEB_044/b79c1fd826e11281c13d.png	Tiền thanh toán
+crops/WEB_044/fed4eaffe9df35c1ceca.png	Số tiền viết bằng chữ: Ba mươi bốn triệu bảy trăm mười nghìn đồng
+crops/WEB_044/a3c996191ca075b9e9b5.png	Tích điểm:
+crops/WEB_044/8108a5d9a35bb182b0d0.png	Tiêu điểm:
+crops/WEB_044/bcfc1b06ce1bff526e03.png	(Cần kiểm tra, đối chiếu khi giao và nhận hóa đơn)
+crops/WEB_045/2f0e59aa7a2eb8cbd33b.png	CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU
+crops/WEB_045/54cdc92238d8c86ef495.png	HÓA ĐƠN
+crops/WEB_045/06afa75bbe323a570b1e.png	Địa chỉ: 379-381 Hai Bà Trưng, Phường Võ Thị Sáu,
+crops/WEB_045/4423f23ef64131e952b8.png	Ký hiệu (Series): 1C24MHS
+crops/WEB_045/ede02a85afe2a9576708.png	Quận 3, Thành phố Hồ Chí Minh, Việt Nam
+crops/WEB_045/78a30c4e45a480b75bca.png	Số (No.): 48344744
+crops/WEB_045/b1febfa00c88b708dd8a.png	GIÁ TRỊ GIA TĂNG
+crops/WEB_045/34529cd83de306882403.png	Mã số thuế: 0315275368
+crops/WEB_045/1be9d967fe8676d8811b.png	(Hóa đơn điện tử khởi tạo từ máy tính tiền)
+crops/WEB_045/2698b1517f0b9f89cf23.png	Điện thoại: 18006928 (Tư vấn) – 18006928 Nhánh 2
+crops/WEB_045/4ee73ce58757bebff68e.png	(TT Vaccine) - 18006928 Nhánh 3 (Khiếu nại)
+crops/WEB_045/3f975204b6d30b8d9e7a.png	Tài khoản: 12210002339054 Tại Ngân hàng Đầu Tư và
+crops/WEB_045/cd0432227d95f86cf382.png	Phát Triển Việt Nam (BIDV)-CN Hà Thành
+crops/WEB_045/17c720770f66ef1a2305.png	Tên người mua hàng: chị lựu
+crops/WEB_045/dd2ed12b2b0f41b340e7.png	Tên đơn vị mua hàng: chị lựu
+crops/WEB_045/fa64f919dbc25e7fdcc3.png	Địa chỉ: bạch liên, Xã Yên Thành, Huyện Yên Mô, Tỉnh Ninh Bình
+crops/WEB_045/e2f9689e22e3bd09ad3f.png	Mã số thuế:
+crops/WEB_045/850b99edaa281b092777.png	Xuất tại kho: 80239
+crops/WEB_045/0d983c51805e21abfe05.png	Đồng tiền thanh toán:
+crops/WEB_045/3122f241ffcd58e4ae19.png	Hình thức thanh toán:
+crops/WEB_045/7bdd218ca76fb54e7194.png	Số lượng
+crops/WEB_045/0a08557162a9d43dc85d.png	Thuế suất
+crops/WEB_045/27c9c120832fc9512fa4.png	Thành tiền
+crops/WEB_045/8b603b02ec39a78ccce9.png	Đơn vị
+crops/WEB_045/03b64d2c7ac7d1193a1b.png	Đơn giá
+crops/WEB_045/cd105cc2320e45317bc6.png	Tên hàng hóa, dịch vụ
+crops/WEB_045/e4d44270c4432ccab334.png	7 = 5 x 6
+crops/WEB_045/4c59630951dc50cc0ca0.png	Hộp
+crops/WEB_045/39b46cd69c3aca80d172.png	Thuế suất
+crops/WEB_045/e82e0fa46c424d18fa2c.png	Tổng cộng
+crops/WEB_045/2267ae29a69208690b7a.png	Không chịu thuế
+crops/WEB_045/6ad4d57dd85a26a64cf3.png	Tiền hàng hóa, DV
+crops/WEB_045/2711e003703ed50a1904.png	Tiền thuế
+crops/WEB_045/8827af9b4d43ef462b2b.png	Tiền thanh toán
+crops/WEB_045/0f88aebf3cde65fad2cf.png	Số tiền viết bằng chữ: Một trăm ba mươi hai nghìn đồng
+crops/WEB_045/ae1d602bc1357f3a6877.png	Tiêu điểm:
+crops/WEB_045/0a05b524ef715bb67421.png	Tích điểm:
+crops/WEB_045/542211928f4a4df3187d.png	(Cần kiểm tra, đối chiếu khi giao và nhận hóa đơn)
+crops/WEB_058/5bf36f4c497b51bfb171.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_058/99853d494570efdc30fe.png	Mẫu số (Form): 01GTKT0/002
+crops/WEB_058/f612b9b77eff1ca3ef31.png	Ký hiệu (Serial): DP/21E
+crops/WEB_058/040b17304c26d09d8c62.png	Số (No.): 0405974
+crops/WEB_058/b94c70ec91fac59c7f58.png	Đơn vị bán hàng (Seller) : CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ KỸ THUẬT DIỆU PHÚC
+crops/WEB_058/ee20504098889554c4f2.png	Mã số thuế (VAT code) : 0316172372
+crops/WEB_058/02deec53fb592a06418d.png	: 350-352 Võ Văn Kiệt, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh
+crops/WEB_058/dfc55ea960237fddddef.png	Địa chỉ (Address)
+crops/WEB_058/f6bb1996fbe39d6b69ed.png	Điện thoại (Tel)
+crops/WEB_058/efaea5dd2cad4b93316b.png	Số tài khoản (A/C No.)
+crops/WEB_058/95647844c754b16ad471.png	Họ tên người mua hàng (Buyer) : Anh Vũ
+crops/WEB_058/a20231394784aa355a81.png	Tên đơn vị (Company's name)
+crops/WEB_058/aad9bde5944677560bcf.png	Mã số thuế (Tax code)
+crops/WEB_058/0bb126bf5048e1c07654.png	Hình thức thanh toán (Payment method): TM, CK
+crops/WEB_058/a7c167f1239d024ddfd9.png	Địa chỉ (Address)
+crops/WEB_058/f586ae2e6b3d461643c7.png	Thành tiền
+crops/WEB_058/36d7971ad3dd0cd1f96d.png	Thành tiền
+crops/WEB_058/3bda2b21556871bcaf96.png	Số
+crops/WEB_058/0d5feed7f925cb81fde8.png	(Chưa thuế
+crops/WEB_058/1f184d1086f53957d624.png	Đơn vị
+crops/WEB_058/abe7f7ef399fe4f2491d.png	Tiền thuế
+crops/WEB_058/275dfc95263ca1c0ec38.png	(Gồm thuế
+crops/WEB_058/60d0477bc9fdcec9e972.png	Đơn giá
+crops/WEB_058/b5af2953eb4e4950c434.png	Tên hàng hóa, dịch vụ
+crops/WEB_058/41bded2eab45e73adc33.png	lượng
+crops/WEB_058/c22245e891f4df5bfcdf.png	BẠC CŨ - ĐẸP- IMEI:
+crops/WEB_058/6008c054886c400413f8.png	Cộng tiền hàng (Total amount):
+crops/WEB_058/e0a4dc220144620ed7b2.png	Số tiền viết bằng chữ (Amount in words): Hai mươi hai triệu sáu trăm chín mươi nghìn đồng
+crops/WEB_058/e5e8b251dd214aa3d272.png	Người mua hàng (Buyer)
+crops/WEB_058/57a6c029158c330a02f7.png	Người bán hàng (Seller)
+crops/WEB_058/149135741b89f341e25b.png	Ký, đóng dấu, ghi rõ họ tên
+crops/WEB_058/2807035cde0a208278a4.png	Ký, ghi rõ họ tên
+crops/WEB_058/577bdd01567c52c5c008.png	Ký bởi: CÔNG TY T NHH THƯƠNG MẠI VÀ DỊCH
+crops/WEB_058/2eaf7470ea31e82442e8.png	VỤ KỸ THUẬT DIỆU PHÚC
+crops/WEB_058/ed7b78f7fdf4ac52a191.png	(Code: 1FDDLGTP0)
+crops/WEB_096/9cac12843d0955be45d2.png	CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ XUÂN PHÙNG
+crops/WEB_096/ecb37a673d3cd2a912a1.png	Mã số thuế : 2902183387
+crops/WEB_096/412431014c49f1e7d263.png	: Số 63, đường Ngư Hải, Phường Quang Trung, Thành phố Vinh, Tỉnh Nghệ An, Việt Nam
+crops/WEB_096/8f30b5f58c94507ee0d4.png	Địa chỉ
+crops/WEB_096/d45ee231474a2435cf32.png	Điện thoại : 0975545780
+crops/WEB_096/3e95f6efcdc935a9d11d.png	Số tài khoản: 8650016343 - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - CN Nghệ An
+crops/WEB_096/a5f4e07cdf2256178b9c.png	Ký hiệu: 1C25TXP
+crops/WEB_096/571e966901cd34d571a6.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_096/43cd032340957ef1764e.png	Số:
+crops/WEB_096/3b05257f0d9864d03105.png	Ngày 15 tháng 05 năm 2025
+crops/WEB_096/c15824f6302cb0c04964.png	Họ tên người mua hàng:
+crops/WEB_096/0de6bd7419a18cb8cd66.png	Tên đơn vị: CÔNG TY TNHH GANG THÉP HƯNG NGHIỆP FORMOSA HÀ TĨNH
+crops/WEB_096/259695379ec36aab813b.png	Mã số thuế: 3000437821
+crops/WEB_096/1ed3ceb1df361e8cc776.png	Địa chỉ: Khu kinh tế Vũng áng, Phường Kỳ Long, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam
+crops/WEB_096/6c13bc49ebcb4e513b58.png	Số tài khoản:
+crops/WEB_096/7606df35321487b1c025.png	Hình thức thanh toán: TM/CK
+crops/WEB_096/8bf42029f7df63684e77.png	Số lượng
+crops/WEB_096/09ed9da1f2cd2de6377a.png	Thành tiền
+crops/WEB_096/d2ccc554d2263c891d81.png	Đơn giá
+crops/WEB_096/db13dcb839225a60939f.png	Tên hàng hóa, dịch vụ
+crops/WEB_096/0fe19d6d36050c21981f.png	Đơn vị tính
+crops/WEB_096/aa208b76b433714d3aff.png	Đầu bò hay Bộ đầu cắt mới 236, 143. 541 rpl 579 07
+crops/WEB_096/58cfaaf303d58f767570.png	ống cần MCC 143R, 236
+crops/WEB_096/fe20ddf067f38e21220a.png	Lọc gió mút MCC 236, 143 2015 mới
+crops/WEB_096/c676f2693e4d9609c20e.png	ốc bắt lưỡi cắt cỏ MCC143R,236R
+crops/WEB_096/ba33e4fd39dfa16bbbea.png	Cộng tiền hàng:
+crops/WEB_096/68ccd23981e245512795.png	Thuế suất GTGT:
+crops/WEB_096/0ddfd9717324d32b65ce.png	10% Tiền thuế GTGT:
+crops/WEB_096/d3cbdec7e5e048cf5a5f.png	Tổng tiền thanh toán:
+crops/WEB_096/f20e9e6979301a5b6980.png	Số tiền viết bằng chữ: Một triệu ba trăm bảy mươi tám nghìn ba trăm đồng chẵn.
+crops/WEB_096/e72ce417c7f2b45d781f.png	Người bán hàng
+crops/WEB_096/df870d2592af93e53470.png	Người mua hàng
+crops/WEB_096/704ae632912187ea08be.png	(Chữ ký số (nếu có))
+crops/WEB_096/132ff23c9bf1d2950d30.png	(Chữ ký điện tử, Chữ ký số)
+crops/WEB_096/d91d5965255db3dbe99c.png	Ký bởi: CÔNG TY TNHH THƯƠNG MẠI
+crops/WEB_096/015d367d9d101d1b51cd.png	DỊCH VỤ XUÂN PHÙNG
+crops/WEB_096/b07596bd40a303da652c.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: 4RH8FNWJ73LB
+crops/WEB_096/8df63557e2b0a34984bf.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_097/a3fa2a247a5fc9e27bd9.png	CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ XUÂN PHÙNG
+crops/WEB_097/b793023b10bbf61d8a7f.png	Mã số thuế : 2902183387
+crops/WEB_097/c74a3aeb475ae7368d31.png	: Số 63, đường Ngư Hải, Phường Quang Trung, Thành phố Vinh, Tỉnh Nghệ An, Việt Nam
+crops/WEB_097/11ec91dcd03c0f446b55.png	Địa chỉ
+crops/WEB_097/cfd67d2753354745e049.png	Điện thoại : 0975545780
+crops/WEB_097/d22114497ef40dc5292a.png	Số tài khoản: 8650016343 - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - CN Nghệ An
+crops/WEB_097/046eaed1deeef87f65f7.png	Ký hiệu: 1C25TXP
+crops/WEB_097/b1865f42caa261b921a1.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_097/4416ebab25a537697f00.png	Số:
+crops/WEB_097/4e4503dbcd392a1f346c.png	Ngày 15 tháng 05 năm 2025
+crops/WEB_097/995e4a090b1584bc557a.png	Họ tên người mua hàng:
+crops/WEB_097/a21d9b1d0e83d85273b0.png	Tên đơn vị: CÔNG TY TNHH GANG THÉP HƯNG NGHIỆP FORMOSA HÀ TĨNH
+crops/WEB_097/cfbf1e3f1232a86bce54.png	Mã số thuế: 3000437821
+crops/WEB_097/8b865c79971a68f653af.png	Địa chỉ: Khu kinh tế Vũng áng, Phường Kỳ Long, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam
+crops/WEB_097/4bf28d0a24212a9df62e.png	Số tài khoản:
+crops/WEB_097/c33bda948632a339df96.png	Hình thức thanh toán: TM/CK
+crops/WEB_097/575d5129e5dda0d021a4.png	Số lượng
+crops/WEB_097/c71a1c2b292113e8dd58.png	Thành tiền
+crops/WEB_097/6460fb57a614b2f9d366.png	Đơn giá
+crops/WEB_097/6a5b1b627585c0c48a3f.png	Tên hàng hóa, dịch vụ
+crops/WEB_097/77512fd2a87c44fb574a.png	Đơn vị tính
+crops/WEB_097/5d71c01e3c62660377a0.png	Xi lanh 226R, phun thuốc 325S25 ( không piston)
+crops/WEB_097/8d1adb61c81ca4083f3c.png	Piston 226R 34mm, phun thuốc 325S25
+crops/WEB_097/e9bad9c447d1bd2fa2e0.png	Séc măng 226R, phun thuốc 325S25
+crops/WEB_097/ebbc051eafe50b6169e5.png	Phanh chặn chốt piston 226R
+crops/WEB_097/57c325c2d0eea37f3fa4.png	Chốt piston 226R, phun thuốc 325S25
+crops/WEB_097/245dbc3b8fe9a449dc03.png	Côn trong 226 cả bộ
+crops/WEB_097/9107944ba0bd595a7940.png	ốc bắt lưỡi cắt MCC 226, 125R
+crops/WEB_097/d3721667b3ae3142c146.png	Cộng tiền hàng:
+crops/WEB_097/34602de444e50ead47f8.png	Thuế suất GTGT:
+crops/WEB_097/735be854ce93e4c0adc3.png	10% Tiền thuế GTGT:
+crops/WEB_097/b7e9faa0eb6f26214450.png	Tổng tiền thanh toán:
+crops/WEB_097/ca1040109973aa120b5c.png	Số tiền viết bằng chữ: Một triệu ba trăm chín mươi hai nghìn đồng chẵn.
+crops/WEB_097/be0db3f8a11e2c313ee1.png	Người bán hàng
+crops/WEB_097/f4329cecc199f67bb57b.png	Người mua hàng
+crops/WEB_097/10d8fecf53a8447d7f46.png	(Chữ ký số (nếu có))
+crops/WEB_097/0a3381bdf88af740200f.png	(Chữ ký điện tử, Chữ ký số)
+crops/WEB_097/7d64fe511e29ba7a9f5a.png	Ký bởi: CÔNG TY TNHH THƯƠNG MẠI
+crops/WEB_097/2746076a849e721b37a5.png	DỊCH VỤ XUÂN PHÙNG
+crops/WEB_097/431b174e5b92a55c398f.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: ZLH1F2_15ME0
+crops/WEB_097/594934ff8c11cbde6d68.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_110/95205bf85cb24254167a.png	HÓA ĐƠN GIÁ TRỊ GIAT ĂNG
+crops/WEB_110/c2d0636df6a17a2b3648.png	Ký hiệu (Serial): 1C24THT
+crops/WEB_110/03090b05778e034edf07.png	Số (No.): 615939
+crops/WEB_110/d3a9447c4b9ff569fdb3.png	Mã của CQT: 00893B473741AA4063823B9E842307CA3E
+crops/WEB_110/26f3828be7a1b3aab849.png	Đơn vị bán hàng (Seller) : Công ty TNHH Thương Mại Tổng hợp HTV
+crops/WEB_110/e632b021ffd08c5ae161.png	Mã số thuế (VAT code) : 0108075931
+crops/WEB_110/db8c1e69c1ea4bab9848.png	: Số 543 Đường Nguyễn Trãi - Phường Thanh Xuân Nam - Quận Thanh Xuân - TP Hà Nội - Việt
+crops/WEB_110/282d3c4ec6f026d659f7.png	Địa chỉ (Address)
+crops/WEB_110/0e73409771f3190d2dc0.png	Điện thoại (Tel)
+crops/WEB_110/f466b12c4e3f6b30e48d.png	Số tài khoản (A/C No.)
+crops/WEB_110/6d85b5ac3da9e5c4d13f.png	Họ tên người mua hàng (Buyer) : Hoàng Thế Công
+crops/WEB_110/c83a502e4953b4ecfbf8.png	Tên đơn vị (Company's name)
+crops/WEB_110/25654b506c9b0ec17903.png	Mã số thuế (Tax code)
+crops/WEB_110/b943d44b264502ef6835.png	Hình thức thanh toán (Payment method): TM, CK
+crops/WEB_110/f0c78f758be4f1f0c98e.png	: s3 Gold mark city, Quận Bắc Từ Liêm, Hà Nội
+crops/WEB_110/f239456d8d8fb53e21f5.png	Địa chỉ (Address)
+crops/WEB_110/c3be837321006781d6dd.png	Thành tiền
+crops/WEB_110/c98cdafb57cc0342055a.png	Thành tiền
+crops/WEB_110/3ea32e981874be2e6dae.png	Số
+crops/WEB_110/9d98d66a36dfacde0677.png	(Chưa thuế
+crops/WEB_110/3e0fa570ec4053804654.png	Đơn vị
+crops/WEB_110/b0e7346a386885df33f5.png	Tiền thuế
+crops/WEB_110/560f7e0e101ff97762a4.png	(Gồm thuế
+crops/WEB_110/a8a2e4814b7aa8ca4f35.png	Đơn giá
+crops/WEB_110/946303ea0aacc4d9e514.png	Tên hàng hóa, dịch vụ
+crops/WEB_110/ea0658c4615bab5280b7.png	lượng
+crops/WEB_110/ba4074bde6e8eaa2c685.png	MáyTínhBảng Samsung SM-
+crops/WEB_110/a177ee0971a24802f6af.png	GIÁ ĐỠ ĐIỆN THOẠI WIWU
+crops/WEB_110/4e7a0cb20573218b14f4.png	Baodakèmbànphím (Padchuột)
+crops/WEB_110/4519498f2fcc01076e9b.png	TabS9Ult,Đen- IMEI:
+crops/WEB_110/55e0a77652649823a139.png	Cộng tiền hàng (Total amount):
+crops/WEB_110/d2ba90e41acdfc3b27b1.png	Người mua hàng (Buyer)
+crops/WEB_110/268edb82579b3158959b.png	Người bán hàng (Seller)
+crops/WEB_110/701b34da1ceef96c3137.png	Ký, ghi rõ họ tên
+crops/WEB_110/86555cefd09248fbfb84.png	Ký, đóng dấu, ghi rõ họ tên
+crops/WEB_110/17697b8babde1ab2b8cf.png	Ký bởi: Công ty TNHH Thương Mại Tổng hợp HTV
+crops/WEB_110/fecdd6e7ab94ddd55a75.png	Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/
+crops/WEB_110/9e20998560ee76df5d17.png	Mã nhận hóa đơn (Code for checking): C56Q4EEZF
+crops/WEB_111/ce1c44fa097c696f54ab.png	HÓA ĐƠN GIÁ TRỊ GIAT ĂNG
+crops/WEB_111/a1ff5ce4779066753466.png	Ký hiệu (Serial): 1C23THT
+crops/WEB_111/da302cfb5b8c2a81df35.png	Số (No.): 559083
+crops/WEB_111/2675f3fc7466323d0311.png	Mã của CQT: 00682C918F40EE43B49CFB840F2B2235D7
+crops/WEB_111/81529eb2461e18d536c3.png	Đơn vị bán hàng (Seller) : Công ty TNHH Thương Mại Tổng hợp HTV
+crops/WEB_111/488c240b2316f4105faa.png	Mã số thuế (VAT code) : 0 1 0 8 0 7 59 3 1
+crops/WEB_111/e86a19527f77a3af27d5.png	: Số 543 Đường Nguyễn Trãi - Phường Thanh Xuân Nam - Quận Thanh Xuân - TP Hà Nội - Việt
+crops/WEB_111/afdb62b312eabc58d7f8.png	Địa chỉ (Address)
+crops/WEB_111/59df5c5b0d05433e2168.png	Điện thoại (Tel)
+crops/WEB_111/e119b4c42cc7dc0f8831.png	Số tài khoản (A/C No.)
+crops/WEB_111/9cbd636400b1ad3535d4.png	Họ tên người mua hàng (Buyer) : Ngô Đình Hoàng
+crops/WEB_111/2d53bbc1e1702ebb5617.png	Tên đơn vị (Company's name)
+crops/WEB_111/13c867fb22a8f230fcc4.png	Mã số thuế (Tax code)
+crops/WEB_111/823f4873e75b44042232.png	Hình thức thanh toán (Payment method): TM, CK
+crops/WEB_111/cca7e88458aa62f18a2c.png	: YÊN HÒA - CẦU GIẤY - HN
+crops/WEB_111/8d4e2bd14a505f979f2a.png	Địa chỉ (Address)
+crops/WEB_111/8908b8109d276c13f6e9.png	Thành tiền
+crops/WEB_111/7812c735cf08626a8cd6.png	Thành tiền
+crops/WEB_111/78dc354ade1877eb61b3.png	Số
+crops/WEB_111/0c2d85d0512d79459a28.png	(Chưa thuế
+crops/WEB_111/6cd601bae9a57bcb08df.png	Đơn vị
+crops/WEB_111/20e8d09591ce7f7fa394.png	Tiền thuế
+crops/WEB_111/6f8ac76abe85f436e711.png	(Gồm thuế
+crops/WEB_111/609b8ad5330f8f326daa.png	Đơn giá
+crops/WEB_111/bfa5f7f7e766b8d16d07.png	Tên hàng hóa, dịch vụ
+crops/WEB_111/d7fee294ba0a926f7ba6.png	lượng
+crops/WEB_111/a0bd86e1dc7e21eb8874.png	Điện thoại Apple iPhone 15 Pro,
+crops/WEB_111/c99259f58597cc26b6a4.png	WTY_MTUX3VN/A- IMEI:
+crops/WEB_111/88302d08abcb2b5a0757.png	Cộng tiền hàng (Total amount):
+crops/WEB_111/3a8a330353071e5cdd58.png	Số tiền viết bằng chữ (Amount in words): Hai mươi tám triệu bảy trăm nghìn đồng
+crops/WEB_111/bd494f7e01331b498f02.png	Người mua hàng (Buyer)
+crops/WEB_111/98bf185a21e914d4f22b.png	Người bán hàng (Seller)
+crops/WEB_111/73a16d0915855525db7c.png	Ký, đóng dấu, ghi rõ họ tên
+crops/WEB_111/cb2c80f722e842742561.png	Ký, ghi rõ họ tên
+crops/WEB_111/8b527ca44a118642398e.png	Ký bởi: Công ty TNHH Thương Mại Tổng hợp HTV
+crops/WEB_111/93a4b0bd7b56772abb09.png	Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/
+crops/WEB_111/e8bccf41a67b5f4767e5.png	Mã nhận hóa đơn (Code for checking): NSGIX08NP
+crops/WEB_112/e0dc7a2162b91593f350.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_112/75cdb589d63650461d7f.png	Ký hiệu (Serial): 1C24TDP
+crops/WEB_112/572d8075d7ab543a3efc.png	Số (No.): 291637
+crops/WEB_112/2a9e8ab1bf99d9befca6.png	Mã của CQT: 00A5A02E9519114E33AEBE5CFF9C18024B
+crops/WEB_112/78913a917a847c1c419c.png	Địa chỉ (Address)
+crops/WEB_112/38cb5dd50f816aef6129.png	Điện thoại (Tel)
+crops/WEB_112/eda3a5ec1cabc7df096f.png	Số tài khoản (A/C No.)
+crops/WEB_112/4c06da414771388877f4.png	Tên đơn vị (Company's name)
+crops/WEB_112/26e60f7b08c66fbb18c0.png	Mã số thuế (Tax code)
+crops/WEB_112/9bf3d7f2757b6038a0fe.png	Địa chỉ (Address)
+crops/WEB_112/5fd730d89240dddea637.png	Thành tiền
+crops/WEB_112/f5ac10b07601a674ed8a.png	Thành tiền
+crops/WEB_112/dc91ad25ec8b8899e326.png	Số
+crops/WEB_112/e302663fcb3ab1a18b87.png	Tên hàng hóa, dịch vụ
+crops/WEB_112/55ad59a80cfab5526003.png	Cộng tiền hàng (Total amount):
+crops/WEB_112/c946439bbafb9672196e.png	Người mua hàng (Buyer)
+crops/WEB_112/a3e9a25eae46144ba4df.png	Ký, đóng dấu, ghi rõ họ tên
+crops/WEB_112/ef70bd4e2a7d89679089.png	Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/
+crops/WEB_112/dd36da74d9a0f522c71b.png	Mã nhận hóa đơn (Code for checking): GXPERKDF6
+crops/WEB_113/c1723ee0edc3f09b6c7e.png	Ký hiệu (Serial): 1C24TDP
+crops/WEB_113/866dbceab782ab590bd8.png	Mã của CQT: 00113DB71E3E0B4C59A2DB0B5FF0B22905
+crops/WEB_113/3e094b1625af97de7a7f.png	Địa chỉ (Address)
+crops/WEB_113/3ba870a3018e32b0d914.png	Điện thoại (Tel)
+crops/WEB_113/ff0906912905cb049cc6.png	Số tài khoản (A/C No.)
+crops/WEB_113/e60887275e18741355f4.png	Tên đơn vị (Company's name)
+crops/WEB_113/e307a5c1e24c37a17ac3.png	Mã số thuế (Tax code)
+crops/WEB_113/4a6d03a2c0db0ad00964.png	Hình thức thanh toán (Payment method): TM, CK
+crops/WEB_113/906883803a5c7256df62.png	Địa chỉ (Address)
+crops/WEB_113/e296b6b9f30534bee983.png	Thành tiền
+crops/WEB_113/77dcbf6c3a7efe08bb8b.png	Thành tiền
+crops/WEB_113/ccd696ec93a4d616aa4d.png	Số
+crops/WEB_113/29522b546fc77efce13e.png	Tên hàng hóa, dịch vụ
+crops/WEB_113/60aa0942d0f8f5264562.png	Bàn di chuột Apple Magic
+crops/WEB_113/263d04485df72dcfb8c2.png	Surface_MMMP3ZA/A- IMEI:
+crops/WEB_113/ee4e4815802e1e4daaa5.png	Cộng tiền hàng (Total amount):
+crops/WEB_113/baba1bb1b805d2c599dd.png	Người mua hàng (Buyer)
+crops/WEB_113/5296809144a6705d7934.png	Ký, đóng dấu, ghi rõ họ tên
+crops/WEB_113/2fd9ea607abbfe49191a.png	Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/
+crops/WEB_113/071e67836d5378a9fb50.png	Mã nhận hóa đơn (Code for checking): 46JHABTSY
+crops/WEB_114/f743c49e3c43f8c6ecfb.png	Ký hiệu (Serial): 1C24TDP
+crops/WEB_114/43050a0f492738e96c59.png	Mã của CQT: 0007E9A7EB8AEB4AADB8654E7F9522671C
+crops/WEB_114/ff472c11420208a3489f.png	Mã số thuế (VAT code): 0316172372
+crops/WEB_114/86b9836e180e35cf6ed4.png	Địa chỉ (Address)
+crops/WEB_114/d9cf68507950b60eeb1a.png	Điện thoại (Tel)
+crops/WEB_114/4df18066d00f045004be.png	Số tài khoản (A/C No.)
+crops/WEB_114/e0641d964db94b21b572.png	Tên đơn vị (Company's name)
+crops/WEB_114/4e9206c1f3d07ad723db.png	Mã số thuế (Tax code)
+crops/WEB_114/a74c0e8963781b1e6ab5.png	Hình thức thanh toán (Payment method): TM, CK
+crops/WEB_114/d32f1930d64db67666a3.png	Địa chỉ (Address)
+crops/WEB_114/be04d66b73120c04e61a.png	Thành tiền
+crops/WEB_114/22f0aaf60465a6c66c0e.png	Thành tiền
+crops/WEB_114/38c35f07fcb71bee9399.png	Số
+crops/WEB_114/a5cb71a63eedbf4420aa.png	Tên hàng hóa, dịch vụ
+crops/WEB_114/78e8b498f6f93b78390a.png	EP-T4511XBEGWW Củ sạc
+crops/WEB_114/544599d8e4e1d0e86e51.png	Cộng tiền hàng (Total amount):
+crops/WEB_114/983cd0cb6466e8700382.png	Số tiền viết bằng chữ (Amount in words): Tám trăm ba mươi ba nghìn đồng
+crops/WEB_114/040a0c68305cefa1980c.png	Người mua hàng (Buyer)
+crops/WEB_114/a5fd06fa6ba0f1039f2e.png	Người bán hàng (Seller)
+crops/WEB_114/cd68a802dac1c20fba99.png	Ký, đóng dấu, ghi rõ họ tên
+crops/WEB_114/7d67679e9d2f576f075c.png	Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/
+crops/WEB_114/07c1d506f7693ebd5bb0.png	Mã nhận hóa đơn (Code for checking): 84M86ZEAJ
+crops/WEB_117/76f14cb02ad3566cb19e.png	HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+crops/WEB_117/bf683528d2b9abed1e8f.png	Ký hiệu: 1C26TCU
+crops/WEB_117/26e56521950741afd637.png	Ngày 27 tháng 01 năm 2026
+crops/WEB_117/ffe84b01584a881faf07.png	Địa chỉ: C6/24 đường Võ Văn Vân, Xã Tân Vĩnh Lộc, TP Hồ Chí Minh, Việt Nam.
+crops/WEB_117/460083bf3bf95e5794a3.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_117/ea4489fd38e24cd6a297.png	Họ tên người mua hàng:
+crops/WEB_117/be833deff1bf59c1316d.png	Mã số thuế: 0310765873
+crops/WEB_117/3887166636d858317746.png	Hình thức thanh toán: Chuyển khoản
+crops/WEB_117/8aa3cd49cf76257cc1ba.png	Thành tiền
+crops/WEB_117/fff57d27321d5b1fc1aa.png	Khuôn trụ 50x100mm VN
+crops/WEB_117/016567b8abfcdcb2769a.png	Cộng tiền hàng:
+crops/WEB_117/90bfd8d81ec1c8187f44.png	8% Tiền thuế GTGT:
+crops/WEB_117/dcc2187b7416f878fdc7.png	Thuế suất GTGT:
+crops/WEB_117/2c944577e0c5e5857f4d.png	Tổng tiền thanh toán:
+crops/WEB_117/22af92af0df75b5f4409.png	Số tiền viết bằng chữ: Mười bốn triệu năm trăm tám mươi nghìn đồng.
+crops/WEB_117/cf5d16b17bba1aa7ea53.png	Người mua hàng
+crops/WEB_117/76df8dd2ac14319e48bb.png	(Ký, ghi rõ họ, tên)
+crops/WEB_117/0b44f9f4c84927c9c614.png	THỊNH
+crops/WEB_117/31c404c8b9a63c1e0a96.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: VLFWI_Z9XBNX
+crops/WEB_117/7f3adbf4f652c6f26fb4.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_118/a5a1431f2662ad551a53.png	Ký hiệu: 1C25TCU
+crops/WEB_118/9762ee7ae0a01ba27088.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_118/a987ff735c10f1261308.png	Họ tên người mua hàng:
+crops/WEB_118/820a283b11762b477d7c.png	Hình thức thanh toán: Chuyển khoản
+crops/WEB_118/c58bcb5cd153a32f0f5d.png	Thành tiền
+crops/WEB_118/a0bd5937facfa641e6f3.png	Máy thí nghiệm đầm tạo mẫu đất CBR tự động
+crops/WEB_118/40a522de5d16d76b8b0b.png	Tủ sấy 101-2A
+crops/WEB_118/70467261761ed58d98c7.png	Đế từ 60kgf 6201-60
+crops/WEB_118/15aef75d63ef212f3547.png	Sàng đường kính 300mm
+crops/WEB_118/a13bf66b5f8c3f96897a.png	Cộng tiền hàng:
+crops/WEB_118/c8263d3ba3c465ab0e17.png	Thuế suất GTGT:
+crops/WEB_118/57414f714b02c2853581.png	8% Tiền thuế GTGT:
+crops/WEB_118/249df1cd0f9cf227bacb.png	Tổng tiền thanh toán:
+crops/WEB_118/9a05bdd8436e1aa7f53d.png	Người mua hàng
+crops/WEB_118/c09f1d87f0fdec92ffd8.png	(Ký, ghi rõ họ, tên)
+crops/WEB_118/e0e748ba28cd059ccdff.png	(Ký, ghi rõ họ, tên)
+crops/WEB_118/dcbbdcba62ec73557a4b.png	THỊNH
+crops/WEB_118/b45f9890cfdfebb3d7af.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: DEHKT02JKXK_
+crops/WEB_118/19720d5dc6eefcbf6ce0.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_119/4a77cccd24150f1953a4.png	Ký hiệu: 1C25TCU
+crops/WEB_119/0b720ed71a60d3fb31bc.png	Ngày 12 tháng 02 năm 2025
+crops/WEB_119/2fa9dc0fb71efe314c54.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_119/c7287ba06ffb44112869.png	Họ tên người mua hàng:
+crops/WEB_119/0ce778b1856e193cb6be.png	Số tài khoản:
+crops/WEB_119/fdc0d3b3c52105c2588b.png	Hình thức thanh toán: Chuyển khoản
+crops/WEB_119/16c739333beb25edfb62.png	Thành tiền
+crops/WEB_119/2b18fd373a0a1264af4f.png	Bộ
+crops/WEB_119/2e49bd2e7935f93f5e7c.png	Chày cối proctor tiêu chuẩn
+crops/WEB_119/1077d73911c662dbf74d.png	Cần Benkelman
+crops/WEB_119/233c5ffe0ad92ea63927.png	Tấm ép cứng 330mm -VN
+crops/WEB_119/744d5314a545da3d2f5c.png	Cộng tiền hàng:
+crops/WEB_119/d324a2f509cf789d90c1.png	Thuế suất GTGT:
+crops/WEB_119/f210f457eac145de5985.png	10% Tiền thuế GTGT:
+crops/WEB_119/aac2a28297ebe0b93ec7.png	Tổng tiền thanh toán:
+crops/WEB_119/d6b8463ea685ab312a2b.png	Số tiền viết bằng chữ: Chín triệu bốn trăm sáu mươi nghìn đồng.
+crops/WEB_119/e5afe126fa9e2080acb5.png	(Ký, ghi rõ họ, tên)
+crops/WEB_119/28e132b0a9670d3424d8.png	(Ký, ghi rõ họ, tên)
+crops/WEB_119/24405036adc4117f525c.png	THỊNH
+crops/WEB_119/0b65213edeb540ff3af2.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: E4HXT9L_8NP4
+crops/WEB_119/cc6d3c2d9e14d3fbd482.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_120/bb8982cc6514ab2bd9ec.png	Ký hiệu: 1C25TCU
+crops/WEB_120/56659b089b0e5abbca36.png	Ngày 06 tháng 01 năm 2025
+crops/WEB_120/a96e0daa420fe8f7c376.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_120/4c9e92b52e61c29ab9f9.png	Họ tên người mua hàng:
+crops/WEB_120/7c4af9e7ad2c1b4ab5f6.png	Thành tiền
+crops/WEB_120/6d82a33e95249e766b47.png	Bộ
+crops/WEB_120/c66d0a00b4dc714dfe1c.png	Bộ
+crops/WEB_120/e0852c436acc0d7ee10f.png	Bộ xác định góc cạnh cốt liệu - VN
+crops/WEB_120/ee0e9403b6e174945c6c.png	Tấm ép 61cm - VN
+crops/WEB_120/e7838e7299d03d270874.png	Tấm ép 46cm - VN
+crops/WEB_120/c1b317a318235de73989.png	Cộng tiền hàng:
+crops/WEB_120/c7ee3f88fd3a815a1d81.png	Thuế suất GTGT:
+crops/WEB_120/41029012b1ebc5a0e123.png	Tổng tiền thanh toán:
+crops/WEB_120/c6dd75dea8b99a0c0283.png	Số tiền viết bằng chữ: Sáu triệu bốn trăm bảy mươi ba nghìn năm trăm đồng.
+crops/WEB_120/3da131bf917d3be162b0.png	Người mua hàng
+crops/WEB_120/1a2222772d134d46ec92.png	(Ký, ghi rõ họ, tên)
+crops/WEB_120/bb6fd73e97fca7536e80.png	THỊNH
+crops/WEB_120/11db52e14deb01090e72.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: Q5H5IL3ER2NP
+crops/WEB_120/0444e14c15b57caa26dc.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_121/d1751870d689d9c1ae42.png	Ký hiệu: 1C25TCU
+crops/WEB_121/8c2ce8ffa837aa8374ec.png	Ngày 05 tháng 09 năm 2025
+crops/WEB_121/0c47e738db6d1cee2037.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_121/f59a85e4b4e6f1c18473.png	Họ tên người mua hàng:
+crops/WEB_121/21e0522fa54d8135e310.png	Mã số thuế: 0310765873
+crops/WEB_121/66b8e6a2504ee98d522e.png	Thành tiền
+crops/WEB_121/f82966ac395404aa842d.png	Cát tiêu chuẩn
+crops/WEB_121/7230377cef55be52c172.png	Cộng tiền hàng:
+crops/WEB_121/fa5b6f2636ecbad6711f.png	10% Tiền thuế GTGT:
+crops/WEB_121/47e86526b886cbf3f5f1.png	Thuế suất GTGT:
+crops/WEB_121/828e30c0f00973f2e3cc.png	Tổng tiền thanh toán:
+crops/WEB_121/846341c1c3e8e2b5996d.png	Người mua hàng
+crops/WEB_121/b37babb5a321f929d024.png	(Ký, ghi rõ họ, tên)
+crops/WEB_121/c8ef2ea69e6349cbf66e.png	THỊNH
+crops/WEB_121/6ffc780a954349c9097e.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: WGH9T18EM53A
+crops/WEB_121/e047e84f2c643d30825b.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_122/052053e533a6d13a7cf5.png	Ký hiệu: 1C25TCU
+crops/WEB_122/cecf6619f681c48faa5d.png	Ngày 11 tháng 11 năm 2025
+crops/WEB_122/f5b50213cb9f5b0f339d.png	Địa chỉ: C6/24 đường Võ Văn Vân, Xã Tân Vĩnh Lộc, TP Hồ Chí Minh, Việt Nam.
+crops/WEB_122/8a35a42eb291e898e527.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_122/c52fd8c3bb4de339f785.png	Họ tên người mua hàng:
+crops/WEB_122/fa88da9fee571bf438b8.png	Thành tiền
+crops/WEB_122/f0da7dc496154131fa3d.png	Khuôn vữa kép 3 50x50x50mm _VN
+crops/WEB_122/0703471dc723c83c0c05.png	Bộ
+crops/WEB_122/ed4d01b4d9ea2395d8b8.png	Bộ gá uốn mẫu xi măng 40x40x160mm
+crops/WEB_122/a37a3702cb3f9ced24a4.png	Cộng tiền hàng:
+crops/WEB_122/9ae5cbe3fa4466063194.png	Thuế suất GTGT:
+crops/WEB_122/a5352c8e42406c8510ca.png	Tổng tiền thanh toán:
+crops/WEB_122/742d35cfb0a8ba045748.png	Số tiền viết bằng chữ: Ba triệu tám trăm hai mươi ba nghìn hai trăm đồng.
+crops/WEB_122/73a75351731da479ca34.png	Người mua hàng
+crops/WEB_122/d364a21924595435d1c4.png	(Ký, ghi rõ họ, tên)
+crops/WEB_122/93263950f0025d8408ec.png	THỊNH
+crops/WEB_122/93fb7707bf7ad8496a70.png	Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: RVHXH1BVGPR0
+crops/WEB_122/b5459f092318b321563d.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_123/349b7d135bcad2080519.png	Ký hiệu: 1C25TCU
+crops/WEB_123/4d772954fd701379f388.png	Ngày 15 tháng 12 năm 2025
+crops/WEB_123/dfbaa1b35530c70603af.png	Địa chỉ: C6/24 đường Võ Văn Vân, Xã Tân Vĩnh Lộc, TP Hồ Chí Minh, Việt Nam.
+crops/WEB_123/f4c4a28d1b534cbdf087.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_123/b0792cb0785c3cc77f49.png	Họ tên người mua hàng:
+crops/WEB_123/8545cf0b52aaddd9353e.png	Mã số thuế: 0310765873
+crops/WEB_123/b8bf4ae5a3804b1adac5.png	Thành tiền
+crops/WEB_123/3ab9dba61026accc2a17.png	Máy thí nghiệm kiểm tra độ nén xi măng Model:
+crops/WEB_123/9a2c3ad03ce10c0eebca.png	Bộ
+crops/WEB_123/312874a123095b49d265.png	Bộ gá thử uốn gạch - Việt Nam
+crops/WEB_123/7bb90918553a6c08732d.png	Cộng tiền hàng:
+crops/WEB_123/d0cf1b624b331ae5187d.png	Thuế suất GTGT:
+crops/WEB_123/84b6c12a060ed12f5610.png	8% Tiền thuế GTGT:
+crops/WEB_123/507a45142144a3d36bad.png	Tổng tiền thanh toán:
+crops/WEB_123/cd80b499f4c744876fef.png	Số tiền viết bằng chữ: Ba mươi sáu triệu hai trăm tám mươi tám nghìn đồng.
+crops/WEB_123/5ebcf494a417107ff016.png	Người mua hàng
+crops/WEB_123/b5d136e641a8d29e9e87.png	(Ký, ghi rõ họ, tên)
+crops/WEB_123/6521731952621a5fa746.png	(Ký, ghi rõ họ, tên)
+crops/WEB_123/40ba1bd44866520f584f.png	THỊNH
+crops/WEB_123/052faa1c1f205319dc0e.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_127/9ec6d8692d2835c559ce.png	Ký hiệu: 1C25TCU
+crops/WEB_127/80894d5cfa502c74ec61.png	Ngày 07 tháng 06 năm 2 025
+crops/WEB_127/f72b6398cc59e93d0105.png	Số tài khoản: 0501000013436 - Ngân Hàng Vietcombank - Chi nhánh Bắc Sài Gòn.
+crops/WEB_127/49ee69dba81ef214f7ed.png	Họ tên người mua hàng:
+crops/WEB_127/8f43da1136a4755c5136.png	Số tài khoản:
+crops/WEB_127/8fecb702d3f01218f728.png	Thành tiền
+crops/WEB_127/43737bc3a8c6679b8b77.png	Tên hàng hóa, dịch vụ
+crops/WEB_127/bc0079a780c5ed67db91.png	Sàng đường kính 300mm
+crops/WEB_127/ad44cb255c524fba5207.png	Cộng tiền hàng:
+crops/WEB_127/e76635a640ddbfdc965a.png	Thuế suất GTGT:
+crops/WEB_127/129b13a5b0c53c775e63.png	8% Tiền thuế GTGT:
+crops/WEB_127/16c840a62617b2c76b87.png	Tổng tiền thanh toán:
+crops/WEB_127/afef53c2440c61464110.png	Người mua hàng
+crops/WEB_127/fceffbea67a9fa729185.png	(Ký, ghi rõ họ, tên)
+crops/WEB_127/2be6f5879bdcdd8a9eea.png	THỊNH
+crops/WEB_127/8ac56ee7a4d6fd38afd3.png	(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+crops/WEB_221/6fb0ff890ba485d5feb0.png	Đơn vị bán hàng: Công ty TNHH Cơ Điện Thịnh Phát
+crops/WEB_221/13a47b64074c8b738ecf.png	Mã số thuế: 4101546032
+crops/WEB_221/31ed228dc37475b7cb56.png	Điện thoại: 02563815879
+crops/WEB_221/f5039e407295c97bd0a5.png	Họ tên ngƣời mua hàng: Nguyễn Thị Lan
+crops/WEB_221/cb0b80431ac35ee4ce3e.png	Tên đơn vị: Công ty TNHH Trí Hân
+crops/WEB_221/e5c917a2929ef721dba9.png	STK: 58110000123654
+crops/WEB_221/3e212f1ae0c664b7979a.png	Thành tiền
+crops/WEB_221/7c8834501381d39ae048.png	Tên hàng hóa, dịch vụ
+crops/WEB_221/30a6113bd4cebdb2ffb7.png	Đơn giá
+crops/WEB_221/febb9f8abbc77dd3ea1f.png	ĐVT
+crops/WEB_221/c8e465d9afbdd208a5b1.png	Bán bình chữa cháy
+crops/WEB_221/faf56b839c8e13f3f03a.png	Tiền thuế GTGT:
+crops/WEB_221/3f6ac0d450e03942dd7b.png	Tổng cộng tiền thanh toán:
+crops/WEB_221/62a287ab8598891d6d5e.png	Ngƣời bán hàng
+crops/WEB_221/7703cbaf0a5f669fa2e8.png	Ngƣời mua hàng
+crops/WEB_222/198c001bea2b4aa9fe88.png	HÓA ĐƠN (GTGT)
+crops/WEB_222/7478c674adfe951a809f.png	Ngày 18 tháng 1 1 năm 2020
+crops/WEB_222/812e3c34a0dbe972e1af.png	Mã số thuế: 4101546032
+crops/WEB_222/619246d428164835ef89.png	Tên đơn vị: Công ty CP DV& TM HDT Việt Nam- Chi nhánh ình Định
+crops/WEB_222/9d62d46bb3ee07590ead.png	STK: 58110000123457
+crops/WEB_222/519819cf50a7a327652f.png	ĐVT
+crops/WEB_222/126eb51d3eb626b3dcaa.png	Thành tiền
+crops/WEB_222/52bda114171f7981a75d.png	Tên hàng hóa, dịch vụ
+crops/WEB_222/c511ec33229ab9579796.png	Đơn giá
+crops/WEB_222/9912eb2c29e8bc432d5d.png	Hệ thống chống sét
+crops/WEB_222/e376afafe31342ec4148.png	Cộng tiền hàng: 377.678.010
+crops/WEB_222/79f00bbf439da4a04cb0.png	Tiền thuế GTGT:
+crops/WEB_222/a0c8ebf46be84a571137.png	Tổng cộng tiền thanh toán:
+crops/WEB_222/b0fb3b566e7ef1ef87f3.png	mƣời một đồng./.
+crops/WEB_222/fd83f97df7d75e3c5f84.png	Ngƣời mua hàng
+crops/WEB_223/ecdc704a0a69209d857b.png	HÓA ĐƠN (GTGT)
+crops/WEB_223/71a37ce4e7da8af22e21.png	Đơn vị bán hàng: Công ty TNHH Cơ Điện Thịnh Phát
+crops/WEB_223/d2ec46e4f71a7720fa46.png	Mã số thuế: 4101546032
+crops/WEB_223/3376aa885cfc107e2fa3.png	Địa chỉ: số 11A Tăng Bạt Hổ – TP Quy Nhơn – Tỉnh Bình Định
+crops/WEB_223/bdf5ad23d027bc88a6d6.png	Họ tên ngƣời mua hàng: Hà Thị Nhịp
+crops/WEB_223/e3af726c57e955298d51.png	Mã số thuế: 4201717429
+crops/WEB_223/5f63cacfc7a2bf41c6c3.png	Tỉnh Khánh Hòa
+crops/WEB_223/fa89f8b59b77db16864f.png	STK: 58010001141405
+crops/WEB_223/ea81258e79330075b3d3.png	Tên hàng hóa, dịch vụ
+crops/WEB_223/ba2ee26448b6682a46af.png	Đơn giá
+crops/WEB_223/136cdfa9766e601f2059.png	ĐVT
+crops/WEB_223/ca629b0e9373ba64455d.png	Bán hệ thống bộ đàm
+crops/WEB_223/54a74041ff87c8737bb6.png	Cộng tiền hàng: 238.218.435
+crops/WEB_223/db49e7937319e24d149e.png	Tiền thuế GTGT:
+crops/WEB_223/054de833725353e67637.png	Thuế suất GTGT:10%
+crops/WEB_223/6671c1dc8d0af78935a9.png	Tổng cộng tiền thanh toán:
+crops/WEB_223/d116532a5d100b6f0460.png	(Ký, đóng dấu, ghi rõ họ, tên)
+crops/WEB_224/e7e105cf347341d230d9.png	HÓA ĐƠN (GTGT)
+crops/WEB_224/50cf8b0e4287d34007a1.png	Mẫu số: 01GTKT3/001
+crops/WEB_224/e7565cab1b24a753344d.png	Số: 000654
+crops/WEB_224/88f22b459aa0afad7cee.png	Đơn vị bán hàng: Công ty TNHH Cơ Điện Thịnh Phát
+crops/WEB_224/c91873eb291cd42903cb.png	Mã số thuế: 4101546032
+crops/WEB_224/d016137e86aa0dd4ec91.png	Tên đơn vị: Công ty CP DV& TM HDT Việt Nam- CN ình Định
+crops/WEB_224/83705cdd4dd7243283dd.png	Mã số thuế:0105878560002
+crops/WEB_224/e8b68937e41f7140ed94.png	STK: 58110000123457
+crops/WEB_224/2d59449bf58f3c3173d7.png	Thành tiền
+crops/WEB_224/fdb2c5ced2afbd5127a0.png	Tên hàng hóa, dịch vụ
+crops/WEB_224/811ef0634e0299e1f10f.png	ĐVT
+crops/WEB_224/33c337af0dbf76266dc7.png	Hệ thống chống sét
+crops/WEB_224/f9ea65777c96838be3e2.png	Cộng tiền hàng: 198.777.900
+crops/WEB_224/53a64d1c15a86002919b.png	Tiền thuế GTGT:
+crops/WEB_224/8f65257e5b9bd75fd99f.png	Tổng cộng tiền thanh toán: 218.655.690
+crops/WEB_224/532dd9d1d90bd68487d9.png	Ngƣời mua hàng
+crops/WEB_224/b57e02d8f629454b8df8.png	Thủ trƣởng đơn vị
+crops/WEB_225/39c61be4462f2d1f4e30.png	HÓA ĐƠN (GTGT)
+crops/WEB_225/1945b3bda3045c37b62f.png	Số: 000655
+crops/WEB_225/2e763817340003f2c733.png	Mã số thuế: 4101546032
+crops/WEB_225/773682b90baa67ec3d28.png	Tên đơn vị: Công ty CP DV& TM HDT Việt Nam- CN ình Định
+crops/WEB_225/518ccd877f50e7a75a4d.png	Mã số thuế:0105878560002
+crops/WEB_225/8cd4a056f80364f3d6d1.png	STK: 58110000123457
+crops/WEB_225/0a4d125a006adb7aac9e.png	Thành tiền
+crops/WEB_225/c2ca1fbc388676e63578.png	Tên hàng hóa, dịch vụ
+crops/WEB_225/7436d0d70b70d3ef6bac.png	ĐVT
+crops/WEB_225/9cc5dddee225356b42ce.png	Hệ thống chống sét
+crops/WEB_225/8bac32b29dafd7674e9c.png	Cộng tiền hàng: 298.166.850
+crops/WEB_225/f1daad5fbf74e8779b88.png	Tổng cộng tiền thanh toán: 327.983.353
+crops/WEB_225/4fd31c8f58cedfc20e65.png	Ngƣời mua hàng
+crops/WEB_225/636d5e7616aa6cbdc286.png	Thủ trƣởng đơn vị
+crops/WEB_226/647ee63312cf009f0ad4.png	HÓA ĐƠN (GTGT)
+crops/WEB_226/84904a6a0e361482ddfc.png	Mẫu số: 01GTKT3/001
+crops/WEB_226/5f803283b6662e815e77.png	Số: 000656
+crops/WEB_226/d1901dd1513cf8f61d49.png	Mã số thuế: 4101546032
+crops/WEB_226/14ad6f7714439b5b103f.png	Mã số thuế:0105878560002
+crops/WEB_226/27e2d17c2d928ed46090.png	STK: 58110000123457
+crops/WEB_226/57d5291b32b743156cd3.png	Thành tiền
+crops/WEB_226/ad0f2bef350d01a92038.png	Tên hàng hóa, dịch vụ
+crops/WEB_226/5bf7f2116a5c0eefa229.png	ĐVT
+crops/WEB_226/c1d496c19264d78696f6.png	Hệ thống chống sét
+crops/WEB_226/5b6d5e99728fbf1e1adb.png	Cộng tiền hàng: 298.166.850
+crops/WEB_226/92d3e3d7b984f54d546c.png	Tiền thuế GTGT:
+crops/WEB_226/51791e4f440596c8cf88.png	Tổng cộng tiền thanh toán: 327.984.535
+crops/WEB_226/193d00d14eee8e674731.png	Thủ trƣởng đơn vị
+crops/WEB_227/c372334b9f193be15c52.png	HÓA ĐƠN (GTGT)
+crops/WEB_227/3beffe63c79a8fe556b4.png	Số: 000657
+crops/WEB_227/efee426935992237ca09.png	Đơn vị bán hàng: Công ty TNHH Cơ Điện Thịnh Phát
+crops/WEB_227/e6943aefbc218f090bee.png	Mã số thuế: 4101546032
+crops/WEB_227/0ed424ba5a5c8d30db65.png	Tên đơn vị: Công ty CP DV& TM HDT Việt Nam- CN ình Định
+crops/WEB_227/8002f1e34b29d24ed2cf.png	Hình thức thanh toán : CK/TM
+crops/WEB_227/06b42f2d5d3d1ecfc89f.png	STK: 58110000123457
+crops/WEB_227/6c4fe317a27294c455bd.png	Thành tiền
+crops/WEB_227/228746b78bb8ce3fc882.png	Tên hàng hóa, dịch vụ
+crops/WEB_227/ad0e8e3f566f26bd4574.png	ĐVT
+crops/WEB_227/9607a5485709fb29cb57.png	Hệ thống chống sét
+crops/WEB_227/667d03bffc1faf90f809.png	Cộng tiền hàng: 19.877.790
+crops/WEB_227/745b26831ea74b3e39fd.png	Tiền thuế GTGT:
+crops/WEB_227/9195d80f6f30767c8628.png	Tổng cộng tiền thanh toán:
+crops/WEB_227/7502ae50212f7dfcd01e.png	Ngƣời mua hàng
+crops/WEB_227/3e2b5badcf8fc053196f.png	Thủ trƣởng đơn vị

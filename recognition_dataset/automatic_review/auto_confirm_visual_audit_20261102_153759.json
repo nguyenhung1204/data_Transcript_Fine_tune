@@ -1,0 +1,14 @@
+{
+  "invoice": "WEB_260",
+  "reviewed_at": "2026-11-02T08:37:59.4738761Z",
+  "submitted_count": 0,
+  "readback_verified_count": 0,
+  "total_verified": 11921,
+  "deferred": [
+    {
+      "crop_id": "8f191df1f21a9d5fea8b",
+      "reason": "Crop address line is visibly clipped at the right edge after “Quận Hai Bà”; transcript is incomplete, left needs_review."
+    }
+  ],
+  "notes": "No annotation state changed."
+}

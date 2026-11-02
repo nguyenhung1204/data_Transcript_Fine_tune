@@ -1,0 +1,94 @@
+{
+  "deferred": [],
+  "accepted_count": 14,
+  "timestamp": "20261102_110954",
+  "invoice_ids": [
+    "WEB_226"
+  ],
+  "accepted": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN (GTGT)",
+      "crop_id": "647ee63312cf009f0ad4"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Mẫu số: 01GTKT3/001",
+      "crop_id": "84904a6a0e361482ddfc"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Số: 000656",
+      "crop_id": "5f803283b6662e815e77"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Mã số thuế: 4101546032",
+      "crop_id": "d1901dd1513cf8f61d49"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Mã số thuế:0105878560002",
+      "crop_id": "14ad6f7714439b5b103f"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "STK: 58110000123457",
+      "crop_id": "27e2d17c2d928ed46090"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "crop_id": "57d5291b32b743156cd3"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "ad0f2bef350d01a92038"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "crop_id": "5bf7f2116a5c0eefa229"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Hệ thống chống sét",
+      "crop_id": "c1d496c19264d78696f6"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng: 298.166.850",
+      "crop_id": "5b6d5e99728fbf1e1adb"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT:",
+      "crop_id": "92d3e3d7b984f54d546c"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán: 327.984.535",
+      "crop_id": "51791e4f440596c8cf88"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "transcript": "Thủ trƣởng đơn vị",
+      "crop_id": "193d00d14eee8e674731"
+    }
+  ]
+}

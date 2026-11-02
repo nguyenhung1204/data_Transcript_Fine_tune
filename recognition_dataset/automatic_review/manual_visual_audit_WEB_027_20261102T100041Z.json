@@ -1,0 +1,55 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "f04610d6da0454173ba8",
+      "invoice": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript_before": "NUÓC SUÓI",
+      "transcript_after": "NƯỚC SUỐI",
+      "evidence": "Crop was visually inspected; all characters and Vietnamese diacritics are clear and complete. Transcript matches visible crop and text-layer candidate; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "bad7d45e4e4f15cb3829",
+      "invoice": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript_before": "KY",
+      "transcript_after": "KÝ",
+      "evidence": "Crop was visually inspected; all characters and Vietnamese diacritics are clear and complete. Transcript matches visible crop and text-layer candidate; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "a326b0e32dfa2e9f00c0",
+      "invoice": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript_before": "COM CHIÊN HÅI SÅN",
+      "transcript_after": "CƠM CHIÊN HẢI SẢN",
+      "evidence": "Crop was visually inspected; all characters and Vietnamese diacritics are clear and complete. Transcript matches visible crop and text-layer candidate; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "ef09de7afab65ce343c4",
+      "invoice": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript_before": "GÔI BÒ BÓP THÁU",
+      "transcript_after": "GỎI BÒ BÓP THẤU",
+      "evidence": "Crop was visually inspected; all characters and Vietnamese diacritics are clear and complete. Transcript matches visible crop and text-layer candidate; length <=90.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "6e59c41b0852d0d698cd",
+      "invoice": "WEB_027",
+      "pdf": "WEB_027.pdf",
+      "page": 1,
+      "transcript_before": "mì xÀo HÅI SÁn",
+      "transcript_after": "MÌ XÀO HẢI SẢN",
+      "evidence": "Crop was visually inspected; all characters and Vietnamese diacritics are clear and complete. Transcript matches visible crop and text-layer candidate; length <=90.",
+      "status": "verified"
+    }
+  ],
+  "skipped": []
+}

@@ -1,0 +1,66 @@
+{
+  "skipped": [
+    {
+      "id": "185de82b59d7052db5f9",
+      "reason": "Crop is an incomplete/wrapped label; left pending."
+    },
+    {
+      "id": "971d3f2cbe7932bb850a",
+      "reason": "Crop contains an incomplete phrase; left pending."
+    },
+    {
+      "id": "fb4dc6cbf9693f4363df",
+      "reason": "Stylized logo letters cropped at right edge; uncertain."
+    },
+    {
+      "id": "ef4942cac4edc289a53f",
+      "reason": "Decorative logo mark with tiny tagline; exact transcript uncertain."
+    }
+  ],
+  "timestamp_utc": "2026-11-02T01:09:28.8738315Z",
+  "confirmed": [
+    {
+      "invoice": "HD_013",
+      "id": "9a5459787d2cd49576dc",
+      "text": "0,00% Số tiền chiết khấu (Discount amount)",
+      "note": "Crop and invoice page visibly show this complete single-line summary cell."
+    },
+    {
+      "invoice": "HD_013",
+      "id": "50587e0915f05a560df5",
+      "text": "Thuế suất 5%(VAT rate 5%) :",
+      "note": "Table label is sharply legible in crop and source page."
+    },
+    {
+      "invoice": "HD_014",
+      "id": "77738c2e7cc12e0a6689",
+      "text": "CÔNG TY CỔ PHẦN TỰ ĐỘNG HÓA TOÀN CẦU",
+      "note": "Full company title clearly legible in crop and invoice page."
+    },
+    {
+      "invoice": "HD_014",
+      "id": "37727bc1880a266ef4a0",
+      "text": "Global Automation",
+      "note": "Logo wordmark subtitle clearly legible."
+    },
+    {
+      "invoice": "HD_014",
+      "id": "883aef8593279935fc31",
+      "text": "Số lượng",
+      "note": "Table header clearly legible in crop and page."
+    },
+    {
+      "invoice": "HD_014",
+      "id": "e9bc741e211172fc316c",
+      "text": "Đơn giá",
+      "note": "Table header clearly legible in crop and page."
+    },
+    {
+      "invoice": "HD_014",
+      "id": "b226a72d5a905a4480b1",
+      "text": "Tổng hợp",
+      "note": "Summary table header clearly legible in crop and page."
+    }
+  ],
+  "policy": "Visual comparison of each crop against its source invoice page; only legible exact text <=90 characters confirmed."
+}

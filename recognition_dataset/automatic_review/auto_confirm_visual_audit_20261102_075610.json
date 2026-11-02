@@ -1,0 +1,42 @@
+{
+  "invoice": "HD_039",
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:56:10.4267563Z",
+  "confirmed": [
+    {
+      "crop_id": "40d3b60d298ae60f7cbb",
+      "transcript": "Ký hiệu (Serial): 1C25TNN"
+    },
+    {
+      "crop_id": "fb857d7c65628b9e29fb",
+      "transcript": "Số (No): 302"
+    },
+    {
+      "crop_id": "0e306625bd29476f21b1",
+      "transcript": "Họ tên người mua hàng (Buyer Name):"
+    },
+    {
+      "crop_id": "7fdbf5c304d2704c2170",
+      "transcript": "Tên đơn vị (Company name): LEISURE HOLIDAYS PVT LTD,"
+    },
+    {
+      "crop_id": "c6b2bf96be204e104766",
+      "transcript": "Địa chỉ (Address): HOLIDAY INN RESORT KANDOOMA,"
+    },
+    {
+      "crop_id": "6c67a95ee5ca1d196238",
+      "transcript": "Mã số thuế (Tax code):"
+    },
+    {
+      "crop_id": "c92a1676f402a752f049",
+      "transcript": "Số tài khoản (Bank account):"
+    },
+    {
+      "crop_id": "a5c6a8dd5865239056e1",
+      "transcript": "Hình thức thanh toán (Payment method): TM/ CK"
+    }
+  ],
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075610.json",
+  "method": "manual_visual_review_crop_images",
+  "note": "Eight clear crop images visually confirmed."
+}

@@ -1,0 +1,176 @@
+{
+  "created_at_utc": "2026-11-02T02:21:41.388780+00:00",
+  "invoice": "WEB_036",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 28,
+  "items": [
+    {
+      "crop_id": "7dbb2d03f2bee00a37f0",
+      "transcript": "Dừa dứa xay",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "c3742588d902e6394617",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "2c4243303f3780e2fa48",
+      "transcript": "Soup Tôm Tomyum nước trong",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "3cb89361572d4546ad3c",
+      "transcript": "Trà sữa thái đỏ trân châu đen",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "cdee75e10ee732992743",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "9c3f1dbe66951269b08e",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "4f0a29a0b4cb7387d8bb",
+      "transcript": "Mã của cơ quan thuế (Tax authority code): M1-23-PKAOJ-01231011049",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "85cef471d3fc9a7e4c04",
+      "transcript": "Trang tra cứu : http://0315847456hd.easyinvoice.com.vn",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "8c414cfc5d2276ac3795",
+      "transcript": "Mã tra cứu : K6E3U8m30263184818488680",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "f780c2874e342c957aa9",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "d20a79751d79b656a0b2",
+      "transcript": "Ký hiệu (Serial): 1C23MSG",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "09c79f4829529f344e74",
+      "transcript": "Số (No.): 21073",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "0939944f96890b4006ca",
+      "transcript": "Mã địa điểm kinh doanh (Code): 00001",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "19dea109f7d8f01ba585",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "12f5116b5d4fb5ac1979",
+      "transcript": "Điện thoại (Tel):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "7f79a9dd0220ef1f688f",
+      "transcript": "Căn cước công dân (Citizen identity card):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "734bceb66d4ab9d3208e",
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "eeab4a10c069dda521ac",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "a00d992132940d39290e",
+      "transcript": "Đơn vị tính",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "264f28daffa4fc18ae3d",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "1d730b45414c1d8b49e0",
+      "transcript": "Thuế suất GTGT (VAT rate):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "58142cbbf6a9f624345b",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "83e6579a0b7a3a6218c8",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "252ce75ab510367c15a8",
+      "transcript": "Người mua hàng (Buyer)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "f8f09a4c4374f2263e20",
+      "transcript": "Mã của cơ quan thuế (Tax authority code): M1-23-PKAOJ-01231011049",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "e53ee5017540f765f8f6",
+      "transcript": "Mã tra cứu : K6E3U8m30263184818488680",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "1782811715d0789136b4",
+      "transcript": "Trang tra cứu : http://0315847456hd.easyinvoice.com.vn",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    },
+    {
+      "crop_id": "7f546141a399e75e3198",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; clear text transcribed with excess OCR spaces normalized. Overprinted isolated digit crop left pending."
+    }
+  ]
+}

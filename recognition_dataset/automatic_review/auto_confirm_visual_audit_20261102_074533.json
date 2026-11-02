@@ -1,0 +1,42 @@
+{
+  "skipped": [],
+  "method": "manual_visual_review_crop_images",
+  "timestamp_utc": "2026-11-02T00:45:33.8631525Z",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074533.json",
+  "invoice": "HD_034",
+  "confirmed": [
+    {
+      "crop_id": "b2e1db06849e3ec16b92",
+      "transcript": "VP 3.04, Tòa Nhà ST.Moritz, 1014 Phạm Văn Đồng, Phường Hiệp Bình Chánh,"
+    },
+    {
+      "crop_id": "7428edc6b047482abe3b",
+      "transcript": "Địa chỉ (Address):"
+    },
+    {
+      "crop_id": "dca40bf2b13be8bf7e17",
+      "transcript": "Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam"
+    },
+    {
+      "crop_id": "b782a672920ffb09a9eb",
+      "transcript": "HTTT (Pay. method): Tiền mặt"
+    },
+    {
+      "crop_id": "ea9d985aaa8909a73277",
+      "transcript": "Thuế"
+    },
+    {
+      "crop_id": "ab9ef99d01fede16aa04",
+      "transcript": "Tiền thuế"
+    },
+    {
+      "crop_id": "84f52bf6b2620b0857c4",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "dd3146bd288bea118f52",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    }
+  ],
+  "note": "Eight crop images visually inspected; exact visible text confirmed."
+}

@@ -1,0 +1,18 @@
+{
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:58:00.8704649Z",
+  "confirmed": [
+    {
+      "crop_id": "dd4c0f7ee071d2e2f97f",
+      "transcript": "Ký bởi: Kế Toán Thuận Việt"
+    },
+    {
+      "crop_id": "f34643e38bbfb52b3bba",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    }
+  ],
+  "note": "Both remaining short readable crops visually confirmed.",
+  "invoice": "HD_039",
+  "method": "manual_visual_review_crop_images",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075800.json"
+}

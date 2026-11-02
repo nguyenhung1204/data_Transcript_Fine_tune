@@ -1,0 +1,15 @@
+{
+  "run_id": "visual_20261102_082635",
+  "policy": "manual visual confirmation: crop checked against matching invoice page",
+  "created_at_utc": "2026-11-02T01:26:35.8873737Z",
+  "annotations": [
+    {
+      "crop_id": "3e2bd71d0c70209aef70",
+      "reviewed_at": "2026-11-02T01:26:35.8873737Z",
+      "transcript": "7 = 5 x 6",
+      "review_note": "WEB_051 trang 1: crop khớp công thức cột thành tiền.",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp_utc": "2026-11-02T00:50:38.8449702Z",
+  "skipped": [],
+  "invoice": "HD_036",
+  "note": "Five crop images visually checked; signature text was transcribed as visible, preserving spacing.",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075038.json",
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "crop_id": "51ed13c478f74511462e",
+      "transcript": "Ký bởi: CÔNGTYTNHHNHỰA VÀ CAO"
+    },
+    {
+      "crop_id": "0c24260963e51fdc5702",
+      "transcript": "Ký bởi: CN=CỤC THUẾ,O=BỘ TÀI"
+    },
+    {
+      "crop_id": "ba4265b5b216a6222a55",
+      "transcript": "SU KIẾN PHÁT VIỆT NAM"
+    },
+    {
+      "crop_id": "68729679edf2727c81be",
+      "transcript": "CHÍNH,L=Hà Nội,C=VN"
+    },
+    {
+      "crop_id": "8cffe2549d6757500d12",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    }
+  ]
+}

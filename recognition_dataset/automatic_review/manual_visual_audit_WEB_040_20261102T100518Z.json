@@ -1,0 +1,105 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "cacd61e4c8bec2d43290",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 1,
+      "transcript_before": "Đin thoąi:",
+      "transcript_after": "Điện thoại:",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "d44b535d2fd42915f0ec",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 1,
+      "transcript_before": "S luơng",
+      "transcript_after": "Số lượng",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "86476a286a58d1b0ab61",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Ký hiu:",
+      "transcript_after": "Ký hiệu:",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "13bfb6ae783a0356eceb",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Só:",
+      "transcript_after": "Số:",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "450fe1178f472e44a11f",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Ho tên ngưòi mua hàng:",
+      "transcript_after": "Họ tên người mua hàng:",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "85317ff4bc37a74f067c",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Mã só thu: 3600456424",
+      "transcript_after": "Mã số thuế: 3600456424",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0feb31f472ad324d5e00",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Don giá",
+      "transcript_after": "Đơn giá",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "d6ae12a817faac9b35d2",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Tên hàng hóa, dch v",
+      "transcript_after": "Tên hàng hóa, dịch vụ",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "fc91046517f34dd96ca3",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "Đon vi tính",
+      "transcript_after": "Đơn vị tính",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "53693e6f3a5781e3b466",
+      "invoice": "WEB_040",
+      "pdf": "WEB_040.pdf",
+      "page": 2,
+      "transcript_before": "S luơng",
+      "transcript_after": "Số lượng",
+      "evidence": "Visually inspected crop; complete printed line is legible with no clipping or stamp overlap; transcript exactly matches visible text.",
+      "status": "verified"
+    }
+  ],
+  "skipped": []
+}

@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-11-01T09:07:40.208662+00:00",
-  "total_documents": 208,
-  "completed_documents": 208,
-  "total_crop_rows": 17961,
-  "committed_crop_rows": 17961,
-  "finished": true,
+  "updated_utc": "2026-11-02T15:36:57.706329+00:00",
+  "total_documents": 204,
+  "completed_documents": 207,
+  "total_crop_rows": 17439,
+  "committed_crop_rows": 17842,
+  "finished": false,
   "summary": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\summary.json"
 }

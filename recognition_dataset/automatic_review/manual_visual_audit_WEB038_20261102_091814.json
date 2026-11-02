@@ -1,0 +1,29 @@
+{
+  "reviewed_at": "2026-11-02T09:18:16.5210633Z",
+  "invoice": "WEB_038",
+  "method": "manual_visual_review",
+  "count": 3,
+  "items": [
+    {
+      "reviewed_at": "2026-11-02T09:18:16.5210633Z",
+      "transcript": "(KHỞI TẠO TỪ MÁY TÍNH TIỀN)",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "df7708084759a2158afd"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:18:16.5210633Z",
+      "transcript": "Số lượng",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "315fdd49125ad6f16043"
+    },
+    {
+      "reviewed_at": "2026-11-02T09:18:16.5210633Z",
+      "transcript": "Dưa lưới mật",
+      "status": "verified",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "87aa1888a8b86ac844df"
+    }
+  ]
+}

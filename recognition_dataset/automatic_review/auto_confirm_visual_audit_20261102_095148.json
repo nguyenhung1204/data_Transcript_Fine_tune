@@ -1,0 +1,232 @@
+{
+  "invoice": "WEB_088",
+  "created_at": "2026-11-02T02:51:51.1370810Z",
+  "method": "manual_visual_review",
+  "count": 30,
+  "deferred": [
+    {
+      "reason": "Product model code has ambiguous characters (l/1) in the crop.",
+      "crop_id": "b1d2db9bb56fe285fc8c"
+    },
+    {
+      "reason": "Tax-rate text is cut at the right edge.",
+      "crop_id": "e42c213edc12efc7e6d3"
+    },
+    {
+      "reason": "Red company signature text appears truncated.",
+      "crop_id": "993c22b1b9697291524f"
+    }
+  ],
+  "annotations": [
+    {
+      "crop_id": "1a29b636fbdf6e19db83",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH TIN HỌC THÀNH NHÂN",
+      "reviewed_at": "2026-11-02T02:51:51.1282576Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c4f8f7b9539aa64c2e07",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0302802641",
+      "reviewed_at": "2026-11-02T02:51:51.1349920Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d43ca442614088e49892",
+      "status": "verified",
+      "transcript": "Địa chỉ (Add): 174-176-178-180 Bùi Thị Xuân, Phường Phạm Ngũ Lão, Quận 1, TP Hồ",
+      "reviewed_at": "2026-11-02T02:51:51.1351642Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "020d32ab64d91af7afb7",
+      "status": "verified",
+      "transcript": "Chí Minh Điện thoại (Tel): (028) 39250259 - Fax: (028) 39250140 - Website:",
+      "reviewed_at": "2026-11-02T02:51:51.1352753Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c1237092610aaa3a9028",
+      "status": "verified",
+      "transcript": "Số tài khoản (Account No.): 0331000413706 tại Ngân Hàng Vietcombank - CN Sài Gòn",
+      "reviewed_at": "2026-11-02T02:51:51.1353465Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9759858e54ff88e2652c",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T02:51:51.1354032Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2f474ae86da9ee8c8aa3",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial):",
+      "reviewed_at": "2026-11-02T02:51:51.1354580Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "14c891daa7a860ca0282",
+      "status": "verified",
+      "transcript": "Số (No.): 9253",
+      "reviewed_at": "2026-11-02T02:51:51.1355083Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f7d0339645e64ebd0040",
+      "status": "verified",
+      "transcript": "Bản thể hiện của hóa đơn điện tử (Electronic invoice display)",
+      "reviewed_at": "2026-11-02T02:51:51.1355618Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8342765b74434cf93872",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0310415290",
+      "reviewed_at": "2026-11-02T02:51:51.1356106Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ca102a45e723076c2aa2",
+      "status": "verified",
+      "transcript": "Việt Nam",
+      "reviewed_at": "2026-11-02T02:51:51.1356524Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a3662665a50f5f7f2573",
+      "status": "verified",
+      "transcript": "Tài khoản ngân hàng(Bank Account) :",
+      "reviewed_at": "2026-11-02T02:51:51.1357169Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b78d39d959547d2338fd",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): Tiền mặt/Chuyển khoản",
+      "reviewed_at": "2026-11-02T02:51:51.1357689Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f9b46b82e27cfffc35fd",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:51:51.1358144Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "38c24a4aae7b3a866058",
+      "status": "verified",
+      "transcript": "Đơn vị",
+      "reviewed_at": "2026-11-02T02:51:51.1358573Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b63f2d77196fbd498747",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:51:51.1359040Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f42ee6e2b597a39dc4e4",
+      "status": "verified",
+      "transcript": "ĐEN(T6FDR1)",
+      "reviewed_at": "2026-11-02T02:51:51.1360071Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "08e4df9de6c4bf7ae9c1",
+      "status": "verified",
+      "transcript": "Bộ",
+      "reviewed_at": "2026-11-02T02:51:51.1360793Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f05fe8653c51cdec96a1",
+      "status": "verified",
+      "transcript": "Bộ nhớ trong Kingston 8G D5-5600U46 1Rx16 UDIMM",
+      "reviewed_at": "2026-11-02T02:51:51.1361379Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f259c2a56e0545fc254e",
+      "status": "verified",
+      "transcript": "Ổ cứng máy vi tính hiệu WESTERN DIGITAL Ultrastar loại",
+      "reviewed_at": "2026-11-02T02:51:51.1361925Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a6190e8c9c720fe3fb07",
+      "status": "verified",
+      "transcript": "Thành tiền có thuế",
+      "reviewed_at": "2026-11-02T02:51:51.1362428Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e689fc4fdf6d7fa9e04c",
+      "status": "verified",
+      "transcript": "Thuế GTGT",
+      "reviewed_at": "2026-11-02T02:51:51.1363152Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b27ab67e47d8cf333655",
+      "status": "verified",
+      "transcript": "Loại không chịu thuế (Non taxable)",
+      "reviewed_at": "2026-11-02T02:51:51.1364054Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d9b5602e46b4d0b93fbe",
+      "status": "verified",
+      "transcript": "Loại thuế suất 10% (Amount at tax rate 10%)",
+      "reviewed_at": "2026-11-02T02:51:51.1364666Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c7388070a0014cddb8f9",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán (Grand total):",
+      "reviewed_at": "2026-11-02T02:51:51.1365704Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "35d05b09b57d911fa562",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ (In words):",
+      "reviewed_at": "2026-11-02T02:51:51.1366553Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "caf7964903d7842f3960",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:51:51.1367855Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3fbd5d49892dedea1110",
+      "status": "verified",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T02:51:51.1368536Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4c97415abcde248526d7",
+      "status": "verified",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T02:51:51.1369451Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "29ece6839fd88e860499",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T02:51:51.1370213Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

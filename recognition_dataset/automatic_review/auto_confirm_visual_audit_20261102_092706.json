@@ -1,0 +1,94 @@
+{
+  "created_at": "2026-11-02T09:27:06.351190+07:00",
+  "invoice": "WEB_040",
+  "method": "manual_visual_review",
+  "count": 16,
+  "skipped": [
+    {
+      "crop_id": "84976e8c58ebf2b4b00c",
+      "reason": "ghi chú thuế bị cắt ngang ở cuối crop; chưa xác nhận"
+    }
+  ],
+  "annotations": [
+    {
+      "crop_id": "e9e7a27c45127759cbf7",
+      "transcript": "Phần",
+      "source_transcript": "Phần"
+    },
+    {
+      "crop_id": "a6eaf9ad2c65685cf5c5",
+      "transcript": "Tôm nướng Muối ớt",
+      "source_transcript": "Tôm nướng Muối ớt"
+    },
+    {
+      "crop_id": "7f5f4157c6052e540d77",
+      "transcript": "Phần",
+      "source_transcript": "Phần"
+    },
+    {
+      "crop_id": "3c370d7205d1c81b7b81",
+      "transcript": "Phần",
+      "source_transcript": "Phần"
+    },
+    {
+      "crop_id": "93bf497a4c41184e5e41",
+      "transcript": "Ốc Sắc",
+      "source_transcript": "Ốc Sắc"
+    },
+    {
+      "crop_id": "47c162229163f0b8b87c",
+      "transcript": "Mã của cơ quan thuế: M2-25-MVUYN-00000000088",
+      "source_transcript": "Mã của cơ quan thuế: M2-25-MVUYN-00000000088"
+    },
+    {
+      "crop_id": "eec6539c198117e6f55d",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "source_transcript": "HÓA ĐƠN BÁN HÀNG"
+    },
+    {
+      "crop_id": "77747e81072a0dbc6ce7",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "source_transcript": "Bản thể hiện của hóa đơn điện tử"
+    },
+    {
+      "crop_id": "6e3bc22324a55d43465f",
+      "transcript": "Mã số thuế: 8474993150",
+      "source_transcript": "Mã số thuế: 8474993150"
+    },
+    {
+      "crop_id": "32b1619e53310bf55115",
+      "transcript": "Số tài khoản: 0621.000.407.217 tại Ngân hàng Vietcombank",
+      "source_transcript": "Số tài khoản: 0621.000.407.217 tại Ngân hàng Vietcombank"
+    },
+    {
+      "crop_id": "78f8fcdfca765e3f8ddb",
+      "transcript": "Tên đơn vị: CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)",
+      "source_transcript": "Tên đơn vị: CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM)"
+    },
+    {
+      "crop_id": "057d312e1d43c02fc779",
+      "transcript": "Hình thức thanh toán: TM/CK",
+      "source_transcript": "Hình thức thanh toán: TM/CK"
+    },
+    {
+      "crop_id": "e79c279f534c3d6548fc",
+      "transcript": "Thành tiền",
+      "source_transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "569c78d12325eb8f56f2",
+      "transcript": "Cộng tiền hàng hóa, dịch vụ:",
+      "source_transcript": "Cộng tiền hàng hóa, dịch vụ:"
+    },
+    {
+      "crop_id": "7d6873290dae651f87d8",
+      "transcript": "Người mua hàng",
+      "source_transcript": "Người mua hàng"
+    },
+    {
+      "crop_id": "c42a6850933cf9b20d74",
+      "transcript": "Mã của cơ quan thuế: M2-25-MVUYN-00000000088",
+      "source_transcript": "Mã của cơ quan thuế: M2-25-MVUYN-00000000088"
+    }
+  ]
+}

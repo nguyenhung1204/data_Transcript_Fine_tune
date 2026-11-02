@@ -1,0 +1,178 @@
+{
+  "invoice": "WEB_070",
+  "created_at": "2026-11-02T02:45:07.7246173Z",
+  "method": "manual_visual_review",
+  "count": 24,
+  "deferred_crop_id": "3491ca40d96f3d19cc69",
+  "deferred_reason": "Crop text is truncated after “- CH”; full branch name is not visible.",
+  "annotations": [
+    {
+      "crop_id": "f022b8da3a0da64eb404",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN",
+      "reviewed_at": "2026-11-02T02:45:07.7174546Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "34a17114e20ee8d01e2e",
+      "status": "verified",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T02:45:07.7235612Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c4ebd54af7ddff9f38f8",
+      "status": "verified",
+      "transcript": "Mã số thuế: 0310471746-364",
+      "reviewed_at": "2026-11-02T02:45:07.7236714Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5d36546126741a75f0d1",
+      "status": "verified",
+      "transcript": "(VIỆT NAM)",
+      "reviewed_at": "2026-11-02T02:45:07.7237129Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "04952d07ea720ee343da",
+      "status": "verified",
+      "transcript": "Địa chỉ: Số 9, đường 3A, KCN Biên Hòa 2, Phường Long Bình Tân, Thành phố Biên",
+      "reviewed_at": "2026-11-02T02:45:07.7237660Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a111f17f310fab5520cf",
+      "status": "verified",
+      "transcript": "Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+      "reviewed_at": "2026-11-02T02:45:07.7237962Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "af8254cc30897d03ab4b",
+      "status": "verified",
+      "transcript": "Hòa, Tỉnh Đồng Nai, Việt Nam",
+      "reviewed_at": "2026-11-02T02:45:07.7238248Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d70cc05929a3b0b177ec",
+      "status": "verified",
+      "transcript": "ĐT: 0989822201",
+      "reviewed_at": "2026-11-02T02:45:07.7238528Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7494997f47d9f6453aba",
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "reviewed_at": "2026-11-02T02:45:07.7238824Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c48432f26073485b0be9",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:45:07.7239096Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6de7883b990c666245d5",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-02T02:45:07.7239387Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "63b55875bba188027a33",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:45:07.7239707Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "600f26c6b2c636203eb1",
+      "status": "verified",
+      "transcript": "Hàng hóa / Dịch vụ",
+      "reviewed_at": "2026-11-02T02:45:07.7239975Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "851678e6f11e5c6a3e8b",
+      "status": "verified",
+      "transcript": "Thuế suất 5%",
+      "reviewed_at": "2026-11-02T02:45:07.7240254Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "498d2aec1514e1be2692",
+      "status": "verified",
+      "transcript": "Thuế suất 8%",
+      "reviewed_at": "2026-11-02T02:45:07.7240515Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "50312c46da69ec39349d",
+      "status": "verified",
+      "transcript": "Thuế suất 0%",
+      "reviewed_at": "2026-11-02T02:45:07.7240808Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9044cfcda4466bd7e544",
+      "status": "verified",
+      "transcript": "Không chịu thuế",
+      "reviewed_at": "2026-11-02T02:45:07.7242422Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5874daea9ac2ae9e4ade",
+      "status": "verified",
+      "transcript": "Thuế suất 10%",
+      "reviewed_at": "2026-11-02T02:45:07.7243092Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fa6bb6b1c8cd63a85fde",
+      "status": "verified",
+      "transcript": "Tiền hàng:",
+      "reviewed_at": "2026-11-02T02:45:07.7243443Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "38addd3618803d958fdd",
+      "status": "verified",
+      "transcript": "Tiền thuế:",
+      "reviewed_at": "2026-11-02T02:45:07.7243937Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dfe8d7ffbbe992ccb40e",
+      "status": "verified",
+      "transcript": "Tiền thanh toán:",
+      "reviewed_at": "2026-11-02T02:45:07.7244701Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3a1643b649c998066006",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "reviewed_at": "2026-11-02T02:45:07.7245077Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0405b13bfc57f00e7204",
+      "status": "verified",
+      "transcript": "Khách hàng vào web https://hddt.bachhoaxanh.com để tải về hóa đơn điện tử",
+      "reviewed_at": "2026-11-02T02:45:07.7245381Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0a2e8b44c4a88a2cbc37",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T02:45:07.7245663Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

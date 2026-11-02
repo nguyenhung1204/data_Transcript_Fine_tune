@@ -1,0 +1,24 @@
+{
+  "invoice": "WEB_251",
+  "timestamp": "20261102_151107",
+  "visually_reviewed_crop_ids": [
+    "0994399e00fc1d7c9569",
+    "924eb9d84e1c1c23b579",
+    "70f400ae98a75dfbc0c4",
+    "07b739e71db884474e20",
+    "95931d2ac61fd5ecd45b",
+    "3a5a06e6ac3ac0aa197d",
+    "7d9c550f45540f8392cc",
+    "7ff3b4bd138c99fdf388",
+    "e8e3bc379877a8627bcd",
+    "8fc6abd468813607f4f2",
+    "754748be104ef1f37505"
+  ],
+  "submitted_count": 11,
+  "already_terminal_skipped_count": 0,
+  "readback_errors": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_151107.json",
+  "verified_total": 11708,
+  "deferred_crop_ids": [],
+  "notes": "Verified transcripts against visible crop images; PDF text extraction was misaligned on this invoice and was not used as the transcript source."
+}

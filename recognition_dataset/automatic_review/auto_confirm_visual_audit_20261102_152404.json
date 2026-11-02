@@ -1,0 +1,23 @@
+{
+  "invoice": "WEB_261",
+  "created_at": "2026-11-02T15:24:06.8070239+07:00",
+  "review_method": "manual_visual_review",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_152404.json",
+  "reviewed_crop_ids": [
+    "1d3899090891d6a2bf36",
+    "8c4669fae994a54761ba",
+    "740b9e3240460e10c311",
+    "227da8ae136fb49d74e1",
+    "d85286a80ed2d863d557",
+    "20c01bcc4b3ce6effc87"
+  ],
+  "submitted_count": 4,
+  "existing_terminal_skipped": 0,
+  "deferred_crop_ids": [
+    "d85286a80ed2d863d557",
+    "20c01bcc4b3ce6effc87"
+  ],
+  "readback_errors": [],
+  "verified_total": 11854,
+  "notes": "Address clipped and amount-in-words may be cut at right edge, deferred; four clear crops transcribed, <=90 chars."
+}

@@ -1,0 +1,16 @@
+{
+  "candidate_count": 55,
+  "invoice": "WEB_234",
+  "deferred_crop_ids": [
+    "52cedadd9429a4cb1d6d",
+    "80b416cf9d83348dfcdc",
+    "3b4b362a4b30c6012468",
+    "5187d4a6efe705697a8d",
+    "baefa8d9ec011262da3d",
+    "428ff1c1cf432379ed3f"
+  ],
+  "written_count": 32,
+  "timestamp": "20261102_143810",
+  "new_total_verified": 11419,
+  "readback_errors": []
+}

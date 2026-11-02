@@ -1,0 +1,177 @@
+{
+  "invoice": "WEB_105",
+  "timestamp_utc": "2026-11-02T03:13:46.6902602Z",
+  "reviewed_count": 22,
+  "visually_inspected": true,
+  "deferred": [
+    {
+      "crop_id": "aa9735d67392f1e6b333",
+      "reason": "Ký hiệu đóng ngoặc/kép sau số đo còn không chắc."
+    },
+    {
+      "crop_id": "947fad9da02a5a38d90d",
+      "reason": "Dấu mộc xanh che một phần chữ ký đỏ."
+    },
+    {
+      "crop_id": "1c66b7ce99ce666f7f0d",
+      "reason": "Dấu mộc xanh che các ký tự cuối của ngày."
+    }
+  ],
+  "notes": "Đối chiếu trực tiếp ảnh crop; sửa lỗi mã hóa/giãn cách PDF text layer khi crop thể hiện rõ. Giữ một khoảng trắng đơn.",
+  "annotations": [
+    {
+      "crop_id": "5d2ec580de68b39ded57",
+      "status": "verified",
+      "transcript": "Địa chỉ: Số 30 VSIP II đường số 7, Khu công nghiệp Việt Nam-Singapore II, khu liên hợp",
+      "reviewed_at": "2026-11-02T03:13:46.6853563Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2c5c22bb785080ac2ec1",
+      "status": "verified",
+      "transcript": "Công Nghiệp - Dịch Vụ - Đô thị Bình Dương, Phường Hoà Phú, Thành phố Thủ Dầu Một,",
+      "reviewed_at": "2026-11-02T03:13:46.6895612Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "df8067cd0e6e2930ea4d",
+      "status": "verified",
+      "transcript": "Số tài khoản: 0281001273621 tại Vietcombank CN Bình Dương",
+      "reviewed_at": "2026-11-02T03:13:46.6896342Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d530caf5699361558008",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "reviewed_at": "2026-11-02T03:13:46.6896658Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "39eee5ceca999e2116cb",
+      "status": "verified",
+      "transcript": "Ký hiệu: 2C24TNC",
+      "reviewed_at": "2026-11-02T03:13:46.6896939Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f23b068d10b3c2f6f2d3",
+      "status": "verified",
+      "transcript": "(Dùng cho tổ chức, cá nhân trong khu phi thuế quan)",
+      "reviewed_at": "2026-11-02T03:13:46.6897292Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8e92c7dc311f414168ed",
+      "status": "verified",
+      "transcript": "MCQT cấp (Verification Code): 002393E0EE2A7B4083AF97637BD057B0B8",
+      "reviewed_at": "2026-11-02T03:13:46.6897656Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ba2cb54777da71dcd905",
+      "status": "verified",
+      "transcript": "Họ tên ngѭời mua hàng:",
+      "reviewed_at": "2026-11-02T03:13:46.6897963Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "64808d5002fa11823f9b",
+      "status": "verified",
+      "transcript": "Tên đơn vị: CNC INDUSTRIES LTD.",
+      "reviewed_at": "2026-11-02T03:13:46.6898288Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e0cd77c58431fbc0cb57",
+      "status": "verified",
+      "transcript": "Mã số thuế:",
+      "reviewed_at": "2026-11-02T03:13:46.6898580Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f9240bfe87749a319896",
+      "status": "verified",
+      "transcript": "Địa chỉ: 3291 - 8TH STREET, NISKU, ALBERTA, T9E 8T3, CANADA",
+      "reviewed_at": "2026-11-02T03:13:46.6898932Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "540e2c1119dd03700458",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: TTR",
+      "reviewed_at": "2026-11-02T03:13:46.6899230Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "aff02226ac5e48189dff",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:13:46.6899490Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5bf581e4ec2d086bef47",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "reviewed_at": "2026-11-02T03:13:46.6899739Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "989d9ae82a3837a2b4f9",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:13:46.6900019Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "385c7b6310e57370c702",
+      "status": "verified",
+      "transcript": "Cái/Chiếc",
+      "reviewed_at": "2026-11-02T03:13:46.6900285Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "08d2fe907f3beeb4438d",
+      "status": "verified",
+      "transcript": "12.110",
+      "reviewed_at": "2026-11-02T03:13:46.6900887Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "527ff3d0dbb132f36025",
+      "status": "verified",
+      "transcript": "Theo tờ khai số 306870999800 ngày 01/11/2024",
+      "reviewed_at": "2026-11-02T03:13:46.6901260Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8dfcb2fec4a0a4f8ceb3",
+      "status": "verified",
+      "transcript": "Cộng tiền bán hàng hóa, dịch vụ:",
+      "reviewed_at": "2026-11-02T03:13:46.6901554Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dd8c288d7ae0ffc51ae8",
+      "status": "verified",
+      "transcript": "(Ký, họ tên)",
+      "reviewed_at": "2026-11-02T03:13:46.6901836Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f506dc2528b9e49b5147",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T03:13:46.6902205Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7883f53681ea389040ab",
+      "status": "verified",
+      "transcript": "Tra cứu tại: https://einvoice.fast.com.vn",
+      "reviewed_at": "2026-11-02T03:13:46.6902520Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

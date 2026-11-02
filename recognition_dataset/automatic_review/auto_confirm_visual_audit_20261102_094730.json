@@ -1,0 +1,246 @@
+{
+  "invoice": "WEB_073",
+  "created_at": "2026-11-02T02:47:32.9368840Z",
+  "method": "manual_visual_review",
+  "count": 34,
+  "annotations": [
+    {
+      "crop_id": "0cce25610b5ae5e4a780",
+      "status": "verified",
+      "transcript": "CO.OPMART DUYÊN HẢI",
+      "reviewed_at": "2026-11-02T02:47:32.9278185Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c24bf3a0079cc2ea930b",
+      "status": "verified",
+      "transcript": "Điện thoại: (0294) 383 2929",
+      "reviewed_at": "2026-11-02T02:47:32.9345019Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0d3436cdd1998aaa85c8",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T02:47:32.9346847Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c615088234cee7c54b59",
+      "status": "verified",
+      "transcript": "Mẫu số/Ký hiệu: 1C25MCM",
+      "reviewed_at": "2026-11-02T02:47:32.9347876Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f9f069d0abc680e8df35",
+      "status": "verified",
+      "transcript": "Số tham khảo: P-73525-3-D20062025-536-01",
+      "reviewed_at": "2026-11-02T02:47:32.9348682Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "09191fdea9a4d8b5f824",
+      "status": "verified",
+      "transcript": "Xuất tại: Co.opmart Duyên Hải",
+      "reviewed_at": "2026-11-02T02:47:32.9349851Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b9d686a000351d344b4b",
+      "status": "verified",
+      "transcript": "Số CCCD:",
+      "reviewed_at": "2026-11-02T02:47:32.9350623Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e3315d01ab772a8c9f72",
+      "status": "verified",
+      "transcript": "Điện thoại:",
+      "reviewed_at": "2026-11-02T02:47:32.9351249Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "44ac114e732c3070e6c1",
+      "status": "verified",
+      "transcript": "Mã số thuế / Mã số khác: 3600456424",
+      "reviewed_at": "2026-11-02T02:47:32.9351893Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ada9f1bce56536a546ff",
+      "status": "verified",
+      "transcript": "Thuế",
+      "reviewed_at": "2026-11-02T02:47:32.9352384Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d880cb75b7a96952ded9",
+      "status": "verified",
+      "transcript": "Chiết",
+      "reviewed_at": "2026-11-02T02:47:32.9352849Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "12af81206fb8f5eede73",
+      "status": "verified",
+      "transcript": "Thành Tiền",
+      "reviewed_at": "2026-11-02T02:47:32.9353513Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d489d9b2cdc578f555ed",
+      "status": "verified",
+      "transcript": "Suất",
+      "reviewed_at": "2026-11-02T02:47:32.9353992Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9def3a832d0f16483dcd",
+      "status": "verified",
+      "transcript": "Tiền",
+      "reviewed_at": "2026-11-02T02:47:32.9354454Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8cc2634d2cca86d708c3",
+      "status": "verified",
+      "transcript": "Khấu",
+      "reviewed_at": "2026-11-02T02:47:32.9354901Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a1174388d2077f7f86a6",
+      "status": "verified",
+      "transcript": "Sau Thuế",
+      "reviewed_at": "2026-11-02T02:47:32.9355395Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e4a48358750606cba8dd",
+      "status": "verified",
+      "transcript": "Chiết",
+      "reviewed_at": "2026-11-02T02:47:32.9356399Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "add0322e53e9e255b171",
+      "status": "verified",
+      "transcript": "Tiền",
+      "reviewed_at": "2026-11-02T02:47:32.9357098Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4328a5deb675c72ca305",
+      "status": "verified",
+      "transcript": "Thành Tiền",
+      "reviewed_at": "2026-11-02T02:47:32.9357814Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dcafbb3820be0781ef56",
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "reviewed_at": "2026-11-02T02:47:32.9358320Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2eb56f65e9bef414c9f7",
+      "status": "verified",
+      "transcript": "Tiền",
+      "reviewed_at": "2026-11-02T02:47:32.9358822Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5f29df19815d4d3047cd",
+      "status": "verified",
+      "transcript": "Khấu",
+      "reviewed_at": "2026-11-02T02:47:32.9359277Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e7179eef97ef4cde173a",
+      "status": "verified",
+      "transcript": "Thuế",
+      "reviewed_at": "2026-11-02T02:47:32.9359739Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fff1688e5829a18d6bc9",
+      "status": "verified",
+      "transcript": "Sau thuế",
+      "reviewed_at": "2026-11-02T02:47:32.9360228Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7747ae9fb1a7a0337626",
+      "status": "verified",
+      "transcript": "Thuế suất 10%",
+      "reviewed_at": "2026-11-02T02:47:32.9360740Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dacfc63a558e4c04c588",
+      "status": "verified",
+      "transcript": "Thuế suất 8%",
+      "reviewed_at": "2026-11-02T02:47:32.9361864Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b361049d1cc7875bd134",
+      "status": "verified",
+      "transcript": "Thuế suất 5%",
+      "reviewed_at": "2026-11-02T02:47:32.9362862Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "03adfc7c6ba36b079594",
+      "status": "verified",
+      "transcript": "Thuế suất 0%",
+      "reviewed_at": "2026-11-02T02:47:32.9363847Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "03543a20f933049cb438",
+      "status": "verified",
+      "transcript": "Không kê khai tính thuế",
+      "reviewed_at": "2026-11-02T02:47:32.9364500Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2fc86bf8289d365c08cc",
+      "status": "verified",
+      "transcript": "Không chịu thuế (notax)",
+      "reviewed_at": "2026-11-02T02:47:32.9365097Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "312d1b68b58076452c2d",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán",
+      "reviewed_at": "2026-11-02T02:47:32.9366106Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6cb4c31961bb79962701",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu, ghi rõ họ tên)",
+      "reviewed_at": "2026-11-02T02:47:32.9366766Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2d2730017f7d7cb04090",
+      "status": "verified",
+      "transcript": "Tra cứu hóa đơn điện tử tại: https://saigoncoop.einvoice.com.vn/",
+      "reviewed_at": "2026-11-02T02:47:32.9367353Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a5c8f651553481200d5b",
+      "status": "verified",
+      "transcript": "- Mã tra cứu: DFK8KG2D959",
+      "reviewed_at": "2026-11-02T02:47:32.9368301Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

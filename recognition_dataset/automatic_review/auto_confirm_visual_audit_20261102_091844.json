@@ -1,0 +1,134 @@
+{
+  "created_at_utc": "2026-11-02T02:18:44.327907+00:00",
+  "invoice": "WEB_033",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 21,
+  "items": [
+    {
+      "crop_id": "cfaee9314227233132bd",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "f024b30d4119589e36fb",
+      "transcript": "Cháo dắt",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "d42f86c796b9d3b471d4",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "17a891c529ab2e643191",
+      "transcript": "Số (No.):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "a3444c44144b084ce8b6",
+      "transcript": "Mã của cơ quan thuế: 008FE82944C7F045A2BDCDC532092F51B2",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "89f9ade1f473d68cd405",
+      "transcript": "Mã số thuế (Tax code): 2801411333",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "b505644639f6283e298a",
+      "transcript": "Điện thoại (Tel): 02372.240.466",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "2fd196c1a53b8efc28b2",
+      "transcript": "Họ tên người mua hàng (Buyer's fullname):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "dae85812c0100df346df",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TRÁCH NHIỆM HỮU HẠN GROBEST INDUSTRIAL (VIỆT NAM)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "e935b3abc2ca01a71995",
+      "transcript": "Mã số thuế (Tax code): 3600456424",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "682b73ef179f6f411767",
+      "transcript": "Số tài khoản (A/C No):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "36cae5d5e398d0479c31",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "ae76cd2f9dc5bde87ea2",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "3fbec091c3f5d79cd082",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "ed71e390a4d8ec67cace",
+      "transcript": "Thuế suất GTGT (VAT rate): 8%",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "26ff301108c89f15f2e4",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "b8bd2c21fda231021482",
+      "transcript": "Số tiền viết bằng chữ (In words):Năm triệu bốn trăm đồng",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "610f2c549d92c22934fe",
+      "transcript": "Người mua hàng (Buyer)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "ade8a63268990c75d4ea",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "abd4c050e08c3a7151bf",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    },
+    {
+      "crop_id": "b63fabb45ef48fdcdc85",
+      "transcript": "Tiep theo trang truoc - trang 2/2",
+      "status": "verified",
+      "visual_note": "Inspected crop directly including long company and amount text; legible."
+    }
+  ]
+}

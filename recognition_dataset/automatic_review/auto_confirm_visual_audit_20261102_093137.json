@@ -1,0 +1,80 @@
+{
+  "created_at": "2026-11-02T09:31:37.678615+07:00",
+  "invoice": "WEB_059",
+  "method": "manual_visual_review",
+  "count": 18,
+  "annotations": [
+    {
+      "crop_id": "f57d0fae53c319bd80ba",
+      "transcript": "Mẫu số (Form): 01GTKT0/001"
+    },
+    {
+      "crop_id": "c6a7e092be5076636055",
+      "transcript": "Ký hiệu (Serial): DQ/20E"
+    },
+    {
+      "crop_id": "22678e6f3eb748e95f22",
+      "transcript": "Điện thoại (Tel): 024.38569966"
+    },
+    {
+      "crop_id": "dc52f7c24f98e1c55165",
+      "transcript": "Tài khoản (A/C number): 2131 0000 608 070 Tại Ngân Hàng BIDV - Chi Nhánh Nam Hà Nội"
+    },
+    {
+      "crop_id": "55a77cfdb7badbfdf80a",
+      "transcript": "Họ tên người mua hàng (Buyer):"
+    },
+    {
+      "crop_id": "c5028ab3d9d016596c8d",
+      "transcript": "Tên đơn vị (Company name): CÔNG TY TNHH TDQ VIỆT NAM"
+    },
+    {
+      "crop_id": "e9fe436fe371d765aef5",
+      "transcript": "Mã số thuế (Tax code): 0106013182"
+    },
+    {
+      "crop_id": "97df805f5df0ca2ab650",
+      "transcript": "Số tài khoản (A/C No.):"
+    },
+    {
+      "crop_id": "347c366c78637e3d3994",
+      "transcript": "Hình thức thanh toán (Payment method): T/M"
+    },
+    {
+      "crop_id": "562a4cc6285b7644639c",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "c15bdf867800bee9088d",
+      "transcript": "Đơn vị tính"
+    },
+    {
+      "crop_id": "f86385577aa5cfb7ca90",
+      "transcript": "Cộng tiền hàng (Sub total):"
+    },
+    {
+      "crop_id": "3267b22b222a8ad6f6bd",
+      "transcript": "Tiền thuế GTGT (VAT amount):"
+    },
+    {
+      "crop_id": "0b40da1d9c1364704448",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):"
+    },
+    {
+      "crop_id": "418fe54f544e2871b484",
+      "transcript": "Người mua hàng (Buyer)"
+    },
+    {
+      "crop_id": "ba4edd5cc9f0f0da8143",
+      "transcript": "Người bán hàng (Seller)"
+    },
+    {
+      "crop_id": "aa4b7c1e924e452fbc32",
+      "transcript": "Trang tra cứu: http://0102807547hd.easyinvoice.vn Mã tra cứu: D6Q3J7p5010779881961052"
+    },
+    {
+      "crop_id": "425e2628b899841cb1e5",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    }
+  ]
+}

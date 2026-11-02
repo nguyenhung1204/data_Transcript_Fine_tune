@@ -1,0 +1,115 @@
+{
+  "visual_review": "All candidate crops visually inspected; confirmed only clearly legible text",
+  "batch": "WEB_126",
+  "skipped_existing": [],
+  "created_at": "2026-11-02T03:38:40.4360327Z",
+  "deferred": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_103836.json",
+  "confirmed": [
+    {
+      "transcript": "Ký hiệu (Serial): 1C25TAA",
+      "reviewed_at": "2026-11-02T03:38:38.9767048Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "7b9ad3f89c9fd5812925"
+    },
+    {
+      "transcript": "Số (No.):",
+      "reviewed_at": "2026-11-02T03:38:39.0935012Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "f51184201dafc76f2a3b"
+    },
+    {
+      "transcript": "Điện thoại (Tel): 0968145247",
+      "reviewed_at": "2026-11-02T03:38:39.2108166Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "33373a1426e6d0f131bf"
+    },
+    {
+      "transcript": "Ngân hàng (Bank): Ngân hàng TMCP Á Châu - PGD Kiến Thiết",
+      "reviewed_at": "2026-11-02T03:38:39.3176087Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "4f60978add81da76d400"
+    },
+    {
+      "transcript": "Họ tên người mua hàng (Customer's name):",
+      "reviewed_at": "2026-11-02T03:38:39.4130771Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "3bdba02ffb4723282395"
+    },
+    {
+      "transcript": "Mã số thuế (Tax code): 0310765873",
+      "reviewed_at": "2026-11-02T03:38:39.5116376Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "3cf419860a509a12d5ba"
+    },
+    {
+      "transcript": "Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T03:38:39.6074832Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "3befea551cb93fea235b"
+    },
+    {
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "reviewed_at": "2026-11-02T03:38:39.6920083Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "f4839b79dc3b3855d58d"
+    },
+    {
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:38:39.7831276Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "03a5207ee25872c0df85"
+    },
+    {
+      "transcript": "Đơn vị tính",
+      "reviewed_at": "2026-11-02T03:38:39.8700077Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "49e1b6a57bd5695485f7"
+    },
+    {
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-02T03:38:39.9536410Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "5096ff0ee7bb9cba2798"
+    },
+    {
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:38:40.0649259Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "2fd9044447587d165b07"
+    },
+    {
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "reviewed_at": "2026-11-02T03:38:40.1897228Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "e0db86e3d1f9c35cd5c8"
+    },
+    {
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T03:38:40.3120087Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "7f20b6e474d1804edce9"
+    },
+    {
+      "transcript": "Người bán hàng (Seller)",
+      "reviewed_at": "2026-11-02T03:38:40.4360133Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "crop_id": "857ed773b011a3521b91"
+    }
+  ]
+}

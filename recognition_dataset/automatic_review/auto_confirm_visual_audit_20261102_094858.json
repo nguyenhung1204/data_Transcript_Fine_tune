@@ -1,0 +1,179 @@
+{
+  "invoices": [
+    "WEB_083",
+    "WEB_085"
+  ],
+  "created_at": "2026-11-02T02:49:01.2918448Z",
+  "method": "manual_visual_review",
+  "count": 24,
+  "annotations": [
+    {
+      "crop_id": "53d9a32dcd2ada72fee3",
+      "status": "verified",
+      "transcript": "Ký hiệu (Series): 2C25MTT",
+      "reviewed_at": "2026-11-02T02:49:01.2823810Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a814234ec30c18099344",
+      "status": "verified",
+      "transcript": "Số (Invoice No): 00000618",
+      "reviewed_at": "2026-11-02T02:49:01.2896778Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "39f1dd4681ee65889b6c",
+      "status": "verified",
+      "transcript": "Mã của cơ quan thuế: M2-25-YJXSW-00700000618",
+      "reviewed_at": "2026-11-02T02:49:01.2901958Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1ecb2bcb4611af0bd381",
+      "status": "verified",
+      "transcript": "Số 304, Khu Tân Mai, Phường Đông Mai, Thị xã Quảng Yên, tỉnh Quảng Ninh",
+      "reviewed_at": "2026-11-02T02:49:01.2904060Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8f30cca80fe80a6a9ff8",
+      "status": "verified",
+      "transcript": "Số tài khoản (AC No):",
+      "reviewed_at": "2026-11-02T02:49:01.2905131Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4eac50845ada56f54bd7",
+      "status": "verified",
+      "transcript": "Tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T02:49:01.2906050Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f98b6f8254eb75f77c39",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code):",
+      "reviewed_at": "2026-11-02T02:49:01.2906889Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1fb39bb623a263d8b2a7",
+      "status": "verified",
+      "transcript": "Số điện thoại (Tel):",
+      "reviewed_at": "2026-11-02T02:49:01.2907668Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1926fed64e9c9b7f198b",
+      "status": "verified",
+      "transcript": "Số tài khoản (AC No):",
+      "reviewed_at": "2026-11-02T02:49:01.2908281Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6cc9255c0c0420faf54d",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method):",
+      "reviewed_at": "2026-11-02T02:49:01.2908809Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c43bc5af2fdde47c3a8d",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:49:01.2909287Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "27472207f6afd8c8f7d6",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:49:01.2909969Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8d9bd9808bd75d308945",
+      "status": "verified",
+      "transcript": "Đơn vị tính",
+      "reviewed_at": "2026-11-02T02:49:01.2910449Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ff7db6cea441762c5deb",
+      "status": "verified",
+      "transcript": "Vịt quay",
+      "reviewed_at": "2026-11-02T02:49:01.2910907Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "43969f71c4ce94b987a3",
+      "status": "verified",
+      "transcript": "Canh cá nấu chua",
+      "reviewed_at": "2026-11-02T02:49:01.2911369Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "82e5228628a72dbbfe0f",
+      "status": "verified",
+      "transcript": "Cơm trắng",
+      "reviewed_at": "2026-11-02T02:49:01.2911836Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "015cc91d1d3a8636da42",
+      "status": "verified",
+      "transcript": "Chiếc",
+      "reviewed_at": "2026-11-02T02:49:01.2912863Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ac43aa60aad963841e52",
+      "status": "verified",
+      "transcript": "Khăn lạnh",
+      "reviewed_at": "2026-11-02T02:49:01.2913639Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ad13ebad25e883e17965",
+      "status": "verified",
+      "transcript": "Tráng miệng",
+      "reviewed_at": "2026-11-02T02:49:01.2914191Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a4bad3a1e4da27e8e13b",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán (Total Amount):",
+      "reviewed_at": "2026-11-02T02:49:01.2914719Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cd21e754f58a4faa89bb",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T02:49:01.2915255Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5f9622c9d4c77cb91ce4",
+      "status": "verified",
+      "transcript": "Mã tra cứu:112682002C25MTT618470910",
+      "reviewed_at": "2026-11-02T02:49:01.2915823Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a17bc7a930967d08c4cc",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "reviewed_at": "2026-11-02T02:49:01.2916374Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d10a0d0e92a57a0e3186",
+      "status": "verified",
+      "transcript": "Phụ lục 3.7: Hóa đơn GTGT số 00012386",
+      "reviewed_at": "2026-11-02T02:49:01.2917510Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

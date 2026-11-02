@@ -1,0 +1,289 @@
+{
+  "timestamp": "20261102_105735",
+  "invoice_ids": [
+    "WEB_203",
+    "WEB_204"
+  ],
+  "accepted_count": 44,
+  "accepted": [
+    {
+      "crop_id": "311e558a476ea2ebc92b",
+      "status": "verified",
+      "transcript": "Mẫu số: 03GTKT3/001",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e4648b05113c36a0466d",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "168cc6b998944ff26bdf",
+      "status": "verified",
+      "transcript": "Ký hiệu: VL/19P",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "248ea06f5eeae9f0e6d1",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng: Công ty cổ phần Văn Hóa Văn Lang",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ac06c160cb715275d310",
+      "status": "verified",
+      "transcript": "47/2Y, Mỹ Hoá, Trung Chánh, Hóc Môn",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "26f1bc2bdeae075efc0c",
+      "status": "verified",
+      "transcript": "Mã số thuế:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "35ddf1929e16ed57b41f",
+      "status": "verified",
+      "transcript": "Tại: Ngân hàng NN & PTNT CN Hóc Môn",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a898689a0968501f0a2c",
+      "status": "verified",
+      "transcript": "Điện thoại:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "33069fd3e82f1b994f33",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "688a20fc29c726b0a0f9",
+      "status": "verified",
+      "transcript": "Công ty TNHH Sản Xuất Và Thương Mại VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d2c692ad6538594e16e8",
+      "status": "verified",
+      "transcript": "Tên đơn vị:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7d11e63d968a7e013ff9",
+      "status": "verified",
+      "transcript": "Mã số thuế:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bb1265328d6d416c89f4",
+      "status": "verified",
+      "transcript": "Tại:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2c3916db3fd36fcc4bd5",
+      "status": "verified",
+      "transcript": "Số lượng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b26f96b5599ff02774c4",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "794344492621846e86c6",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3e2760967e0f6d34a660",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "09fe1cb2a8f485f8003b",
+      "status": "verified",
+      "transcript": "Giấy A4",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "267bb0fc43a3950ec570",
+      "status": "verified",
+      "transcript": "Hộp",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c1ba33e9e5f642973b2a",
+      "status": "verified",
+      "transcript": "Cộng tiền bán hàng hóa, dịch vụ:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e65a444911b8e435e591",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a4cfbab828906f817b21",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0152ffed0483ded74207",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6a61192b9d1d495b4437",
+      "status": "verified",
+      "transcript": "(Ký, họ tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "33e76506d1193724eee5",
+      "status": "verified",
+      "transcript": "Hà Thị Tâm",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8e66e78b6d71d9f62141",
+      "status": "verified",
+      "transcript": "Bán hàng qua điện thoại",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "251215a9d43cfcfc0b5e",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "59f742e88bd58ed4fab9",
+      "status": "verified",
+      "transcript": "Nghiệp vụ số 11- VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b7abebc8d2d5a712cfe8",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "406e1ed245e190fe48ce",
+      "status": "verified",
+      "transcript": "Ký hiệu: ST/20E",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8b817bd3b484fe85c3f2",
+      "status": "verified",
+      "transcript": "Liên 2: Giao cho người mua",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "38de1ecb163f519f0275",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH Sản Xuất Và Thương Mại VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cb5ffb307faf5496c586",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d1e7f0b83be6b689ad4b",
+      "status": "verified",
+      "transcript": "Điện thoại",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "94a43f247e16110319a7",
+      "status": "verified",
+      "transcript": ": 987 Nguyễn Trãi, Quận 1, TP.HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b6967533d2663018d366",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e6be4b5aa8487251cbf3",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "42439db06e5eed5d4965",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ad612962e79a5c13c73a",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e7f843f5de58b20df7e1",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT: 10%, Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f8793a227d42ec32ba97",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "49e1c04adea3d6a0105d",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu ghi rõ họ tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "857f0edbc68a50268641",
+      "status": "verified",
+      "transcript": "(Ký ghi rõ họ tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "053cc75a045515b196ae",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [
+    {
+      "crop_id": "54916f0bd314e3b1964a",
+      "invoice": "WEB_204",
+      "reason": "Dòng điện thoại/tài khoản bị cắt ở cuối sau TP."
+    },
+    {
+      "crop_id": "c4227be5019a778dcf37",
+      "invoice": "WEB_204",
+      "reason": "Crop bị mất chữ đầu của dòng Tổng cộng tiền thanh toán."
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_105735.json",
+  "readback_count": 11366,
+  "readback_failures": 0
+}

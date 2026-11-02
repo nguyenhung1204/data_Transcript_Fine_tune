@@ -1,0 +1,35 @@
+{
+  "invoice": "WEB_263",
+  "created_at": "2026-11-02T15:26:24.4053825+07:00",
+  "review_method": "manual_visual_review",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_152621.json",
+  "reviewed_crop_ids": [
+    "e1ef051e6ee5f3d8e47a",
+    "3aab1cd2ce06292b5fa2",
+    "af473f5ad9bfacce3bb7",
+    "ac43db276d89dff421a6",
+    "1c2b75d1629d74b40ca4",
+    "773bc6a96fce423cb28f",
+    "6061d5e040d240e8c373",
+    "e868b896275b8f9b791a",
+    "e677897b567b0a3ab970",
+    "d6d530516f3d9ed8569e",
+    "8672f575a466ebefeebd",
+    "aac2715de40631f5b2cb",
+    "9445bb4f7902db236aef",
+    "7555311948bf11216f7b",
+    "826ecc8f8f30d975fd0a",
+    "73a7791c30d480958a1d",
+    "3ab0152cef28ac14605f",
+    "4c07f37982e4fc1c76b2"
+  ],
+  "submitted_count": 15,
+  "existing_terminal_skipped": 1,
+  "deferred_crop_ids": [
+    "3ab0152cef28ac14605f",
+    "4c07f37982e4fc1c76b2"
+  ],
+  "readback_errors": [],
+  "verified_total": 11884,
+  "notes": "Label crop for tax identifier had no identifier; table heading cut at edge; both deferred. Other 16 crops visibly transcribed."
+}

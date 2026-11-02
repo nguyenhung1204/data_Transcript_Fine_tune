@@ -1,0 +1,164 @@
+{
+  "invoice": "WEB_107",
+  "timestamp_utc": "2026-11-02T03:15:53.3399585Z",
+  "reviewed_count": 22,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Ảnh crop đã được kiểm tra trực quan; sửa các lỗi tách dấu/mã số thuế và giữ khoảng trắng đơn.",
+  "annotations": [
+    {
+      "crop_id": "071243b2c7830234d945",
+      "status": "verified",
+      "transcript": "HỘ KINH DOANH DÊ CUA 245",
+      "reviewed_at": "2026-11-02T03:15:53.3337302Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e226b472a5cc408544e1",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 8069367273",
+      "reviewed_at": "2026-11-02T03:15:53.3389328Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f31f68b113d490024e14",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address): 91 Hoàng Sa, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "reviewed_at": "2026-11-02T03:15:53.3391071Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4d5f49fd3762235082c1",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel):",
+      "reviewed_at": "2026-11-02T03:15:53.3392099Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c7d25923287470098a64",
+      "status": "verified",
+      "transcript": "Số tài khoản (Bank account):",
+      "reviewed_at": "2026-11-02T03:15:53.3392814Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9c4b5a14f2005dbe8ae9",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "reviewed_at": "2026-11-02T03:15:53.3393398Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "36076b5617eb084757a8",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial): 2C22TAA",
+      "reviewed_at": "2026-11-02T03:15:53.3394035Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "62c0acc7c81932f5f78d",
+      "status": "verified",
+      "transcript": "Số (No.):",
+      "reviewed_at": "2026-11-02T03:15:53.3394547Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "13764530ce409ed9d31b",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T03:15:53.3394886Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "badb7fd915b68b95bebc",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0316833907",
+      "reviewed_at": "2026-11-02T03:15:53.3395282Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6096d43641d0a79aae17",
+      "status": "verified",
+      "transcript": "Số tài khoản (Bank account):",
+      "reviewed_at": "2026-11-02T03:15:53.3395614Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d68b63570f54b01e6047",
+      "status": "verified",
+      "transcript": "Đồng tiền thanh toán (Payment Currency): VND",
+      "reviewed_at": "2026-11-02T03:15:53.3395951Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1decb767686a264a2fb7",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:15:53.3396245Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0975b1422b0059db1205",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:15:53.3396551Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "24ad8a7c2a52c2dcb2b2",
+      "status": "verified",
+      "transcript": "Khăn Lạnh",
+      "reviewed_at": "2026-11-02T03:15:53.3396847Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "99fd36de064c0e68d3c5",
+      "status": "verified",
+      "transcript": "Lạng",
+      "reviewed_at": "2026-11-02T03:15:53.3397122Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a7128fb87765444d9fde",
+      "status": "verified",
+      "transcript": "Phần",
+      "reviewed_at": "2026-11-02T03:15:53.3397728Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "677243541493e30bac91",
+      "status": "verified",
+      "transcript": "Phần",
+      "reviewed_at": "2026-11-02T03:15:53.3398094Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bd748b17f6a682990a2b",
+      "status": "verified",
+      "transcript": "85.51 1",
+      "reviewed_at": "2026-11-02T03:15:53.3398413Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0d36baae62869f80e05e",
+      "status": "verified",
+      "transcript": "85.51 1",
+      "reviewed_at": "2026-11-02T03:15:53.3398718Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dbc8932e9c052c5101a9",
+      "status": "verified",
+      "transcript": "Rau Luộc Thập Cẩm+Kho Quẹt",
+      "reviewed_at": "2026-11-02T03:15:53.3399135Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a83e843bd11f2e34f173",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "reviewed_at": "2026-11-02T03:15:53.3399481Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075406.json",
+  "confirmed": [
+    {
+      "crop_id": "938423b00542469e7f82",
+      "transcript": "Không chịu thuế"
+    },
+    {
+      "crop_id": "1da7f14cbe1aa111bb67",
+      "transcript": "Thuế suất 5%:"
+    },
+    {
+      "crop_id": "105bbc9b8ba85961cc17",
+      "transcript": "Thuế suất 8%:"
+    },
+    {
+      "crop_id": "52848436017f1585c17f",
+      "transcript": "Thuế suất 10%:"
+    },
+    {
+      "crop_id": "02003924adf52e4de92c",
+      "transcript": "Tổng cộng:"
+    },
+    {
+      "crop_id": "d2050bb39e0776d82e69",
+      "transcript": "Số tiền viết bằng chữ: Mười một triệu năm trăm chín mươi nghìn đồng."
+    },
+    {
+      "crop_id": "7945f19cbb9f0fb1093f",
+      "transcript": "Người mua hàng (Buyer)"
+    },
+    {
+      "crop_id": "6d7b6a75d6464196bc0e",
+      "transcript": "Người mua hàng (Buyer)"
+    }
+  ],
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:54:06.8998725Z",
+  "note": "Eight clear tax summary and signature label crops visually confirmed.",
+  "invoice": "HD_037",
+  "method": "manual_visual_review_crop_images"
+}

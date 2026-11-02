@@ -1,0 +1,299 @@
+{
+  "visual_review": "Direct crop images inspected; website spacing corrected to visible PDF text; ambiguous invoice code deferred",
+  "confirmed": [
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:15.9883122Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "crop_id": "eaca5307f27a64636b5e"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.0927967Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ký hiệu (Series): 1C24TAA",
+      "crop_id": "58713b138028370d5449"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.1876311Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế (Tax code)",
+      "crop_id": "72454238fa3615943057"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.2898435Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": ": Số 382 đường Nguyễn Duy Trinh, P.Bình Trưng Đông, TP. Thủ Đức, Thành phố Hồ Chí Minh",
+      "crop_id": "cd9c01010d809739daaa"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.3909740Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Điện thoại (Phone)",
+      "crop_id": "54e597a8d3ca50b1e3ca"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.4891915Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tài khoản (Acc No.)",
+      "crop_id": "e66d4e6661777c8113b5"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.5838767Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tài khoản (Acc No.):",
+      "crop_id": "43933d3d5564b08f35f8"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.6817192Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế (Tax code): 0310765873",
+      "crop_id": "998d03638641d6d99179"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.7767835Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "crop_id": "1e952090c80d71355560"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.8600675Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn vị tính",
+      "crop_id": "dc9902316ab178c87220"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:16.9454393Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy phân tích đóng cọc PDA-Model: PDA-8G.",
+      "crop_id": "2d4a720708991ded287f"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:17.0611133Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bộ",
+      "crop_id": "fa659064eceb16f3d7fb"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:17.1868923Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bộ",
+      "crop_id": "2e22ab5deae069c1552b"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:17.3272724Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy siêu âm cọc khoan nhồi Model: CHAMP-Q.",
+      "crop_id": "f301350886a009960dee"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:17.5123403Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Máy kiểm tra, đánh giá biên dạng lỗ khoan (SHAPE);",
+      "crop_id": "4707a30ce0152257997a"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:17.6486952Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Bộ",
+      "crop_id": "caea660b17418748f6b4"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:17.7824975Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "crop_id": "93cfa28bb02ab707b41d"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:17.9173533Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất GTGT (VAT rate): 10%",
+      "crop_id": "5216d4d1b5d5fccccc50"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.0511962Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "crop_id": "596dd3341435b73335c2"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.1786116Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tiền viết bằng chữ (Words): Hai tỷ hai trăm triệu đồng",
+      "crop_id": "8a795877f7442b732ac9"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.2967489Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "711cdcaf24c6c1dc81ad"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.3996659Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người bán hàng (Seller)",
+      "crop_id": "3ef67479116d152e735c"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.5338643Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Trang tra cứu (Search on Website): https://tracuuhoadon.fpt.com.vn/",
+      "crop_id": "5b13368b2bb5b7edcef0"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.6048858Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "CÔNG T Y T NHH T HIẾT B Ị ĐO L ƯỜNG H OA S EN V ÀNG",
+      "crop_id": "ad72bf52f78c5a7684a5"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.6597778Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế (VAT code): 0310911570",
+      "crop_id": "2f8863928ae519ce2932"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.7119679Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Website: https://hoasenvang.com.vn",
+      "crop_id": "028e547becb25a15c3b2"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.7654765Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ký hiệu (Series): 1C24TSV",
+      "crop_id": "cc6c29a874531b7aa68a"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.8200714Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "crop_id": "fe63660c241a3cebc853"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.8767930Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tài khoản (Acc No.):",
+      "crop_id": "465a74a3721dbb70b49b"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.9310227Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Hình thức thanh toán (Payment method):",
+      "crop_id": "2464204957df68b1a4cc"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:18.9840075Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "crop_id": "8ba35f0a31fbd2c4d6c8"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.0360093Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "5c2b17c37012e6c92df1"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.0910738Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn giá",
+      "crop_id": "80c1bd0ebee258ff10b0"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.1464817Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Cân kỹ thuật AB-FPA 214",
+      "crop_id": "dea5338a01444367a94f"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.1989297Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "crop_id": "b54d6cb24a68b75e8af1"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.2505555Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "crop_id": "0b56e8e278e9f57d396d"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.3021289Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất GTGT (VAT rate): 10%",
+      "crop_id": "c5053e08f7b9be4d43cd"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.3523396Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "crop_id": "03e40acd5fb2136674ef"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.4030372Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Số tiền viết bằng chữ (Words):",
+      "crop_id": "1156f7edfb0ed4e34fc8"
+    },
+    {
+      "status": "verified",
+      "reviewed_at": "2026-11-02T03:43:19.4477758Z",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "47b7dc9dd150d3952490"
+    }
+  ],
+  "created_at": "2026-11-02T03:43:19.4478094Z",
+  "skipped_existing": [],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_104313.json",
+  "deferred": [
+    {
+      "reason": "Mã tra cứu có ký tự 0/o dễ nhầm; để người dùng rà",
+      "crop_id": "00fab54b48b344f95c15",
+      "invoice": "WEB_133"
+    }
+  ],
+  "batches": [
+    "WEB_132",
+    "WEB_133"
+  ]
+}

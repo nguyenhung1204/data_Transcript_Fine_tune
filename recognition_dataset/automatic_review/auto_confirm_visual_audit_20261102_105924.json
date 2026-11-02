@@ -1,0 +1,234 @@
+{
+  "timestamp": "20261102_105924",
+  "invoice_ids": [
+    "WEB_205",
+    "WEB_206"
+  ],
+  "accepted_count": 34,
+  "accepted": [
+    {
+      "crop_id": "fbf2b55af04776972f6e",
+      "status": "verified",
+      "transcript": "Nghiệp vụ số 12-VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c9f251ec858431d12d81",
+      "status": "verified",
+      "transcript": "Ký hiệu: ST/20E",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d54fb487a8b8859a1cea",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH Sản Xuất Và Thương Mại Vina Train",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "516dc02dbb2d6d35f977",
+      "status": "verified",
+      "transcript": "HCM - Phòng giao dịch Hai Bà Trưng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ab7fe1e64fb780c3ea6e",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng :",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "62ba0bca2314fd3b6213",
+      "status": "verified",
+      "transcript": ": Công ty Cổ Phần Ánh Mai",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3d49459ab03ccc4aad27",
+      "status": "verified",
+      "transcript": ": Số 695, đường Quang Trung, Phường 8, Quận Gò Vấp, Thành phố Hồ Chí Minh",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "122caac5badb49b5b9b0",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "42bb2907a0ac3ae5a573",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9dd1c8d679e1aec36e81",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3759de7c1b372a84711a",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9034b5258ebb034c949a",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fb4fca3a9a890df0d94a",
+      "status": "verified",
+      "transcript": "Người bán hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f4f6803a3c30ad017a30",
+      "status": "verified",
+      "transcript": "(Ký ghi rõ họ tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "85a73108efbc3fd52ce1",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4203b3550d6da611be3d",
+      "status": "verified",
+      "transcript": "Nghiệp vụ số 17- VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1f3507888c7564449ca5",
+      "status": "verified",
+      "transcript": "Ký hiệu: HS/20E",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d5f3684864b1d6a4bf00",
+      "status": "verified",
+      "transcript": "Liên 2: Giao cho người mua",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dd0da60ba8fbc63650b6",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH Hương Sen",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "90acb0a3711b98f6d77a",
+      "status": "verified",
+      "transcript": ": 123 Nguyễn Văn Trỗi, Quận Phú Nhuận, TP. HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7a48faaa6a449ac6dcfc",
+      "status": "verified",
+      "transcript": ": (028) 22348897 Số tài khoản : 13579111 tại Ngân hàng ACB - Chi nhánh TP.HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "27487fefbc6691b394d9",
+      "status": "verified",
+      "transcript": "Điện thoại",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c0dda6cc883fdec9ab64",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng :",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cee159de4568c2c92894",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fb94ff6e06f5e82cd287",
+      "status": "verified",
+      "transcript": ": 117 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, TP.HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "456fd38b55adc3892fd9",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "425bfc5933d79f05f919",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "92ab22b04410ab6dc20c",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6b95d7db76559ddf9b95",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a100c9b7bddbe43ccead",
+      "status": "verified",
+      "transcript": "Cuộn",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "45e96ad8ddb92196f45c",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e4c47a29b0a617c97fbf",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e47cdb5fb6a23eb1aaa6",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6ad31f85b840303b4cdb",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [
+    {
+      "reason": "Dòng điện thoại/tài khoản bị crop sau TP., phần tiếp nối nằm ở crop khác.",
+      "invoice": "WEB_205",
+      "crop_id": "fb5393f181369060e626"
+    },
+    {
+      "reason": "Crop thiếu chữ đầu của Tổng cộng tiền thanh toán.",
+      "invoice": "WEB_205",
+      "crop_id": "a2e51ef376136bd8b544"
+    },
+    {
+      "reason": "Crop thiếu chữ đầu của Tổng cộng tiền thanh toán.",
+      "invoice": "WEB_206",
+      "crop_id": "5fdca13f380ad4f5a106"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_105924.json",
+  "readback_count": 11400,
+  "readback_failures": 0
+}

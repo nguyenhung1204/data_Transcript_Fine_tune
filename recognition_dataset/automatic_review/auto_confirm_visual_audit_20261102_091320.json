@@ -1,0 +1,122 @@
+{
+  "created_at_utc": "2026-11-02T02:13:20.830925+00:00",
+  "invoice": "WEB_029",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 19,
+  "items": [
+    {
+      "crop_id": "f81a14504b685619da16",
+      "transcript": "Số tài khoản (AC No):",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "d29c730253379a8241c8",
+      "transcript": "Tên người mua hàng (Buyer):",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "649aec0657752500ef06",
+      "transcript": "Mã số thuế (Tax code):",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "a680b2a7967d2dff64c5",
+      "transcript": "Số điện thoại (Tel):",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "f6496efbb08e4f94a2c9",
+      "transcript": "Số tài khoản (AC No):",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "5061dd19b141100c1a7d",
+      "transcript": "Hình thức thanh toán (Payment method):",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "67f93d1b0ffabedce605",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "0ea6ac2614f2b2966973",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "8dbbeff55e6bf9f2e058",
+      "transcript": "Đơn vị tính",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "00ef05f9306162e6db14",
+      "transcript": "Sò trần",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "fa413ec69a0f3274c042",
+      "transcript": "Gà luộc",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "a059cb1f6e689fedb5ed",
+      "transcript": "Cơm trắng",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "72dbd12cf4173b305040",
+      "transcript": "Chiếc",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "48838b0e6a860c2e79b7",
+      "transcript": "Khăn lạnh",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "2fb8f2a82fe50eadb013",
+      "transcript": "Tráng miệng",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "560c6e7f62a06d1cd271",
+      "transcript": "Tổng tiền thanh toán (Total Amount):",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "264f835bf983d607f7e7",
+      "transcript": "Người mua hàng (Buyer)",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "2d7084cd4c5c03e84289",
+      "transcript": "Mã tra cứu: 112682002C25MTT561630026",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    },
+    {
+      "crop_id": "f406159cc05682b4469d",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Crop visually inspected; text is legible and transcript matches."
+    }
+  ]
+}

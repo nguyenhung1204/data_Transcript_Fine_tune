@@ -1,0 +1,12 @@
+{
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_164138.json",
+  "created_at_utc": "2026-11-02T09:41:40.7197799Z",
+  "reviewed": [
+    {
+      "transcript": "tháng 07 năm 2013",
+      "invoice": "WEB_013",
+      "evidence": "Crop image clearly shows the complete short date fragment; visually verified.",
+      "crop_id": "eb1cfafd6e9d9df82a56"
+    }
+  ]
+}

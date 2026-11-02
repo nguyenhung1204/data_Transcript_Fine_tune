@@ -1,0 +1,145 @@
+{
+  "annotations": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:16.1647470Z",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "crop_id": "536966b086548e1791c5",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:16.3913866Z",
+      "transcript": "HỘ KINH DOANH HAI ĐÔ",
+      "crop_id": "90f140d4b6bf26988524",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:16.5787447Z",
+      "transcript": "Mã số thuế (Tax code):",
+      "crop_id": "1979bfe80a2ae921e827",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:16.7624055Z",
+      "transcript": "Địa chỉ (Address):",
+      "crop_id": "12d66b85f00165f0967d",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:16.9545587Z",
+      "transcript": "Đường 19 tháng 5, Khóm 8, Phường 7, Tp Trà Vinh, Tỉnh Trà Vinh",
+      "crop_id": "fbf9c0db2e0a6c2b84df",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:17.1547461Z",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "crop_id": "7d1066966d3ab5538cae",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:17.3668175Z",
+      "transcript": "Mã số thuế (Tax code):",
+      "crop_id": "f7795dc6d7c29d284359",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:17.6950490Z",
+      "transcript": "Số 9, đường 3A, KCN Biên Hòa 2, Phường Long Bình Tân, Thành phố Biên Hoà,",
+      "crop_id": "4d030236804ba82d2494",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:17.8456299Z",
+      "transcript": "Địa chỉ (Address):",
+      "crop_id": "8015de8a5233e932f581",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:17.9710728Z",
+      "transcript": "Số tài khoản (AC No):",
+      "crop_id": "2850a9958cf40f3846ae",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.0602188Z",
+      "transcript": "Số lượng",
+      "crop_id": "2393311cc9ecd90318f3",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.1497001Z",
+      "transcript": "Đơn vị tính",
+      "crop_id": "360f23952bfd2ceff0ba",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.2280481Z",
+      "transcript": "Đơn giá",
+      "crop_id": "e9c05a18375b2c6ab0ce",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.3178282Z",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "crop_id": "d69c2154f4c08739d9c0",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.4122159Z",
+      "transcript": "Ốc hương rang muối",
+      "crop_id": "81ed641ca41547a2ed88",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.5382278Z",
+      "transcript": "CÁ CAM NƯỚNG MUỐI ỚT",
+      "crop_id": "aee06bde4e778d9b4237",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.6587261Z",
+      "transcript": "Cơm chiên hải sản",
+      "crop_id": "282ba7e0866366ba44bf",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.7850496Z",
+      "transcript": "Gỏi cá trích",
+      "crop_id": "2bcc9a515bbffabc2eaf",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.8936423Z",
+      "transcript": "Nước suối",
+      "crop_id": "03d73737a960250d0fb8",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T09:38:18.9808661Z",
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "b04e6c31945f49940ea4",
+      "status": "verified"
+    }
+  ],
+  "version": 1
+}

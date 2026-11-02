@@ -1,0 +1,116 @@
+{
+  "created_at": "2026-11-02T09:33:57.556006+07:00",
+  "invoice": "WEB_062",
+  "method": "manual_visual_review",
+  "count": 27,
+  "annotations": [
+    {
+      "crop_id": "36f8cf23cd22b7184ff0",
+      "transcript": "HÓA ĐƠN BÁN HÀNG"
+    },
+    {
+      "crop_id": "540635e976496e7ee55d",
+      "transcript": "Ký hiệu (Series): 2C25MMT"
+    },
+    {
+      "crop_id": "6c354e86093586ba8156",
+      "transcript": "Số (Invoice No): 00000014"
+    },
+    {
+      "crop_id": "122943a450c4fc0dbb62",
+      "transcript": "Mã của cơ quan thuế: M2-25-8VAVH-00100000014"
+    },
+    {
+      "crop_id": "b05b51bf0cba0741d3db",
+      "transcript": "Khách Sạn Minh Thu 2 khu du lịch, Thị trấn Quất Lâm, Huyện Giao Thủy, Tỉnh Nam Định"
+    },
+    {
+      "crop_id": "41e8add18f234aa68f1d",
+      "transcript": "Số điện thoại (Tel):"
+    },
+    {
+      "crop_id": "22c8c0ef9333986f9088",
+      "transcript": "Số tài khoản (AC No):"
+    },
+    {
+      "crop_id": "ab744832dfe4a80aff7d",
+      "transcript": "Ngân hàng (Bank Name): Tại Ngân Hàng TMCP Công Thương"
+    },
+    {
+      "crop_id": "90a8735b2fca555d0984",
+      "transcript": "Việt Nam - CN Nam Định"
+    },
+    {
+      "crop_id": "4f152a7283cef74e4162",
+      "transcript": "Tên người mua hàng (Buyer):"
+    },
+    {
+      "crop_id": "bcef3ccea336ee7e501a",
+      "transcript": "Tên đơn vị mua hàng (CusName):"
+    },
+    {
+      "crop_id": "b59d2c9d663d6b3ad23a",
+      "transcript": "Mã ĐVQHNS (Budget Relationship Unit Code):"
+    },
+    {
+      "crop_id": "97841a6135932d4991c5",
+      "transcript": "Số hộ chiếu (Passport No):"
+    },
+    {
+      "crop_id": "d12bc9c75e5835aa1877",
+      "transcript": "Số tài khoản (AC No):"
+    },
+    {
+      "crop_id": "b64521760f01b6e9322a",
+      "transcript": "Số điện thoại (Tel):"
+    },
+    {
+      "crop_id": "4db3c30678803fc6ae50",
+      "transcript": "Hình thức thanh toán (Payment method):"
+    },
+    {
+      "crop_id": "961e26c0e0c07908b553",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "1e5c6709243450f3382a",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "d1e3288ce0fcad897183",
+      "transcript": "Đơn vị tính"
+    },
+    {
+      "crop_id": "bd4c4e2048fa0903f090",
+      "transcript": "Cá vược hấp"
+    },
+    {
+      "crop_id": "e52a7f1c155f4606f42f",
+      "transcript": "Mực xào"
+    },
+    {
+      "crop_id": "7ddfc67a0d7dfe75f189",
+      "transcript": "Gà hấp"
+    },
+    {
+      "crop_id": "43b25b4e3b4792210ee8",
+      "transcript": "Cơm,canh,rau,tráng miệng"
+    },
+    {
+      "crop_id": "bb8963a7fd67930e80b8",
+      "transcript": "Tổng tiền thanh toán (Total Amount):"
+    },
+    {
+      "crop_id": "bd66b2e4d151e3b192b0",
+      "transcript": "Người bán hàng (Seller)"
+    },
+    {
+      "crop_id": "92a695087f5d0cc0e243",
+      "transcript": "Người mua hàng (Buyer)"
+    },
+    {
+      "crop_id": "86c073a1553baad4b9d2",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)"
+    }
+  ]
+}

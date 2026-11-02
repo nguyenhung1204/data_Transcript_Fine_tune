@@ -1,0 +1,43 @@
+{
+  "note": "Six clear crops confirmed; two visually readable lines left pending because transcripts exceed 90 chars.",
+  "timestamp_utc": "2026-11-02T00:48:45.0529292Z",
+  "invoice": "HD_036",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074845.json",
+  "skipped": [
+    {
+      "reason": "Transcript is 101 characters, over 90-character limit.",
+      "crop_id": "f962624b31129b9cd323"
+    },
+    {
+      "reason": "Transcript is 99 characters, over 90-character limit.",
+      "crop_id": "3dcab6fcd109ec367bd6"
+    }
+  ],
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "transcript": "Người mua (Buyer): Công ty TNHH Dịch Vụ Tư Vấn Kế Toán Thuế Thuận Việt",
+      "crop_id": "710ecc46700ceeebbef7"
+    },
+    {
+      "transcript": "Mã số thuế (Tax code): 0310415290",
+      "crop_id": "bd5492f8bb7951b4cc82"
+    },
+    {
+      "transcript": "Số tài khoản:",
+      "crop_id": "b20647a580e4e372706d"
+    },
+    {
+      "transcript": "Hình thức thanh toán: Chuyển khoản/Tiền Mặt",
+      "crop_id": "2d4427bad8fbe27c388b"
+    },
+    {
+      "transcript": "Số lượng",
+      "crop_id": "09d1de007cdfa5a3574b"
+    },
+    {
+      "transcript": "Đơn giá",
+      "crop_id": "6f25d6cfa0b6d465c144"
+    }
+  ]
+}

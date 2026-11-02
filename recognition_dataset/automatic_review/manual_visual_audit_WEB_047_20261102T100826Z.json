@@ -1,0 +1,124 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "8d87611a9e51f11bab39",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "transcript_before": "Đon v",
+      "transcript_after": "Đơn vị",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "1135a9e340276041fb69",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "transcript_before": "Só luơng",
+      "transcript_after": "Số lượng",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0ef0124cfd84d88e08ae",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "transcript_before": "Bánh xèo hái sån",
+      "transcript_after": "Bánh xèo hải sản",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "d5aa520e1c0986c0df21",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "transcript_before": "Só luơng",
+      "transcript_after": "Số lượng",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0616340f5b97fe443c3f",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "transcript_before": "Đon giá",
+      "transcript_after": "Đơn giá",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "1edcf6368947296a55ff",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "transcript_before": "Súp miso håi sån cay",
+      "transcript_after": "Súp miso hải sản cay",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "ac3496d378b9e4d6a1b1",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "transcript_before": "Quá",
+      "transcript_after": "Quả",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "acb6cd4e83597174c1c1",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "transcript_before": "Tng tin chu thu sut:",
+      "transcript_after": "Tổng tiền chịu thuế suất:",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "396f6a15d949c5c5b6be",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "transcript_before": "Tng tin chu thu sut:",
+      "transcript_after": "Tổng tiền chịu thuế suất:",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "d12cc3cf944f2a99b7d5",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "transcript_before": "(KHI TAO TU MÁY TÍNH TIÊN)",
+      "transcript_after": "(KHỞI TẠO TỪ MÁY TÍNH TIỀN)",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "a34d34e6990db9101591",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 2,
+      "transcript_before": "(KHI TO TU MÁY TÍNH TIÊN)",
+      "transcript_after": "(KHỞI TẠO TỪ MÁY TÍNH TIỀN)",
+      "evidence": "Visually inspected at crop resolution; complete line/word is legible, no clipping or overlay; text exactly matches visible content and is <=90 characters.",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "8e6a94bdac7d5a2142b6",
+      "reason": "Crop shows “Tổng hợp” with the following line partly entering/cut at the lower edge; kept pending."
+    },
+    {
+      "crop_id": "23feaa31f689c391e528",
+      "reason": "Signature line contains stamp/overlay; left pending."
+    }
+  ]
+}

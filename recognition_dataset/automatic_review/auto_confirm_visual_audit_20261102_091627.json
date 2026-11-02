@@ -1,0 +1,86 @@
+{
+  "created_at_utc": "2026-11-02T02:16:27.160392+00:00",
+  "invoice": "WEB_032",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 13,
+  "items": [
+    {
+      "crop_id": "ffa621844cf1622001d5",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "28e536c09adc788101e6",
+      "transcript": "sau thuế",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "69629a12ce0d0ba81ecb",
+      "transcript": "Suất Buffet 235k",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "57da734bc63cf3635ca6",
+      "transcript": "Khăn Lạnh",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "bf1f84a78e52af635ec5",
+      "transcript": "Thuế suất",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "32024d30bdf0c6c217c2",
+      "transcript": "Tổng tiền chưa thuế",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "87753ec19de540cdeeb2",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "7c222f3fcbde813eb412",
+      "transcript": "Tổng số tiền viết bằng chữ : Bốn triệu sáu trăm hai mươi bảy nghìn tám trăm đồng",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "58a8bad87efe344b5f8f",
+      "transcript": "Người mua hàng (Buyer)",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "13d5a34b7cb70f04af3d",
+      "transcript": "Người bán hàng (Seller)",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "ebd83fda9ff86939d46b",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "ced5c00f7506ff4e99d1",
+      "transcript": "(Ký, ghi rõ họ tên)",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    },
+    {
+      "crop_id": "7ae851dff7d35b51773f",
+      "transcript": "SAO PHƯƠNG NAM",
+      "status": "verified",
+      "visual_note": "Inspected crops directly; text legible; normalized excess spaces. Stamp-independent signature item left for user review only if obscured."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074640.json",
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:46:40.5265094Z",
+  "method": "manual_visual_review_crop_images",
+  "confirmed": [
+    {
+      "transcript": "Tổng tiền chịu thuế suất 10%:",
+      "crop_id": "7da6389f4c4c24bb9a96"
+    },
+    {
+      "transcript": "Tổng tiền chịu thuế suất 8%:",
+      "crop_id": "8c5cd30d5d238f010c4e"
+    },
+    {
+      "transcript": "Tổng tiền chịu thuế suất 5%:",
+      "crop_id": "cd2398d15a2471bd5076"
+    },
+    {
+      "transcript": "Tổng tiền chịu thuế suất 0%:",
+      "crop_id": "1c59047db71166079436"
+    },
+    {
+      "transcript": "Tổng tiền không tính thuế:",
+      "crop_id": "b84c9a8746914307fbb4"
+    },
+    {
+      "transcript": "Tổng tiền không kê khai thuế:",
+      "crop_id": "918dec1378ce503a3a02"
+    },
+    {
+      "transcript": "Tổng cộng:",
+      "crop_id": "600106e8feec86e60cc4"
+    },
+    {
+      "transcript": "Số tiền viết bằng chữ: Một triệu không trăm chín mươi nghìn bốn trăm sáu mươi đồng chẵn./.",
+      "crop_id": "bf6897301f765cbc0108"
+    }
+  ],
+  "note": "Eight crop images visually inspected; last transcript is exactly 90 chars and fits current UI limit.",
+  "invoice": "HD_034"
+}

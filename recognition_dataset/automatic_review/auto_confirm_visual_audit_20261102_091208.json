@@ -1,0 +1,152 @@
+{
+  "created_at_utc": "2026-11-02T02:12:08.635629+00:00",
+  "invoice": "WEB_054",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 24,
+  "items": [
+    {
+      "crop_id": "6355c6b13192acf5ab87",
+      "transcript": "HÓA ĐƠN",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "2998a4d77e67435123e5",
+      "transcript": "Ký hiệu (Serial): 1C25MCU",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "1cde562a8b6f655db115",
+      "transcript": "(VAT INVOICE)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "051575b8f7f32722b2af",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "fb8d4c07904ff7385390",
+      "transcript": "Địa chỉ (Address)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "4b85d4cab84e4d856b47",
+      "transcript": "Điện thoại (Tel)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "43b548d137f047e295ef",
+      "transcript": "Số tài khoản (A/C No.)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "fb18f5cf60f451b3063d",
+      "transcript": "Tên đơn vị (Company's name):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "77a1f11f886cfc4d9c4b",
+      "transcript": "Công Ty Trách Nhiệm Hữu Hạn Grobest Industrial (việt Nam)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "efb575041526b159086b",
+      "transcript": "Mã số thuế (Tax code):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "8283ae89d6fcc35b97df",
+      "transcript": "Địa chỉ (Address):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "36b26468bd7d7ee3342b",
+      "transcript": "Số tài khoản (A/C No.):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "d648e05f98325df9fb84",
+      "transcript": "Hình thức thanh toán (Payment method):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "a53ec37bdd361fcaff08",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "9b91bdc312282525f454",
+      "transcript": "Đơn giá",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "8093dd84d8388e386b15",
+      "transcript": "(Túi giấy) BAGSPM-TUI SPC M",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "712b5d67cad92d567206",
+      "transcript": "Cộng tiền hàng (Total):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "dfa81be148f49d632964",
+      "transcript": "Tiền thuế GTGT (VAT amount):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "db501e683433b6ffde76",
+      "transcript": "Thuế suất GTGT (VAT rate):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "1bef92a78810fab76710",
+      "transcript": "Tổng cộng tiền thanh toán (Grand Total):",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "6dde60793de743e524fe",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Một triệu tám trăm ngàn đồng chẵn",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "12c88900da7283e10d92",
+      "transcript": "(Signature & full name)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "ea5a12912e16a425eac9",
+      "transcript": "(Signature & full name)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    },
+    {
+      "crop_id": "f5ae7143c6f24367e725",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; normalized split OCR spacing and transcribed legible characters. No uncertain text auto-filled."
+    }
+  ]
+}

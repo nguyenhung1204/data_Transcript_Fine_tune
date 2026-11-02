@@ -1,0 +1,379 @@
+{
+  "timestamp": "20261102_105030",
+  "invoice_ids": [
+    "WEB_193",
+    "WEB_196"
+  ],
+  "accepted_count": 54,
+  "accepted": [
+    {
+      "crop_id": "f399731faaef3c7d2ab2",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "09a3b63772fca26f0259",
+      "status": "verified",
+      "transcript": "Ký hiệu (Series): 2C25MTT",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c5da86c83124b60cea99",
+      "status": "verified",
+      "transcript": "Số (Invoice No): 00000434",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "52eae99d0222e928f010",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0e9379d4d0af2d0813b5",
+      "status": "verified",
+      "transcript": "Số điện thoại (Tel):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "62f695fca84eee5a8fdc",
+      "status": "verified",
+      "transcript": "Số tài khoản (AC No):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "30ddc88cd8bf79e68090",
+      "status": "verified",
+      "transcript": "Tên người mua hàng (Buyer):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e30eb674ddd237e20863",
+      "status": "verified",
+      "transcript": "Tên đơn vị mua hàng (CusName):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "162aa8c95de87003baab",
+      "status": "verified",
+      "transcript": "Số hộ chiếu (Passport No):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2673d9aff62386a8e388",
+      "status": "verified",
+      "transcript": "Số điện thoại (Tel):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1ea4bf5842f5ef829cfc",
+      "status": "verified",
+      "transcript": "Thanh toán tiền mặt",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2fec20dd84cfc537cdf5",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "16a8927830fd1c88dfff",
+      "status": "verified",
+      "transcript": "Số lượng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6798464ba08f6d26808e",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fb69ff61a4afe8accb62",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b7c3dd70c9a57604eb92",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "635bdff6c387a194355e",
+      "status": "verified",
+      "transcript": "Đơn vị tính",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "72a7a6753b86fc182d38",
+      "status": "verified",
+      "transcript": "Muối hạt",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "01fd15ada254a73593f7",
+      "status": "verified",
+      "transcript": "Muối tinh sấy cao cấp Vifon 950grx12 NĐ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3813ab07d0694546c5c6",
+      "status": "verified",
+      "transcript": "TƯƠNG ỚT 2KG1",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4266231933997fb3f502",
+      "status": "verified",
+      "transcript": "SA TẾ TÔM PET 450G",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "66a36253c8c30253713c",
+      "status": "verified",
+      "transcript": "HỘP",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "fa56ab51142e7fe8af8c",
+      "status": "verified",
+      "transcript": "BỘT NGỌT AONE 1KG (L). 25 GÓI",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f0a29fd970202f7c7065",
+      "status": "verified",
+      "transcript": "dầu ăn cao cấp meizan gold 5l",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b5e80940a7eec5bc8d41",
+      "status": "verified",
+      "transcript": "Tổng tiền thanh toán (Total Amount):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "921f2447ecb38836ef66",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8ffd9420751fc5d4fe13",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2dc453ff7e090db69696",
+      "status": "verified",
+      "transcript": "Tra cứu tại website:https://8648693694-tt78.vnpt-invoice.com.vn - Mã tra cứu:837109335",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f781b25cd46c4a93e8ab",
+      "status": "verified",
+      "transcript": "Mẫu số - Ký hiệu (Serial No.): 1C24TMD",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "51e40efb6507d15b3650",
+      "status": "verified",
+      "transcript": "Số (Invoice No.): 00000004",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "392aa9387df59d2daa3c",
+      "status": "verified",
+      "transcript": "372/18 Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "75dc00eeaceeae2895d3",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4f2a995dd271141c8bd5",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel.):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8292e4c275d90e743a63",
+      "status": "verified",
+      "transcript": "Người mua (Buyer):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f3c8b86ef5efde55655d",
+      "status": "verified",
+      "transcript": "CÔNG TY TNHH MỘT THÀNH VIÊN ĐẦU TƯ KINH DOANH NHÀ KHANG PHÚC",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "48371dfea1ce38e6367d",
+      "status": "verified",
+      "transcript": "Đơn vị (Co. name):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "43637e49d003f047fe1d",
+      "status": "verified",
+      "transcript": "550 Kinh Dương Vương, Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh, Việt",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d5354330f750bba92823",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3ec9e037852522a1d013",
+      "status": "verified",
+      "transcript": "HTTT (Pay. method): Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7050cd4efbc9c7d59ba6",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d5ab49d539178f9c847e",
+      "status": "verified",
+      "transcript": "ĐVT",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "77b2f2de5454e42ea029",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5b77de838f10c1b5e6da",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e87928087f1527399a5a",
+      "status": "verified",
+      "transcript": "chiếc",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8cd38378a03783651445",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng (Sub total):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "472b0b3bd9a6ad7aa952",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT (Tax rate): 10%",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dfacdf9bf0f1fdce8008",
+      "status": "verified",
+      "transcript": "Cộng tiền thuế GTGT (VAT amount):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6dccf7a9cf4ebf6066dd",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "060adb8881130d83cb0a",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bb4bd550d437e5ba30b2",
+      "status": "verified",
+      "transcript": "Người bán hàng (Seller)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6cf3a894e964886eef8f",
+      "status": "verified",
+      "transcript": "Đã được ký điện tử bởi",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4fe97f06fca2b1df2cba",
+      "status": "verified",
+      "transcript": "CÔNG TY CỔ PHẦN PHẦN MỀM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7ac546cfb9e29eb4873c",
+      "status": "verified",
+      "transcript": "ĐIỂM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "085875a19fa532c1fd03",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [
+    {
+      "reason": "Mã cơ quan thuế dài, cần rà từng ký tự",
+      "crop_id": "797076a94ef7feab8d30",
+      "invoice": "WEB_193"
+    },
+    {
+      "reason": "Tên sản phẩm trong crop có chuỗi bất thường, cần người rà",
+      "crop_id": "75d29ca4349319d2c473",
+      "invoice": "WEB_193"
+    },
+    {
+      "reason": "Một phần tên sản phẩm chưa rõ dấu/ký tự cuối",
+      "crop_id": "87fef8673e0410a24c7d",
+      "invoice": "WEB_193"
+    },
+    {
+      "reason": "OCR/PDF khác cách nhóm số lượng; chưa chốt chính tả theo crop",
+      "crop_id": "e42360fee8d6ac12e21c",
+      "invoice": "WEB_193"
+    },
+    {
+      "reason": "Transcript vượt giới hạn 90 ký tự",
+      "crop_id": "ecdcd812360037ac6b389",
+      "invoice": "WEB_196"
+    },
+    {
+      "reason": "Mã cơ quan thuế dài, không xác nhận tự động",
+      "crop_id": "a1ca0e7078429d867ff4",
+      "invoice": "WEB_196"
+    },
+    {
+      "reason": "Transcript dài, cần rà thủ công",
+      "crop_id": "70d0298d70d0f883bd9e",
+      "invoice": "WEB_196"
+    },
+    {
+      "reason": "Dòng tra cứu dài, cần rà thủ công",
+      "crop_id": "bac1c39e9a183104c889",
+      "invoice": "WEB_196"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_105030.json",
+  "readback_count": 11178,
+  "readback_failures": 0
+}

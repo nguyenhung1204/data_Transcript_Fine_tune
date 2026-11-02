@@ -1,0 +1,136 @@
+{
+  "created_at": "2026-11-02T09:30:12.326611+07:00",
+  "invoice": "WEB_055",
+  "method": "manual_visual_review",
+  "count": 32,
+  "annotations": [
+    {
+      "crop_id": "294e048cc0079fa3c16f",
+      "transcript": "Ký hiệu:"
+    },
+    {
+      "crop_id": "cef75ca8a5c579c0ff9e",
+      "transcript": "Bản thể hiện của hóa đơn điện tử"
+    },
+    {
+      "crop_id": "573073d53e1b1f6bb2d9",
+      "transcript": "Điện thoại: 0966994999"
+    },
+    {
+      "crop_id": "7adf089beec879a7e1af",
+      "transcript": "Ngân hàng: Ngân hàng Sacombank Quảng Bình"
+    },
+    {
+      "crop_id": "0883bb89468c61ba20c2",
+      "transcript": "Họ tên người mua hàng:"
+    },
+    {
+      "crop_id": "25654deacd36e4ee2a1d",
+      "transcript": "Mã số thuế: 3600456424"
+    },
+    {
+      "crop_id": "6e8bcf36e52f9db905a7",
+      "transcript": "Số tài khoản:"
+    },
+    {
+      "crop_id": "b4b8f8e1e2f291cb19d5",
+      "transcript": "Số"
+    },
+    {
+      "crop_id": "8e2f07cf97643a4e2ceb",
+      "transcript": "Thuế"
+    },
+    {
+      "crop_id": "628b20392b3cabb1e60d",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "f7d66d881488af3cb015",
+      "transcript": "Tiền thuế"
+    },
+    {
+      "crop_id": "6023f75410150be4f810",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "233adbe6c42d737265ea",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    },
+    {
+      "crop_id": "7c7e8a230385c460f054",
+      "transcript": "suất"
+    },
+    {
+      "crop_id": "2043e846e27673372c52",
+      "transcript": "sau thuế"
+    },
+    {
+      "crop_id": "e102226f5484b9683e7e",
+      "transcript": "Cơm chiên trứng lớn"
+    },
+    {
+      "crop_id": "e4984ebb8791bede3d17",
+      "transcript": "Nộm sứa"
+    },
+    {
+      "crop_id": "b7ba6090a0c5afc8db15",
+      "transcript": "Ốc lông"
+    },
+    {
+      "crop_id": "ac00d4c5cadcb9dfbc66",
+      "transcript": "Cộng tiền hàng hóa, dịch vụ:"
+    },
+    {
+      "crop_id": "f808886d12aaf8a0c328",
+      "transcript": "Tổng cộng tiền thanh toán:"
+    },
+    {
+      "crop_id": "ace99e4ea6c84791f6bf",
+      "transcript": "Số tiền viết bằng chữ: Hai triệu năm trăm lẻ sáu nghìn đồng"
+    },
+    {
+      "crop_id": "483c6ff671ff3df082bb",
+      "transcript": "Tổng tiền không chịu thuế:"
+    },
+    {
+      "crop_id": "b30e911e76b8f3715e61",
+      "transcript": "Tổng tiền chịu thuế 0%:"
+    },
+    {
+      "crop_id": "93c66c94af9cca90c37a",
+      "transcript": "Tổng tiền thuế GTGT 5%:"
+    },
+    {
+      "crop_id": "c020d4c6cbc647ad8cd9",
+      "transcript": "Tổng tiền chịu thuế 5%:"
+    },
+    {
+      "crop_id": "3d5d5a41dffb9b824677",
+      "transcript": "Tổng tiền thuế GTGT 8%: 153.481"
+    },
+    {
+      "crop_id": "837a99eb49f98d513e21",
+      "transcript": "Tổng tiền chịu thuế 8%: 1.918.518"
+    },
+    {
+      "crop_id": "c3747c3e176c94231d94",
+      "transcript": "Tổng tiền thuế GTGT 10%: 39.455"
+    },
+    {
+      "crop_id": "6f4b66ae067855afa997",
+      "transcript": "Tổng tiền chịu thuế 10%: 394.546"
+    },
+    {
+      "crop_id": "2dda32e416be3a2860d3",
+      "transcript": "(Ký, ghi rõ họ tên)"
+    },
+    {
+      "crop_id": "38c3a3d14880f10f13ac",
+      "transcript": "(Ký, ghi rõ họ tên)"
+    },
+    {
+      "crop_id": "7604f3764faeee94a50a",
+      "transcript": "Mã của cơ quan thuế: M1-25-ECXRO-00000000249"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "timestamp": "20261102_105602",
+  "invoice_ids": [
+    "WEB_201",
+    "WEB_202"
+  ],
+  "accepted_count": 37,
+  "accepted": [
+    {
+      "crop_id": "1f92ae1eb38f529a105b",
+      "status": "verified",
+      "transcript": "Ký hiệu: TH/19P",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "037f79cb7b0a1d74f604",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH Vải Thanh Hoa",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5cd972d1019ceb729b9c",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b533975806ee42e3e656",
+      "status": "verified",
+      "transcript": ": 652 Điện Biên Phủ, Phường 11, Quận 10, TP.HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3a3454276fbbc31bd559",
+      "status": "verified",
+      "transcript": ": (028) 65647898 Số tài khoản : 34567890 tại Ngân hàng TMCP TMCP Á Châu – CN HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4e0f52ccba2a922c74b9",
+      "status": "verified",
+      "transcript": "Điện thoại",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "38ad0fa440384a6f61d3",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng :",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7481398bdba8e1ddb381",
+      "status": "verified",
+      "transcript": "Tên đơn vị",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a0a91c299c483ff37717",
+      "status": "verified",
+      "transcript": "Số tài khoản:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7a615a5ee8af243780e8",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "285d756a1b179c233000",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "776666699a38d45d31cd",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e218ca6c12080608e04a",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cef8583d238c2c87f3af",
+      "status": "verified",
+      "transcript": "Thuế suất GTGT: 10%, Tiền thuế GTGT:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "24a07de5d2cb2f06ed69",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9cb812a839b7a8c6dfd7",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0ceb664cc4d1fce3ccb2",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b74a6ad66dab20a8ad87",
+      "status": "verified",
+      "transcript": "(Ký, ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bd52dad39e39468607c0",
+      "status": "verified",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1ddcdf9bf62ba442e742",
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1bf6a2f0b6227bb2a4bf",
+      "status": "verified",
+      "transcript": "Ký hiệu: SH/20E",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b966d3c9ffc6b25023c9",
+      "status": "verified",
+      "transcript": "Liên 2: Giao cho người mua",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "59d13bd0592957bf7719",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng : Công ty TNHH May Sông Hồng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c4bd2a98626312059699",
+      "status": "verified",
+      "transcript": ": 274A Dương Quảng Hàm, Phường 5, Quận Gò Vấp, TP.HCM",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d9dd69a6974f69de73a7",
+      "status": "verified",
+      "transcript": "Điện thoại",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1812f4b36b9d497081d0",
+      "status": "verified",
+      "transcript": ": Công ty TNHH Sản Xuất Và Thương Mại VinaTrain",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d608ae59d14ba83b0349",
+      "status": "verified",
+      "transcript": "Tên đơn vị",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e949af2c296a63628a30",
+      "status": "verified",
+      "transcript": "Mã số thuế",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5c2c70aa44e1024166da",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán: Chuyển khoản",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ad4e805e9b5c844a8955",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f2dbd79ddbc67f3ffc69",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "0786e491e4076ff48571",
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a4779c5d93c74a952090",
+      "status": "verified",
+      "transcript": "Chiết khấu (3%)",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "92985fd43ebdfb254eee",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán:",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6988341d34b7cd54f508",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "bd894ed9c0f81fca7bae",
+      "status": "verified",
+      "transcript": "Người bán hàng",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5695ae6949d0d494f435",
+      "status": "verified",
+      "transcript": "(Ký, đóng dấu ghi rõ họ, tên)",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [
+    {
+      "invoice": "WEB_202",
+      "reason": "Dòng tài khoản/ngân hàng bị cắt ở chữ Chi, chưa đủ transcript.",
+      "crop_id": "4fcb233f90f6b478a826"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_105602.json",
+  "readback_count": 11322,
+  "readback_failures": 0
+}

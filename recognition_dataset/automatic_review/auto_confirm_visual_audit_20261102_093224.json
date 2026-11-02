@@ -1,0 +1,122 @@
+{
+  "created_at": "2026-11-02T09:32:24.875583+07:00",
+  "invoice": "WEB_060",
+  "method": "manual_visual_review",
+  "count": 24,
+  "annotations": [
+    {
+      "crop_id": "1893c786aaa9b0db42b1",
+      "transcript": "HÓA ĐƠN"
+    },
+    {
+      "crop_id": "50a710a80094ad243b2c",
+      "transcript": "Ký hiệu: 1K25TST"
+    },
+    {
+      "crop_id": "393dfecf0c96f18b1cc4",
+      "transcript": "GIÁ TRỊ GIA TĂNG"
+    },
+    {
+      "crop_id": "231d757251c7dacad8d7",
+      "transcript": "Họ tên người mua hàng:"
+    },
+    {
+      "crop_id": "8ad965a04367126d27ac",
+      "transcript": "(VIỆT NAM)"
+    },
+    {
+      "crop_id": "a6ed44a12af673b8c631",
+      "transcript": "Mã số thuế:3600456424"
+    },
+    {
+      "crop_id": "21866e440ad463ef3ec6",
+      "transcript": "ĐT: 0989822201"
+    },
+    {
+      "crop_id": "6e058a0a109d03558002",
+      "transcript": "Thuế suất"
+    },
+    {
+      "crop_id": "4942b9543b4e181a5827",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "7062431b1f9de6dc6333",
+      "transcript": "Đơn giá"
+    },
+    {
+      "crop_id": "18c8adc1fd57e2256ae4",
+      "transcript": "Tên hàng hoá, dịch vụ"
+    },
+    {
+      "crop_id": "8c67ccbd982547069545",
+      "transcript": "BIA TIGER BẠC LON 330ML TH24"
+    },
+    {
+      "crop_id": "6a529fb8aa2740a85516",
+      "transcript": "Hàng hóa / Dịch vụ"
+    },
+    {
+      "crop_id": "1f180983780315599095",
+      "transcript": "Thuế suất 8%"
+    },
+    {
+      "crop_id": "5455f4dcc8f0556ff525",
+      "transcript": "Thuế suất 0%"
+    },
+    {
+      "crop_id": "c59d17c6686442b6e2d8",
+      "transcript": "Thuế suất 5%"
+    },
+    {
+      "crop_id": "02368e0017a1e38bbedc",
+      "transcript": "Không chịu thuế"
+    },
+    {
+      "crop_id": "079612de291a4b41938b",
+      "transcript": "Thuế suất 10%"
+    },
+    {
+      "crop_id": "b8bd8fafcd118d8bc0ae",
+      "transcript": "Tiền hàng:"
+    },
+    {
+      "crop_id": "e26a4d7a76b540640e31",
+      "transcript": "Tiền thuế:"
+    },
+    {
+      "crop_id": "2aae3bed8038541fd657",
+      "transcript": "Tiền thanh toán:"
+    },
+    {
+      "crop_id": "0e07054f60de72a75684",
+      "transcript": "(Ký, ghi rõ họ tên)"
+    },
+    {
+      "crop_id": "c2d5fbfe0424482f96b5",
+      "transcript": "Khách hàng vào web https://hddt.bachhoaxanh.com để tải về hóa đơn điện tử"
+    },
+    {
+      "crop_id": "48c68ab3094e0d4d6b10",
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "6681bd9fa7961f3fcb85",
+      "reason": "vùng tên/địa chỉ bị cắt giữa câu"
+    },
+    {
+      "crop_id": "a16ebca76bc7f071d87c",
+      "reason": "vùng tên/địa chỉ bị cắt giữa câu"
+    },
+    {
+      "crop_id": "9361b51061421751e774",
+      "reason": "vùng tên/địa chỉ bị cắt giữa câu"
+    },
+    {
+      "crop_id": "cc3fd5a9955d7098e490",
+      "reason": "vùng tên/địa chỉ bị cắt giữa câu"
+    }
+  ]
+}

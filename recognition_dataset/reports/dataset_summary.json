@@ -1,34 +1,161 @@
 {
-  "source_invoice_count": 208,
-  "processed_invoice_count": 208,
-  "source_page_count": 226,
-  "ocr_candidate_crop_count": 17959,
-  "ocr_candidates_over_max_label_length": 323,
+  "source_invoice_count": 188,
+  "processed_invoice_count": 188,
+  "source_page_count": 206,
+  "ocr_candidate_crop_count": 14467,
+  "ocr_candidates_over_max_label_length": 258,
   "max_label_length": 90,
-  "verified_crop_count": 2,
-  "pending_review_crop_count": 17959,
-  "rejected_crop_count": 0,
+  "verified_crop_count": 12551,
+  "pending_review_crop_count": 1104,
+  "rejected_crop_count": 42,
   "verified_by_split": {
-    "val": 1,
-    "train": 1
+    "val": 2359,
+    "train": 7670,
+    "test": 2522
   },
   "candidate_by_split": {
-    "val": 3159,
-    "train": 11123,
-    "test": 3677
+    "val": 2707,
+    "train": 8831,
+    "test": 2929
   },
   "invoice_split_counts": {
-    "val": 41,
-    "test": 41,
-    "train": 126
+    "val": 40,
+    "train": 111,
+    "test": 37
   },
   "invoice_split_targets": {
-    "train": 166,
+    "train": 165,
     "val": 21,
     "test": 21
   },
-  "supplier_group_count": 158,
+  "supplier_group_count": 141,
   "unknown_dictionary_characters": [],
   "fine_tune_ready": false,
-  "reason": "Recognition export contains only human-confirmed labels; suitability for fine-tuning still requires enough verified crops and non-empty splits."
+  "reason": "No fine-tuning was run in this task. The Colab export contains only the currently exported confirmed recognition annotations; remaining OCR candidates are suggestions and must not be treated as ground truth.",
+  "exclusions": [
+    {
+      "invoice_id": "HD_016",
+      "reason": "Contains Korean product text",
+      "excluded_crops": 131,
+      "excluded_on_utc": "20261102T140159Z"
+    },
+    {
+      "invoice_id": "WEB_001",
+      "reason": "Blurry scan; excluded at user's request",
+      "excluded_crops": 203,
+      "excluded_on_utc": "20261102T142619Z"
+    },
+    {
+      "invoice_id": "WEB_003",
+      "reason": "Excluded at user's request after the invoice remained visible in the review page",
+      "excluded_crops": 69,
+      "excluded_on_utc": "20261102T145710Z"
+    },
+    {
+      "invoice_id": "WEB_004",
+      "reason": "Excluded at user's request because it remained in the unreviewed crop queue",
+      "excluded_crops": 119,
+      "excluded_on_utc": "20261102T153653175676Z"
+    },
+    {
+      "invoice_id": "WEB_005",
+      "crop_count": 107,
+      "reason": "User requested removal due to handwritten/overwritten content.",
+      "excluded_at_utc": "2026-11-02T17:10:37.4569161+00:00"
+    },
+    {
+      "invoice_id": "WEB_011",
+      "reason": "User requested exclusion",
+      "excluded_crops": 144,
+      "excluded_on_utc": "2026-11-03"
+    },
+    {
+      "invoice_id": "WEB_076",
+      "reason": "User requested exclusion from the active dataset.",
+      "excluded_crops": 62,
+      "excluded_on_utc": "2026-11-02T18:55:48.792793+00:00"
+    },
+    {
+      "invoice_id": "WEB_077",
+      "reason": "User requested exclusion from the active dataset.",
+      "excluded_crops": 77,
+      "excluded_on_utc": "2026-11-02T18:55:48.792793+00:00"
+    },
+    {
+      "invoice_id": "WEB_078",
+      "reason": "User requested exclusion from the active dataset.",
+      "excluded_crops": 77,
+      "excluded_on_utc": "2026-11-02T18:55:48.792793+00:00"
+    },
+    {
+      "invoice_id": "WEB_079",
+      "reason": "User requested exclusion from the active dataset.",
+      "excluded_crops": 63,
+      "excluded_on_utc": "2026-11-02T18:55:48.792793+00:00"
+    },
+    {
+      "invoice_id": "WEB_080",
+      "reason": "User requested exclusion from the active dataset.",
+      "excluded_crops": 68,
+      "excluded_on_utc": "2026-11-02T18:55:48.792793+00:00"
+    },
+    {
+      "invoice_id": "WEB_081",
+      "reason": "User requested exclusion from the active dataset.",
+      "excluded_crops": 61,
+      "excluded_on_utc": "2026-11-02T18:55:48.792793+00:00"
+    },
+    {
+      "invoice_id": "WEB_242",
+      "reason": "User requested exclusion from active dataset.",
+      "excluded_crops": 56,
+      "removed_annotations": 36,
+      "excluded_on_utc": "2026-11-02T20:38:12.312432+00:00",
+      "backup_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\excluded_invoice_backups\\WEB_242_20261102T203812312432Z"
+    }
+  ],
+  "last_updated_utc": "2026-11-02T20:38:12.312432+00:00",
+  "latest_exclusion": {
+    "invoice_id": "WEB_242",
+    "reason": "User requested exclusion from active dataset.",
+    "excluded_crops": 56,
+    "removed_annotations": 36,
+    "backup_directory": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\excluded_invoice_backups\\WEB_242_20261102T203812312432Z"
+  },
+  "active_crop_count": 14525,
+  "latest_crop_exclusion": {
+    "count": 1524,
+    "invoice_count": 97,
+    "removed_annotation_count": 536,
+    "removed_annotation_status_counts": {
+      "verified": 231,
+      "rejected": 305
+    },
+    "reason": "pdf_text is empty within crop",
+    "backup_directory": "excluded_crop_backups/PDF_TEXT_UNAVAILABLE_20261102T193455Z",
+    "excluded_at_utc": "2026-11-02T19:35:25.410565+00:00"
+  },
+  "active_invoice_pdf_count": 189,
+  "invoices_with_active_crops": 178,
+  "invoices_without_active_crops": 11,
+  "invoice_ids_without_active_crops": [
+    "WEB_039",
+    "WEB_074",
+    "WEB_075",
+    "WEB_082",
+    "WEB_109",
+    "WEB_176",
+    "WEB_182",
+    "WEB_216",
+    "WEB_217",
+    "WEB_218",
+    "WEB_219"
+  ],
+  "active_annotation_progress": {
+    "active_records": 12662,
+    "verified": 12587,
+    "rejected": 39,
+    "needs_review": 36,
+    "without_progress_record": 1863
+  }
 }

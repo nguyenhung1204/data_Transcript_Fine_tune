@@ -1,0 +1,63 @@
+{
+  "skipped": "Address crop was clipped; signed-by text overlapped a green mark.",
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_164819.json",
+  "reviewed": [
+    {
+      "evidence": "Crop visually legible; PDF text agrees.",
+      "transcript": "HÓA ĐƠN",
+      "invoice": "WEB_087",
+      "length": 7,
+      "crop_id": "3ffadf4ec59d9cb7e760"
+    },
+    {
+      "evidence": "Crop visually legible; PDF text agrees.",
+      "transcript": "Ký hiệu (Serial): 1C24MAQ",
+      "invoice": "WEB_087",
+      "length": 25,
+      "crop_id": "a4d0a9428b2a42117046"
+    },
+    {
+      "evidence": "Crop visually legible; PDF text agrees.",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "invoice": "WEB_087",
+      "length": 16,
+      "crop_id": "d9277fc1feb5150a82c4"
+    },
+    {
+      "evidence": "Every code character visibly legible; embedded PDF text agrees exactly.",
+      "transcript": "Mã của CQT (Tax Authentication code): M1-24-3OOEB-10170080583",
+      "invoice": "WEB_087",
+      "length": 61,
+      "crop_id": "134079fa1fdb703eb7a6"
+    },
+    {
+      "evidence": "Crop visually legible; PDF text agrees.",
+      "transcript": "Số lượng",
+      "invoice": "WEB_087",
+      "length": 8,
+      "crop_id": "40a15c332f83d8a591e1"
+    },
+    {
+      "evidence": "Crop visually legible; PDF text agrees.",
+      "transcript": "Đơn giá",
+      "invoice": "WEB_087",
+      "length": 7,
+      "crop_id": "2f63f66ad038d5eb5ef2"
+    },
+    {
+      "evidence": "Entire line visible and legible; embedded PDF text agrees.",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Một trăm ba mươi lăm nghìn đồng",
+      "invoice": "WEB_087",
+      "length": 72,
+      "crop_id": "02e62cf823c7bbec806a"
+    },
+    {
+      "evidence": "Crop visually legible; PDF text agrees.",
+      "transcript": "Người bán hàng (Seller)",
+      "invoice": "WEB_087",
+      "length": 23,
+      "crop_id": "cd7bdbeb76bf364bd472"
+    }
+  ],
+  "created_at_utc": "2026-11-02T09:48:24.1677738Z"
+}

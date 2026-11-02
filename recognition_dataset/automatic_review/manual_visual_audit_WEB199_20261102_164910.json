@@ -1,0 +1,84 @@
+{
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_164910.json",
+  "created_at_utc": "2026-11-02T09:49:16.0387668Z",
+  "skipped": "Parenthetical signature instruction crop was excluded because its top edge contains clipped remnants.",
+  "reviewed": [
+    {
+      "crop_id": "811196b52a8734c33156",
+      "invoice": "WEB_199",
+      "transcript": "Mẫu số: 03GTKT3/001",
+      "length": 19,
+      "evidence": "Clear crop; visible accents, punctuation and digits match PDF text."
+    },
+    {
+      "crop_id": "e71109db43015f479ba6",
+      "invoice": "WEB_199",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "length": 24,
+      "evidence": "Clear complete title crop."
+    },
+    {
+      "crop_id": "50b521c8c53929d8a3d8",
+      "invoice": "WEB_199",
+      "transcript": "Liên 2 : Giao cho người mua",
+      "length": 27,
+      "evidence": "Clear crop; spacing before colon visible."
+    },
+    {
+      "crop_id": "8c3f432f7da541503b4f",
+      "invoice": "WEB_199",
+      "transcript": "Số: 0009780",
+      "length": 11,
+      "evidence": "Clear crop; leading zeros preserved."
+    },
+    {
+      "crop_id": "1af349423b4bc80d92c7",
+      "invoice": "WEB_199",
+      "transcript": "Địa chỉ",
+      "length": 7,
+      "evidence": "Clear label; no colon visible in crop."
+    },
+    {
+      "crop_id": "b0f2e7dc200c420af4a7",
+      "invoice": "WEB_199",
+      "transcript": ": Công ty TNHH Sản Xuất Và Thương Mại VinaTrain",
+      "length": 47,
+      "evidence": "Complete bold seller/company text visually legible."
+    },
+    {
+      "crop_id": "786779b73742662337a5",
+      "invoice": "WEB_199",
+      "transcript": "Tên đơn vị",
+      "length": 10,
+      "evidence": "Clear label."
+    },
+    {
+      "crop_id": "f449bf718ad0de2b4aa0",
+      "invoice": "WEB_199",
+      "transcript": "Địa chỉ",
+      "length": 7,
+      "evidence": "Clear label."
+    },
+    {
+      "crop_id": "77611eed89ccf370c0b6",
+      "invoice": "WEB_199",
+      "transcript": "Số lượng",
+      "length": 8,
+      "evidence": "Clear label."
+    },
+    {
+      "crop_id": "d955e5939035206fc73d",
+      "invoice": "WEB_199",
+      "transcript": "Đơn vị tính",
+      "length": 11,
+      "evidence": "Clear label."
+    },
+    {
+      "crop_id": "8c29651610135668775a",
+      "invoice": "WEB_199",
+      "transcript": "Số tiền viết bằng chữ: Bốn mươi bảy triệu năm trăm hai mươi nghìn đồng chẵn",
+      "length": 75,
+      "evidence": "Complete printed amount-in-words line is clear and legible."
+    }
+  ]
+}

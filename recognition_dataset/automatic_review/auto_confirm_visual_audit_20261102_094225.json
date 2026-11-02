@@ -1,0 +1,155 @@
+{
+  "invoice": "WEB_068",
+  "created_at": "2026-11-02T02:42:25.0320338Z",
+  "method": "manual_visual_review",
+  "count": 21,
+  "annotations": [
+    {
+      "crop_id": "f16b3295c6c1907764b7",
+      "status": "verified",
+      "transcript": "Ký hiệu: 1C25TYY",
+      "reviewed_at": "2026-11-02T02:42:25.0247706Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a201da51a468e58399c0",
+      "status": "verified",
+      "transcript": "Ngày 27 tháng 06 năm 2025",
+      "reviewed_at": "2026-11-02T02:42:25.0311174Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a1a766bf6d208e769271",
+      "status": "verified",
+      "transcript": "Địa chỉ: Số 173, đường Lý Thường Kiệt, Phường 6, Thành phố Cà Mau, Tỉnh Cà Mau, Việt Nam",
+      "reviewed_at": "2026-11-02T02:42:25.0312300Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f8ad8fa80c2a18de9429",
+      "status": "verified",
+      "transcript": "Số tài khoản: 868656789999 - Ngân hàng TMCP đại chúng - CN Cà Mau",
+      "reviewed_at": "2026-11-02T02:42:25.0312728Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "599edeaaf3f2c7590b2f",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng:",
+      "reviewed_at": "2026-11-02T02:42:25.0313450Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7547c52104b42adaa38e",
+      "status": "verified",
+      "transcript": "Mã số thuế: 3600456424",
+      "reviewed_at": "2026-11-02T02:42:25.0313776Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ce0e21b04382b179bd9b",
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "reviewed_at": "2026-11-02T02:42:25.0314164Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c7b15224c9e04862c454",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T02:42:25.0314449Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5d06efedb40c327ff1eb",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T02:42:25.0314758Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "03c2d3827dd2dfdf42e8",
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT",
+      "reviewed_at": "2026-11-02T02:42:25.0315030Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8fcfad04947c1da666b3",
+      "status": "verified",
+      "transcript": "Cộng tiền thanh toán",
+      "reviewed_at": "2026-11-02T02:42:25.0315332Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f4d9549b0ae408781f8a",
+      "status": "verified",
+      "transcript": "Không chịu thuế GTGT:",
+      "reviewed_at": "2026-11-02T02:42:25.0315613Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "6d105ae7d5fdc5d732cb",
+      "status": "verified",
+      "transcript": "Thuế suất 0%:",
+      "reviewed_at": "2026-11-02T02:42:25.0315893Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "2638f8bad213c4403bb5",
+      "status": "verified",
+      "transcript": "Thuế suất 5%:",
+      "reviewed_at": "2026-11-02T02:42:25.0316179Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cdcf5a970b3344edf944",
+      "status": "verified",
+      "transcript": "Thuế suất 8%:",
+      "reviewed_at": "2026-11-02T02:42:25.0316456Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "89360fe23ec1207028ee",
+      "status": "verified",
+      "transcript": "Thuế suất 10%:",
+      "reviewed_at": "2026-11-02T02:42:25.0316735Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a9ee64dc82aa677c8211",
+      "status": "verified",
+      "transcript": "Thuế suất KHÁC:",
+      "reviewed_at": "2026-11-02T02:42:25.0318233Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f9a7e5734c94484c2f45",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ: Hai triệu đồng chẵn.",
+      "reviewed_at": "2026-11-02T02:42:25.0318904Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8eff232c9d5dddef1e35",
+      "status": "verified",
+      "transcript": "Người mua hàng",
+      "reviewed_at": "2026-11-02T02:42:25.0319261Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c02db2e4a7cd09133979",
+      "status": "verified",
+      "transcript": "(Chữ ký số (nếu có))",
+      "reviewed_at": "2026-11-02T02:42:25.0319558Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "37b466aafba9f3605e48",
+      "status": "verified",
+      "transcript": "Tra cứu tại Website: https://www.meinvoice.vn/tra-cuu - Mã tra cứu: Q5HVSL6W9N7W",
+      "reviewed_at": "2026-11-02T02:42:25.0319841Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

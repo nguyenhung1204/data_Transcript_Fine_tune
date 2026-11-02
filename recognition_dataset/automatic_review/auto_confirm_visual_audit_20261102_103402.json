@@ -1,0 +1,338 @@
+{
+  "invoice": "WEB_124",
+  "reviewed_at_utc": "2026-11-02T03:34:02.1362766Z",
+  "visual_review": "All candidate crop images were inspected at enlarged size. Clear complete text, numbers and table headers confirmed; normalized repeated whitespace. Invoice number corrected from PDF text spacing to visibly printed 913.",
+  "confirmed": [
+    {
+      "crop_id": "40b423f6eb97665cf76d",
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial No.): 1C25TTS",
+      "reviewed_at": "2026-11-02T03:34:02.1134504Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "db92f28ca77c6562c37c",
+      "status": "verified",
+      "transcript": "Số (Invoice No.): 913",
+      "reviewed_at": "2026-11-02T03:34:02.1226263Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f680422a0792fc1b4451",
+      "status": "verified",
+      "transcript": "Bản thể hiện của hóa đơn điện tử",
+      "reviewed_at": "2026-11-02T03:34:02.1227020Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f9945937ad3134ff5c39",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 2700822369",
+      "reviewed_at": "2026-11-02T03:34:02.1227628Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7e3b6372d7c5226e147a",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel): 0917379998",
+      "reviewed_at": "2026-11-02T03:34:02.1227909Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "b9217e50e6e2bd940939",
+      "status": "verified",
+      "transcript": "Số tài khoản (Account No.): 27008888",
+      "reviewed_at": "2026-11-02T03:34:02.1228428Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f345aee9c6d43c9b491c",
+      "status": "verified",
+      "transcript": "Ngân hàng Techcombank - CN Hội Sở",
+      "reviewed_at": "2026-11-02T03:34:02.1228724Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "098089d18ca25dc3ea31",
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "reviewed_at": "2026-11-02T03:34:02.1229363Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "13f0b968a79a7aa27733",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0310765873",
+      "reviewed_at": "2026-11-02T03:34:02.1229620Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "36a7afa008ade42f9177",
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "reviewed_at": "2026-11-02T03:34:02.1229881Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "7f52eff7d7f027282f15",
+      "status": "verified",
+      "transcript": "Số tài khoản (Account No.):",
+      "reviewed_at": "2026-11-02T03:34:02.1230374Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "3e980c351455e3d2191d",
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "reviewed_at": "2026-11-02T03:34:02.1231010Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "d0ba53306a6ad70a5db5",
+      "status": "verified",
+      "transcript": "Tiền thuế",
+      "reviewed_at": "2026-11-02T03:34:02.1231424Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4e5aa20eca15ea91d93b",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:34:02.1231682Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8c1a565b9088cfac4888",
+      "status": "verified",
+      "transcript": "Đơn vị tính",
+      "reviewed_at": "2026-11-02T03:34:02.1231942Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5e4ffa7fa50c84eed4b7",
+      "status": "verified",
+      "transcript": "Cờ lê lực, dải lực 140-980Nm, model:",
+      "reviewed_at": "2026-11-02T03:34:02.1233932Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "1ec1ce1c0e516a9a0c7f",
+      "status": "verified",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):",
+      "reviewed_at": "2026-11-02T03:34:02.1235161Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "8e6847a53b78d78d2e68",
+      "status": "verified",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Tám triệu tám trăm nghìn đồng",
+      "reviewed_at": "2026-11-02T03:34:02.1235781Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "cba410914c58fb61127b",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T03:34:02.1236034Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e075d97051e36f42b6ed",
+      "status": "verified",
+      "transcript": "Đơn vị bán hàng (Seller)",
+      "reviewed_at": "2026-11-02T03:34:02.1236279Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a21ee6a5212544205130",
+      "status": "verified",
+      "transcript": "(Chữ ký số (Digital Signature))",
+      "reviewed_at": "2026-11-02T03:34:02.1236578Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ],
+  "deferred": [
+    {
+      "reason": "Long tax lookup code crop is clipped/too compressed to visually verify exact characters; leave for manual review.",
+      "crop_id": "f9a772fe16f916e66400"
+    }
+  ],
+  "already_decided": [
+    {
+      "status": "verified",
+      "crop_id": "9a1c3b513f33aa1c6209",
+      "existing_transcript": "VAT INVOICE"
+    },
+    {
+      "status": "verified",
+      "crop_id": "2e9aea1f1b50b2f40588",
+      "existing_transcript": "(Electronic invoice display)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b35f4043427ffd6bc2fc",
+      "existing_transcript": "Ngày (date) 23 tháng (month) 06 năm (year) 2025"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a992cabc1c316e1b014e",
+      "existing_transcript": "Website:"
+    },
+    {
+      "status": "verified",
+      "crop_id": "42a997f31053f2158245",
+      "existing_transcript": "Email: vudoanh88@gmail.com"
+    },
+    {
+      "status": "verified",
+      "crop_id": "7aa73a9093639a29388f",
+      "existing_transcript": "Tên ngân hàng (Bank name):"
+    },
+    {
+      "status": "verified",
+      "crop_id": "c3863229cd2f96d856c7",
+      "existing_transcript": "Tên ngân hàng (Bank Name):"
+    },
+    {
+      "status": "verified",
+      "crop_id": "52f946d1092c73705130",
+      "existing_transcript": "STT"
+    },
+    {
+      "status": "verified",
+      "crop_id": "410fe5962302c859421c",
+      "existing_transcript": "(No.)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "aeefbeda89674970beaa",
+      "existing_transcript": "(Unit)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "3ab95d492575926d5ab9",
+      "existing_transcript": "(Description)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "ac4f285a16b44f010036",
+      "existing_transcript": "(VAT rate)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9f1d4a1bb383eecdc94a",
+      "existing_transcript": "(Quantity)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "89ba8ebcce03bbc6ae26",
+      "existing_transcript": "(Unit price)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "0ea22a877fda3d387465",
+      "existing_transcript": "(Amount)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "f2343b25d65f85d5ec2d",
+      "existing_transcript": "(Tax amount)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "33399a77ad2a5212d0cd",
+      "existing_transcript": "(Total amount)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "089e3270866a9ff434e2",
+      "existing_transcript": "b"
+    },
+    {
+      "status": "verified",
+      "crop_id": "16ffd670dc7b0585d12e",
+      "existing_transcript": "2"
+    },
+    {
+      "status": "verified",
+      "crop_id": "b2f71efacf9a0e4718b5",
+      "existing_transcript": "4"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a6a593803934f00ab4cf",
+      "existing_transcript": "1"
+    },
+    {
+      "status": "verified",
+      "crop_id": "11e928b75266fb24d5ea",
+      "existing_transcript": "c"
+    },
+    {
+      "status": "verified",
+      "crop_id": "0255d781f6b5f767583b",
+      "existing_transcript": "Cái"
+    },
+    {
+      "status": "verified",
+      "crop_id": "005f8e497f129d30cec5",
+      "existing_transcript": "8.000.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "792a0167b058487f6012",
+      "existing_transcript": "8.000.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "e2ab1af3fc3adcb7ede0",
+      "existing_transcript": "10%"
+    },
+    {
+      "status": "verified",
+      "crop_id": "fd016e01677e27fa40b5",
+      "existing_transcript": "800.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "903d258612bd6c058204",
+      "existing_transcript": "8.800.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "49d7eba651db4d7115a6",
+      "existing_transcript": "1"
+    },
+    {
+      "status": "verified",
+      "crop_id": "9e458e3a0cf0b1d1a214",
+      "existing_transcript": "T-980N"
+    },
+    {
+      "status": "verified",
+      "crop_id": "d25017cafeb265f28121",
+      "existing_transcript": "800.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a156cf72742ee5cb4e17",
+      "existing_transcript": "8.000.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "f1fc1b67f302808b8fed",
+      "existing_transcript": "8.800.000"
+    },
+    {
+      "status": "verified",
+      "crop_id": "a973b5504ad979e37439",
+      "existing_transcript": "(Signature, full name)"
+    },
+    {
+      "status": "verified",
+      "crop_id": "8c1546c9614266b8cd55",
+      "existing_transcript": "Ký ngày 23/06/2025"
+    }
+  ],
+  "backup": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\automatic_review\\manual_review_progress.backup_visual_confirm_20261102_103402.json"
+}

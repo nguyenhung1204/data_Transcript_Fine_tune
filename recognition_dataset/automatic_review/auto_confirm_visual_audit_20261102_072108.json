@@ -1,0 +1,144 @@
+{
+  "created_at_utc": "2026-11-02T00:21:08.9753755Z",
+  "method": "manual_visual_review",
+  "count": 8,
+  "confirmed": [
+    {
+      "crop_id": "60405f01b089804e9ae2",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        267,
+        2298,
+        572,
+        2353
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\60405f01b089804e9ae2.png",
+      "pdf_text_candidate": "Nầm heo sốt miso",
+      "transcript": "Nầm heo sốt miso",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.6436499Z"
+    },
+    {
+      "crop_id": "576ce4ea68a4a328de2a",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        2161,
+        2302,
+        2303,
+        2352
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\576ce4ea68a4a328de2a.png",
+      "pdf_text_candidate": "1 12.914",
+      "transcript": "112.914",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.7300775Z"
+    },
+    {
+      "crop_id": "bab71f8e2ac82dd628ee",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        954,
+        2362,
+        1055,
+        2419
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\bab71f8e2ac82dd628ee.png",
+      "pdf_text_candidate": "Phần",
+      "transcript": "Phần",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.7692150Z"
+    },
+    {
+      "crop_id": "99c738c416dea49bf8e2",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        267,
+        2366,
+        831,
+        2419
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\99c738c416dea49bf8e2.png",
+      "pdf_text_candidate": "Nọng heo cuốn lá sanchu sốt miso",
+      "transcript": "Nọng heo cuốn lá sanchu sốt miso",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.8101905Z"
+    },
+    {
+      "crop_id": "65bed08baf6518b08fda",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        160,
+        3042,
+        1310,
+        3095
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\65bed08baf6518b08fda.png",
+      "pdf_text_candidate": "Mã của cơ quan thuế (Tax authority code):M1-25-NA4KU-71670009457",
+      "transcript": "Mã của cơ quan thuế (Tax authority code):M1-25-NA4KU-71670009457",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.8495516Z"
+    },
+    {
+      "crop_id": "f42dd41cf67f677dcd19",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        162,
+        3100,
+        1101,
+        3151
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\f42dd41cf67f677dcd19.png",
+      "pdf_text_candidate": "Trang tra cứu: http://03 1 5852382hd.easyinvoice.com.vn",
+      "transcript": "Trang tra cứu: http://0315852382hd.easyinvoice.com.vn",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.8900624Z"
+    },
+    {
+      "crop_id": "ad1ef4383d1b416510da",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        1106,
+        3101,
+        1547,
+        3146
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\ad1ef4383d1b416510da.png",
+      "pdf_text_candidate": "Mã tra cứu: CAVL5RM2W",
+      "transcript": "Mã tra cứu: CAVL5RM2W",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.9302042Z"
+    },
+    {
+      "crop_id": "b9f3e492d98cb8606e92",
+      "invoice": "WEB_047",
+      "pdf": "WEB_047.pdf",
+      "page": 1,
+      "coordinates": [
+        819,
+        3150,
+        1662,
+        3212
+      ],
+      "image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\WEB_047\\b9f3e492d98cb8606e92.png",
+      "pdf_text_candidate": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "visual_match": true,
+      "reviewed_at": "2026-11-02T00:21:08.9654644Z"
+    }
+  ],
+  "note": "Compared crop images directly; corrected PDF text-layer whitespace in amount and URL from visible crop."
+}

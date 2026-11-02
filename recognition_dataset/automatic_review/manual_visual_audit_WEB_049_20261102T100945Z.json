@@ -1,0 +1,164 @@
+{
+  "reviewed": [
+    {
+      "crop_id": "e563920f379ecb57c327",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Ký hiu: 1K25TDN",
+      "transcript_after": "Ký hiệu: 1K25TDN",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "02cf598ff6b224e59dc2",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "BÁCH HÓA XANH DÔNGNAI",
+      "transcript_after": "BÁCH HÓA XANH ĐỒNG NAI",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "ed67fa6dd8e619521e8f",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "sô：9861547",
+      "transcript_after": "Số: 9861547",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "67bbf3fc3466286bc9ae",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Mã só thuê: 0310471746-353",
+      "transcript_after": "Mã số thuế: 0310471746-353",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "cb78fa2acc1d4ed22549",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Ho tên ngưi mua hàng:",
+      "transcript_after": "Họ tên người mua hàng:",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "dcf47848811ec076d75c",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Mã só Thué: 0310471746-353",
+      "transcript_after": "Mã số Thuế: 0310471746-353",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "855069981e2c93ba0b6b",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Đon v tính",
+      "transcript_after": "Đơn vị tính",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "32251c9c2781a147b715",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Só lưng",
+      "transcript_after": "Số lượng",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "18a6c69a8d4fee9c7934",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Tên hàng hoá, dch v",
+      "transcript_after": "Tên hàng hoá, dịch vụ",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "613123d2440303f98295",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Tng công",
+      "transcript_after": "Tổng cộng",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "22644b175ab7b705e3c2",
+      "invoice": "WEB_049",
+      "pdf": "WEB_049.pdf",
+      "page": 1,
+      "transcript_before": "Ba trăm năm mươi ba nghìn đồng chăn",
+      "transcript_after": "Ba trăm năm mươi ba nghìn đồng chẵn",
+      "evidence": "Visually inspected the crop at full resolution. The complete printed text, digits and punctuation are clear and match the text layer; no crop clipping or stamp overlap.",
+      "status": "verified"
+    }
+  ],
+  "skipped": [
+    {
+      "crop_id": "13f6e3955410ab78e24c",
+      "reason": "Line ends with “CH” and continues in adjacent crop; not a standalone complete line."
+    },
+    {
+      "crop_id": "e37ffe3dac997340e2b1",
+      "reason": "Text starts/ends mid-name and continues across neighboring crops."
+    },
+    {
+      "crop_id": "df521b274625d243a850",
+      "reason": "Text is a continuation fragment, not a complete standalone crop line."
+    },
+    {
+      "crop_id": "442fa95c114e4cf2e894",
+      "reason": "Text is another continuation fragment from the store name."
+    },
+    {
+      "crop_id": "0d44d12934bb247b8f16",
+      "reason": "Address fragment continues into neighboring crops; left pending."
+    },
+    {
+      "crop_id": "35286fca8a485bd75822",
+      "reason": "Address crop ends at “Biên”, with remainder in later crop."
+    },
+    {
+      "crop_id": "9f270b2d09b824e7c072",
+      "reason": "Address continuation fragment."
+    },
+    {
+      "crop_id": "439025fec6dac66f271f",
+      "reason": "Address continuation fragment."
+    },
+    {
+      "crop_id": "8c617a7c4760be24f072",
+      "reason": "Text is cut off after “công nợ”."
+    },
+    {
+      "crop_id": "2f11bd7be5a2f99850c9",
+      "reason": "Digital signature/name continues in adjacent crops; not fully captured."
+    },
+    {
+      "crop_id": "4027a8f264d983a56ba1",
+      "reason": "Digital signature continuation fragment."
+    },
+    {
+      "crop_id": "2c3e18f5d2e3736d023e",
+      "reason": "Digital signature continuation fragment."
+    }
+  ]
+}

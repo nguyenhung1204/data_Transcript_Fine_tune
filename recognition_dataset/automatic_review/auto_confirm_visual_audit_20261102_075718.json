@@ -1,0 +1,42 @@
+{
+  "skipped": [],
+  "method": "manual_visual_review_crop_images",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075718.json",
+  "invoice": "HD_039",
+  "note": "Eight clear tax-summary/signature crops visually confirmed.",
+  "confirmed": [
+    {
+      "crop_id": "4139f1c96a4f798215be",
+      "transcript": "Thuế suất GTGT (VAT rate): 0%"
+    },
+    {
+      "crop_id": "18b744476c8cc4fbf9b2",
+      "transcript": "Tiền thuế GTGT (VAT amount):"
+    },
+    {
+      "crop_id": "a2430302be5c08fcca38",
+      "transcript": "Tổng cộng tiền thanh toán (Total payment):"
+    },
+    {
+      "crop_id": "d6380d3fa9b173ef787a",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Một trăm năm mươi tám triệu đồng."
+    },
+    {
+      "crop_id": "1a1bd03c3dee2230bc00",
+      "transcript": "NGƯỜI BÁN HÀNG"
+    },
+    {
+      "crop_id": "2be226a893564ce8fd79",
+      "transcript": "NGƯỜI MUA HÀNG"
+    },
+    {
+      "crop_id": "ec00708148aa486a1b40",
+      "transcript": "(Chữ ký điện tử, Chữ ký số)"
+    },
+    {
+      "crop_id": "e2872d4dbc02feb911f8",
+      "transcript": "(Chữ ký số (nếu có))"
+    }
+  ],
+  "timestamp_utc": "2026-11-02T00:57:18.6455197Z"
+}

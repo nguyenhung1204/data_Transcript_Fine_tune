@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "annotations": [
+    {
+      "transcript": "Đĩa",
+      "status": "verified",
+      "crop_id": "f948ce9e15385475b2ba",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "Crop đọc rõ Đĩa; đối chiếu đúng cột đơn vị tính, dòng hàng 1 trên PDF.",
+      "reviewed_at": "2026-11-02T01:15:40.5642794Z"
+    },
+    {
+      "transcript": "Đĩa",
+      "status": "verified",
+      "crop_id": "6b99eb2e8a0ed362b1aa",
+      "confirmation_method": "manual_visual_review",
+      "review_note": "Crop đọc rõ Đĩa; đối chiếu đúng cột đơn vị tính, dòng hàng 2 trên PDF.",
+      "reviewed_at": "2026-11-02T01:15:40.5642794Z"
+    }
+  ]
+}

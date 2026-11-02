@@ -1,0 +1,368 @@
+{
+  "reviewed_at_utc": "2026-11-02T10:16:29.7550251Z",
+  "task": "manual_visual_review_pending",
+  "confirmed_this_pass": 0,
+  "pending_count": 36,
+  "items": [
+    {
+      "crop_id": "8722d3872eea050200b2",
+      "invoice": "HD_002",
+      "pdf": "HD_002.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Địa chỉ (Address): Thôn Cát Động, Thị Trấn Kim Bài, Huyện Thanh Oai, Thành phố Hà Nội, Việt Nam",
+      "length": 95,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "43a9fa31ba81dac9da1d",
+      "invoice": "HD_017",
+      "pdf": "HD_017.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Địa chỉ (Address): Tầng 5, Tháp 1, Tòa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành Phố Hà Nội, Việt Nam",
+      "length": 136,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "3b30340318e45301d11c",
+      "invoice": "HD_017",
+      "pdf": "HD_017.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Số tiền viết bằng chữ  (Total amount in words):  Mười chín triệu không trăm bốn mươi bảy nghìn đồng",
+      "length": 99,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "24878c091de917431beb",
+      "invoice": "HD_024",
+      "pdf": "HD_024.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Địa chỉ (Address): Tầng 5, Tháp 1, Tòa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành Phố Hà Nội, Việt Nam",
+      "length": 136,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "c9f70ab25e73e5fcfc96",
+      "invoice": "HD_024",
+      "pdf": "HD_024.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Số tiền viết bằng chữ (Total amount in words): Hai mươi chín triệu không trăm chín mươi nghìn đồng",
+      "length": 98,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "7395c04c230783bf0cc7",
+      "invoice": "HD_026",
+      "pdf": "HD_026.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Giải pháp hóa đơn điện tử an toàn được cung cấp bởi MIFI - Một sản phẩm của Công ty Cổ phần Mắt Bão - MST 0302712571",
+      "length": 116,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "677ae63e8c54a6c6360a",
+      "invoice": "HD_002",
+      "pdf": "HD_002.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Tra cứu hóa đơn tại website: https://tracuuhoadon.minvoice.vn/ Mã tra cứu: 8299530B36F8075C",
+      "length": 91,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "017c7b9c17073973d697",
+      "invoice": "HD_002",
+      "pdf": "HD_002.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "(Khởi tạo từ Phần mềm M-INVOICE - Công ty TNHH Hóa đơn điện tử M-invoice - chi nhánh Hà Nội - MST: 0106026495-002- SĐT: 0962 849 066)",
+      "length": 133,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "93b4494f426f3c5a3f6c",
+      "invoice": "HD_010",
+      "pdf": "HD_010.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Số tài khoản  (Bank account): 9006886868 - Ngân hàng TMCP Kỹ Thương Việt Nam - Chi nhánh Ba Đình",
+      "length": 96,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "965eb4aa7eed9df4c663",
+      "invoice": "HD_012",
+      "pdf": "HD_012.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Địa chỉ (Address): 2C Bạch Đằng, Phường Chương Dương, Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam",
+      "length": 96,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "c84ede52ba546a6cc1bf",
+      "invoice": "HD_010",
+      "pdf": "HD_010.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Số tiền viết bằng chữ  (Total amount in words):  Ba mươi tư triệu tám trăm linh ba nghìn đồng chẵn",
+      "length": 98,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "f983091d3933e0350a66",
+      "invoice": "HD_010",
+      "pdf": "HD_010.pdf",
+      "page": 2,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Tra cứu tại Website  (Search in website):  https://www.meinvoice.vn/tra-cuu  - Mã tra cứu  (Invoice code):",
+      "length": 106,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "5e39660d24f5560f5319",
+      "invoice": "HD_010",
+      "pdf": "HD_010.pdf",
+      "page": 2,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)  (You need to check invoice when issuing, delivering and receiving)",
+      "length": 121,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "e8c8c7e8d4defab9b130",
+      "invoice": "HD_028",
+      "pdf": "HD_028.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Æ\nĐượĈÆĐ⾓ÆćởĎ àÆCÔNG TY TNHH MAPPLE MITRA",
+      "length": 41,
+      "skip_reason": "stamp_overlaps_text_uncertain"
+    },
+    {
+      "crop_id": "1e4f713362ad16f45a18",
+      "invoice": "HD_032",
+      "pdf": "HD_032.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Địa chỉ: VP 3.04, Tòa Nhà ST.Moritz, 1014 Phạm Văn Đồng, Phường Hiệp Bình Chánh, Thành phố Thủ Đức, TP Hồ",
+      "length": 105,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "d71b1dbe3d2c57ea865a",
+      "invoice": "HD_032",
+      "pdf": "HD_032.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Tra cứu hóa đơn điện tử tại trang web: https://tracuu.cyberbill.vn Mã số tra cứu: 1YGUP3XVDMHJ",
+      "length": 94,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "412988c6c5866769c97f",
+      "invoice": "WEB_028",
+      "pdf": "WEB_028.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Đơn vị nhận, truyền và cung cấp giải pháp hóa đơn điện tử: Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT), Điện thoại: 1800.1260",
+      "length": 127,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "17a8db618dd64a3a6445",
+      "invoice": "WEB_028",
+      "pdf": "WEB_028.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Đã giảm 6.000 đồng tương ứng 20% mức tỷ lệ % để tính thuế giá trị gia tăng theo Nghị quyết số 174/2024/QH15",
+      "length": 107,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "61269e2cf02c5220f915",
+      "invoice": "HD_003",
+      "pdf": "HD_003.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Quý Khách vui lòng truy cập trang: http://hddt.fptshop.com.vn để kiểm tra lại thông tin hóa đơn",
+      "length": 95,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "71ccfa1ef30100072b3b",
+      "invoice": "HD_008",
+      "pdf": "HD_008.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Quý Khách vui lòng truy cập trang: http://hddt.fptshop.com.vn để kiểm tra lại thông tin hóa đơn",
+      "length": 95,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "bac74541d3428330038c",
+      "invoice": "HD_022",
+      "pdf": "HD_022.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn /  Need to check and compare when making and delivering",
+      "length": 107,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "4b5df9f47dad6345f8c7",
+      "invoice": "HD_029",
+      "pdf": "HD_029.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Quý Khách vui lòng truy cập trang: http://hddt.fptshop.com.vn để kiểm tra lại thông tin hóa đơn",
+      "length": 95,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "742d297d40e488a7591c",
+      "invoice": "HD_030",
+      "pdf": "HD_030.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Quý Khách vui lòng truy cập trang: http://hddt.fptshop.com.vn để kiểm tra lại thông tin hóa đơn",
+      "length": 95,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "277fb9edd29e751191bf",
+      "invoice": "HD_030",
+      "pdf": "HD_030.pdf",
+      "page": 2,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Quý Khách vui lòng truy cập trang: http://hddt.fptshop.com.vn để kiểm tra lại thông tin hóa đơn",
+      "length": 95,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "1c7058fdc4d994cd3650",
+      "invoice": "WEB_034",
+      "pdf": "WEB_034.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Địa chỉ :  Ô số 01 , Trung tâm Logistics HNT-Đông Anh, đường Hoàng Sa, Xã Kim Nỗ, H.Đông Anh,TP.Hà Nội, Việt Nam",
+      "length": 112,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "1ed508d940a24c5889e6",
+      "invoice": "WEB_034",
+      "pdf": "WEB_034.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Địa chỉ : Số 1 ngõ 95 Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội, Việt Nam",
+      "length": 91,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "1b5d01de271fe66ff31b",
+      "invoice": "WEB_034",
+      "pdf": "WEB_034.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Hóa Đơn Điện Tử tra cứu tại website : http://hddt.digiworld.com.vn - Mã nhận hóa đơn : 3BF620DF0A7D4E9E9FA437FDC7CE2D12",
+      "length": 119,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "377913dcb02bb81216ec",
+      "invoice": "WEB_034",
+      "pdf": "WEB_034.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Giải pháp hóa đơn điện tử được cung cấp bởi Tổng Công ty Dịch vụ Viễn thông (VNPT-Vinaphone) - MST: 0106869738 - Tel: 18001260",
+      "length": 126,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "3bca9b1f7a4a107ac832",
+      "invoice": "WEB_043",
+      "pdf": "WEB_043.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Mã tra cứu hóa đơn: 80350091791704385801413 Trang tra cứu: https://hddt.nhathuoclongchau.com.vn/",
+      "length": 96,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "d2c8e194b2f85539a37b",
+      "invoice": "WEB_044",
+      "pdf": "WEB_044.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Mã tra cứu hóa đơn: 80105048631708424639649 Trang tra cứu: https://hddt.nhathuoclongchau.com.vn/",
+      "length": 96,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "6d6521d0d09505aa1337",
+      "invoice": "WEB_045",
+      "pdf": "WEB_045.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Mã tra cứu hóa đơn: 80202083221716023388226 Trang tra cứu: https://hddt.nhathuoclongchau.com.vn/",
+      "length": 96,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "e31b08c5a04bc526132f",
+      "invoice": "WEB_058",
+      "pdf": "WEB_058.pdf",
+      "page": 2,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Quý khách hàng vui lòng tra cứu hóa đơn điện tử tại website: https://hddt.cellphones.com.vn/ Mã tra cứu: 1FDDLGTP0",
+      "length": 114,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "9be2fc2d49c590dc30fa",
+      "invoice": "WEB_096",
+      "pdf": "WEB_096.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Phát hành bởi phần mềm MISA meInvoice - Công ty Cổ phần MISA (www.misa.vn) - MST 0101243150",
+      "length": 91,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "98c87589484c36be9f2b",
+      "invoice": "WEB_097",
+      "pdf": "WEB_097.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Phát hành bởi phần mềm MISA meInvoice - Công ty Cổ phần MISA (www.misa.vn) - MST 0101243150",
+      "length": 91,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "55bca7cf4611deba24e3",
+      "invoice": "WEB_110",
+      "pdf": "WEB_110.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "Số tiền viết bằng chữ (Amount in words): Ba mươi sáu triệu một trăm chín mươi bảy nghìn đồng",
+      "length": 92,
+      "skip_reason": "transcript_over_90_characters"
+    },
+    {
+      "crop_id": "046cfe289e7addbb105b",
+      "invoice": "WEB_110",
+      "pdf": "WEB_110.pdf",
+      "page": 1,
+      "status_unchanged": "needs_review",
+      "transcript_candidate": "(Cần  kiểm  tra,  đối chiếu  khi lập,  giao  nhận  hóa  đơn  / Need to  check and compare when  making and delivering invoices)",
+      "length": 127,
+      "skip_reason": "transcript_over_90_characters"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "method": "manual_visual_review_crop_images",
+  "skipped": [],
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_075107.json",
+  "timestamp_utc": "2026-11-02T00:51:07.9224651Z",
+  "confirmed": [
+    {
+      "transcript": "Mã nhận hóa đơn:",
+      "crop_id": "5fbb199fecb88b238f8c"
+    },
+    {
+      "transcript": "Tra cứu tại website: https://3900335269-tt78.vnpt-invoice.com.vn",
+      "crop_id": "54adeac09f2106bec10a"
+    }
+  ],
+  "invoice": "HD_036",
+  "note": "Both remaining readable short crops visually checked."
+}

@@ -1,0 +1,191 @@
+{
+  "policy": "Each crop inspected visually. Ambiguous, obscured, or uncertain crops were left pending.",
+  "annotations": [
+    {
+      "crop_id": "2af7c862666293b91013",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: tiêu đề in rõ.",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG"
+    },
+    {
+      "crop_id": "6e43e6928626c2c48d24",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: ký hiệu in rõ.",
+      "transcript": "Ký hiệu (Serial No): 1C25MHS"
+    },
+    {
+      "crop_id": "b9be3a0f2ae65cf9e1e7",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: dòng chú thích in rõ.",
+      "transcript": "(Bản thể hiện của hóa đơn điện tử)"
+    },
+    {
+      "crop_id": "da2e5d4d8eb772f0dd28",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: nhãn trường đầy đủ.",
+      "transcript": "Số (No.):"
+    },
+    {
+      "crop_id": "3a27149ba922d116df29",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: mã in rõ.",
+      "transcript": "Mã của cơ quan thuế: M1-25-PHTAR-00000005813"
+    },
+    {
+      "crop_id": "994f3b059565b0fbb315",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: MST đọc rõ.",
+      "transcript": "Mã số thuế (Tax code): 0318774647"
+    },
+    {
+      "crop_id": "0ae8a273ef06e1807476",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: phần địa chỉ trong crop đọc rõ.",
+      "transcript": "Bửu, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam"
+    },
+    {
+      "crop_id": "3388717fe93e123cd36e",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: số điện thoại đọc rõ.",
+      "transcript": "Điện thoại (Tel): 0967175889"
+    },
+    {
+      "crop_id": "20156ac7d7c0e6a897d1",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: nhãn và số tài khoản đọc rõ.",
+      "transcript": "Số tài khoản (A/C No): 1165889999"
+    },
+    {
+      "crop_id": "be529731ba3785ae8690",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: dòng ngân hàng đọc rõ.",
+      "transcript": "Tại Ngân hàng TMCP Ngoại Thương Việt Nam - Chi Nhánh Đông Đô"
+    },
+    {
+      "crop_id": "7b2b69122cfd54b467ad",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: tên bên mua nhìn rõ; giữ nguyên nội dung crop.",
+      "transcript": "Tên đơn vị (Company's name): CÔNG TY TNHH GROBEST LANDFOUND"
+    },
+    {
+      "crop_id": "b12d220569f47588641b",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: MST đọc rõ.",
+      "transcript": "Mã số thuế (Tax code): 3600523938"
+    },
+    {
+      "crop_id": "c64a79c6e9a91525172b",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: nhãn trường đủ dòng.",
+      "transcript": "Căn cước công dân (Identity Card):"
+    },
+    {
+      "crop_id": "f3e70dfe1470227a5e0c",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: dòng phương thức thanh toán đọc rõ.",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK"
+    },
+    {
+      "crop_id": "5eb875bfa314216a5db7",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: nhãn trường đủ dòng.",
+      "transcript": "Số tài khoản (A/C No):"
+    },
+    {
+      "crop_id": "1e10b9ccc8eae499088c",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: nhãn trường đủ dòng.",
+      "transcript": "Tại (At):"
+    },
+    {
+      "crop_id": "7f1502c0712c82477ce9",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: từ tiêu đề cột đọc rõ.",
+      "transcript": "Thuế"
+    },
+    {
+      "crop_id": "a81fa20c4677c7a35cf9",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: tiêu đề cột đọc rõ.",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "3a088305cba8f2d8f287",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: tiêu đề cột đọc rõ.",
+      "transcript": "Thành tiền"
+    },
+    {
+      "crop_id": "5b627a7bed268fe7b85a",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: từ tiêu đề cột đọc rõ.",
+      "transcript": "Tiền thuế"
+    },
+    {
+      "crop_id": "f52f6264ccd4afb907a2",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: từ tiêu đề cột đọc rõ.",
+      "transcript": "suất"
+    },
+    {
+      "crop_id": "5a117dc63351a65dde26",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: từ tiêu đề cột đọc rõ.",
+      "transcript": "chưa thuế"
+    },
+    {
+      "crop_id": "0d6d218ce18356f627c7",
+      "reviewed_at": "2026-11-02T01:49:47.3643779Z",
+      "confirmation_method": "manual_visual_review",
+      "status": "verified",
+      "review_note": "WEB_032: tiêu đề cột đọc rõ.",
+      "transcript": "ĐVT"
+    }
+  ],
+  "run_id": "visual_20261102_084947",
+  "created_at_utc": "2026-11-02T01:49:47.3643779Z"
+}

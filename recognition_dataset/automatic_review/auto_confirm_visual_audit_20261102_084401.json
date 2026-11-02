@@ -1,0 +1,95 @@
+{
+  "created_at_utc": "2026-11-02T01:44:01.5461387Z",
+  "run_id": "visual_20261102_084401",
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page",
+  "annotations": [
+    {
+      "transcript": "Cơ quan thuế (Tax authorities)",
+      "review_note": "WEB_028 tax authorities label clearly legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "47e24a9835133ea00fb2",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Người bán hàng (Seller)",
+      "review_note": "WEB_028 seller footer label fully legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "a5a37535d485e9944099",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Người mua hàng (Buyer)",
+      "review_note": "WEB_028 buyer footer label fully legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3274a512b277ce9ab71a",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Mã tra cứu: HKD_12194-20250517084110-205462",
+      "review_note": "WEB_028 invoice lookup code fully legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4a07e9e0c7718775cc9e",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "review_note": "WEB_028 footer note fully legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6a2b211e1a279f8cf47a",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "HÓA ĐƠN BÁN HÀNG",
+      "review_note": "WEB_029 invoice title fully legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8cea3df367328dd6d2f7",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Ký hiệu (Series): 2C25MTT",
+      "review_note": "WEB_029 series label and code clearly legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5879da3e39d376e612f3",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Số (Invoice No): 00000561",
+      "review_note": "WEB_029 invoice number clearly legible; leading zeros retained.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "42c6ec83234af02aef4b",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Mã của cơ quan thuế: M2-25-YJXSW-00700000561",
+      "review_note": "WEB_029 tax authority code line clearly legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8163f8fe6c0cffbe861c",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Tên đơn vị bán hàng (ComName):",
+      "review_note": "WEB_029 seller entity label fully legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ba8e5aae1cc257191640",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    },
+    {
+      "transcript": "Mã số thuế (Tax code):",
+      "review_note": "WEB_029 tax code label fully legible.",
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "377cb678b2fd47b99b7d",
+      "status": "verified",
+      "reviewed_at": "2026-11-02T01:44:01.5461387Z"
+    }
+  ]
+}

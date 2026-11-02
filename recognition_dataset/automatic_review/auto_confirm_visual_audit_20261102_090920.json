@@ -1,0 +1,170 @@
+{
+  "created_at_utc": "2026-11-02T02:09:20.801094+00:00",
+  "invoice": "WEB_052",
+  "review_method": "direct_visual_inspection_of_each_crop",
+  "count": 27,
+  "items": [
+    {
+      "crop_id": "71cc6a1675585ffbe84b",
+      "transcript": "Ký hiệu : 1C25MHV",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "c54ceff658d5aa20dbe5",
+      "transcript": "Mã số thuế: 0308455031",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "792201de2251c0ae2e2c",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "446bae0eff0ec68ce2f3",
+      "transcript": "Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "2ad4e9378f6901659adc",
+      "transcript": "Tên đơn vị : CÔNG TY TNHH GROBEST LANDFOUND",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "07d2921745e909357d37",
+      "transcript": "Mã số thuế : 3600523938",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "a0571c81c0d3b88fe179",
+      "transcript": "Điện thoại :",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "156b16d8a1dfe01061f0",
+      "transcript": "Số hộ chiếu",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "1b99881d89625d3d14b4",
+      "transcript": "Thành tiền",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "7549dbafd824ee628691",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "f477f37a0bff6378d57c",
+      "transcript": "Cơm Trắng (M)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "14cc8808c8b54d6c7421",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "84fd6360992d918251b7",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "3da691aa782cfa5113ff",
+      "transcript": "Kim Chi Thập Cẩm",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "2042274b4cb22bdc8519",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "55f01cafce02beb965e3",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "c63f0749ac6a355e38f4",
+      "transcript": "Phần Cốt Lết Heo Chiên Xù",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "a4571ef22367f881d7ea",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "9a3e50e5620373e6efde",
+      "transcript": "Cơm Trộn Bò Thố Đá",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "159785fdd3b7caaa6f3f",
+      "transcript": "Phần",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "86e6d2aee8516beecd88",
+      "transcript": "Tiền thuế GTGT :",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "442b7097f8267ce32c48",
+      "transcript": "Tổng cộng tiền thanh toán :",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "8d03eb856fad013bf02f",
+      "transcript": "Người mua hàng",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "03df62e45e5e3df6557c",
+      "transcript": "KÝ BỞI: CHI NHÁNH 5 CÔNG TY TNHH",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "1d18c027f1530c79ed99",
+      "transcript": "Trang tra cứu: http://0308455031005hd.easyinvoice.vn",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "34bce536337a3370d12d",
+      "transcript": "Mã tra cứu: 4UN74WKEG",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    },
+    {
+      "crop_id": "beff9cc4298e50ffade3",
+      "transcript": "(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)",
+      "status": "verified",
+      "visual_note": "Inspected crop directly; text legible. The blurred/overprinted unit crop and stamp-obscured signature crop were left pending."
+    }
+  ]
+}

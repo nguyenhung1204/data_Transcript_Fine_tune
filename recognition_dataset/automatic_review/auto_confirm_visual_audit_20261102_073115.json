@@ -1,0 +1,27 @@
+{
+  "created_at_utc": "2026-11-02T00:31:15.8179541Z",
+  "method": "manual_visual_review",
+  "count": 1,
+  "confirmed": [
+    {
+      "crop_id": "4d1bae385222c168b55b",
+      "invoice": "HD_013",
+      "pdf": "HD_013.pdf",
+      "page": 1,
+      "coords": [
+        1372,
+        2944,
+        1750,
+        3000
+      ],
+      "before": "Ký bi(Signed By) :",
+      "pdf_text": "Ký bởi(Signed By) :",
+      "transcript": "Ký bởi(Signed By) :",
+      "crop_path": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\crops\\HD_013\\4d1bae385222c168b55b.png",
+      "page_image": "E:\\KhoaLuanTotNghiep\\data_Transcript_Fine_tune\\recognition_dataset\\rendered_pages\\HD_013\\page_001.png",
+      "reviewed_at": "2026-11-02T00:31:15.8179541Z",
+      "evidence": "Visually inspected clear crop and matching PDF page; complete line."
+    }
+  ],
+  "skipped": []
+}

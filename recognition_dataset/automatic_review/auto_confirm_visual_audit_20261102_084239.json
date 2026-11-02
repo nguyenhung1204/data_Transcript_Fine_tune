@@ -1,0 +1,119 @@
+{
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page",
+  "run_id": "visual_20261102_084239",
+  "created_at_utc": "2026-11-02T01:42:39.4490012Z",
+  "annotations": [
+    {
+      "status": "verified",
+      "review_note": "WEB_027 invoice title fully legible.",
+      "crop_id": "b44d6ad1016c425d3d3b",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "HÓA ĐƠN BÁN HÀNG"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 serial label crop clearly reads Ký hiệu:.",
+      "crop_id": "0a5359f91ce6ca8ba220",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Ký hiệu:"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 subtitle fully legible.",
+      "crop_id": "35d1661569d7438c618f",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Bản thể hiện của hóa đơn điện tử"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 seller line visually legible; uppercase text checked.",
+      "crop_id": "14eb1d647b3b5bc5cb2b",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Đơn vị bán hàng: HỘ KINH DOANH BÒ TƠ TÂY NINH 5 SÁNH 83"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 seller tax code clearly legible.",
+      "crop_id": "9b3bdde9df2523eae1a6",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Mã số thuế: 8103420709"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 phone line clearly legible.",
+      "crop_id": "c0b5a5c3f39183a848e9",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Điện thoại: 0833020587"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 bank account number clearly legible.",
+      "crop_id": "deb78c882b6fbad521b9",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Số tài khoản: 0321000911922"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 bank line visually legible through the final branch name.",
+      "crop_id": "2b8074b10eae43cb86d7",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Ngân hàng: Ngân Hàng TMCP Ngoại Thương Việt Nam - CN Sóc Trăng"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 buyer label fully legible.",
+      "crop_id": "10a6d8f2bbcb8fc3b600",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Họ tên người mua hàng:"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 buyer tax code clearly legible.",
+      "crop_id": "fe9d36112b55083d52ef",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Mã số thuế: 3600456424"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 payment method line clearly legible.",
+      "crop_id": "2187b5baf2464647793a",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Hình thức thanh toán: TM/CK"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 table header fully legible.",
+      "crop_id": "5d2a6ed4ee1b6141d2c4",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Đơn giá"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 table header fully legible.",
+      "crop_id": "da3f5de5eb8c2e034ba7",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Đơn vị tính"
+    },
+    {
+      "status": "verified",
+      "review_note": "WEB_027 table header fully legible.",
+      "crop_id": "0f3691d7a228e5a52851",
+      "confirmation_method": "manual_visual_review",
+      "reviewed_at": "2026-11-02T01:42:39.4490012Z",
+      "transcript": "Tên hàng hóa, dịch vụ"
+    }
+  ]
+}

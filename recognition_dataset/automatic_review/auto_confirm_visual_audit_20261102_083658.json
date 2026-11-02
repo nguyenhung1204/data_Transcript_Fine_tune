@@ -1,0 +1,135 @@
+{
+  "policy": "manual visual confirmation: source crop inspected at full crop resolution and checked against matching invoice page",
+  "run_id": "visual_20261102_083658",
+  "created_at_utc": "2026-11-02T01:36:58.9276468Z",
+  "annotations": [
+    {
+      "status": "verified",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "review_note": "HD_190 title crop visually clear; exact Vietnamese diacritics visible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "1cee1c8f0063992c27f2",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Ký hiệu (Serial):",
+      "review_note": "HD_190 label crop clearly reads Ký hiệu (Serial):.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "37fed6804e5dfa92df5a",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Số (No.): 0000093",
+      "review_note": "HD_190 invoice number label and leading zeros clearly visible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "b0ed4e2d5072685ec1ad",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 3900335269",
+      "review_note": "HD_190 seller tax code line clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "885105f3ffab3862fffb",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Điện thoại (Tel): 02862757479",
+      "review_note": "HD_190 phone line clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "03ce2ad04888e64c4feb",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Họ tên người mua hàng (Buyer):",
+      "review_note": "HD_190 buyer label crop clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "1bc8a5a30c25d215ec78",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code): 0310415290",
+      "review_note": "HD_190 buyer tax code line clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "8a2a94a504a75646fe2c",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Chí Minh, Việt Nam",
+      "review_note": "HD_190 address ending crop clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "04eae2ffb115dbc71fe9",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Số tài khoản (Bank account):",
+      "review_note": "HD_190 bank account label crop clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "1a30eca4ce4decdbbb65",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Hình thức thanh toán (Payment method): TM/CK",
+      "review_note": "HD_190 payment method line clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "904335850ea1812d6e46",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Thuế suất",
+      "review_note": "HD_190 table header crop clearly reads Thuế suất.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "f1077599b2de9e5c6551",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "review_note": "HD_190 table header crop clearly reads Thành tiền.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "7d0b91cf7d55d8c95e43",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tiền thuế GTGT",
+      "review_note": "HD_190 table header crop clearly reads Tiền thuế GTGT.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "f78bd6e3248bd5ee76d9",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Đơn giá",
+      "review_note": "HD_190 table header crop clearly reads Đơn giá.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "c235a08f4ce771d12eb9",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "review_note": "HD_190 table header crop clearly legible.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "424471084ccd372fa453",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "status": "verified",
+      "transcript": "Vỏ xe 900-20 ( Đắp gia công )",
+      "review_note": "HD_190 item description crop clearly legible; punctuation and spacing retained as shown.",
+      "reviewed_at": "2026-11-02T01:36:58.9276468Z",
+      "crop_id": "e710babc42dcdaf48cf6",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}

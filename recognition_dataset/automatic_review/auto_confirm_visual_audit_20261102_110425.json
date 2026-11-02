@@ -1,0 +1,154 @@
+{
+  "accepted": [
+    {
+      "crop_id": "2fc49cf4a121732e25e1",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "CHI NHÁNH LONG AN",
+      "status": "verified"
+    },
+    {
+      "crop_id": "318da7e557b234f6d716",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "HÓA ĐƠN",
+      "status": "verified"
+    },
+    {
+      "crop_id": "4acf5d415ff3fc7411d3",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Địa chỉ: 173 Hùng Vương - Phường 2 - Thành phố Tân",
+      "status": "verified"
+    },
+    {
+      "crop_id": "0b4d0bb3d63675782a30",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Ký hiệu (Series): 1C24MLS",
+      "status": "verified"
+    },
+    {
+      "crop_id": "730b96930d5c1a330c47",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "An -Tỉnh Long An.",
+      "status": "verified"
+    },
+    {
+      "crop_id": "14b80d351e6c2d20e693",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "GIÁ TRỊ GIA TĂNG",
+      "status": "verified"
+    },
+    {
+      "crop_id": "1ec4c240419ff1ccfce7",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Mã số thuế: 0315275368-003",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e0fc26a1e04b5f0b6313",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Hóa đơn điện tử khởi tạo từ máy tính tiền)",
+      "status": "verified"
+    },
+    {
+      "crop_id": "d1d9ce4f0475e1f388cb",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Vaccine) - 18006928 Nhánh 3 (Khiếu nại)",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e2617ab2f196a3385dea",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tài khoản: 12210002339054 Tại Ngân hàng Đầu Tư và",
+      "status": "verified"
+    },
+    {
+      "crop_id": "c52ba04d268b7e83a136",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Phát Triển Việt Nam (BIDV)-CN Hà Thành",
+      "status": "verified"
+    },
+    {
+      "crop_id": "00ae954bb5d3ee42597f",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tên đơn vị mua hàng:",
+      "status": "verified"
+    },
+    {
+      "crop_id": "72704c77b6b7f3ddba80",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thành tiền",
+      "status": "verified"
+    },
+    {
+      "crop_id": "3903ae432b5ce77b127c",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất",
+      "status": "verified"
+    },
+    {
+      "crop_id": "23cfa21e6a16d27e3ac1",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Đơn giá",
+      "status": "verified"
+    },
+    {
+      "crop_id": "bf4db37b3b433ff98f8c",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Hộp",
+      "status": "verified"
+    },
+    {
+      "crop_id": "e4ecf415f8bee3051c79",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Thuế suất",
+      "status": "verified"
+    },
+    {
+      "crop_id": "bcb414f88347d005fc9d",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Không chịu thuế",
+      "status": "verified"
+    },
+    {
+      "crop_id": "db56a26d848f9439ae4b",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền hàng hóa, DV",
+      "status": "verified"
+    },
+    {
+      "crop_id": "87cb860ae0199e83ded0",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền thuế",
+      "status": "verified"
+    },
+    {
+      "crop_id": "cec580195d45436576f5",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiền thanh toán",
+      "status": "verified"
+    },
+    {
+      "crop_id": "f0a4762156ce3fef2e6d",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tích điểm:",
+      "status": "verified"
+    },
+    {
+      "crop_id": "72be2b1efb75c5d34698",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "Tiêu điểm:",
+      "status": "verified"
+    },
+    {
+      "crop_id": "2e88dddebdb0d6c6277c",
+      "confirmation_method": "manual_visual_review",
+      "transcript": "(Cần kiểm tra, đối chiếu khi giao và nhận hóa đơn)",
+      "status": "verified"
+    }
+  ],
+  "timestamp": "20261102_110425",
+  "invoice_ids": [
+    "WEB_213"
+  ],
+  "accepted_count": 24,
+  "deferred": []
+}

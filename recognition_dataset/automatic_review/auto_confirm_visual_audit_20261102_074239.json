@@ -1,0 +1,42 @@
+{
+  "invoice": "HD_034",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074239.json",
+  "method": "manual_visual_review_crop_images",
+  "note": "All eight crop images were visually inspected; transcript records visible text verbatim.",
+  "skipped": [],
+  "timestamp_utc": "2026-11-02T00:42:39.8099412Z",
+  "confirmed": [
+    {
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "crop_id": "f4f01163f96c8c7a5739"
+    },
+    {
+      "transcript": "Mẫu số - Ký hiệu (Serial No.): 1C25TAA",
+      "crop_id": "4edfb8f6097586fe9999"
+    },
+    {
+      "transcript": "Số (Invoice No.): 00001890",
+      "crop_id": "8ca682c2fe3667fd0c2e"
+    },
+    {
+      "transcript": "Ngày (day) 17 tháng (month) 04 năm (year) 2025",
+      "crop_id": "d3ded430f90a097ad670"
+    },
+    {
+      "transcript": "Mã của Cơ quan thuế: 000478E10562C443B280080E96D1199403",
+      "crop_id": "4f61b837826417fd29a8"
+    },
+    {
+      "transcript": "CÔNG TY TNHH TM DV HẢI HÀ",
+      "crop_id": "5c2b1670cfaef60186d2"
+    },
+    {
+      "transcript": "Đơn vị bán (Seller):",
+      "crop_id": "8e025cf3ed900cddbb09"
+    },
+    {
+      "transcript": "MST (Tax Code):",
+      "crop_id": "d5a621d0976708a51035"
+    }
+  ]
+}

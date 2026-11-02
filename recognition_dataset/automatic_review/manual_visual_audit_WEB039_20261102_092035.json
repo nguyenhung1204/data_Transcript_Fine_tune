@@ -1,0 +1,477 @@
+{
+  "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+  "items": [
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "bea077809c344a54e514",
+      "transcript": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5a6bda8e94caca546b69",
+      "transcript": "Ký hiệu (Serial): 1C24TDP",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "c6e6c81d28f82ed790ff",
+      "transcript": "cellphoneS",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2aef1562269d79de0fe6",
+      "transcript": "VAT INVOICE",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "cf6f1200d1db52ca1663",
+      "transcript": "Số (No.): 231137",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8d0fc2bed6855466f56f",
+      "transcript": "Ngày (Date) 10 tháng (month) 02 năm (year) 2024",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "255e1f96d655c48b7242",
+      "transcript": "Mã của CQT: 000E498454F11D4D9B8E0F5D26A6816A17",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4f605d82a8cf820f2f0e",
+      "transcript": "Đơn vị bán hàng (Seller) : CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ KỸ THUẬT DIỆU PHÚC",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "fa39ebafedfe5b94943f",
+      "transcript": "Mã số thuế (VAT code)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "320efa5185f508c8b304",
+      "transcript": ": 0316172372",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6aabf7868b1e6b60a2c9",
+      "transcript": ": 350-352 Võ Văn Kiệt, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "c06ef78ce240b20a5dd5",
+      "transcript": "Địa chỉ (Address)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d9d37b6633867b6b96d7",
+      "transcript": "Điện thoại (Tel)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4c5039c202bbf5fa59e9",
+      "transcript": ": 02871089666",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2fc0b1d70277aaeea818",
+      "transcript": "Số tài khoản (A/C No.)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ba4d2080df6fb2e7ab33",
+      "transcript": "Họ tên người mua hàng (Buyer): Anh Quan Châu",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d798570e052f71163a30",
+      "transcript": "Tên đơn vị (Company's name)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1505d937fcddf16d9bff",
+      "transcript": "Mã số thuế (Tax code)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "cb93264d3ee7e018366e",
+      "transcript": "Hình thức thanh toán (Payment method): TM, CK",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9c3ca0773d64ce43b168",
+      "transcript": "Địa chỉ (Address)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ad359ea3babad2ffea30",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4a44c177fde9cd8abbe0",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b610740e19fe8c8479db",
+      "transcript": "TS",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "f19d3ba2fd24c1b8c693",
+      "transcript": "Số",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "89ff914dcf8e578acb4f",
+      "transcript": "Đơn vị",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "7a5cbbc1efa9a4d9d284",
+      "transcript": "Tiền thuế",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "1ef3466bc55d5e85b094",
+      "transcript": "STT",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "96f47b57125c9e23e13f",
+      "transcript": "GTGT",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8dd1f1d6209565eda0ff",
+      "transcript": "Đơn giá",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b64de71810e45591d39c",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "db94c4d336f9b1c822ce",
+      "transcript": "GTGT)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "63137ffbff7cc11510e1",
+      "transcript": "tính",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5c6eff99763f1b837387",
+      "transcript": "lượng",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "131ae6c2cc9c65d1c90e",
+      "transcript": "GTGT)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ceaa9c817d901bafc424",
+      "transcript": "(VAT)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2bcb4c3328b3bd445d0e",
+      "transcript": "(No.)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d9f3bc731ccd89aec94a",
+      "transcript": "(Description)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "cadd8e3f2ffe82a0810e",
+      "transcript": "(Unit price)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "3c35ab53eb1ca1dae7f5",
+      "transcript": "(Unit)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "8b9eb24b57b71c5669f7",
+      "transcript": "(Quantity)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "ae8a31491b79f475ed8e",
+      "transcript": "(Amount)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "13b508eec00cb1dc6b5b",
+      "transcript": "VAT)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "81ef3831e240d9e8be18",
+      "transcript": "Loa LG Bluetooth mini",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "4ec6be15888bb2045102",
+      "transcript": "Cái",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "dcc8c95cdf16d10156f7",
+      "transcript": "126.364",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "298f88f1d3a583691268",
+      "transcript": "10%",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "2e9a037ca0a0f8079903",
+      "transcript": "1.263.636",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "928607f4f034bb962e4d",
+      "transcript": "1.263.636",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "0d4d84031ce800a9c88e",
+      "transcript": "1.390.000",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "bd742540c066ed4231ba",
+      "transcript": "PL5W.DVNMLLK white- IMEI:",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "5f27ef5c2baca405496a",
+      "transcript": "1",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "0d74904afcf9c12bb0b1",
+      "transcript": "1",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "d747c9e7b3abd8a9e99a",
+      "transcript": "310HZJB160628",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "812ba293e77c140ce9dc",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "afe9abf82a5ede07745f",
+      "transcript": "126.364",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "cd96c3cf2d94527bd729",
+      "transcript": "1.390.000",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e144ee6adb4fd9e4c443",
+      "transcript": "1.263.636",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "b21cacfc4c082b045c5a",
+      "transcript": "Số tiền viết bằng chữ (Amount in words): Một triệu ba trăm chín mươi nghìn đồng",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "f6a70f13d4cdac07d72b",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "e0ffed2944ef9a18ed9a",
+      "transcript": "Người bán hàng (Seller)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "9b53cb8cbff40de68b60",
+      "transcript": "Ký, đóng dấu, ghi rõ họ tên",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "31c612d6f127c2134e98",
+      "transcript": "Ký, ghi rõ họ tên",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "242a83c0642d21b03207",
+      "transcript": "(Sign, stamp & full name)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "475c90bf872c2181eaee",
+      "transcript": "(Sign & full name)",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "6830b4e4fc1ef0a284d1",
+      "transcript": "Signature Valid",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "a5a6b2348d0394ba9fd7",
+      "transcript": "Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    },
+    {
+      "confirmation_method": "manual_visual_review",
+      "crop_id": "0805113d69552583d016",
+      "transcript": "Mã nhận hóa đơn (Code for checking): ZDBMJ8TD5",
+      "reviewed_at": "2026-11-02T09:20:37.4410732Z",
+      "status": "verified"
+    }
+  ],
+  "method": "manual_visual_review",
+  "count": 67,
+  "invoice": "WEB_039"
+}

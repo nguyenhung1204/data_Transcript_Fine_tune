@@ -1,0 +1,39 @@
+{
+  "method": "manual_visual_review_crop_images",
+  "timestamp_utc": "2026-11-02T00:47:21.5107552Z",
+  "note": "Five visible short transcripts confirmed; two clear footer lines skipped because they exceed the app transcript limit.",
+  "skipped": [
+    {
+      "reason": "Transcript is 100 characters, over 90-character limit.",
+      "crop_id": "93e2c41552cd6c26e955"
+    },
+    {
+      "reason": "Transcript is 109 characters, over 90-character limit.",
+      "crop_id": "6539db9d168cfd2e7ae1"
+    }
+  ],
+  "confirmed": [
+    {
+      "transcript": "Người bán hàng (Seller)",
+      "crop_id": "5f09058baec0268ce9e7"
+    },
+    {
+      "transcript": "Người mua hàng (Buyer)",
+      "crop_id": "69eac8e4601bffc83475"
+    },
+    {
+      "transcript": "Đã được ký điện tử bởi",
+      "crop_id": "9ebb75216fea6a819db5"
+    },
+    {
+      "transcript": "CÔNG TY TNHH TM DV HẢI HÀ",
+      "crop_id": "d1d1aef16df265ea924c"
+    },
+    {
+      "transcript": "(Cần kiểm tra đối chiếu khi lập, giao, nhận hóa đơn)",
+      "crop_id": "56d921d4faa2e37a6fa5"
+    }
+  ],
+  "invoice": "HD_034",
+  "backup": "manual_review_progress.backup_visual_confirm_20261102_074721.json"
+}

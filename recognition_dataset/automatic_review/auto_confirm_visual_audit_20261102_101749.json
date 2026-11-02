@@ -1,0 +1,122 @@
+{
+  "invoice": "WEB_112",
+  "timestamp_utc": "2026-11-02T03:17:49.0593844Z",
+  "reviewed_count": 16,
+  "visually_inspected": true,
+  "deferred": [],
+  "notes": "Đối chiếu ảnh crop, gồm kiểm tra mã cơ quan thuế dài và URL tra cứu; chuẩn hóa khoảng trắng.",
+  "annotations": [
+    {
+      "crop_id": "2a9e8ab1bf99d9befca6",
+      "status": "verified",
+      "transcript": "Mã của CQT: 00A5A02E9519114E33AEBE5CFF9C18024B",
+      "reviewed_at": "2026-11-02T03:17:49.0549535Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "78913a917a847c1c419c",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address)",
+      "reviewed_at": "2026-11-02T03:17:49.0588883Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "38cb5dd50f816aef6129",
+      "status": "verified",
+      "transcript": "Điện thoại (Tel)",
+      "reviewed_at": "2026-11-02T03:17:49.0589566Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "eda3a5ec1cabc7df096f",
+      "status": "verified",
+      "transcript": "Số tài khoản (A/C No.)",
+      "reviewed_at": "2026-11-02T03:17:49.0589913Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "4c06da414771388877f4",
+      "status": "verified",
+      "transcript": "Tên đơn vị (Company's name)",
+      "reviewed_at": "2026-11-02T03:17:49.0590231Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "26e60f7b08c66fbb18c0",
+      "status": "verified",
+      "transcript": "Mã số thuế (Tax code)",
+      "reviewed_at": "2026-11-02T03:17:49.0590526Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "9bf3d7f2757b6038a0fe",
+      "status": "verified",
+      "transcript": "Địa chỉ (Address)",
+      "reviewed_at": "2026-11-02T03:17:49.0590808Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "5fd730d89240dddea637",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:17:49.0591124Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "f5ac10b07601a674ed8a",
+      "status": "verified",
+      "transcript": "Thành tiền",
+      "reviewed_at": "2026-11-02T03:17:49.0591387Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dc91ad25ec8b8899e326",
+      "status": "verified",
+      "transcript": "Số",
+      "reviewed_at": "2026-11-02T03:17:49.0591632Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "e302663fcb3ab1a18b87",
+      "status": "verified",
+      "transcript": "Tên hàng hóa, dịch vụ",
+      "reviewed_at": "2026-11-02T03:17:49.0591925Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "55ad59a80cfab5526003",
+      "status": "verified",
+      "transcript": "Cộng tiền hàng (Total amount):",
+      "reviewed_at": "2026-11-02T03:17:49.0592226Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "c946439bbafb9672196e",
+      "status": "verified",
+      "transcript": "Người mua hàng (Buyer)",
+      "reviewed_at": "2026-11-02T03:17:49.0592510Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "a3e9a25eae46144ba4df",
+      "status": "verified",
+      "transcript": "Ký, đóng dấu, ghi rõ họ tên",
+      "reviewed_at": "2026-11-02T03:17:49.0592791Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "ef70bd4e2a7d89679089",
+      "status": "verified",
+      "transcript": "Quý khách quét mã QR code để lấy hóa đơn hoặc tra cứu tại: https://hddt.cellphones.com.vn/",
+      "reviewed_at": "2026-11-02T03:17:49.0593176Z",
+      "confirmation_method": "manual_visual_review"
+    },
+    {
+      "crop_id": "dd36da74d9a0f522c71b",
+      "status": "verified",
+      "transcript": "Mã nhận hóa đơn (Code for checking): GXPERKDF6",
+      "reviewed_at": "2026-11-02T03:17:49.0593499Z",
+      "confirmation_method": "manual_visual_review"
+    }
+  ]
+}
